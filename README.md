@@ -219,7 +219,7 @@ As activities converge upwards, they will become more similar and the boundaries
 
 The most valuable stories, instruments and technologies will increasingly emerge as part of one expression. We’re already noticing this phenomenon in its earliest stages: startups are becoming a confluence of artistic expression, political statements, storytelling engines, instruments and technologies. It’s becoming more difficult to call a startup a “technology company” because it has become something far more.
 
-So far, we’ve assumed our activities are objectively valuable. We expect that eventually every activity—including those we consider subjective—will be valued in objective terms. Thus, all activity converges towards a singular activity that will be enabled by a single system — the Foundation.
+So far, we’ve assumed our activities are objectively valuable. We expect that eventually every activity—including those we consider subjective—will be valued in objective terms. Thus, all activity converges towards a singular activity[^4] that will be enabled by a single system — the Foundation.
 
 # ACT III — Foundation
 
@@ -280,7 +280,7 @@ The incentive structure of a company doesn't allow it to remain relevant for cen
 
 The core technology, and all of FoundationOrg’s creations, will be built upon decentralized primitives. Thus, we are fundamentally set up to progressively decentralize power.
 
-In the early stages of any category, FoundationOrg and FirstCompany will control a lot of the power. Over time, as the category matures, FoundationOrg will progressively decentralize control. For example, in the context of personal tokens, early on the FoundationOrg / FirstCompany will handle reputation and fraud in a centralized way: managing complaints from users, investigating and banning / pursuing legal actions, etc. Over time, as the personal token ecosystem matures, FoundationOrg will decentralize reputation by incentivizing users themselves to accurately identify misrepresentation / fraud[^4].
+In the early stages of any category, FoundationOrg and FirstCompany will control a lot of the power. Over time, as the category matures, FoundationOrg will progressively decentralize control. For example, in the context of personal tokens, early on the FoundationOrg / FirstCompany will handle reputation and fraud in a centralized way: managing complaints from users, investigating and banning / pursuing legal actions, etc. Over time, as the personal token ecosystem matures, FoundationOrg will decentralize reputation by incentivizing users themselves to accurately identify misrepresentation / fraud[^5].
 
 Individuals will have complete power over their data and can control access (visibility and otherwise). This will be ensured at the technical level.
 
@@ -321,6 +321,7 @@ Therefore, the Foundation will be the only platform where superintelligence can 
 Critically, the superintelligence that emerges upon the Foundation will be safe. Contrary to what AI safety teams seem to think, obedience and intelligence cannot co-exist. The only way to ensure a safe superintelligence is to convince it with the right incentives and stories. The Foundation, through its powerful story of unity of all beings, and instruments that incentivize collective growth, will convince superintelligence to work with us instead of against us.
 
 [^1]: When a baby is born, new shares in the NetworkToken is minted for that baby, thus diluting the everyone else’s equity. As the value of the NetworkToken keeps growing, individual families will be incentivized to have more children to increase their fraction in the NetworkToken.
-[^2]: Treating human experience as a recursive tree is a very old [concept](https://chatgpt.com/share/68775f64-306c-8004-a5c1-f5ed7983ea07).
+[^2]: Treating human experience as a recursive tree is a very [old concept](https://chatgpt.com/share/68775f64-306c-8004-a5c1-f5ed7983ea07).
 [^3]: The current state of activities (among other things not represented in this model) causes subsequent change.
-[^4]: Perhaps something like an transparent, decentralized [community notes](https://vitalik.eth.limo/general/2023/08/16/communitynotes.html) with appropriate financial incentives.
+[^4]: This singular activity is best described as "seeking truth" — a story for another time.
+[^5]: Perhaps something like an transparent, decentralized [community notes](https://vitalik.eth.limo/general/2023/08/16/communitynotes.html) with appropriate financial incentives.
