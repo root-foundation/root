@@ -328,16 +328,6 @@ Critically, the superintelligence that emerges upon the Foundation will be safe.
 
 ## Closing
 
-AI promises to amplify humanity’s genius beyond anything our ancestors dared imagine—but the leap from promise to reality demands deliberate design.
-
-The Foundation is that design: an open, auditable system that turns raw human potential into shared prosperity, giving every person a genuine stake in our collective future.
-
-Envision a world where every newborn receives equity instead of debt; where any curious teenager can raise capital with a tap; where the triumphs of the exceptional flow seamlessly to uplift the whole. In this world, opportunity is universal, incentives are aligned with unity, and progress compounds for everyone.
-
-This future is not a thought experiment—it is a blueprint. The code is public, the ledger transparent, and the invitation universal. Fork it, scrutinize it, improve it, and own a piece of what we build together.
-
-We stand at the threshold of humanity’s greatest chapter. Let us write it—one token, one story, one courageous act—until abundance belongs to all.
-
 ## Notes
 
 [^1]: When a baby is born, new shares in the NetworkToken is minted for that baby, thus diluting the everyone else’s equity. As the value of the NetworkToken keeps growing, individual families will be incentivized to have more children to increase their fraction in the NetworkToken.
