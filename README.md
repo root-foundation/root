@@ -247,8 +247,6 @@ At convergence, the most powerful story (unity), most powerful instruments (econ
 
 The _Foundation_ will be this one expression that will fully unite humanity and unlock its potential.
 
-We will now share with you our plan for how we will build the _Foundation_, and why we will be the ones who will succeed.
-
 ## Design principles
 
 We believe the best way to create the _Foundation_ — given our ignorance — is one that mimics natural selection, while maximizing the rate of iteration.
