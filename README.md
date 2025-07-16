@@ -9,29 +9,32 @@ From this _root_, all activity blossoms.
 ---
 
 _ACT I — Extreme Outcomes_
-[Intro](#intro)
-[Problem](#problem)
-[Venture capital](#venture-capital)
-[Personal token](#personal-token)
-[Network of personal tokens](#network-of-personal-tokens)
-[Personal tokens will democratize opportunity](#personal-tokens-will-democratize-opportunity)
-[Universal Basic Equity (UBE)](#universal-basic-equity-ube)
-[Tokenization — Evolution of financial instruments](#tokenization--evolution-of-financial-instruments)
-[Value will be concentrated in personal tokens](#value-will-be-concentrated-in-personal-tokens)
-[Personal tokens will eat the world](#personal-tokens-will-eat-the-world)
+
+- [Intro](#intro)
+- [Problem](#problem)
+- [Venture capital](#venture-capital)
+- [Personal token](#personal-token)
+- [Network of personal tokens](#network-of-personal-tokens)
+- [Personal tokens will democratize opportunity](#personal-tokens-will-democratize-opportunity)
+- [Universal Basic Equity (UBE)](#universal-basic-equity-ube)
+- [Tokenization — Evolution of financial instruments](#tokenization--evolution-of-financial-instruments)
+- [Value will be concentrated in personal tokens](#value-will-be-concentrated-in-personal-tokens)
+- [Personal tokens will eat the world](#personal-tokens-will-eat-the-world)
 
 _ACT II — Convergence_
-[We are one](#we-are-one)
-[Story, Instrument, Technology](#story-instrument-technology)
-[Imbalance — Interdependence](#imbalance--interdependence)
-[Convergence](#convergence)
 
-_ACT III — Foundation_
-[Design principles](#design-principles)
-[Solution overview](#solution-overview)
-[Approach](#approach)
-[Superintelligence](#superintelligence)
-[Closing](#closing)
+- [We are one](#we-are-one)
+- [Story, Instrument, Technology](#story-instrument-technology)
+- [Imbalance — Interdependence](#imbalance--interdependence)
+- [Convergence](#convergence)
+
+_ACT III — Foundation_
+
+- [Design principles](#design-principles)
+- [Solution overview](#solution-overview)
+- [Approach](#approach)
+- [Superintelligence](#superintelligence)
+- [Closing](#closing)
 
 ---
 
