@@ -34,7 +34,6 @@ _ACT III — Foundation_
 - [Solution overview](#solution-overview)
 - [Approach](#approach)
 - [Superintelligence](#superintelligence)
-- [Closing](#closing)
 
 ---
 
