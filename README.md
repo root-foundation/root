@@ -8,29 +8,34 @@ From this _root_, all activity blossoms.
 
 ---
 
-0. [Intro](#intro)
-1. [Problem](#problem)
-2. [Venture capital](#venture-capital)
-3. [Personal token](#personal-token)
-4. [Network of personal tokens](#network-of-personal-tokens)
-5. [Personal tokens will democratize opportunity](#personal-tokens-will-democratize-opportunity)
-6. [Universal Basic Equity (UBE)](#universal-basic-equity-ube)
-7. [Tokenization — Evolution of financial instruments](#tokenization--evolution-of-financial-instruments)
-8. [Value will be concentrated in personal tokens](#value-will-be-concentrated-in-personal-tokens)
-9. [Personal tokens will eat the world](#personal-tokens-will-eat-the-world)
-10. [We are one](#we-are-one)
-11. [Story, Instrument, Technology](#story-instrument-technology)
-12. [Imbalance — Interdependence](#imbalance--interdependence)
-13. [Convergence](#convergence)
-14. [Design principles](#design-principles)
-15. [Solution overview](#solution-overview)
-16. [Approach](#approach)
-17. [Superintelligence](#superintelligence)
-18. [Closing](#closing)
+_ACT I — Extreme Outcomes_
+[Intro](#intro)
+[Problem](#problem)
+[Venture capital](#venture-capital)
+[Personal token](#personal-token)
+[Network of personal tokens](#network-of-personal-tokens)
+[Personal tokens will democratize opportunity](#personal-tokens-will-democratize-opportunity)
+[Universal Basic Equity (UBE)](#universal-basic-equity-ube)
+[Tokenization — Evolution of financial instruments](#tokenization--evolution-of-financial-instruments)
+[Value will be concentrated in personal tokens](#value-will-be-concentrated-in-personal-tokens)
+[Personal tokens will eat the world](#personal-tokens-will-eat-the-world)
+
+_ACT II — Convergence_
+[We are one](#we-are-one)
+[Story, Instrument, Technology](#story-instrument-technology)
+[Imbalance — Interdependence](#imbalance--interdependence)
+[Convergence](#convergence)
+
+_ACT III — Foundation_
+[Design principles](#design-principles)
+[Solution overview](#solution-overview)
+[Approach](#approach)
+[Superintelligence](#superintelligence)
+[Closing](#closing)
 
 ---
 
-# ACT I — Extreme outcomes
+# ACT I — Extreme Outcomes
 
 ## Intro
 
