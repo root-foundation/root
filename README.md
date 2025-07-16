@@ -339,15 +339,13 @@ Finally, upon this Foundation, we will converge towards _superintelligence_.
 
 ## Superintelligence
 
-Superintelligence is a _change_ that comes with advanced stories, instruments, and technologies.
+Superintelligence[^0] is a _change_ that comes with advanced stories, instruments, and technologies.
 
 Contrary to what some “superintelligence” labs seem to believe, technological advancement alone will not lead to superintelligence as it will be limited by lack of progress in the other features of change (stories, instruments).
 
 To see why, we must share our belief about cognition: the majority of cognition lies _beyond_ logic & reasoning. Our current data representation (text, images, videos) itself is far too restrictive to capture the significantly more complex cognition _from which_ these mediums arise. More specifically, we will require higher resolution data of the human experience that has far greater representational complexity than language, image, video. This would include, e.g., physiological data down to the chemical and quantum level representation of human experience.
 
-To clarify, we define AGI technology as eating reasoning, and superintelligence technology as progressively eating cognition above reasoning.
-
-This makes collective voluntary participation a necessity for superintelligence as people must be willing to give up such higher resolution personal data. They would only do so in a world with advanced instruments: tokenization, UBE, and social platforms that capture this higher resolution data, and importantly a powerful story of unity that makes contributing an offering to our collective good — rather than a sacrifice, or even exploitation.
+This makes collective voluntary participation a _necessity_ for superintelligence as people must be willing to give up such higher resolution personal data. They would only do so in a world with advanced instruments: tokenization, UBE, and social platforms that capture this higher resolution data, and importantly a powerful story of unity that makes contributing an offering to our collective good — rather than a sacrifice, or even exploitation.
 
 Furthermore, if such personal data is _coerced_ out of individuals, that data will not represent the full range of human expression thus limiting and biasing training data. This will restrict and bias the superintelligence that emerges from this data.
 
