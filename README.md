@@ -52,7 +52,10 @@ We need a new financial instrument that democratizes venture capital.
 We are creating the personal token: a financial instrument that represents an individual's potential, with transactable shares. Individuals can raise venture capital by selling equity in their personal token.
 
 <img src="foundation/assets/personal-token-preview.png" width="500" />
-(Jane's personal token with her shareholders and her equities in companies and other personal tokens.)
+
+```
+Jane's personal token with her shareholders and her equities in companies and other personal tokens.
+```
 
 Your personal token's value is grounded in your equities in companies and other personal tokens. A portion of the capital you gain when selling equity in a company or personal token is sent to your personal token shareholders — proportional to the equity they hold (i.e. dividends).
 
@@ -74,7 +77,7 @@ Thus, personal tokens, and the market forces they create, will negate privilege 
 
 ## Universal Basic Equity (UBE)
 
-In an extreme world with a falling median outcome, a sufficient baseline of resources for each individual is a prerequisite to democratize opportunity. This is best achieved through Universal Basic Equity (UBE): each citizen receives an equity stake in the collective upside (i.e. stake in NetworkToken). [^1]
+In an extreme world with a falling median outcome, a sufficient baseline of resources for each individual is a prerequisite to democratize opportunity. This is best achieved through Universal Basic Equity (UBE): each citizen receives an equity stake in the collective upside (i.e. stake in NetworkToken).[^1]
 
 In addition to providing a strong baseline, UBE also creates a symbiotic relationship between the individual and the collective. When one wins, everyone immediately benefits because the value of one’s equity in the collective upside increases. Thus, UBE enables social cohesion.
 
@@ -95,7 +98,10 @@ Today, we are at another inflection point. AI makes all outcomes extreme, not ju
 Being able to transact shares of equity in personal tokens enables individuals to access venture capital much more broadly. In the same way that a company enables us to assign value to hope in a particular expression, the personal token enables us to assign value to hope in an individual, across all of their expressions.
 
 <img src="foundation/assets/instrument-tree.png" />
-(Financial instrument tree.)
+
+```
+Financial instrument tree.
+```
 
 ## Value will be concentrated in personal tokens
 
@@ -195,7 +201,7 @@ Each activity (i.e., node) has a notion of “game complexity”: the number of 
 
 We observe that more complex activities yield more extreme outcomes. E.g., outcomes for product design are far more extreme than outcomes for assembly work. Similarly, in popular board games, Go is far more complex than Chess, and thus Go has far more extreme outcomes than Chess. [x]. In some cases, even if an activity will eventually yield extreme outcomes, if leverage is low (it takes a long time to make each move), we may not notice extreme outcomes until much later.
 
-Change [^2] is a process that updates the tree by:
+Change[^2] is a process that updates the tree by:
 
 1. pruning low-complexity activities.
 2. adding new activities and sub-activities.
@@ -210,8 +216,8 @@ AGI, updates the tree in a fundamentally different way by pruning all activities
 <img src="foundation/assets/diagram.png">
 
 ```
-A. Activities as a tree with falling complexity.<br/>
-B. Normal change updates the tree in an unbalanced way.<br/>
+A. Activities as a tree with falling complexity.
+B. Normal change updates the tree in an unbalanced way.
 C. AGI (fundamentally different change) balances tree by eating all activities below a complexity threshold.
 ```
 
@@ -336,6 +342,5 @@ We stand at the threshold of humanity’s greatest chapter. Let us write it—on
 
 ## Notes
 
-[^1] When a baby is born, new shares in the NetworkToken is minted for that baby, thus diluting the everyone else’s equity. As the value of the NetworkToken keeps growing, individual families will be incentivized to have more children to increase their fraction in the NetworkToken.
-
-[^2] The current state of activities (among other things not represented in this model) causes subsequent change.
+[^1]: When a baby is born, new shares in the NetworkToken is minted for that baby, thus diluting the everyone else’s equity. As the value of the NetworkToken keeps growing, individual families will be incentivized to have more children to increase their fraction in the NetworkToken.
+[^2]: The current state of activities (among other things not represented in this model) causes subsequent change.
