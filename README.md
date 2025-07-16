@@ -16,7 +16,7 @@ In this essay we propose a system for a post AI world that will unlock humanity�
 
 Artificial general intelligence (AGI) will make the world very extreme: a tiny share of people will create most of the economic value, while the median share will shrink — a power law distribution of outcomes.
 
-Extreme outcomes aren't new; any highly complex activity has extreme outcomes – the average startup founder, musician, or content creator makes nothing, whereas the best ones generate astronomical outcomes. What is new is that the entire economy will become very extreme instead of just a few creative domains. This is because AGI will eat lower complexity activities across all domains, pushing us towards higher complexity activities which will yield even more extreme outcomes. Extreme outcomes are here to stay and will only become more extreme over time. (In case this is unintuitive, please read: 13. Convergence).
+Extreme outcomes aren't new; any highly complex activity has extreme outcomes – the average startup founder, musician, or content creator makes nothing, whereas the best ones generate astronomical outcomes. What is new is that the entire economy will become very extreme instead of just a few creative domains. This is because AGI will eat lower complexity activities across all domains, pushing us towards higher complexity activities which will yield even more extreme outcomes. Extreme outcomes are here to stay and will only become more extreme over time. (In case this is unintuitive, please read: Convergence).
 
 In such an extreme world, debt is death. Everything will be too risky to finance with debt. This is not due to fewer opportunities (AI will enable far more opportunities than it takes), but rather due to the extreme, winner-take-all nature of outcomes within each opportunity. In extreme outcomes, the median outcome falls to nothing and thus financing with debt is no longer viable.
 
@@ -189,13 +189,13 @@ As AGI advances, all valuable human activities converge towards a singular activ
 
 To justify this vision, let’s first understand the nature of human activity, specifically objectively valuable activity.
 
-Activity resembles a recursive tree structure. Each node of the tree represents an activity. Every activity can be broken down into sub-activities that each can be further divided into more sub-activities, thus forming a tree. Activities that are closer (via the tree path) are more similar: skill in one is more likely to translate to skill in the other.
+Activity resembles a recursive tree structure[^2]. Each node of the tree represents an activity. Every activity can be broken down into sub-activities that each can be further divided into more sub-activities, thus forming a tree. Activities that are closer (via the tree path) are more similar: skill in one is more likely to translate to skill in the other.
 
 Each activity (i.e., node) has a notion of “game complexity”: the number of possible states for that activity. For example: assembly work is less complex due to limited possibilities, whereas product design is far more complex due to exponentially more possibilities. Within the tree, sub-activities will have exponentially lesser complexity than their parent, because the complexity of an activity is at least as much as the sum of complexity of all of its descendents (which themselves scale exponentially with depth).
 
 We observe that more complex activities yield more extreme outcomes. E.g., outcomes for product design are far more extreme than outcomes for assembly work. Similarly, in popular board games, Go is far more complex than Chess, and thus Go has far more extreme outcomes than Chess. [x]. In some cases, even if an activity will eventually yield extreme outcomes, if leverage is low (it takes a long time to make each move), we may not notice extreme outcomes until much later.
 
-Change[^2] is a process that updates the tree by:
+Change[^3] is a process that updates the tree by:
 
 1. pruning low-complexity activities.
 2. adding new activities and sub-activities.
@@ -280,7 +280,7 @@ The incentive structure of a company doesn't allow it to remain relevant for cen
 
 The core technology, and all of FoundationOrg’s creations, will be built upon decentralized primitives. Thus, we are fundamentally set up to progressively decentralize power.
 
-In the early stages of any category, FoundationOrg and FirstCompany will control a lot of the power. Over time, as the category matures, FoundationOrg will progressively decentralize control. For example, in the context of personal tokens, early on the FoundationOrg / FirstCompany will handle reputation and fraud in a centralized way: managing complaints from users, investigating and banning / pursuing legal actions, etc. Over time, as the personal token ecosystem matures, FoundationOrg will decentralize reputation by incentivizing users themselves to accurately identify misrepresentation / fraud[^3].
+In the early stages of any category, FoundationOrg and FirstCompany will control a lot of the power. Over time, as the category matures, FoundationOrg will progressively decentralize control. For example, in the context of personal tokens, early on the FoundationOrg / FirstCompany will handle reputation and fraud in a centralized way: managing complaints from users, investigating and banning / pursuing legal actions, etc. Over time, as the personal token ecosystem matures, FoundationOrg will decentralize reputation by incentivizing users themselves to accurately identify misrepresentation / fraud[^4].
 
 Individuals will have complete power over their data and can control access (visibility and otherwise). This will be ensured at the technical level.
 
@@ -320,10 +320,7 @@ Therefore, the Foundation will be the only platform where superintelligence can 
 
 Critically, the superintelligence that emerges upon the Foundation will be safe. Contrary to what AI safety teams seem to think, obedience and intelligence cannot co-exist. The only way to ensure a safe superintelligence is to convince it with the right incentives and stories. The Foundation, through its powerful story of unity of all beings, and instruments that incentivize collective growth, will convince superintelligence to work with us instead of against us.
 
-## Closing
-
-## Notes
-
 [^1]: When a baby is born, new shares in the NetworkToken is minted for that baby, thus diluting the everyone else’s equity. As the value of the NetworkToken keeps growing, individual families will be incentivized to have more children to increase their fraction in the NetworkToken.
-[^2]: The current state of activities (among other things not represented in this model) causes subsequent change.
-[^3]: Perhaps something like an transparent, decentralized [community notes](https://vitalik.eth.limo/general/2023/08/16/communitynotes.html) with appropriate financial incentives.
+[^2]: Treating human experience as a recursive tree is a very old [concept](https://chatgpt.com/share/68775f64-306c-8004-a5c1-f5ed7983ea07).
+[^3]: The current state of activities (among other things not represented in this model) causes subsequent change.
+[^4]: Perhaps something like an transparent, decentralized [community notes](https://vitalik.eth.limo/general/2023/08/16/communitynotes.html) with appropriate financial incentives.
