@@ -25,7 +25,7 @@ _ACT II — Convergence_
 
 - [We are one](#we-are-one)
 - [Story, Instrument, Technology](#story-instrument-technology)
-- [Imbalance — Interdependence](#imbalance--interdependence)
+- [Interdependence — Imbalance](#interdependence--imbalance)
 - [Convergence](#convergence)
 
 _ACT III — Foundation_
@@ -196,7 +196,7 @@ And often the distinction between these types are blurry: social platforms also 
 
 We define technology more narrowly as something that creates _leverage_. Leverage is defined simply as how quickly you can accomplish a task. For example, language, computer, software, internet, smartphones, AI, etc., create leverage. Gain in leverage often enables new opportunities and activities.
 
-## Imbalance — Interdependence
+## Interdependence — Imbalance
 
 Features of change are interdependent. Stories, instruments and technologies tend to emerge together:
 
