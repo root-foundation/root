@@ -53,9 +53,7 @@ We are creating the personal token: a financial instrument that represents an in
 
 <img src="foundation/assets/personal-token-preview.png" width="500" />
 
-```
-Jane's personal token with her shareholders and her equities in companies and other personal tokens.
-```
+(Jane's personal token with her shareholders and her equities in companies and other personal tokens.)
 
 Your personal token's value is grounded in your equities in companies and other personal tokens. A portion of the capital you gain when selling equity in a company or personal token is sent to your personal token shareholders — proportional to the equity they hold (i.e. dividends).
 
@@ -98,10 +96,6 @@ Today, we are at another inflection point. AI makes all outcomes extreme, not ju
 Being able to transact shares of equity in personal tokens enables individuals to access venture capital much more broadly. In the same way that a company enables us to assign value to hope in a particular expression, the personal token enables us to assign value to hope in an individual, across all of their expressions.
 
 <img src="foundation/assets/instrument-tree.png" />
-
-```
-Financial instrument tree.
-```
 
 ## Value will be concentrated in personal tokens
 
