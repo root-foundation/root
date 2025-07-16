@@ -32,19 +32,19 @@ A vision for a _single_ system that will unite humanity and unlock its potential
 
 ## Intro
 
-AI will give each individual infinite leverage to realize their dreams. This will expand humanity's collective potential to unimaginable heights, promising a future of abundance and prosperity.
+Artificial General Intelligence (AGI) promises a future of abundance and prosperity by giving each individual unimaginable power to realize their dreams.
 
-But, in a post AI world, our debt-based economic system will concentrate opportunity, cruelly oppress those who don't come from wealth, and tear society apart at its seams.
+But, in a post AGI world, our debt-based economic system will concentrate opportunity, cruelly oppress those who don't come from wealth, and tear society apart at its seams.
 
-In this essay we propose a system for a post AI world that will unlock humanity’s potential _and_ unite society by democratizing opportunity and giving each individual a stake in our collective growth.
+We must unlock humanity’s potential _and_ unite society by democratizing opportunity and giving each individual a stake in our collective growth.
 
 ## Problem
 
-Artificial general intelligence (AGI) will make the world very extreme: a tiny share of people will create most of the economic value, while the median share will shrink — a power law distribution of outcomes.
+AGI will make the world very extreme: a tiny share of people will create most of the economic value, while the median share will shrink — a power law distribution of outcomes.
 
 Extreme outcomes aren't new; any highly complex activity has extreme outcomes – the _average_ startup founder, musician, or content creator makes nothing, whereas the _best_ ones generate astronomical outcomes. What _is_ new is that the _entire_ economy will become very extreme instead of just a few creative domains. This is because AGI will eat lower complexity activities across _all_ domains, pushing us towards higher complexity activities which will yield _even_ more extreme outcomes. Extreme outcomes are here to stay and will only become more extreme over time. _(In case this is unintuitive, please read [Convergence](https://github.com/root-foundation/root?tab=readme-ov-file#convergence) below)_.
 
-In such an extreme world, **debt is death**. Everything will be too risky to finance with debt. This is not due to fewer opportunities (AI will enable far more opportunities than it takes), but rather due to the extreme, winner-take-all nature of outcomes within _each_ opportunity. In extreme outcomes, the median outcome falls to nothing and thus financing with debt is no longer viable.
+In such an extreme world, **debt is death**. Everything will be too risky to finance with debt. This is not due to fewer opportunities (AGI will enable far more opportunities than it takes), but rather due to the extreme, winner-take-all nature of outcomes within _each_ opportunity. In extreme outcomes, the median outcome falls to nothing and thus financing with debt is no longer viable.
 
 Tragically, the world does not understand that debt will no longer work. Billions around the world are still taking out loans to finance their lives — from their educations, to their homes, to their businesses — without realizing that they will almost certainly never be able to repay them in an extreme world. We are walking blindly into a catastrophe.
 
@@ -69,7 +69,7 @@ VC is already a popular way to finance startups: investors give early stage comp
 
 Venture capital works exceptionally well in domains with extreme outcomes because an investor only needs a few bets to succeed in order to _more-than-compensate_ for the many failed bets they will inevitably have (because the median outcome is failure). Therefore, VC is the only way to finance activities that have extreme outcomes, as no other mode of financing can withstand the extreme failure rate.
 
-Since AI makes _all_ activities extreme, VC will be the only viable way to finance anything. But, VC as it is understood today is far too restrictive because only those ready to start a company can leverage venture capital. In order to unlock our collective potential, we must enable individuals to access venture capital to finance a broader range of activities _and_ much earlier in their lives.
+Since AGI makes _all_ activities extreme, VC will be the only viable way to finance anything. But, VC as it is understood today is far too restrictive because only those ready to start a company can leverage venture capital. In order to unlock our collective potential, we must enable individuals to access venture capital to finance a broader range of activities _and_ much earlier in their lives.
 
 We need a new financial instrument that democratizes venture capital.
 
@@ -117,7 +117,7 @@ For instance, in seafaring, bankers simultaneously invested in many expeditions 
 
 Importantly, the notion of a venture-backed company allowed us to assign value to hope. The gap between the value of a company and reality (its revenue) is the company’s greatest feature. Being able to _transact_ shares of equity in this instrument enables venture capital financing.
 
-Today, we are at another inflection point. AI makes _all_ outcomes extreme, not just those in a few creative domains, invalidating debt as a viable means to finance anything. This creates pressure for an instrument that sits _above_ companies: representing an individual’s equities across companies — i.e. _personal token_.
+Today, we are at another inflection point. AGI makes _all_ outcomes extreme, not just those in a few creative domains, invalidating debt as a viable means to finance anything. This creates pressure for an instrument that sits _above_ companies: representing an individual’s equities across companies — i.e. _personal token_.
 
 Being able to _transact_ shares of equity in personal tokens enables individuals to access venture capital much more broadly. In the same way that a company enables us to assign value to hope in a particular expression, the personal token enables us to assign value to hope in an _individual_, across all of their expressions.
 
@@ -129,7 +129,7 @@ Concentration of value moves _upwards_.
 
 Over time, value became concentrated in companies, not transactions. We can observe this by seeing how the most valuable companies in the world are valued far more than the sum of their transactions (revenue).
 
-Similarly, in a post AI world with extreme outcomes, value will become concentrated in personal tokens. A personal token will be valued far more than the sum of the values of its equities in companies _(recall: a personal token’s value is grounded in its equities in companies and other personal tokens)_.
+Similarly, in a post AGI world with extreme outcomes, value will become concentrated in personal tokens. A personal token will be valued far more than the sum of the values of its equities in companies _(recall: a personal token’s value is grounded in its equities in companies and other personal tokens)_.
 
 ## Personal tokens will eat the world
 
@@ -143,7 +143,7 @@ Increasingly, great products and discoveries would find their start in individua
 
 Future governance structures built upon personal tokens will enable social cohesion through Universal Basic Equity (UBE) that gives everyone a stake in this collective progress.
 
-In an extreme, post AI world, the outcomes of nations too will be extreme. The most powerful nation will be orders of magnitude more powerful than the next one, leading to a near absolute economic and cultural domination. This is because the nation that adopts personal tokens first will best maximize their growth by unlocking their collective potential. Eventually, the winning nation will force everyone else into this economic system.
+In an extreme, post AGI world, the outcomes of nations too will be extreme. The most powerful nation will be orders of magnitude more powerful than the next one, leading to a near absolute economic and cultural domination. This is because the nation that adopts personal tokens first will best maximize their growth by unlocking their collective potential. Eventually, the winning nation will force everyone else into this economic system.
 
 A new economic system will emerge upon personal tokens. All investing will happen within this system. From the _personal token_, we can derive: ai tokens, human tokens, etc. Similarly, from the _network token_, we can derive: company tokens, country tokens (e.g. “USAToken”) and various other sub-network tokens. A rich ecosystem of products and services will emerge upon this tokenized framework.
 
@@ -199,7 +199,7 @@ Each feature of change (story, instrument, technology) has a notion of advanceme
 
 When one feature advances far beyond the rest, a _pressure_ is created for all other features to catch up. This pressure manifests as pain in the collective human experience. Thus, the degree of imbalance in the advancements of these three features, correlates with collective suffering.
 
-We have already explored our current imbalance earlier: advancement of AGI technology makes our economic system incredibly oppressive because debt will be an _unviable instrument_ to finance anything. Similarly, advancement in AGI technology makes our current education incredibly oppressive because most of the stories that people are learning and believing will render them _unemployable_ in a post AI world. Moreover, advancement in AGI technology makes our current governance system oppressive because the rate of government decision making can’t keep up with the rate of change, thus any policy reliefs will increasingly come far too late.
+We have already explored our current imbalance earlier: advancement of AGI technology makes our economic system incredibly oppressive because debt will be an _unviable instrument_ to finance anything. Similarly, advancement in AGI technology makes our current education incredibly oppressive because most of the stories that people are learning and believing will render them _unemployable_ in a post AGI world. Moreover, advancement in AGI technology makes our current governance system oppressive because the rate of government decision making can’t keep up with the rate of change, thus any policy reliefs will increasingly come far too late.
 
 Since AGI technology is accelerating exponentially, **imbalance is growing acceleratingly fast**. If we continue to accelerate in such an unbalanced manner, our suffering will also grow exponentially — far eclipsing the suffering we are already experiencing due to the current imbalance.
 
