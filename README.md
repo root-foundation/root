@@ -355,7 +355,7 @@ Critically, the superintelligence that emerges upon the _Foundation_ will be saf
 
 ## Closing
 
-[^1]: When a baby is born, new shares in the NetworkToken is minted for that baby, thus diluting the everyone else’s equity. As the value of the NetworkToken keeps growing, individual families will be incentivized to have more children to increase their fraction in the NetworkToken.
+[^1]: UBE incentivizes having children. When a baby is born, new shares in the NetworkToken is minted for that baby, thus diluting the value everyone else’s shares. Thus, families will be incentivized to have more children to increase their collective equity in the NetworkToken.
 [^2]: Seeing human experience as a recursive tree is a very [old concept](https://chatgpt.com/share/68775f64-306c-8004-a5c1-f5ed7983ea07).
 [^3]: Go has a greater ELO spread amongst its top players than Chess, leading to far more [extreme outcomes](https://chatgpt.com/share/68776b0a-d10c-8004-b6d3-b0fa17344411).
 [^4]: The current state of activities (among other things not represented in this model) causes subsequent change.
