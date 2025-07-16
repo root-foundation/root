@@ -131,7 +131,7 @@ Personal tokens will start as a toy in San Francisco, the only place in the worl
 
 Yet, for early adopters, engaging with personal tokens will come naturally as personal tokens formalize and enhance an already prevalent behavior of identifying and mentoring talent early.
 
-Then, personal tokens will rewrite our entire education system by enabling a better business model: instead of charging for education, great teachers will invest in students they want to train. In an extreme world, this will be the only way teachers will be able to earn what they deserve, and the only way students will be able to incentivize the best teachers to train them.
+Then, personal tokens will rewrite our entire education system by enabling a better business model: instead of _charging_ for education, great teachers will _invest_ in students they want to train. In an extreme world, this will be the _only_ way teachers will be able to earn what they deserve, and the _only_ way students will be able to incentivize the best teachers to train them.
 
 Increasingly, great products and discoveries would find their start in individual explorations financed by personal tokens. Then, investing in personal tokens will become more popular than investing in companies because attention and value becomes concentrated in individuals holistically, not individual expressions.
 
@@ -339,6 +339,8 @@ Furthermore, if such personal data is _coerced_ out of individuals, that data wi
 Therefore, the _Foundation_ will be the only platform where superintelligence can emerge.
 
 Critically, the superintelligence that emerges upon the _Foundation_ will be safe. Contrary to what AI safety teams seem to think, obedience and intelligence cannot co-exist. The only way to ensure a safe superintelligence is to convince it with the right incentives and stories. The _Foundation_, through its powerful story of unity of _all_ beings, and instruments that incentivize collective growth, will convince superintelligence to work with us instead of against us.
+
+## Closing
 
 [^1]: When a baby is born, new shares in the NetworkToken is minted for that baby, thus diluting the everyone else’s equity. As the value of the NetworkToken keeps growing, individual families will be incentivized to have more children to increase their fraction in the NetworkToken.
 [^2]: Treating human experience as a recursive tree is a very [old concept](https://chatgpt.com/share/68775f64-306c-8004-a5c1-f5ed7983ea07).
