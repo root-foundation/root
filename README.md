@@ -2,7 +2,7 @@
 
 _[homan](https://x.com/homanspirit) & [shiv](https://scholar.google.com/citations?user=WNUGEccAAAAJ&hl=en)_
 
-A vision for a _single_ system that will unite humanity and unlock its potential — in the age of superintelligence. From this _root_, all activities will blossom.
+A vision for a _single_ system that will unite humanity and unlock its potential — in the age of superintelligence. From this _root_, all activity will blossom.
 
 0. [Intro](#intro)
 1. [Problem](#problem)
