@@ -39,13 +39,15 @@ _ACT III — Foundation_
 
 # ACT I — Tokenization
 
-## Intro
+## Artificial Intelligence
 
-Artificial General Intelligence (AGI) promises a future of abundance and prosperity by giving each individual unimaginable power to realize their dreams.
+Artificial intelligence promises a future of abundance and prosperity by giving each individual unimaginable power to realize their dreams.
 
-But, in a post AGI world, our debt-based economic system will concentrate opportunity, cruelly oppress those who don't come from wealth, and tear society apart at its seams.
+But, as we accelerate towards AGI[^0], our debt-based economic will increasingly concentrate opportunity, cruelly oppress those without wealth and will eventually tear society apart at its seams.
 
-We must unlock humanity’s potential _and_ unite society by democratizing opportunity and giving each individual a stake in our collective growth.
+We must unlock humanity’s potential _and_ unite society by democratizing opportunity and giving each individual a stake in our collective growth — powered by artificial intelligence.
+
+[^0]: To avoid confusion, we've defined artificial intelligence milestones as follows: <br /><br />1. AI: performs specific cognitive tasks but lacks broad adaptability. <br />2. AGI: _reasons_ across most domains as well as a human. <br />3. Superintelligence: performs cognition _above_ reasoning (appears to be _intuitive_). <br /><br />We believe we will have full AGI far sooner than most people think, full Superintelligence far, far later than many think.
 
 ## Problem
 
