@@ -2,6 +2,8 @@
 
 [homan](https://x.com/homanspirit) & [shiv](https://scholar.google.com/citations?user=WNUGEccAAAAJ&hl=en)
 
+[Intro](##intro)
+
 # ACT I — Extreme outcomes
 
 ## Intro
