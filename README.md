@@ -208,6 +208,7 @@ Examples:
 AGI, updates the tree in a fundamentally different way by pruning all activities below a certain complexity threshold, balancing the tree. When we say AGI here, we mean the change: i.e. all of the stories, instruments and technologies associated with AGI, not merely the technical aspect (i.e. LLMs).
 
 <img src="foundation/assets/diagram.png">
+
 ```
 A. Activities as a tree with falling complexity.<br/>
 B. Normal change updates the tree in an unbalanced way.<br/>
