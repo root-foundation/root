@@ -51,11 +51,8 @@ We need a new financial instrument that democratizes venture capital.
 
 We are creating the personal token: a financial instrument that represents an individual's potential, with transactable shares. Individuals can raise venture capital by selling equity in their personal token.
 
-<figure>
-    <img src="foundation/assets/personal-token-preview.png" width="500" />
-    <figcaption>Jane's personal token with her shareholders and her equities in companies and other personal tokens.
-</figcaption>
-</figure>
+<img src="foundation/assets/personal-token-preview.png" width="500" />
+(Jane's personal token with her shareholders and her equities in companies and other personal tokens.)
 
 Your personal token's value is grounded in your equities in companies and other personal tokens. A portion of the capital you gain when selling equity in a company or personal token is sent to your personal token shareholders — proportional to the equity they hold (i.e. dividends).
 
@@ -77,7 +74,7 @@ Thus, personal tokens, and the market forces they create, will negate privilege 
 
 ## Universal Basic Equity (UBE)
 
-In an extreme world with a falling median outcome, a sufficient baseline of resources for each individual is a prerequisite to democratize opportunity. This is best achieved through Universal Basic Equity (UBE): each citizen receives an equity stake in the collective upside (i.e. stake in NetworkToken). [1]
+In an extreme world with a falling median outcome, a sufficient baseline of resources for each individual is a prerequisite to democratize opportunity. This is best achieved through Universal Basic Equity (UBE): each citizen receives an equity stake in the collective upside (i.e. stake in NetworkToken). [^1]
 
 In addition to providing a strong baseline, UBE also creates a symbiotic relationship between the individual and the collective. When one wins, everyone immediately benefits because the value of one’s equity in the collective upside increases. Thus, UBE enables social cohesion.
 
@@ -97,11 +94,8 @@ Today, we are at another inflection point. AI makes all outcomes extreme, not ju
 
 Being able to transact shares of equity in personal tokens enables individuals to access venture capital much more broadly. In the same way that a company enables us to assign value to hope in a particular expression, the personal token enables us to assign value to hope in an individual, across all of their expressions.
 
-<figure>
-    <img src="foundation/assets/instrument-tree.png">
-    <figcaption>Financial instrument tree.
-</figcaption>
-</figure>
+<img src="foundation/assets/instrument-tree.png" />
+(Financial instrument tree.)
 
 ## Value will be concentrated in personal tokens
 
@@ -201,7 +195,7 @@ Each activity (i.e., node) has a notion of “game complexity”: the number of 
 
 We observe that more complex activities yield more extreme outcomes. E.g., outcomes for product design are far more extreme than outcomes for assembly work. Similarly, in popular board games, Go is far more complex than Chess, and thus Go has far more extreme outcomes than Chess. [x]. In some cases, even if an activity will eventually yield extreme outcomes, if leverage is low (it takes a long time to make each move), we may not notice extreme outcomes until much later.
 
-Change [2] is a process that updates the tree by:
+Change [^2] is a process that updates the tree by:
 
 1. pruning low-complexity activities.
 2. adding new activities and sub-activities.
@@ -213,14 +207,12 @@ Examples:
 
 AGI, updates the tree in a fundamentally different way by pruning all activities below a certain complexity threshold, balancing the tree. When we say AGI here, we mean the change: i.e. all of the stories, instruments and technologies associated with AGI, not merely the technical aspect (i.e. LLMs).
 
-<figure>
-    <img src="foundation/assets/diagram.png">
-    <figcaption>
-    A. Activities as a tree with falling complexity.<br/>
+<img src="foundation/assets/diagram.png">
+```
+A. Activities as a tree with falling complexity.<br/>
 B. Normal change updates the tree in an unbalanced way.<br/>
 C. AGI (fundamentally different change) balances tree by eating all activities below a complexity threshold.
-</figcaption>
-</figure>
+```
 
 Thus, as AGI advances, activity is pushed upwards towards a larger range of more complex activity, that are more similar to each other.
 
@@ -317,7 +309,7 @@ Superintelligence is a change that comes with advanced stories, instruments, and
 
 Contrary to what some “superintelligence” labs seem to believe, advancement in technology alone will not lead to superintelligence as it will be limited by lack of progress in the other features of change (stories, instruments).
 
-To see why, we must share our belief about cognition: the majority of human cognition lies beyond logic & reasoning. Our current data representation (text, images, videos) itself is far too restrictive to capture the significantly more complex cognition from which these mediums arise. More specifically, we will require higher resolution data of the human experience that has far greater representational complexity than language, image, video. This would include, e.g., physiological data down to the chemical and quantum level representation of human experience.
+To see why, we must share our belief about cognition: the majority of cognition lies beyond logic & reasoning. Our current data representation (text, images, videos) itself is far too restrictive to capture the significantly more complex cognition from which these mediums arise. More specifically, we will require higher resolution data of the human experience that has far greater representational complexity than language, image, video. This would include, e.g., physiological data down to the chemical and quantum level representation of human experience.
 
 To clarify, we define AGI technology as eating reasoning, and superintelligence technology as progressively eating cognition above reasoning.
 
@@ -331,14 +323,18 @@ Critically, the superintelligence that emerges upon the Foundation will be safe.
 
 ## Closing
 
-AI promises to expand humanity’s collective potential to unimaginable heights, towards a future of abundance and prosperity.
+AI promises to amplify humanity’s genius beyond anything our ancestors dared imagine—but the leap from promise to reality demands deliberate design.
 
-We will only be able to achieve this dream through the Foundation that unlocks every individual’s potential and unites humanity.
+The Foundation is that design: an open, auditable system that turns raw human potential into shared prosperity, giving every person a genuine stake in our collective future.
 
-In the near future, every child will have access to an abundance of resources, and the best
+Envision a world where every newborn receives equity instead of debt; where any curious teenager can raise capital with a tap; where the triumphs of the exceptional flow seamlessly to uplift the whole. In this world, opportunity is universal, incentives are aligned with unity, and progress compounds for everyone.
+
+This future is not a thought experiment—it is a blueprint. The code is public, the ledger transparent, and the invitation universal. Fork it, scrutinize it, improve it, and own a piece of what we build together.
+
+We stand at the threshold of humanity’s greatest chapter. Let us write it—one token, one story, one courageous act—until abundance belongs to all.
 
 ## Notes
 
-[1] When a baby is born, new shares in the NetworkToken is minted for that baby, thus diluting the everyone else’s equity. As the value of the NetworkToken keeps growing, individual families will be incentivized to have more children to increase their fraction in the NetworkToken.
+[^1] When a baby is born, new shares in the NetworkToken is minted for that baby, thus diluting the everyone else’s equity. As the value of the NetworkToken keeps growing, individual families will be incentivized to have more children to increase their fraction in the NetworkToken.
 
-[2] The current state of activities (among other things not represented in this model) causes subsequent change.
+[^2] The current state of activities (among other things not represented in this model) causes subsequent change.
