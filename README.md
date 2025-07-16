@@ -288,7 +288,7 @@ The incentive structure of a company doesn't allow it to remain relevant for cen
 
 The core technology, and all of FoundationOrg’s creations, will be built upon decentralized primitives. Thus, we are fundamentally set up to progressively decentralize power.
 
-In the early stages of any category, FoundationOrg and FirstCompany will control a lot of the power. Over time, as the category matures, FoundationOrg will progressively decentralize control. For example, in the context of personal tokens, early on the FoundationOrg / FirstCompany will handle reputation and fraud in a centralized way: managing complaints from users, investigating and banning / pursuing legal actions, etc. Over time, as the personal token ecosystem matures, FoundationOrg will decentralize reputation by incentivizing users themselves to accurately signal fraud / misrepresentation [x] (community notes w/ financial incentives).
+In the early stages of any category, FoundationOrg and FirstCompany will control a lot of the power. Over time, as the category matures, FoundationOrg will progressively decentralize control. For example, in the context of personal tokens, early on the FoundationOrg / FirstCompany will handle reputation and fraud in a centralized way: managing complaints from users, investigating and banning / pursuing legal actions, etc. Over time, as the personal token ecosystem matures, FoundationOrg will decentralize reputation by incentivizing users themselves to accurately identify misrepresentation / fraud[^3].
 
 Individuals will have complete power over their data and can control access (visibility and otherwise). This will be ensured at the technical level.
 
@@ -344,3 +344,4 @@ We stand at the threshold of humanity’s greatest chapter. Let us write it—on
 
 [^1]: When a baby is born, new shares in the NetworkToken is minted for that baby, thus diluting the everyone else’s equity. As the value of the NetworkToken keeps growing, individual families will be incentivized to have more children to increase their fraction in the NetworkToken.
 [^2]: The current state of activities (among other things not represented in this model) causes subsequent change.
+[^3]: Perhaps something like an transparent, decentralized [community notes](https://vitalik.eth.limo/general/2023/08/16/communitynotes.html) with appropriate financial incentives.
