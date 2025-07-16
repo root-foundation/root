@@ -51,7 +51,7 @@ We need a new financial instrument that democratizes venture capital.
 
 We are creating the personal token: a financial instrument that represents an individual's potential, with transactable shares. Individuals can raise venture capital by selling equity in their personal token.
 
-![](foundation/assets/personal-token-preview.png)
+<img src="foundation/assets/personal-token-preview.png" width="500" />
 
 Your personal token's value is grounded in your equities in companies and other personal tokens. A portion of the capital you gain when selling equity in a company or personal token is sent to your personal token shareholders — proportional to the equity they hold (i.e. dividends).
 
@@ -249,7 +249,7 @@ At the core of the Foundation is:
 2. NetworkToken
 3. Treasury (wallet of the NetworkToken).
 
-![](foundation/assets/system-architecture.png)
+<img src="foundation/assets/system-architecture.png" width="500" />
 
 The core ledger associates each individual with data. In the case of personal tokens, this data would be equities in companies and other personal tokens. In the case of social platforms, this data would be the content that users publish, etc.
 
