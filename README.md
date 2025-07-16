@@ -215,11 +215,9 @@ AGI, updates the tree in a fundamentally different way by pruning all activities
 
 <img src="foundation/assets/diagram.png">
 
-```
-A. Activities as a tree with falling complexity.
-B. Normal change updates the tree in an unbalanced way.
+A. Activities as a tree with falling complexity.<br />
+B. Normal change updates the tree in an unbalanced way. <br/>
 C. AGI (fundamentally different change) balances tree by eating all activities below a complexity threshold.
-```
 
 Thus, as AGI advances, activity is pushed upwards towards a larger range of more complex activity, that are more similar to each other.
 
