@@ -1,4 +1,4 @@
-# Root of all activity
+# Root of _all_ activity
 
 _[homan](https://x.com/homanspirit) & [shiv](https://scholar.google.com/citations?user=WNUGEccAAAAJ&hl=en)_
 
