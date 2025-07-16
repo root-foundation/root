@@ -51,6 +51,8 @@ We need a new financial instrument that democratizes venture capital.
 
 We are creating the personal token: a financial instrument that represents an individual's potential, with transactable shares. Individuals can raise venture capital by selling equity in their personal token.
 
+![](foundation/assets/personal-token-preview.png)
+
 Your personal token's value is grounded in your equities in companies and other personal tokens. A portion of the capital you gain when selling equity in a company or personal token is sent to your personal token shareholders — proportional to the equity they hold (i.e. dividends).
 
 Unlike company shareholders, personal token shareholders have no direct “ownership” or control over anything the personal token owner does. The personal token owner retains complete agency.
@@ -91,6 +93,7 @@ Today, we are at another inflection point. AI makes all outcomes extreme, not ju
 
 Being able to transact shares of equity in personal tokens enables individuals to access venture capital much more broadly. In the same way that a company enables us to assign value to hope in a particular expression, the personal token enables us to assign value to hope in an individual, across all of their expressions.
 
+![](foundation/assets/instrument-tree.png)
 Financial instrument tree.
 
 ## Value will be concentrated in personal tokens
@@ -159,11 +162,11 @@ We define technology more narrowly as something that creates leverage. Leverage 
 
 Features of change are interdependent. Stories, instruments and technologies tend to emerge together:
 
-| Change      | Story      | Instrument     | Technology                  |
-| ----------- | ---------- | -------------- | --------------------------- |
-| Commerce    | God        | Money          | Coinage, bookkeeping, etc.  |
-| Colonialism | Spread God | Company        | Ships, guns, etc.           |
-| AGI         | Unity      | Personal token | Large language models, etc. |
+| `Change`      | Story      | Instrument     | Technology                  |
+| ------------- | ---------- | -------------- | --------------------------- |
+| `Commerce`    | God        | Money          | Coinage, bookkeeping, etc.  |
+| `Colonialism` | Spread God | Company        | Ships, guns, etc.           |
+| `AGI`         | Unity      | Personal token | Large language models, etc. |
 
 Each feature of change (story, instrument, technology) has a notion of advancement, i.e., more advanced stories, instruments, technology enable more complex activities.
 
@@ -202,6 +205,8 @@ Examples:
 2. Adding — CRISPR–Cas9 gene editing unlocked entirely new branches such as base editing, prime editing, and in‑vivo gene therapies, spawning fresh research niches, biotech startups, and regulatory pathways that never existed before.
 
 AGI, updates the tree in a fundamentally different way by pruning all activities below a certain complexity threshold, balancing the tree. When we say AGI here, we mean the change: i.e. all of the stories, instruments and technologies associated with AGI, not merely the technical aspect (i.e. LLMs).
+
+![](foundation/assets/diagram.png)
 
 1. Activities as a tree with falling complexity.
 2. Normal change updates the tree in an unbalanced way.
@@ -243,6 +248,8 @@ At the core of the Foundation is:
 1. Core ledger
 2. NetworkToken
 3. Treasury (wallet of the NetworkToken).
+
+![](foundation/assets/system-architecture.png)
 
 The core ledger associates each individual with data. In the case of personal tokens, this data would be equities in companies and other personal tokens. In the case of social platforms, this data would be the content that users publish, etc.
 
