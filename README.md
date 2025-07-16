@@ -43,7 +43,7 @@ _ACT III — Foundation_
 
 Artificial intelligence promises a future of abundance and prosperity by giving each individual unimaginable power to realize their dreams.
 
-But, as we accelerate towards AGI[^0], our debt-based economic will increasingly concentrate opportunity, cruelly oppress those without wealth and will eventually tear society apart at its seams.
+But, as we accelerate towards Artificial General Intelligence (AGI[^0]), our debt-based economic will increasingly concentrate opportunity, cruelly oppress those without wealth and will eventually tear society apart at its seams.
 
 We must unlock humanity’s potential _and_ unite society by democratizing opportunity and giving each individual a stake in our collective growth — powered by artificial intelligence.
 
