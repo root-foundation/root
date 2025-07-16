@@ -1,8 +1,26 @@
 # Root of all activity
 
-[homan](https://x.com/homanspirit) & [shiv](https://scholar.google.com/citations?user=WNUGEccAAAAJ&hl=en)
+_[homan](https://x.com/homanspirit) & [shiv](https://scholar.google.com/citations?user=WNUGEccAAAAJ&hl=en)_
 
-[Intro](#convergence)
+0. [Intro](#intro)
+1. [Problem](#problem)
+2. [Venture capital](#venture-capital)
+3. [Personal token](#personal-token)
+4. [Network of personal tokens](#network-of-personal-tokens)
+5. [Personal tokens will democratize opportunity](#personal-tokens-will-democratize-opportunity)
+6. [Universal Basic Equity (UBE)](#universal-basic-equity-ube)
+7. [Tokenization — Evolution of financial instruments](#tokenization--evolution-of-financial-instruments)
+8. [Value will be concentrated in personal tokens](#value-will-be-concentrated-in-personal-tokens)
+9. [Personal tokens will eat the world](#personal-tokens-will-eat-the-world)
+10. [We are one](#we-are-one)
+11. [Story, Instrument, Technology](#story-instrument-technology)
+12. [Imbalance — Interdependence](#imbalance--interdependence)
+13. [Convergence](#convergence)
+14. [Design principles](#design-principles)
+15. [Solution overview](#solution-overview)
+16. [Approach](#approach)
+17. [Superintelligence](#superintelligence)
+18. [Closing](#closing)
 
 # ACT I — Extreme outcomes
 
