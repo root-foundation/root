@@ -30,7 +30,7 @@ _ACT II — Convergence_
 
 _ACT III — Foundation_
 
-- [Foundation design principles](#foundation-design-principles)
+- [Design principles](#design-principles)
 - [Solution overview](#solution-overview)
 - [Approach](#approach)
 - [Superintelligence](#superintelligence)
@@ -262,7 +262,7 @@ At convergence, the most powerful story (unity), most powerful instruments (econ
 
 The _Foundation_ will be this one expression that will fully unite humanity and unlock its potential.
 
-## Foundation design principles
+## Design principles
 
 We believe the best way to create the _Foundation_ — given our ignorance — is one that mimics natural selection, while maximizing the rate of iteration.
 
