@@ -8,7 +8,7 @@ From this _root_, all activity blossoms.
 
 ---
 
-_ACT I — Extreme Outcomes_
+_ACT I — Tokenization_
 
 - [Intro](#intro)
 - [Problem](#problem)
@@ -37,7 +37,7 @@ _ACT III — Foundation_
 
 ---
 
-# ACT I — Extreme Outcomes
+# ACT I — Tokenization
 
 ## Intro
 
