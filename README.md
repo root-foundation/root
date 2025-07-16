@@ -1,4 +1,4 @@
-# Root of human activity
+# Root of all activity
 
 [homan](https://x.com/homanspirit) & [shiv](https://scholar.google.com/citations?user=WNUGEccAAAAJ&hl=en)
 
