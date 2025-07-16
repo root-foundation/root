@@ -327,6 +327,8 @@ We will only be able to achieve this dream through the Foundation that unlocks e
 
 In the near future, every child will have access to an abundance of resources, and the best
 
-Notes
+## Notes
+
 [1] When a baby is born, new shares in the NetworkToken is minted for that baby, thus diluting the everyone else’s equity. As the value of the NetworkToken keeps growing, individual families will be incentivized to have more children to increase their fraction in the NetworkToken.
+
 [2] The current state of activities (among other things not represented in this model) causes subsequent change.
