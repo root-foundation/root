@@ -19,7 +19,7 @@ _ACT I — Tokenization_
 - [Universal Basic Equity (UBE)](#universal-basic-equity-ube)
 - [Tokenization — Evolution of financial instruments](#tokenization--evolution-of-financial-instruments)
 - [Value will be concentrated in personal tokens](#value-will-be-concentrated-in-personal-tokens)
-- [Personal tokens will eat the world](#personal-tokens-will-eat-the-world)
+- [Tokens will eat the world](#tokens-will-eat-the-world)
 
 _ACT II — Convergence_
 
@@ -140,7 +140,7 @@ Over time, value became concentrated in companies, not transactions. We can obse
 
 Similarly, in a post AGI world with extreme outcomes, value will become concentrated in personal tokens. A personal token will be valued far more than the sum of the values of its equities in companies _(recall: a personal token’s value is grounded in its equities in companies and other personal tokens)_.
 
-## Personal tokens will eat the world
+## Tokens will eat the world
 
 Personal tokens will start as a toy in San Francisco, the only place in the world crazy enough to play with it. Most of the world will likely view it as a piece of trash in the sea of "waste" that SF produces. Out of ignorance, some may even perceive it as a tool for exploitation.
 
@@ -154,9 +154,9 @@ Future governance structures built upon personal tokens will enable social cohes
 
 In an extreme, post AGI world, the outcomes of nations too will be extreme. The most powerful nation will be orders of magnitude more powerful than the next one, leading to a near absolute economic and cultural domination. This is because the nation that adopts personal tokens first will best maximize their growth by unlocking their collective potential. Eventually, the winning nation will force everyone else into this economic system.
 
-A new economic system will emerge upon personal tokens. All investing will happen within this system. From the _personal token_, we can derive: ai tokens, human tokens, etc. Similarly, from the _network token_, we can derive: company tokens, country tokens (e.g. “USAToken”) and various other sub-network tokens. A rich ecosystem of products and services will emerge upon this tokenized framework.
+A new _tokenized_ economic system will emerge upon personal tokens. All investing will happen within this system. From the _personal token_, we can derive: ai tokens, human tokens, etc. Similarly, from the _network token_, we can derive: company tokens, country tokens (e.g. “USAToken”) and various other sub-network tokens. A rich ecosystem of products and services will emerge upon this tokenized framework.
 
-In effect, personal tokens will eat the world, unite humanity through UBE, and unlock its potential by democratizing opportunity.
+In effect, tokens will eat the world, unite humanity through UBE, and unlock its potential by democratizing opportunity.
 
 But, this new economic system alone will not enable us to fulfill our mission to unite humanity and unlock its potential. Our economic system is a part of a much larger system that we must shape in order to be able to achieve our mission. In order to understand this larger system, we must start with a more fundamental worldview.
 
