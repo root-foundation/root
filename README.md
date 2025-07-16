@@ -206,7 +206,7 @@ Features of change are interdependent. Stories, instruments and technologies ten
 | `Colonialism` | Spread civilization | Company        | Ships, guns, etc.           |
 | `AGI`         | Unity               | Personal token | Large language models, etc. |
 
-Each feature of change (story, instrument, technology) has a notion of advancement, i.e., more advanced stories, instruments, technology enable more complex activities.
+Each feature of change (story, instrument, technology) has a notion of advancement, i.e., more advanced stories, instruments, technology enable more complex activities. (Note: from here on, when we reference AGI we are referring to the _change_: i.e., the stories, instruments _and_ technologies it comes with. If we are only talking about a particular feature of this change, we will explicitly mention it.).
 
 When one feature advances far beyond the rest, a _pressure_ is created for all other features to catch up. This pressure manifests as pain in the collective human experience. Thus, the degree of imbalance in the advancements of these three features, correlates with collective suffering.
 
@@ -222,41 +222,33 @@ We believe this can _only_ be realized through a _single_ system.
 
 ## Convergence
 
-As AGI advances, all valuable human activities _converge_ towards a _singular_ activity. Therefore, a single system will enable all valuable activities due to their same-ness, thus acting as the _Foundation_ for all valuable activity.
+As AGI advances, all activities _converge_ towards a _singular_ activity. Therefore, a _single_ system will increasingly be able to enable all activities. To see why, we must first understand the nature of our activities.
 
-To justify this vision, let’s first understand the nature of human activity, specifically objectively valuable activity.
+We consider human activity to be a recursive tree [^2]. Each node of the tree represents an activity. Every activity can be broken down into sub-activities that each can be further divided into more sub-activities, thus forming a tree.
 
-Activity resembles a recursive tree structure[^2]. Each node of the tree represents an activity. Every activity can be broken down into sub-activities that each can be further divided into more sub-activities, thus forming a tree. Activities that are closer (via the tree path) are more similar: skill in one is more likely to translate to skill in the other.
+Each activity (i.e., node) has a notion of [complexity](https://en.wikipedia.org/wiki/Game_complexity): the number of possible states for that activity. For example: assembly work is less complex due to limited possibilities, whereas product design is far more complex due to exponentially more possibilities. Within the tree, sub-activities will have exponentially lesser complexity than their parent, because the complexity of an activity is _at least_ as much as the sum of complexity of all of its descendents (which themselves scale exponentially with depth).
 
-Each activity (i.e., node) has a notion of [game complexity](https://en.wikipedia.org/wiki/Game_complexity): the number of possible states for that activity. For example: assembly work is less complex due to limited possibilities, whereas product design is far more complex due to exponentially more possibilities. Within the tree, sub-activities will have exponentially lesser complexity than their parent, because the complexity of an activity is _at least_ as much as the sum of complexity of all of its descendents (which themselves scale exponentially with depth).
+We observe that more complex activities yield more _extreme_ outcomes. E.g., outcomes for product design are far more extreme than outcomes for assembly work. We can also observe this phenomenon in popular board games: Go is far more complex than Chess, and thus has more extreme outcomes[^3].
 
-We observe that more complex activities yield more extreme outcomes. E.g., outcomes for product design are far more extreme than outcomes for assembly work. Similarly, in popular board games, Go is far more complex than Chess, and thus Go has far more extreme outcomes than Chess[^3]. In some cases, even if an activity will eventually yield extreme outcomes, if leverage is low (it takes a long time to make each move), we may not notice extreme outcomes until much later.
+For activities that are _closer_: skill in one is more likely to translate to skill in the other. Let's understand this through the activity of _building a startup_. Two sub-activities could be: design (crafting what the product is), and sales (selling the product).
 
-Change[^4] is a process that _updates_ the tree by:
+When we compare an activity many layers down the design sub-tree to an activity at similar depth in the sales sub-tree, we would find that skill requires specific _domain knowledge_ (design theory frameworks vs. sales theory frameworks). Skill at this level is somewhat transferrable: a smart designer who can understand design theory will likely be able to understand sales theory given some time.
 
-1. pruning low-complexity activities.
-2. adding new activities and sub-activities.
+If we went to an even lower depth (meaning these two activities would be even further away from each other in the tree), we would find that skill requires _executional knowledge_: how to use specific tools like Figma or Salesforce. At this level, skill in Figma _barely_ transfers to skill in using a sales tool (besides the familiarity with how software generally works).
 
-Examples:
+On the other hand, if we look at the nature of the activity closer to the _top_ of the design & sales subtrees, we would find a lot of similarity: both require reasoning, judgement, and intuition for what is good — a far more transferrable skill than ones that require domain or executional knowledge. This is why the best designers, salespersons, engineers, etc. can operate fluidly across boundaries because their skill translates well. Even though they won't be able to operate at _lower levels_ of their sibling / cousin sub-trees, they can operate quite well at the _higher levels_ of all similarly complex activities.
 
-1. Pruning — AlphaFold now predicts protein structures with near‑experimental accuracy, eliminating much of the labor‑intensive homology modeling and wet‑lab screening that structural biologists once performed routinely.
-2. Adding — CRISPR–Cas9 gene editing unlocked entirely new branches such as base editing, prime editing, and in‑vivo gene therapies, spawning fresh research niches, companies, etc.
+And if we go even higher: someone with skill at the _building a startup_ activity itself would have _even more_ transferrable skill across a range of activities at similar levels of complexity to building startups. We have to be careful here: there is a great range in complexity even in building startups — some are far more complex than others. Therefore, it's not easy to reason about what other kinds of activities this skill transfers to, but it is clear that it would be _more_ than skill at a lower level of complexity _within_ this specific activity. (e.g. a designer at a highly complex startup could be operating at a much higher complexity than the founder at a lower complexity startup).
 
-AGI, updates the tree in a fundamentally different way by pruning _all_ activities below a certain complexity threshold, balancing the tree. When we say AGI here, we mean the _change_: i.e. all of the stories, instruments _and_ technologies associated with AGI, not merely the technological aspects (LLMs, etc.).
+Changes in the world update the tree by creating some new activities and taking away some by making them unnecessary. But, AGI is a fundamentally different _type_ of change because it prunes _all_ activities below a certain complexity threshold — and only adds activities that are naturally _above_ that threshold. This means that all available activities become _closer_, and thus skill is more easily transferrable across them.
 
-<img src="foundation/assets/diagram.png">
+For example, AGI impacts our _building startup_ activity by pruning away all descendent activities below a certain threshold — i.e. AGI eats the domain & operational knowledge skills, _converging_ the activities of designers and salespersons _upwards_ where they are _closer_ (skill in one is more transferrable to the other).
 
-- A. Activities as a tree with falling complexity.
-- B. Normal change updates the tree in an unbalanced way.
-- C. AGI (fundamentally different change) balances tree by eating all activities below a complexity threshold.
+Therefore, even though AGI will create far more activities than it will take away, all of those activities will be at a higher level of complexity, thus much _closer_ to each other. In a post AGI world, someone great at one skill will increasingly be great at all. We are already seeing such convergence in roles. At startups, there's a rapidly shrinking gap between how teammates operate.
 
-Thus, as AGI advances, activity is pushed _upwards_ towards a _larger range_ of more complex activity, that are more _similar_ to each other.
+Einstein and Tagore were more similar to each other than they were to the many mediocre scientists and artists within their own domains. It was only due to the ignorance of individuals operating at a much lower level of complexity who projected their own lack of skill transfer to those operating far above them, that enabled the illusion of boundaries between domains. As we approach superintelligence, this illusion will be destroyed. One individual will simultaneously create the greatest art _and_ discover the most profound truths about our world.
 
-As activities converge upwards, they will become more similar and the boundaries between them will dissolve. Thus, as AGI advances, it becomes more likely that an individual great at one activity, is great at all of them.
-
-The most valuable stories, instruments and technologies will increasingly emerge as part of _one expression_. We can already notice this phenomenon in its earliest stages: startups are becoming a confluence of artistic expression, political statements, storytelling engines, instruments and technologies. It’s becoming more difficult to call a startup a “technology company” because it has become something far more.
-
-So far, we’ve assumed our activities are objectively valuable. We expect that eventually every activity—including those we consider subjective—will be valued in objective terms. Thus, _all_ activity converges towards a _singular_ activity[^5] that will be enabled by a _single_ system — the _Foundation_.
+Since all activities will converge to a _singular_ activity, we have the opportunity to advance _all_ of humanity's activity with a single system — the _Foundation_ for _all_ activity.
 
 # ACT III — Foundation
 
@@ -361,3 +353,33 @@ Critically, the superintelligence that emerges upon the _Foundation_ will be saf
 [^4]: The current state of activities (among other things not represented in this model) causes subsequent change.
 [^5]: This singular activity is best described as "seeking truth" — a story for another time.
 [^6]: Perhaps something like an transparent, decentralized [community notes](https://vitalik.eth.limo/general/2023/08/16/communitynotes.html) with appropriate financial incentives.
+
+# Appendix
+
+## Convergence — Technical
+
+Change[^4] is a process that _updates_ the tree by:
+
+1. pruning low-complexity activities.
+2. adding new activities and sub-activities.
+
+Examples:
+
+1. Pruning — AlphaFold now predicts protein structures with near‑experimental accuracy, eliminating much of the labor‑intensive homology modeling and wet‑lab screening that structural biologists once performed routinely.
+2. Adding — CRISPR–Cas9 gene editing unlocked entirely new branches such as base editing, prime editing, and in‑vivo gene therapies, spawning fresh research niches, companies, etc.
+
+AGI, updates the tree in a fundamentally different way by pruning _all_ activities below a certain complexity threshold, balancing the tree.
+
+<img src="foundation/assets/diagram.png">
+
+- A. Activities as a tree. It is unbalanced because change is not equally distributed.
+- B. Change updates the tree.
+- C. AGI (_different_ type of change) balances tree by eating all activities below a complexity threshold.
+
+Thus, as AGI advances, activity is pushed _upwards_ towards a _larger range_ of more complex activity, that are more _similar_ to each other.
+
+As activities converge upwards, they will become more similar and the boundaries between them will dissolve. Thus, as AGI advances, it becomes more likely that an individual great at one activity, is great at all of them.
+
+The most valuable stories, instruments and technologies will increasingly emerge as part of _one expression_. We can already notice this phenomenon in its earliest stages: startups are becoming a confluence of artistic expression, political statements, storytelling engines, instruments and technologies. It’s becoming more difficult to call a startup a “technology company” because it has become something far more.
+
+So far, we’ve assumed our activities are objectively valuable. We expect that eventually every activity—including those we consider subjective—will be valued in objective terms. Thus, _all_ activity converges towards a _singular_ activity[^5] that will be enabled by a _single_ system — the _Foundation_.
