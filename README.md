@@ -273,7 +273,7 @@ We will mimic natural selection through:
 1. **Competition**. Encourage fair competition and ease of participation.
 2. **Progressive decentralization**. Move power from centralized authorities to individuals.
 3. **Fork-ability**. Enable duplication and mutation at any level of abstraction.
-4. **Transparency**. No secrets. Any idea should be available to steal & judge at its earliest stages.
+4. **Transparency**. Each action is auditable. No secrets: any idea should be available to steal & judge at its earliest stages.
 
 ## Solution overview
 
