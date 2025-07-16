@@ -10,7 +10,7 @@ From this _root_, all activity blossoms.
 
 _ACT I — Tokenization_
 
-- [Intro](#intro)
+- [Artificial Intelligence](#artificial-intelligence)
 - [Problem](#problem)
 - [Venture capital](#venture-capital)
 - [Personal token](#personal-token)
