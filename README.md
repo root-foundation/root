@@ -222,13 +222,23 @@ We believe this can _only_ be realized through a _single_ system.
 
 ## Convergence
 
-As AGI advances, all activities _converge_ towards a _singular_ activity. Therefore, a _single_ system will increasingly be able to enable all activities. To see why, we must first understand the nature of our activities.
+As AGI advances, all activities _converge_ towards a _singular_ activity. Therefore, a _single_ system will increasingly be able to enable _all_ activities. To see why, we must first understand the nature of activity.
 
-We consider human activity to be a recursive tree [^2]. Each node of the tree represents an activity. Every activity can be broken down into sub-activities that each can be further divided into more sub-activities, thus forming a tree.
+Human activity resembles a _finite_, _recursive_ tree [^2]. Each node of the tree represents an activity. Every activity can be broken down into sub-activities that each can be further divided into more sub-activities, thus forming a tree. This tree is finite because at some point the sub-activities become too simple to be considered an activity.
 
 Each activity (i.e., node) has a notion of [complexity](https://en.wikipedia.org/wiki/Game_complexity): the number of possible states for that activity. For example: assembly work is less complex due to limited possibilities, whereas product design is far more complex due to exponentially more possibilities. Within the tree, sub-activities will have exponentially lesser complexity than their parent, because the complexity of an activity is _at least_ as much as the sum of complexity of all of its descendents (which themselves scale exponentially with depth).
 
+### Extreme outcomes
+
 We observe that more complex activities yield more _extreme_ outcomes. E.g., outcomes for product design are far more extreme than outcomes for assembly work. We can also observe this phenomenon in popular board games: Go is far more complex than Chess, and thus has more extreme outcomes[^3].
+
+Any advancement adds higher complexity activities (and sub-activities) to the activities tree while removing lower complexity activities. For example: spreadsheets removed many lower complexity activities for bookkeeping while spawning many new branches and fields (e.g. analysis, risk modeling, etc.). Thus, advancement broadly pushes us towards more complex activities, and therefore, towards more extreme outcomes.
+
+Throughout history advancement has been unequally distributed, and relatively slow. Some branches advanced far more rapidly than others. But even the branches that advanced rapidly will seem to have been very slow compared to what we are about to experience.
+
+AGI updates the tree in a fundamentally different way: by pruning _all_ activities below a certain complexity threshold — balancing the tree, _and_ exponentially faster than any other change we've ever experienced. As low complexity activities disappear, _all_ activities will have extreme outcomes. Hence, debt becomes unviable to finance _anything_ — as discussed [earlier](#problem).
+
+### Convergence towards a singular activity
 
 For activities that are _closer_: skill in one is more likely to translate to skill in the other. Let's understand this through the activity of _building a startup_. Two sub-activities could be: design (crafting what the product is), and sales (selling the product).
 
@@ -246,7 +256,11 @@ For example, AGI impacts our _building startup_ activity by pruning away all des
 
 Therefore, even though AGI will create far more activities than it will take away, all of those activities will be at a higher level of complexity, thus much _closer_ to each other. In a post AGI world, someone great at one skill will increasingly be great at all. We are already seeing such convergence in roles. At startups, there's a rapidly shrinking gap between how teammates operate.
 
-Einstein and Tagore were more similar to each other than they were to the many mediocre scientists and artists within their own domains. It was only due to the ignorance of individuals operating at a much lower level of complexity who projected their own lack of skill transfer to those operating far above them, that enabled the illusion of boundaries between domains. As we approach superintelligence, this illusion will be destroyed. One individual will simultaneously create the greatest art _and_ discover the most profound truths about our world.
+Einstein and Tagore were more similar to each other than they were to the many mediocre scientists and artists within their own domains.
+
+<img src="foundation/assets/einstein-tagore.jpg" width="600" />
+
+It was only due to the ignorance of individuals operating at a much lower level of complexity who projected their own lack of skill transfer to those operating far above them, that enabled the illusion of boundaries between domains. As we approach superintelligence, this illusion will be destroyed. One individual will simultaneously create the greatest art _and_ discover the most profound truths about our world.
 
 Since all activities will converge to a _singular_ activity, we have the opportunity to advance _all_ of humanity's activity with a single system — the _Foundation_ for _all_ activity.
 
