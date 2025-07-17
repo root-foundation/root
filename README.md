@@ -222,47 +222,50 @@ We believe this can _only_ be realized through a _single_ system.
 
 ## Convergence
 
-As AGI advances, all activities _converge_ towards a _singular_ activity. Therefore, a _single_ system will increasingly be able to enable _all_ activities. To see why, we must first understand the nature of activity.
+As AGI advances, all activities will increasingly _converge_ towards a _singular_ activity. Thus a _single_ system will eventually enable _all_ activity. To see how, we must first understand the nature of activity.
 
 Human activity resembles a _finite_, _recursive_ tree [^2]. Each node of the tree represents an activity. Every activity can be broken down into sub-activities that each can be further divided into more sub-activities, thus forming a tree. This tree is finite because at some point the sub-activities become too simple to be considered an activity.
 
 Each activity (i.e., node) has a notion of [complexity](https://en.wikipedia.org/wiki/Game_complexity): the number of possible states for that activity. For example: assembly work is less complex due to limited possibilities, whereas product design is far more complex due to exponentially more possibilities. Within the tree, sub-activities will have exponentially lesser complexity than their parent, because the complexity of an activity is _at least_ as much as the sum of complexity of all of its descendents (which themselves scale exponentially with depth).
 
-### Extreme outcomes
-
 We observe that more complex activities yield more _extreme_ outcomes. E.g., outcomes for product design are far more extreme than outcomes for assembly work. We can also observe this phenomenon in popular board games: Go is far more complex than Chess, and thus has more extreme outcomes[^3].
 
-Any advancement adds higher complexity activities (and sub-activities) to the activities tree while removing lower complexity activities. For example: spreadsheets removed many lower complexity activities for bookkeeping while spawning many new branches and fields (e.g. analysis, risk modeling, etc.). Thus, advancement broadly pushes us towards more complex activities, and therefore, towards more extreme outcomes.
+Any _advancement_ pushes us _upwards_ towards more complex activities. An advancement adds more complex activities (and sub-activities) to the tree while removing less complex ones. For example: spreadsheets removed many lower complexity activities related to bookkeeping while spawning many new branches and fields (e.g. analysis, risk modeling, etc.). Since extreme outcomes is a feature of complexity, advancement pushes us towards more _extreme_ outcomes.
 
-Throughout history advancement has been unequally distributed, and relatively slow. Some branches advanced far more rapidly than others. But even the branches that advanced rapidly will seem to have been very slow compared to what we are about to experience.
+Yet, throughout history, advancement has been unequally distributed. Some branches of activity advanced far more rapidly than others. For example, computers, software and the internet advanced rapidly while much of the world continued to rely on less complex, ancient, agricultural practices. This meant that while we had extreme outcomes in a few, complex, activities, there still existed many low complex activities with non-extreme outcomes.
 
-AGI updates the tree in a fundamentally different way: by pruning _all_ activities below a certain complexity threshold — balancing the tree, _and_ exponentially faster than any other change we've ever experienced. As low complexity activities disappear, _all_ activities will have extreme outcomes. Hence, debt becomes unviable to finance _anything_ — as discussed [earlier](#problem).
+But, AGI operates on our tree in a fundamentally different way than any previous advancement. AGI will prune _all_ activities below a certain complexity threshold, completely eliminating less complex activities. All activities will become highly complex, and thus all activities will have extreme outcomes. This is what makes debt unviable in a post AGI world, as we discussed [earlier](#problem).
 
-### Convergence towards a singular activity
+And importantly, as all activities become highly complex, they also become more _similar_: converging towards a singular activity. An individual great at one activity will increasingly be great at all. In fact, extreme outcomes and convergence are two features of the _same_ phenomenon: advancing _upwards_ towards more complex activities.
 
-For activities that are _closer_: skill in one is more likely to translate to skill in the other. Let's understand this through the activity of _building a startup_. Two sub-activities could be: design (crafting what the product is), and sales (selling the product).
+Let's understand convergence more concretely by studying the activity: _building a startup_. Building a startup could have the following sub-activities (among many): design (crafting what the product is), and sales (selling the product). When we compare activities _across_ these two sub-trees at the same levels of depth, we will see that the lower the depth of the two activities we're comparing (i.e. the further apart they are), the less likely skill in one transfers to the other.
 
-When we compare an activity many layers down the design sub-tree to an activity at similar depth in the sales sub-tree, we would find that skill requires specific _domain knowledge_ (design theory frameworks vs. sales theory frameworks). Skill at this level is somewhat transferrable: a smart designer who can understand design theory will likely be able to understand sales theory given some time.
+| Depth            | Type of skill                | Example                                    | Skill transferability (& complexity) | Intelligence |
+| ---------------- | ---------------------------- | ------------------------------------------ | ------------------------------------ | ------------ |
+| `Towards parent` | Intuition                    | Even more similar "feel" for what is true  | HIGH                                 | SI           |
+| `D2`             | Logic & reasoning            | Similar analysis & logical experimentation | MEDIUM                               | AGI          |
+| `D3`             | Domain specific knowledge    | Design frameworks vs. Sales frameworks     | LOW                                  | AI           |
+| `Towards leaves` | Execution specific knowledge | using Figma vs. Salesforce                 | VERY LOW                             | AI / rules   |
 
-If we went to an even lower depth (meaning these two activities would be even further away from each other in the tree), we would find that skill requires _executional knowledge_: how to use specific tools like Figma or Salesforce. At this level, skill in Figma _barely_ transfers to skill in using a sales tool (besides the familiarity with how software generally works).
+Skill transferability between two activities is proportional to their complexities, because the _type_ of skill changes based on the complexity of the activity. Domain specific and execution specific knowledge do not transfer easily, whereas, higher order reasoning and intuition do.
 
-On the other hand, if we look at the nature of the activity closer to the _top_ of the design & sales subtrees, we would find a lot of similarity: both require reasoning, judgement, and intuition for what is good — a far more transferrable skill than ones that require domain or executional knowledge. This is why the best designers, salespersons, engineers, etc. can operate fluidly across boundaries because their skill translates well. Even though they won't be able to operate at _lower levels_ of their sibling / cousin sub-trees, they can operate quite well at the _higher levels_ of all similarly complex activities.
+This is why the best designers, salespersons, engineers,[^4] etc. can operate fluidly across boundaries domain boundaries. Even though they won't be able to operate at _lower levels_ of their sibling / cousin sub-trees (because they lack the domain / execution specific knowledge), they can operate well at the _higher levels_ of all similarly complex activities.
 
-And if we go even higher: someone with skill at the _building a startup_ activity itself would have _even more_ transferrable skill across a range of activities at similar levels of complexity to building startups. We have to be careful here: there is a great range in complexity even in building startups — some are far more complex than others. Therefore, it's not easy to reason about what other kinds of activities this skill transfers to, but it is clear that it would be _more_ than skill at a lower level of complexity _within_ this specific activity. (e.g. a designer at a highly complex startup could be operating at a much higher complexity than the founder at a lower complexity startup).
+As AGI prunes lower complexity activities and creates higher complexity activities, all activities become more similar because skill transfers more easily across them. In a post AGI world, the best in one activity will be able to fluidly move across many more.
 
-Changes in the world update the tree by creating some new activities and taking away some by making them unnecessary. But, AGI is a fundamentally different _type_ of change because it prunes _all_ activities below a certain complexity threshold — and only adds activities that are naturally _above_ that threshold. This means that all available activities become _closer_, and thus skill is more easily transferrable across them.
+Thus, AGI will _converge_ all activities towards a _singular_ activity.
 
-For example, AGI impacts our _building startup_ activity by pruning away all descendent activities below a certain threshold — i.e. AGI eats the domain & operational knowledge skills, _converging_ the activities of designers and salespersons _upwards_ where they are _closer_ (skill in one is more transferrable to the other).
+_Footnote: This is why the claim that AGI will create more jobs than it takes is naive: it ignores the fact that all of those new jobs will be more complex with far more extreme outcomes, and far more similar to each other such that it is that much tougher to be one of the best because the pool of competition is exponentially greater._
 
-Therefore, even though AGI will create far more activities than it will take away, all of those activities will be at a higher level of complexity, thus much _closer_ to each other. In a post AGI world, someone great at one skill will increasingly be great at all. We are already seeing such convergence in roles. At startups, there's a rapidly shrinking gap between how teammates operate.
+Einstein and Tagore were more similar to each other than they were to the many mediocre scientists and artists within their own "domains".
 
-Einstein and Tagore were more similar to each other than they were to the many mediocre scientists and artists within their own domains.
-
-<img src="foundation/assets/einstein-tagore.jpg" width="600" />
+<img src="foundation/assets/einstein-tagore.jpg" width="500" />
 
 It was only due to the ignorance of individuals operating at a much lower level of complexity who projected their own lack of skill transfer to those operating far above them, that enabled the illusion of boundaries between domains. As we approach superintelligence, this illusion will be destroyed. One individual will simultaneously create the greatest art _and_ discover the most profound truths about our world.
 
 Since all activities will converge to a _singular_ activity, we have the opportunity to advance _all_ of humanity's activity with a single system — the _Foundation_ for _all_ activity.
+
+[^4]: We should not be attached to these labels: "designer", "salesperson", etc. How complex these roles are is dependent on the nature of the company. For example, a lead designer at a much more ambitious startup will operate at a much higher level of complexity than a designer at a more narrowly focused company.
 
 # ACT III — Foundation
 
