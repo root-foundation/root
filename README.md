@@ -240,6 +240,17 @@ And importantly, as all activities become highly complex, they also become more 
 
 Let's understand convergence more concretely by studying the activity: _building a startup_. Building a startup could have the following sub-activities (among many): design (crafting what the product is), and sales (selling the product). When we compare activities _across_ these two sub-trees at the same levels of depth, we will see that the lower the depth of the two activities we're comparing (i.e. the further apart they are), the less likely skill in one transfers to the other.
 
+```mermaid
+graph TD
+    Startup[Startup]
+    Startup --> Build[Build]
+    Startup --> Sell[Sell]
+    Build --> Design[Design]
+    Build --> Eng[Engineering]
+    Sell --> Sales[Sales]
+    Sell --> Marketing[Marketing]
+```
+
 | Depth            | Type of skill                | Example                                    | Skill transferability (& complexity) | Intelligence |
 | ---------------- | ---------------------------- | ------------------------------------------ | ------------------------------------ | ------------ |
 | `Towards parent` | Intuition                    | Even more similar "feel" for what is true  | HIGH                                 | SI           |
