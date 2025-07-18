@@ -128,7 +128,7 @@ flowchart TD
     %% Styling
     classDef mainNode fill:#f3f3f3,stroke:#ffffff,stroke-width:2px,color:#000;
     classDef placeholder fill:transparent,stroke:transparent,color:#555555;
-    classDef new fill:transparent,stroke:green,color:green;
+    classDef new fill:transparent,stroke:transparent,color:green;
 
     class Startup,Build,Distribute,Design,BuildSystem,UseFigma,Sell,CreatePipeline,UseSalesforce mainNode;
     class BuildEtc,DesignEtc,BuildSysEtc,DistEtc,SellEtc,PipelineEtc placeholder;
@@ -146,7 +146,10 @@ New("+++")
 Root --> Startup
 Root --> New
 
-classDef new fill:transparent,stroke:green,color:green;
+classDef mainNode fill:#f3f3f3,stroke:#ffffff,stroke-width:2px,color:#000;
+classDef new fill:transparent,stroke:transparent,color:green;
+
+class Root,Startup mainNode;
 class New new;
 ```
 
