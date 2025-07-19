@@ -2,8 +2,6 @@
 
 As AGI advances, all activities will increasingly _converge_ towards a _singular_ activity. Thus a _single_ system will eventually enable _all_ activity. To see how, we must first understand the nature of activity.
 
-### Activity resembles a recursive tree
-
 Human activity resembles a _finite_, _recursive_ tree [^2]. Each node of the tree represents an activity. Every activity can be broken down into sub-activities that each can be further divided into more sub-activities, thus forming a tree. This tree is finite because at some point the sub-activities become too simple to be considered an activity.
 
 Each activity (i.e., node) has a notion of [complexity](https://en.wikipedia.org/wiki/Game_complexity): the number of possible states for that activity. For example: assembly work is less complex due to limited possibilities, whereas product design is far more complex due to exponentially more possibilities. Within the tree, sub-activities will have _superexponentially_ lesser complexity[^x] than their parent.
@@ -24,7 +22,7 @@ But, AGI operates on our tree in a fundamentally different way than any previous
 
 And importantly, as all activities become highly complex, they also become more similar: _converging_ towards a singular activity. An individual great at one activity will increasingly be great at all.
 
-### Convergence within an activity
+---
 
 Let's understand convergence within the activity of: _creating a startup_.
 
@@ -93,7 +91,7 @@ flowchart TD
 
 Skill transferability between two activities is proportional to their complexities, because the _type_ of skill changes based on the complexity of the activity. Domain specific and execution specific knowledge do not transfer easily, whereas, higher order reasoning and intuition do.
 
-As AGI prunes the tree according to complexity, we will notice that lower depths disappear:
+As AGI prunes the tree according to complexity, we will notice that lower depths disappear, and new activities emerge at the higher depths.
 
 ```mermaid
 flowchart TD
@@ -135,7 +133,7 @@ flowchart TD
     class BuildNew,DistributeNew new;
 ```
 
-Eventually converging:
+Eventually converging because the higher the depth activities are added, the _closer_ they are to each other: i.e. the more likely it is that someone great at one is great at all.
 
 ```mermaid
 flowchart TD
@@ -153,22 +151,33 @@ class Root,Startup mainNode;
 class New new;
 ```
 
+> We should be careful to not be attached to the labels we've used ("startup", "design", "sell" etc.) because these labels have no meaning on their own. For example, a lead designer at a far more complex startup will likely be performing higher complexity activities than a CEO of a less complex startup. Similarly, a mediocre designer will not operate at a high level of complexity even though their activity requires them to, because they are ignorant of its complexity. As we will see below, as we converge further, labels acceleratingly become not only useless, but also limiting.
+
+> Similarly, in the "Transferability" column above, what we've considered as "HIGH" may be seen as "VERY LOW" by our descendents who will be operating at such heights in the tree where transfering skills can happen even more seamlessly (/ faster). These are relative terms. We've presented it this way to show how convergence looks _locally_ within an activity that is familiar to many today. But, this activity itself will likely be very low in the eventual tree that artificial intelligence will create. Our descendents will view the majority of startups created today the way we view the many small businesses throughout history — we know the nature of them but we consider them largely inconsequential
+
 ---
 
-We should be careful to not be attached to the labels we've used ("startup", "design", etc.). For example, a lead designer at a far more complex startup will almost certainly be doing higher complexity activities than a CEO of a lower complexity startup. Similarly, a mediocre designer will not operate at a high level of complexity even though their activity requires them to, because they are ignorant of its complexity. As we will see below, as we converge further, labels acceleratingly become useless.
+Convergence occurs locally _and_ globally. In our example, we saw how the entire sub-tree stemming from that activity converges towards its root. Similarly, convergence occurs globally: in the entire tree that _that_ activity is a part of. For example, within the average B2B startup, as all activities within it converge towards its root, convergence will also occur much higher in the overall tree such that new companies will emerge at much higher places in the tree that will perform the function of this particular startup _along with_ the functions of thousands of other startups — rendering all of them useless, unless they can evolve to the higher complexity activity (that is higher in the tree) and win there.
 
-Similarly, in the "Transferability" column above, what we've considered as "HIGH" may be seen as "VERY LOW" by our descendents who will be operating at such heights in the tree where transfering skills can happen even more seamlessly (/ faster). These are relative terms. We've presented it this way to show how convergence looks _locally_ within an activity that itself will be very low in the eventual tree that artificial intelligence will create.
+---
 
-### Implications
+Artificial intelligence will enable many more activities than it will remove. The range of activities we have witnessed throughout human history will eventually be a drop in the ocean of activities that will eventually exist. While it's impossible to predict the nature of these activities, we _can_ predict that they will increasingly be more _similar_: i.e. skill in one will increasingly translate to skill in all, and that outcomes will become unimaginably extreme (as complexity grows exponentially to depth).
 
-- Convergence occurs locally and globally.
+---
 
-- We will have gain many, many more activities than we will lose, but: \_\_.
+As our activities become converge towards a singular activity, the notions of boundaries between "domains" will dissolve. Though we are in the earliest days of artificial intelligence, we have already begun to witness this convergence locally. There has been a rapid convergence in roles within startups. New roles have emerged (product engineer, design engineer, etc.). There is no room for those who only do a narrow function because those lower complexity activities have disappeared.
 
-- Thus, convergence dissolves boundaries between “domains”. Well, boundaries between domains have always been illusions, and convergence will destroy that illusion.
+We are still very, very _low_ in the tree. As convergence accelerates towards higher levels in the tree, distinctions between startups, political organizations, science labs, film studios, etc. will also disappear. The phrase "starting a company" may not exist altogether. And, even if it does exist, it will mean something profoundly different.
+
+---
+
+As we accelerating converge upwards, It will become exponentially more difficult to level up and be great at any activity. This is because activities are _superexponentially_ more complex than their sub-activities. This exponential jump isn't as pronounced at lower complexities, but become glaringly apparent the higher you go. For example, many can make the jump from engineer to product engineer, but how many will be able to make the jump from product engineer to successfully operating at the complexity that most CEOs operate today? The reason we observe extreme outcomes proportional to complexity is due to this exponential jump in complexity between an activity and it's parent.
+
+---
+
+---
+
   <img src="foundation/assets/einstein-tagore.jpg" width="500" />
-
-- Skill transfer upwards becomes exponentially more difficult over time.
 
 - Delusion about the nature of an activity, its complexity, and its position in the overall tree also grows exponentially proportional to the complexity of the activity.
 
