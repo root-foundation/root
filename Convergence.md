@@ -6,6 +6,8 @@ Human activity resembles a _finite_, _recursive_ tree [^2]. Each node of the tre
 
 Each activity (i.e., node) has a notion of [complexity](https://en.wikipedia.org/wiki/Game_complexity): the number of possible states for that activity. For example: assembly work is less complex due to limited possibilities, whereas product design is far more complex due to exponentially more possibilities. Within the tree, sub-activities will have _superexponentially_ lesser complexity[^x] than their parent.
 
+(TODO: superexponential diff must be explained here with an intuitive example. this intuition is critically important and can't be relegated to a footnote).
+
 We observe that more complex activities yield more _extreme_ outcomes. E.g., outcomes for product design are far more extreme than outcomes for assembly work. We can also observe this phenomenon in popular board games: Go is far more complex than Chess, and thus has more extreme outcomes[^3].
 
 Any _advancement_ unevenly, messily, pushes us _upwards_ towards more complex activities by adding more complex activities (and sub-activities) to the tree while removing less complex ones. For example: spreadsheets removed many lower complexity activities related to bookkeeping while spawning many new branches and fields (e.g. analysis, risk modeling, etc.). Since extreme outcomes is a feature of complexity, advancement creates activities with more extreme outcomes.
@@ -169,22 +171,34 @@ As our activities become converge towards a singular activity, the notions of bo
 
 We are still very, very _low_ in the tree. As convergence accelerates towards higher levels in the tree, distinctions between startups, political organizations, science labs, film studios, etc. will also disappear. The phrase "starting a company" may not exist altogether. And, even if it does exist, it will mean something profoundly different.
 
+<img src="foundation/assets/einstein-tagore.jpg" width="500" /> (todo: not sure where / how / if necessary to have the einstein tagore point).
+
 ---
 
 As we accelerating converge upwards, It will become exponentially more difficult to level up and be great at any activity. This is because activities are _superexponentially_ more complex than their sub-activities. This exponential jump isn't as pronounced at lower complexities, but become glaringly apparent the higher you go. For example, many can make the jump from engineer to product engineer, but how many will be able to make the jump from product engineer to successfully operating at the complexity that most CEOs operate today? The reason we observe extreme outcomes proportional to complexity is due to this exponential jump in complexity between an activity and it's parent.
 
 ---
 
+Importantly, our delusion about the nature of an activity (its complexity and position in the global tree) also grows exponentially proportional to its complexity.
+
+This delusion occurs because all of us build an intuition about the nature an activity higher in the tree by _projecting_ our intuition of the lower complexity activities we are familiar with. This leads us to perceive the higher complexity activity as the _sum_ of its sub-activities (which we are more familiar with), whereas in reality, the higher complexity activity is exponentially more complex than the sum of its parts.
+
+For example, an engineer at a startup will likely look at the activity of the CEO as the _sum_ of: engineering, product, sales, marketing, etc. Intuitively the engineer feels that the CEO is executing these sub-activities as separate functions with perhaps some overlap. In reality, the best CEOs operate in a much more complex way without distinguishing between their sub-activities. Steve Jobs's judgement on a product decision intuitively is intuitively connected with downstream impacts on positioning, brand, marketing, etc.
+
+Similarly, there is an emerging trend among startups to have exceptional product launch videos. This trend has led some observers to claim that future founders will need to be great at product _and_ video storytelling. These observers are making the same blunder thinking that the founder activity has evolved into a _sum_ existing activities. The founders that are able to pull attention with exceptional visual storytelling while building great products do not distinguish these functions as separate. They are excelling at a much higher complexity game that observers can't intuitively understand.
+
+This is why, succeeding at higher levels of complexity becomes incredibly difficult the higher we go. You cannot simply attack a higher complexity activity by adding your intuitions for each of its sub-activities. You can only succeed if you can achieve the higher complexity _intuition_ that does not compartmentalize that activity into lower complexity sub-intuitions.
+
+It is very difficult to reason ourselves out of this delusion because it exists at the intuitive, subconscious levels of our minds. Thus, we all suffer from this delusion — especially those who don't realize they have it.
+
+Similarly, our collective delusion about the _global_ tree of activities will grow exponentially. We will think we are approaching the global root, and thus, we will believe that all new activities will appear at the sibling level, enabling us to easily transfer our skill over. Yet, we will painfully realize that these new activities are _not_ sibling activities but distant cousins, and that what we thought was the root is actually far away from the global root.
+
 ---
 
-  <img src="foundation/assets/einstein-tagore.jpg" width="500" />
+AGI enables a new higher complexity activity that allows us to fulfill our mission of uniting humanity and unlocking its potential by advancing all of our activities through a _single_ expression.
 
-- Delusion about the nature of an activity, its complexity, and its position in the overall tree also grows exponentially proportional to the complexity of the activity.
+It would be a tragic blunder to treat this expression as the sum of its parts: i.e. a sum of the economic system, governance system, stories, technologies, etc. If we treated each part separately, we would have missed the more fundamental design that achieves everything simutaneously, i.e., in a balanced way.
 
----
+As we discussed [earlier](#interdependence--imbalance), any imbalance in advancement leads to suffering. The only way to advance everything in a balanced way is to advance everything _together_. As _one_.
 
-Transition:
-
-Due to convergence, it would be a massive blunder to tackle each system separately: e.g. economic system, governance, political systems, technology systems, etc. If we wanted to build a platform that did all of them by _summing_ together distinct pieces, we would fail catastrophically because we would be making the same mistake that a low complexity worker makes when they look at activities higher up and treat them as the _sum_ of their sub-activities. We will not be able to find the right solution to _imbalance_ if we don't operate at a higher level of complexity that does not treat the sub activities as separate, distinct pieces to tackle independently.
-
-AGI enables a higher complexity activity than all of what we've seen so far that will, as a single expression, advance all of humanity's activities at once, at their root. In order to achieve our mission, we must seek that single expression that will simultaneously enable advancements in stories, instruments _and_ technologies.
+We must seek this singular expression that will rapidly advance us towards uniting humanity and unlocking its potential.
