@@ -153,9 +153,11 @@ class Root,Startup mainNode;
 class New new;
 ```
 
-> We should be careful to not be attached to the labels we've used ("startup", "design", "sell" etc.) because these labels have no meaning on their own. For example, a lead designer at a far more complex startup will likely be performing higher complexity activities than a CEO of a less complex startup. Similarly, a mediocre designer will not operate at a high level of complexity even though their activity requires them to, because they are ignorant of its complexity. As we will see below, as we converge further, labels acceleratingly become not only useless, but also limiting.
+Disclaimers:
 
-> Similarly, in the "Transferability" column above, what we've considered as "HIGH" may be seen as "VERY LOW" by our descendents who will be operating at such heights in the tree where transfering skills can happen even more seamlessly (/ faster). These are relative terms. We've presented it this way to show how convergence looks _locally_ within an activity that is familiar to many today. But, this activity itself will likely be very low in the eventual tree that artificial intelligence will create. Our descendents will view the majority of startups created today the way we view the many small businesses throughout history — we know the nature of them but we consider them largely inconsequential
+- We should be careful to not be attached to the labels we've used ("startup", "design", "sell" etc.) because these labels have no meaning on their own. For example, a lead designer at a far more complex startup will likely be performing higher complexity activities than a CEO of a less complex startup. Similarly, a mediocre designer will not operate at a high level of complexity even though their activity requires them to, because they are ignorant of its complexity. As we will see below, as we converge further, labels acceleratingly become not only useless, but also limiting.
+- Similarly, in the "Transferability" column above, what we've considered as "HIGH" may be seen as "VERY LOW" by our descendents who will be operating at such heights in the tree where transfering skills can happen even more seamlessly (/ faster). These are relative terms. We've presented it this way to show how convergence looks _locally_ within an activity that is familiar to many today. But, this activity itself will likely be very low in the global tree that artificial intelligence will enable.
+- While we have modeled our activities as _discrete_ nodes to make it easy to reason, in reality they are fluid: i.e. there are near infinite discrete steps within each step above. Yet, the underlying principle of convergence remains the same.
 
 ---
 
@@ -163,19 +165,17 @@ Convergence occurs locally _and_ globally. In our example, we saw how the entire
 
 ---
 
-Artificial intelligence will enable many more activities than it will remove. The range of activities we have witnessed throughout human history will eventually be a drop in the ocean of activities that will eventually exist. While it's impossible to predict the nature of these activities, we _can_ predict that they will increasingly be more _similar_: i.e. skill in one will increasingly translate to skill in all, and that outcomes will become unimaginably extreme (as complexity grows exponentially to depth).
+Artificial intelligence will enable many more activities than it will remove. The range of activities we have witnessed throughout human history will eventually be a drop in the ocean of activities that will eventually exist. While it's impossible to predict the nature of these activities, we _can_ predict that they will increasingly be more _similar_: i.e. skill in one will increasingly translate to skill in all, and that outcomes will become astronomically extreme (since complexity grows exponentially to depth).
 
 ---
 
-As our activities become converge towards a singular activity, the notions of boundaries between "domains" will dissolve. Though we are in the earliest days of artificial intelligence, we have already begun to witness this convergence locally. There has been a rapid convergence in roles within startups. New roles have emerged (product engineer, design engineer, etc.). There is no room for those who only do a narrow function because those lower complexity activities have disappeared.
+As our activities become converge towards a singular activity, the notions of boundaries between "domains" will dissolve. Though we are in the earliest days of artificial intelligence, we have already begun to witness this dissolution of boundaries locally. There has been a rapid convergence in roles within startups, and entirely new roles have emerged (product engineer, design engineer, etc.) that reflect convergence. There is no room for those who only do a narrow function because those lower complexity activities have disappeared.
 
-We are still very, very _low_ in the tree. As convergence accelerates towards higher levels in the tree, distinctions between startups, political organizations, science labs, film studios, etc. will also disappear. The phrase "starting a company" may not exist altogether. And, even if it does exist, it will mean something profoundly different.
-
-<img src="foundation/assets/einstein-tagore.jpg" width="500" /> (todo: not sure where / how / if necessary to have the einstein tagore point).
+We are still very, very _low_ in the global tree. As convergence accelerates towards higher levels in the tree, distinctions between startups, political organizations, science labs, film studios, etc. will also disappear. The phrase "starting a company" may not exist altogether. And, even if it does exist, it will mean something profoundly different.
 
 ---
 
-As we accelerating converge upwards, It will become exponentially more difficult to level up and be great at any activity. This is because activities are _superexponentially_ more complex than their sub-activities. This exponential jump isn't as pronounced at lower complexities, but become glaringly apparent the higher you go. For example, many can make the jump from engineer to product engineer, but how many will be able to make the jump from product engineer to successfully operating at the complexity that most CEOs operate today? The reason we observe extreme outcomes proportional to complexity is due to this exponential jump in complexity between an activity and it's parent.
+As we accelerating converge upwards, It will become exponentially more difficult to level up and be great at any activity. This is because activities are _superexponentially_ more complex than their sub-activities — thus leading to an exponential difference in complexity between them. This exponential _jump_ isn't as pronounced at lower complexities, but become glaringly apparent the higher you go. For example, many can make the jump from engineer to product engineer, but how many will be able to make the jump from product engineer to successfully operating at the complexity that most CEOs operate today? The reason we observe extreme outcomes proportional to complexity is due to this exponential jump in complexity between an activity and it's parent.
 
 ---
 
@@ -189,9 +189,19 @@ Similarly, there is an emerging trend among startups to have exceptional product
 
 This is why, succeeding at higher levels of complexity becomes incredibly difficult the higher we go. You cannot simply attack a higher complexity activity by adding your intuitions for each of its sub-activities. You can only succeed if you can achieve the higher complexity _intuition_ that does not compartmentalize that activity into lower complexity sub-intuitions.
 
+It has always been true that those who operated at higher complexities were more similar to each other than others within their own domains. "Domains" can only be seen through the deluded lens of a _lower_ vantage point. Einstein and Tagore were more similar to each other than most others within their own "domains". Similarly, many polymaths must have found it silly to be seen as a "polymath" because they would not have seen the "poly" that others saw.
+
+<img src="foundation/assets/einstein-tagore.jpg" width="500" />
+
 It is very difficult to reason ourselves out of this delusion because it exists at the intuitive, subconscious levels of our minds. Thus, we all suffer from this delusion — especially those who don't realize they have it.
 
-Similarly, our collective delusion about the _global_ tree of activities will grow exponentially. We will think we are approaching the global root, and thus, we will believe that all new activities will appear at the sibling level, enabling us to easily transfer our skill over. Yet, we will painfully realize that these new activities are _not_ sibling activities but distant cousins, and that what we thought was the root is actually far away from the global root.
+---
+
+While AGI may enable very high complexity activities higher up in the global tree of activities, individuals must exist with the skill to _see_ them. Our collective understanding of what the global tree is itself is deluded — an acceleratingly _lagging_ representation of reality.
+
+Thus, artificial intelligence doesn't automatically cause convergence. Individuals must consistently _rise_ to discover and commit themselves to mastering the new higher complexity activities artificial intelligence will enable. This too becomes exponentially more difficult over time. Our limiting factor will increasingly become courage & ambition. Those that accurately see the global tree of possibilities that exists _today_ will notice how painfully terrible we collectively are at seeing & pursuing such opportunities.
+
+Furthermore, even instance of individual ambition and courage will make our collective delusion apparent. We will think we are approaching the global root, and thus, we will believe that all new activities will appear at the sibling level, enabling us to easily transfer our skill over. Yet, we will painfully realize that these new activities are _not_ sibling activities but distant cousins, and that what we thought was the global root is actually very far away from the _true_ global root.
 
 ---
 
