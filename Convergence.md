@@ -22,7 +22,7 @@ But, AGI operates on our tree in a fundamentally different way than any previous
 - B. Advancements update the tree.
 - C. AGI (fundamentally _different_ type of advancement) balances tree by eating all activities below a complexity threshold.
 
-And importantly, as all activities become highly complex, they also become more similar: _converging_ towards a singular activity. An individual great at one activity will increasingly be great at all.
+And importantly, as all activities become highly complex, they also become more similar: _converging_ towards a singular activity. An individual (or entity) great at one activity will increasingly be great at all.
 
 ---
 
@@ -109,21 +109,20 @@ flowchart TD
     DistEtc["..."]
 
     %% New placeholder
-    BuildNew["+++"]
-    DistributeNew["+++"]
+    BuildNew["? +++"]
+    DistributeNew["? +++"]
 
     %% Connections
     Startup --> Build
     Startup --> Distribute
 
-    Build --> BuildNew
-    Build --> Design
     Build --> BuildEtc
+    Build --> Design
+    Build --> BuildNew
 
-
-    Distribute --> DistributeNew
-    Distribute --> Sell
     Distribute --> DistEtc
+    Distribute --> Sell
+    Distribute --> DistributeNew
 
     %% Styling
     classDef mainNode fill:#f3f3f3,stroke:#ffffff,stroke-width:2px,color:#000;
@@ -141,15 +140,19 @@ Eventually converging because the higher the depth activities are added, the _cl
 flowchart TD
 Root("?")
 Startup("Create Startup")
-New("+++")
+Placeholder("? ...")
+New("? +++")
 
+Root --> Placeholder
 Root --> Startup
 Root --> New
 
 classDef mainNode fill:#f3f3f3,stroke:#ffffff,stroke-width:2px,color:#000;
+classDef placeholder fill:transparent,stroke:transparent,color:#555555;
 classDef new fill:transparent,stroke:transparent,color:green;
 
 class Root,Startup mainNode;
+class Placeholder placeholder;
 class New new;
 ```
 
