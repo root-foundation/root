@@ -93,7 +93,7 @@ flowchart TD
 
 Skill transferability between two activities is proportional to their complexities, because the _type_ of skill changes based on the complexity of the activity. Domain specific and execution specific knowledge do not transfer easily, whereas, higher order reasoning and intuition do.
 
-As AGI prunes the tree according to complexity, we will notice that lower depths disappear, and new activities emerge at the higher depths.
+As AGI prunes the tree according to complexity, we will notice that lower depths disappear, and new activities emerge at the higher depths — which will be more _similar_ to each other (skill more likely to transfer).
 
 ```mermaid
 flowchart TD
@@ -161,7 +161,7 @@ Disclaimers:
 
 ---
 
-Convergence occurs locally _and_ globally. In our example, we saw how the entire sub-tree stemming from that activity converges towards its root. Similarly, convergence occurs globally: in the entire tree that _that_ activity is a part of. For example, within the average B2B startup, as all activities within it converge towards its root, convergence will also occur much higher in the overall tree such that new companies will emerge at much higher places in the tree that will perform the function of this particular startup _along with_ the functions of thousands of other startups — rendering all of them useless, unless they can evolve to the higher complexity activity (that is higher in the tree) and win there.
+Convergence occurs locally _and_ globally. In our example, we saw how the entire sub-tree stemming from that activity converges towards its root. Similarly, convergence occurs globally: in the global tree that _that_ activity is a part of. For example, within the average B2B startup, as all activities within it converge towards its root, convergence will also occur much higher in the overall tree such that new companies will emerge at much higher places in the tree that will perform the function of this particular startup _along with_ the functions of thousands of other startups — rendering all of them useless, unless they can evolve to the higher complexity activity (that is higher in the tree) and win at that level.
 
 ---
 
@@ -183,17 +183,19 @@ Importantly, our delusion about the nature of an activity (its complexity and po
 
 This delusion occurs because all of us build an intuition about the nature an activity higher in the tree by _projecting_ our intuition of the lower complexity activities we are familiar with. This leads us to perceive the higher complexity activity as the _sum_ of its sub-activities (which we are more familiar with), whereas in reality, the higher complexity activity is exponentially more complex than the sum of its parts.
 
-For example, an engineer at a startup will likely look at the activity of the CEO as the _sum_ of: engineering, product, sales, marketing, etc. Intuitively the engineer feels that the CEO is executing these sub-activities as separate functions with perhaps some overlap. In reality, the best CEOs operate in a much more complex way without distinguishing between their sub-activities. Steve Jobs's judgement on a product decision intuitively is intuitively connected with downstream impacts on positioning, brand, marketing, etc.
+For example, an engineer at a startup will likely look at the activity of the CEO as the _sum_ of: engineering, product, sales, marketing, etc. Intuitively the engineer feels that the CEO is executing these sub-activities as separate functions with perhaps some overlap. In reality, the best CEOs operate in a much more complex way without distinguishing between their sub-activities. Steve Jobs's judgement on a product decision is intuitively connected with his intuitions about everything else.
 
-Similarly, there is an emerging trend among startups to have exceptional product launch videos. This trend has led some observers to claim that future founders will need to be great at product _and_ video storytelling. These observers are making the same blunder thinking that the founder activity has evolved into a _sum_ existing activities. The founders that are able to pull attention with exceptional visual storytelling while building great products do not distinguish these functions as separate. They are excelling at a much higher complexity game that observers can't intuitively understand.
+Similarly, there is an emerging trend among startups to have exceptional product launch videos. This trend has led some observers to claim that future founders will need to be great at product _and_ video storytelling. These observers are making the same blunder thinking that the founder activity has evolved into a _sum_ existing activities. The intuitions of founders that are able to pull attention with exceptional visual storytelling while building great products do not distinguish these functions as separate. These founders are excelling at a much higher complexity game that observers can't intuitively understand. Those who try to compete without operating at that level of complexity will be quickly outcompeted.
 
-This is why, succeeding at higher levels of complexity becomes incredibly difficult the higher we go. You cannot simply attack a higher complexity activity by adding your intuitions for each of its sub-activities. You can only succeed if you can achieve the higher complexity _intuition_ that does not compartmentalize that activity into lower complexity sub-intuitions.
+This is why, succeeding at higher levels of complexity becomes incredibly difficult the higher we go. You cannot simply attack a higher complexity activity by adding your intuitions for each of its sub-activities. You can only succeed if you can achieve the higher complexity _intuition_ that does not compartmentalize that activity into lower complexity sub-intuitions. This is far more difficult than it seems.
 
-It has always been true that those who operated at higher complexities were more similar to each other than others within their own domains. "Domains" can only be seen through the deluded lens of a _lower_ vantage point. Einstein and Tagore were more similar to each other than most others within their own "domains". Similarly, many polymaths must have found it silly to be seen as a "polymath" because they would not have seen the "poly" that others saw.
+It has always been true that those who operated at higher complexities were more similar to each other than others within their own domains. "Domains" can only be seen through the deluded lens of a _lower_ vantage point. Einstein and Tagore were more similar to each other than most others within their own "domains".
 
 <img src="foundation/assets/einstein-tagore.jpg" width="500" />
 
-It is very difficult to reason ourselves out of this delusion because it exists at the intuitive, subconscious levels of our minds. Thus, we all suffer from this delusion — especially those who don't realize they have it.
+Similarly, many polymaths must have found it silly to be seen as a "polymath" because they would not have seen the "poly" that others saw.
+
+Critically, it's very difficult to _reason_ ourselves out of this delusion because it exists at the intuitive, subconscious levels of our minds. We all suffer from this delusion — especially those who don't realize they have it. Even if you agree with this essay you will suffer from this delusion. The authors of this essay are painfully aware of their delusions. _(todo: obv shorten, but something poetic here)_.
 
 ---
 
@@ -207,8 +209,10 @@ Furthermore, even instance of individual ambition and courage will make our coll
 
 AGI enables a new higher complexity activity that allows us to fulfill our mission of uniting humanity and unlocking its potential by advancing all of our activities through a _single_ expression.
 
-It would be a tragic blunder to treat this expression as the sum of its parts: i.e. a sum of the economic system, governance system, stories, technologies, etc. If we treated each part separately, we would have missed the more fundamental design that achieves everything simutaneously, i.e., in a balanced way.
+We would blunder our opportunity to advance humanity if we consider this single expression as the _sum_ of its parts: a new economic system, governance system, political, scientific, technological, etc.
+
+Artificial intelligence _enables_ this higher complexity activity to
 
 As we discussed [earlier](#interdependence--imbalance), any imbalance in advancement leads to suffering. The only way to advance everything in a balanced way is to advance everything _together_. As _one_.
 
-We must seek this singular expression that will rapidly advance us towards uniting humanity and unlocking its potential.
+We must seek this _one expression_.
