@@ -244,7 +244,7 @@ Activities have a notion of complexity and similarity:
 1. Each activity (i.e., node) has a notion of [complexity](https://en.wikipedia.org/wiki/Game_complexity): the number of possible states for that activity. For example: assembly work is less complex due to limited possibilities, whereas product design is far more complex due to exponentially more possibilities. Within the tree, sub-activities will be superexponentially less complex than their parent (explained later).
 2. A pair of similarly complex activities have a notion of "similarity": the more similar two activities are, the more seamlessly skill transfers between them. The tree-path distance between two activities (at the same complexity depth) represents the similarity between them.
 
-[^elo]: Go has a greater ELO spread amongst its top players than Chess, leading to far more [extreme outcomes](https://chatgpt.com/share/68776b0a-d10c-8004-b6d3-b0fa17344411).
+[^elo]: Go has a greater ELO spread amongst its top players than Chess, leading to more extreme outcomes.
 
 _Advancements_ (i.e., changes) tend to push us _upwards_ towards more complex activities by adding more complex activities (and sub-activities) to the tree while removing less complex ones. For example: spreadsheets removed many lower complexity activities related to bookkeeping while spawning many new branches and fields (e.g. analysis, risk modeling, etc.). Since extreme outcomes is a feature of complexity, advancement creates activities with more extreme outcomes.
 
@@ -585,7 +585,7 @@ To see why, we must share our belief about cognition: the majority of cognition 
 
 This makes collective voluntary participation a _necessity_ for superintelligence as people must be willing[^coerced] to give up such higher resolution personal data. They would only do so in a world with advanced instruments: tokenization, UBE, and social platforms that capture this higher resolution data, and importantly a powerful story of unity that makes contributing an offering to our collective good — rather than a sacrifice, or even exploitation.
 
-[^coerced]: Furthermore, if such personal data is _coerced_ out of individuals, that data will not represent the full range of human expression because it will skewed towards a limited range of emotions (such as anger / fear). This will limit and bias training data and restrict (and bias) the superintelligence that emerges from this data.
+[^coerced]: Furthermore, if such higher resolution personal data is _coerced_ out of individuals, that data will not represent the full range of human expression because it will skewed towards a limited range of emotions (such as anger / fear). This will limit and bias training data and restrict (and bias) the superintelligence that emerges from this data.
 
 Therefore, superintelligence will emerge from the _Foundation_.
 
