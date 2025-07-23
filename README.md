@@ -404,7 +404,9 @@ class Placeholder placeholder;
 class New new;
 ```
 
-### Things to be careful about
+---
+
+### Caution
 
 Before we conclude this example, a few things to keep in mind:
 
