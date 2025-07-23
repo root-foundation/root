@@ -414,17 +414,17 @@ Before we conclude this example, a few things to keep in mind:
 
 ---
 
-### 1. Convergence amplifies extreme outcomes.
+### Convergence amplifies extreme outcomes.
 
 We observe that more complex activities yield more _extreme_ outcomes. E.g., outcomes for product design are far more extreme than outcomes for assembly work. We can also observe this phenomenon in popular board games: Go is far more complex than Chess, and thus has more extreme outcomes[^elo]. As we converge upwards, complexity grows superexponentially.
 
 Therefore, as convergence increases the complexity of our activities, extreme outcomes are amplified.
 
-### 2. All activities become more similar.
+### All activities become more similar.
 
 Artificial intelligence will enable many more activities than it will remove. The range of activities we have witnessed throughout human history will eventually be a drop in the ocean of activities that will eventually exist. While it's impossible to predict the nature of these activities, we _can_ predict that they will increasingly be more _similar_: i.e. skill in one will increasingly translate to skill in all.
 
-### 3. Convergence occurs locally and globally.
+### Convergence occurs locally and globally.
 
 Convergence occurs locally _and_ globally. In our example, we saw how the entire sub-tree stemming from "creating a startup" converges towards its root. Similarly, convergence occurs in the _global tree_ that "creating a startup" is a part of.
 
@@ -432,17 +432,17 @@ For example, while activities within the average B2B startup converge towards it
 
 Increasingly, companies will be outcompeted from _above_ rather than from the _side_. Companies will be forced to win at the _higher_ complexity activity in order to survive.
 
-### 4. Convergence is accelerating.
+### Convergence is accelerating.
 
-As activities become more similar, competition increases. This means that we will push each other to more quickly develop proficiency in higher complexity activities. Furthermore, artificial intelligence technology is growing exponentially fast.
+As activities become more similar, competition increases. This means that we will push each other to more quickly develop proficiency in higher complexity activities. Furthermore, artificial intelligence technology is growing exponentially fast, enabling us to execute faster.
 
-Due to these two effects, convergence will accelerate — at least for as long as we can continue to become proficient at the higher complexity activities that artificial intelligence enables.
+Due to these two effects, convergence will accelerate — at least for as long as we can continue to see (and become proficient at) the higher complexity activities that appear.
 
 Such convergence is not new. We have been feeling convergence for a while, but to a low degree. Ideas such as ["Software eating the world"](https://a16z.com/why-software-is-eating-the-world/), ["Competition is for losers"](https://www.csun.edu/~vcact00f/497CapStone/Peter%20Thiel_%20Competition%20Is%20for%20Losers%20-%20WSJ.pdf), etc. are localized observations of the larger phenomenon of convergence.
 
 ---
 
-_We have only scratched the surface of this phenomenon. You can find our rough notes about further implications & predictions [here](foundation/convergence_notes)._
+_We have only scratched the surface of this phenomenon. You can find our rough notes about further implications & predictions [here](https://github.com/root-foundation/root/blob/main/foundation/convergence_notes.md)._
 
 ## Superpositional intuition
 
