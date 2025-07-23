@@ -10,7 +10,7 @@ A vision for a _single_ system that will unite humanity and unlock its potential
 
 _ACT I — Tokenization_
 
-- [Artificial Intelligence](#artificial-intelligence)
+- [Introduction](#introduction)
 - [Problem](#problem)
 - [Venture capital](#venture-capital)
 - [Personal token](#personal-token)
@@ -40,7 +40,7 @@ _ACT III — Foundation_
 
 # ACT I — Tokenization
 
-## Artificial Intelligence
+## Introduction
 
 Artificial intelligence promises a future of abundance and prosperity in which each individual gains unimaginable power to realize their dreams.
 
@@ -58,7 +58,9 @@ Extreme outcomes aren't new; any highly complex activity has extreme outcomes �
 
 In such an extreme world, **debt is death**. Everything will be too risky to finance with debt. This is not due to fewer opportunities (AGI will enable far more opportunities than it takes), but rather due to the extreme, winner-take-all nature of outcomes within _each_ opportunity. In extreme outcomes, the median outcome falls to nothing and thus financing with debt is no longer viable.
 
-Tragically, the world does not understand that debt will no longer work. Billions around the world are still taking out loans to finance their lives — from their educations, to their homes, to their businesses — without realizing that they will almost certainly never be able to repay them in an extreme world. We are walking blindly into a catastrophe.
+Tragically, the world does not understand that debt will no longer work. Billions around the world are still taking out loans to finance their lives — from their educations, to their homes and businesses — without realizing that they will almost certainly never be able to repay these loans in an extreme world.
+
+We are walking blindly into a catastrophe.
 
 Moreover, _even_ if one is debt-free, they will almost certainly be outcompeted by one who can experiment boldly and tinker freely with _abundant_ resources.
 
@@ -75,15 +77,15 @@ Otherwise, human potential will be cruelly crushed, society will be torn apart, 
 
 In an extreme world, venture capital (VC) is the _only_ viable way to finance our lives.
 
-At its core, venture capital unites people by intertwining their success and failure.
+At its core, venture capital unites people by intertwining their success and failure — through _equity_ in outcomes.
 
-VC is already a popular way to finance startups: investors give early stage companies money in exchange for a stake in the company itself. If the company succeeds, the investors make great returns. If the company fails, the investors lose their investment. Importantly, startup founders are not indebted to investors, and because of the shared stake, investors are incentivized to give founders the resources they need to succeed.
+VC is already a popular way to finance startups: investors give startup companies money in exchange for an _equity_ stake in the startup itself. If the startup succeeds, the investors make great returns. If the startup fails, the investors lose their investment. Importantly, startup founders are not indebted to investors. And because of the shared stake, investors are incentivized to give founders the resources they need to succeed.
 
-Venture capital works exceptionally well in domains with extreme outcomes because an investor only needs a few bets to succeed in order to _more-than-compensate_ for the many failed bets they will inevitably have (because the median outcome is failure). Therefore, VC is the only way to finance activities that have extreme outcomes, as no other mode of financing can withstand the extreme failure rate.
+Venture capital works exceptionally well in domains with extreme outcomes because an investor only needs a few bets to succeed in order to _more-than-compensate_ for the many failed bets they will inevitably have (because the median outcome is failure). Therefore, VC is the only way to finance activities that have extreme outcomes because no other mode of financing can withstand the extreme failure rate.
 
-Since AGI makes _all_ activities extreme, VC will be the only viable way to finance anything. But, VC as it is understood today is far too restrictive because only those ready to start a company can leverage venture capital. In order to unlock our collective potential, we must enable individuals to access venture capital to finance a broader range of activities _and_ much earlier in their lives.
+Since AGI makes _all_ activities extreme, VC will be the only viable way to finance anything. But, VC as it is understood today is far too restrictive because only those ready to start a company can leverage venture capital. In order to unlock our collective potential, we must enable individuals to access venture capital to finance a broader range of activities, much earlier in their lives.
 
-We need a new financial instrument that democratizes venture capital.
+We need a new _financial instrument_ that democratizes venture capital.
 
 ## Personal token
 
@@ -95,13 +97,15 @@ We are creating the _personal token_: a financial instrument that represents an 
 
 Your personal token's value is grounded in your equities in companies and other personal tokens. A portion of the capital you gain when selling equity in a company or personal token is sent to your personal token shareholders — proportional to the equity they hold (i.e. dividends).
 
-Unlike company shareholders, personal token shareholders have _no_ “ownership” or control over anything the personal token owner does. **The owner of the personal token retains absolute, complete agency**.
+Unlike company shareholders, personal token shareholders have _no_ “ownership", control or say over the personal token owner or anything they do.
+
+**The owner of the personal token retains absolute, complete agency and control**.
 
 ## Network of personal tokens
 
 Personal tokens can't exist in a vacuum. We need many functions in order to have a thriving ecosystem of individuals investing in each other through their personal tokens (e.g., fighting fraud, enabling discovery, etc.). In order to finance such functions this system will collect a small _equity fee_: a micro stake in every personal token that has successfully raised funds.
 
-To be able to collect this equity fee, we have another _type_ of token called the _network token_. An instance of a network token (“NetworkToken”) represents the collective potential of the _entire_ network through its micro stakes in all personal tokens. The wallet associated with the NetworkToken is the network's treasury that helps finance all of its functions.
+To be able to collect this equity fee, we have another _type_ of token called the _network token_. An instance of a network token (i.e., “NetworkToken”) represents the collective potential of the _entire_ network through its micro stakes in all personal tokens. The wallet associated with the NetworkToken is the network's treasury that helps finance all of its functions.
 
 ## Personal tokens will democratize opportunity
 
@@ -113,9 +117,11 @@ Thus, personal tokens, and the market forces they create, will increasingly nega
 
 ## Universal Basic Equity (UBE)
 
-In an extreme world with a falling median outcome, a sufficient baseline of resources for each individual is a prerequisite to democratize opportunity. This is best achieved through _Universal Basic Equity (UBE)_: each citizen receives an _equity stake_ in the collective upside (i.e. stake in NetworkToken).[^children]
+In an extreme world with a falling median outcome, a sufficient baseline of resources for each individual is a prerequisite to democratizing opportunity.
 
-In addition to providing a strong baseline, UBE also creates a symbiotic relationship between the individual and the collective. When one wins, everyone immediately benefits because the value of one’s equity in the collective upside increases. Thus, UBE enables social cohesion.
+This is best achieved through _Universal Basic Equity (UBE)_: every citizen receives an _equity stake_ in the collective upside — a stake in the NetworkToken.[^children]
+
+In addition to providing a strong baseline, UBE also creates a symbiotic relationship between the individual and the collective. When one wins, everyone immediately benefits because the value of everyone’s equity in the collective upside increases. Thus, UBE enables social cohesion.
 
 [^children]: UBE incentivizes having children. When a baby is born, new shares in the NetworkToken is minted for that baby, thus diluting the value everyone else’s shares. Thus, families will be incentivized to have more children to increase their collective equity in the NetworkToken.
 
@@ -125,13 +131,13 @@ The personal token is the next phase in the evolution of financial instruments �
 
 Simple notions of debt and exchange became painful as the complexity of transactions grew. Over time, this created a pressure which (in a messy, nonlinear way) gave rise to transferrable IOUs — i.e. _money_.
 
-Similarly, debt instruments became a painful means to finance high-risk high-reward expeditions that emerged due to rapid growth in technology and ambition. This created a pressure that gave rise to transferrable equity in upside — i.e. _venture-backed company_.
+Similarly, debt instruments became a painful means to finance high-risk high-reward expeditions that emerged due to rapid advancement. This created a pressure that gave rise to transferrable equity in upside — i.e. _venture-backed company_.
 
-For instance, in seafaring, bankers simultaneously invested in many expeditions in exchange for a piece of the profits, enabling them to profit even when only a few survived.
+For instance, in seafaring, bankers simultaneously invested in many risky expeditions in exchange for a stake in the profits, enabling them to profit even when only a few expeditions survived.
 
-Importantly, the notion of a venture-backed company allowed us to assign value to hope. The gap between the value of a company and reality (its revenue) is the company’s greatest feature. Being able to _transact_ shares of equity in this instrument enables venture capital financing.
+Importantly, the notion of a venture-backed company allowed us to assign value to _hope_. The gap between the value of a company and reality (its revenue) is the company’s greatest feature. Being able to _transact_ equity shares of a company enables venture capital financing.
 
-Today, we are at another inflection point. AGI makes _all_ outcomes extreme, not just those in a few creative domains, invalidating debt as a viable means to finance anything. This creates pressure for an instrument that sits _above_ companies: representing an individual’s equities across companies — i.e. _personal token_.
+Today, we are at another inflection point. AGI makes _all_ outcomes extreme, not just those in a few domains, invalidating debt as a viable means to finance _anything_. This creates pressure for an instrument that sits _above_ companies: representing an individual’s equities across companies — i.e. _personal token_.
 
 Being able to _transact_ shares of equity in personal tokens enables individuals to access venture capital much more broadly. In the same way that a company enables us to assign value to hope in a particular expression, the personal token enables us to assign value to hope in an _individual_, across all of their expressions.
 
@@ -139,9 +145,9 @@ Being able to _transact_ shares of equity in personal tokens enables individuals
 
 ## Value will be concentrated in personal tokens
 
-Concentration of value moves _upwards_.
+As we advance, value concentrates _upwards_.
 
-Over time, value became concentrated in companies, not transactions. We can observe this by seeing how the most valuable companies in the world are valued far more than the sum of their transactions (revenue).
+Over time, value became concentrated in companies, not transactions — the most valuable companies in the world are valued far more than the sum of their transactions (revenue).
 
 Similarly, in a post AGI world with extreme outcomes, value will become concentrated in personal tokens. A personal token will be valued far more than the sum of the values of its equities in companies _(recall: a personal token’s value is grounded in its equities in companies and other personal tokens)_.
 
@@ -153,17 +159,17 @@ Yet, for early adopters, engaging with personal tokens will come naturally as pe
 
 Then, personal tokens will rewrite our entire education system by enabling a better business model: instead of _charging_ for education, great teachers will _invest_ in students they want to train. In an extreme world, this will be the _only_ way teachers will be able to earn what they deserve, and the _only_ way students will be able to incentivize the best teachers to train them.
 
-Increasingly, great products and discoveries would find their start in individual explorations financed by personal tokens. Then, investing in personal tokens will become more popular than investing in companies because attention and value becomes concentrated in individuals holistically, not individual expressions.
+Increasingly, great products and discoveries will find their start in individual explorations financed by personal tokens. Then, investing in personal tokens will become more popular than investing in companies because attention and value become concentrated in individuals holistically, not in their particular expressions.
 
 Future governance structures built upon personal tokens will enable social cohesion through Universal Basic Equity (UBE) that gives everyone a stake in this collective progress.
 
-In an extreme, post AGI world, the outcomes of nations too will be extreme. The most powerful nation will be orders of magnitude more powerful than the next one, leading to a near absolute economic and cultural domination. This is because the nation that adopts personal tokens first will best maximize their growth by unlocking their collective potential. Eventually, the winning nation will force everyone else into this economic system.
+In an extreme, post AGI world, the outcomes of nations too will be extreme. The most powerful nation will be orders of magnitude more powerful than the next one, leading to economic and cultural domination. This is because the nation that adopts personal tokens first will best maximize their growth by unlocking their collective potential. Eventually, the winning nation will force everyone else into this economic system.
 
-A new _tokenized_ economic system will emerge upon personal tokens. All investing will happen within this system. From the _personal token_, we can derive: ai tokens, human tokens, etc. Similarly, from the _network token_, we can derive: company tokens, country tokens (e.g. “USAToken”) and various other sub-network tokens. A rich ecosystem of products and services will emerge upon this tokenized framework.
+All of society's functions will be grounded in tokens. A rich, _tokenized_ ecosystem of investing in tokens of _all_ kinds — personal tokens, ai tokens, company tokens, country tokens (e.g., "USAToken"), etc. — will emerge to enable venture capital to finance _anything_ that we do.
 
-In effect, tokens will eat the world, unite humanity through UBE, and unlock its potential by democratizing opportunity.
+In effect, tokens will eat the world. Such a tokenized system will help us unite society and democratize opportunity.
 
-But, this new economic system alone will not enable us to fulfill our mission to unite humanity and unlock its potential. Our economic system is a part of a much larger system that we must shape in order to be able to achieve our mission. In order to understand this larger system, we must start with a more fundamental worldview.
+But, this new economic system alone will not enable us to _fully_ realize our mission to unite humanity and unlock its potential. Our economic system is a part of a much larger system that we must shape. To understand this larger system, we must start with a more fundamental worldview.
 
 # ACT II — Convergence
 
@@ -175,15 +181,15 @@ Life has the “urge” to maximize its range of experiences. All of our desires
 
 ## Story, Instrument, Technology
 
-In order to understand this trend towards unity, we must first understand how humanity’s activities change.
+In order to understand this trend towards unity, we must first understand how humanity’s activities evolve.
 
-All change has three broad features:
+All evolution (or broadly all change) has three features:
 
 1. **Story** — generates _beliefs_.
 2. **Instrument** — generates _incentives_.
 3. **Technology** — generates _leverage_.
 
-Many things can influence the nature of change, including our activities that influence stories, instruments, and technologies.
+Many things can influence the nature of change, including, and not limited to, our activities that influence stories, instruments, and technologies.
 
 ### Story
 
@@ -201,7 +207,7 @@ And often the distinction between these types are blurry: social platforms also 
 
 ### Technology
 
-We define technology more narrowly as something that creates _leverage_. Leverage is defined simply as how quickly you can accomplish a task. For example, language, computer, software, internet, smartphones, AI, etc., create leverage. Gain in leverage often enables new opportunities and activities.
+We define technology more narrowly as something that creates _leverage_. Leverage is defined simply as how quickly you can accomplish a task. For example, language, computers, software, internet, smartphones, AI, etc., create leverage. Gain in leverage often enables new opportunities and activities.
 
 ## Interdependence — Imbalance
 
@@ -213,17 +219,25 @@ Features of change are interdependent. Stories, instruments and technologies ten
 | `Colonialism` | Spread civilization | Company             | Ships, guns, etc.           |
 | `AGI`         | Unity               | Personal token, UBE | Large language models, etc. |
 
-Each feature of change (story, instrument, technology) has a notion of advancement, i.e., more advanced stories, instruments, technology enable more complex activities. (Note: from here on, when we reference AGI we are referring to the _change_: i.e., the stories, instruments _and_ technologies it comes with. If we are only talking about a particular feature of this change, we will explicitly mention it.).
+As presented in this table, every broad change comes with a collection of stories, instruments and technologies, of which we have only shown a few.
 
-When one feature advances far beyond the rest, a _pressure_ is created for all other features to catch up. This pressure manifests as pain in the collective human experience. Thus, the degree of imbalance in the advancements of these three features, correlates with collective suffering.
+Each feature of change (story, instrument, technology) has a notion of advancement, i.e., more advanced stories, instruments, technology enable more complex activities. (Note: from here on, when we reference AGI we are referring to the AGI _change_: i.e., the stories, instruments _and_ technologies it comes with. If we are only talking about a particular feature of this change, we will explicitly mention it.).
 
-We have already explored our current imbalance earlier: advancement of AGI technology makes our economic system incredibly oppressive because debt will be an _unviable instrument_ to finance anything. Similarly, advancement in AGI technology makes our current education incredibly oppressive because most of the stories that people are learning and believing will render them _unemployable_ in a post AGI world. Moreover, advancement in AGI technology makes our current governance system oppressive because the rate of government decision making can’t keep up with the rate of change, thus any policy reliefs will increasingly come far too late.
+When one feature advances far beyond the rest, a _pressure_ is created for all other features to catch up. This pressure manifests as pain in the collective human experience. Thus, the degree of imbalance in the advancements of these three features (story, instrument, technology) correlates with collective suffering.
 
-Since AGI technology is accelerating exponentially, **imbalance is growing acceleratingly fast**. If we continue to accelerate in such an unbalanced manner, our suffering will also grow exponentially — far eclipsing the suffering we are already experiencing due to the current imbalance.
+Since AGI technology is accelerating exponentially, **imbalance is growing acceleratingly fast**. If we continue to accelerate this imbalance, our suffering will also accelerate — far eclipsing the suffering we've discussed till now.
 
-This means that advancing our economic system through personal tokens alone won’t prevent catastrophe because advancement in a single feature alone will accomplish almost _nothing_. For example, without an advancement in our governance instruments, personal tokens will simply be a toy for the rich, as UBE cannot be implemented as it needs to be to give everyone a stake in the collective growth.
+Our outdated economic system is just one small part of the broader imbalance:
 
-Thus we must advance all features of change in order to achieve our mission: unite humanity and unlock its potential. In addition to the instrument of tokens, we will also need to create all other instruments (governance, legal, social, etc.), _and_ advance our stories (towards unity), _and_ build technology (superintelligence).
+- Advancement of AGI _technology_ makes our economic system oppressive because debt becomes an _unviable instrument_ to finance anything (i.e., our [problem](#problem)).
+- Advancement in AGI _technology_ makes our education system oppressive because what people are learning will make them _unemployable_ in a post AGI world (i.e., our _stories_ are outdated).
+- Advancement in AGI _technology_ makes our governance system oppressive because its rate of decision-making can’t keep up with rate of change (i.e., _governance instruments_ are outdated). For example, personal tokens will simply be a toy for the rich until UBE is implemented to ensure everyone has a stake in the collective growth.
+- Advancement in AGI _technology_ makes our political climate oppressive because it lacks powerful stories of unity and collective growth that are now made possible due to artificial intelligence.
+- _(and many many more)_.
+
+This means our tokenized economic instrument alone won’t prevent catastrophe because advancement in a single feature alone will accomplish almost _nothing_.
+
+Thus we must advance all features of change in order to achieve our mission: unite humanity and unlock its potential. In addition to the instrument of tokens, we will also need to create all other instruments (governance, legal, social, etc.), _and_ advance our stories (towards unity), _and_ build technology (superintelligence). And importantly, they must be advanced _together_ to eliminate imbalance.
 
 We believe this can _only_ be realized through a _single_ system that advances everything together — as _one_. Such an opportunity exists due to a phenomenon called _convergence_.
 
