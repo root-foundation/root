@@ -243,7 +243,7 @@ We believe this can _only_ be realized through a _single_ system that advances e
 
 ## Convergence phenomenon
 
-Convergence is the phenomenon of our activities evolving to be more complex _and_ similar — towards a _highly complex_, _singular_, activity.
+Convergence is the phenomenon of our activities evolving to be more complex _and_ similar — towards a _highly complex_, _singular_ activity.
 
 To understand what this means and how it's caused, we must first understand the nature of an activity.
 
@@ -253,20 +253,18 @@ Human activity resembles a _finite_, _recursive_ tree [^tree]. Each node of the 
 
 [^tree]: Viewing human experience as a recursive tree is a very [old idea](https://chatgpt.com/share/68775f64-306c-8004-a5c1-f5ed7983ea07).
 
-Activities have a notion of complexity and similarity:
+Activities have a notion of _complexity_ and _similarity_:
 
 1. Each activity (i.e., node) has a notion of [complexity](https://en.wikipedia.org/wiki/Game_complexity): the number of possible states for that activity. For example: assembly work is less complex due to limited possibilities, whereas product design is far more complex due to exponentially more possibilities. Within the tree, sub-activities will be superexponentially less complex than their parent (explained later).
-2. A pair of similarly complex activities have a notion of "similarity": the more similar two activities are, the more seamlessly skill transfers between them. The tree-path distance between two activities (at the same complexity depth) represents the similarity between them.
+2. A pair of similarly complex activities have a notion of "similarity": the more similar two activities are, the more seamlessly ability transfers between them. The tree-path distance between two activities (at the same complexity depth) represents the similarity between them.
 
 [^elo]: Go has a greater ELO spread amongst its top players than Chess, leading to more extreme outcomes.
 
-_Advancements_ (i.e., changes) tend to push us _upwards_ towards more complex activities by adding more complex activities (and sub-activities) to the tree while removing less complex ones. For example: spreadsheets removed many lower complexity activities related to bookkeeping while spawning many new branches and fields (e.g. analysis, risk modeling, etc.). Since extreme outcomes is a feature of complexity, advancement creates activities with more extreme outcomes.
+_Advancements_ (i.e., [changes](#story-instrument-technology)) tend to push us _upwards_ towards more complex activities — by adding more complex activities (and sub-activities) to the tree while removing less complex ones. For example, spreadsheets removed many lower complexity activities related to bookkeeping while spawning many new branches and fields (e.g. analysis, risk modeling, etc.).
 
-Yet, throughout history, advancement has been unequally distributed. Some branches of activity advanced far more rapidly than others. For example, computers, software and the internet advanced rapidly while much of the world continued to rely on less complex, ancient, agricultural practices. This meant that while we had extreme outcomes in a few, complex, activities, there still existed many low complex activities with non-extreme outcomes.
+Yet, throughout history, advancement has been unequally distributed. Some branches of activity advanced far more rapidly than others. For example, most knowledge work is far more complex than the average activities in agriculture.
 
-But, AGI operates on our tree in a fundamentally different way than any previous advancement. AGI will prune _all_ activities below a certain complexity threshold, completely eliminating less complex activities. All activities will become highly complex, and thus all activities will have extreme outcomes. This is what makes debt unviable in a post AGI world, as we discussed [earlier](#problem).
-
-(To be clear, by "AGI" we mean the change of AGI that has stories, instruments _and_ technologies).
+But, AGI operates on our tree in a fundamentally different way than any previous advancement. AGI will prune _all_ activities below a certain complexity threshold, completely eliminating less complex activities. Therefore, all activities will become highly complex.
 
 <img src="foundation/assets/diagram.png">
 
@@ -274,11 +272,11 @@ But, AGI operates on our tree in a fundamentally different way than any previous
 - B. Advancements update the tree.
 - C. AGI (fundamentally _different_ type of advancement) balances tree by eating all activities below a complexity threshold.
 
-And importantly, due to the tree structure, new activities are added higher in the tree (as they are more complex), and thus are closer to each other (i.e., more similar).
+And importantly, due to the tree structure, newly _added_ activities are added higher in the tree (as they are more complex), and thus are closer to each other (i.e., more similar).
 
-Thus artificial intelligence will _converge_ human activity _towards_ a singular, highly complex activity such that an individual great at one activity will be great at all.
+Thus, artificial intelligence will _converge_ human activity _towards_ a highly complex, singular, activity such that an individual great at one activity will be great at all.
 
-Let's understand how this phenomenon manifests in our world through a simple example: creating a startup.
+Let's understand how this phenomenon manifests in our world through the example of creating a startup.
 
 ### Example: creating a startup
 
