@@ -44,7 +44,7 @@ _ACT III — Foundation_
 
 Artificial intelligence promises a future of abundance and prosperity by giving each individual unimaginable power to realize their dreams.
 
-But, as we accelerate towards Artificial General Intelligence (AGI)[^ai], our debt-based economic will increasingly concentrate opportunity, cruelly oppress those without wealth and will eventually tear society apart at its seams.
+But, as we accelerate towards Artificial General Intelligence (AGI)[^ai], our debt-based economic system will increasingly concentrate opportunity, cruelly oppress those without wealth and will eventually tear society apart at its seams.
 
 We must unlock humanity’s potential _and_ unite society by democratizing opportunity and giving each individual a stake in our collective growth.
 
@@ -207,11 +207,11 @@ We define technology more narrowly as something that creates _leverage_. Leverag
 
 Features of change are interdependent. Stories, instruments and technologies tend to emerge together:
 
-| Change        | Story               | Instrument     | Technology                  |
-| ------------- | ------------------- | -------------- | --------------------------- |
-| `Commerce`    | God                 | Money          | Coinage, bookkeeping, etc.  |
-| `Colonialism` | Spread civilization | Company        | Ships, guns, etc.           |
-| `AGI`         | Unity               | Personal token | Large language models, etc. |
+| Change        | Story               | Instrument          | Technology                  |
+| ------------- | ------------------- | ------------------- | --------------------------- |
+| `Commerce`    | God                 | Money               | Coinage, bookkeeping, etc.  |
+| `Colonialism` | Spread civilization | Company             | Ships, guns, etc.           |
+| `AGI`         | Unity               | Personal token, UBE | Large language models, etc. |
 
 Each feature of change (story, instrument, technology) has a notion of advancement, i.e., more advanced stories, instruments, technology enable more complex activities. (Note: from here on, when we reference AGI we are referring to the _change_: i.e., the stories, instruments _and_ technologies it comes with. If we are only talking about a particular feature of this change, we will explicitly mention it.).
 
