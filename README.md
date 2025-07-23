@@ -42,13 +42,13 @@ _ACT III — Foundation_
 
 ## Artificial Intelligence
 
-Artificial intelligence promises a future of abundance and prosperity by giving each individual unimaginable power to realize their dreams.
+Artificial intelligence promises a future of abundance and prosperity in which each individual gains unimaginable power to realize their dreams.
 
 But, as we accelerate towards Artificial General Intelligence (AGI)[^ai], our debt-based economic system will increasingly concentrate opportunity, cruelly oppress those without wealth and will eventually tear society apart at its seams.
 
-We must unlock humanity’s potential _and_ unite society by democratizing opportunity and giving each individual a stake in our collective growth.
+We propose a new economic system that unites society and unlocks humanity’s potential by giving every person a share in our collective progress and democratizing opportunity.
 
-[^ai]: To avoid confusion, we've defined artificial intelligence milestones as follows: <br /><br />1. Domain specific AI: performs specific cognitive tasks but lacks broad adaptability. <br />2. AGI: _reasons_ across most domains as well as a human. <br />3. Superintelligence: performs cognition _above_ reasoning (appears to be _intuitive_). <br /><br />We believe we will have full AGI far sooner than most people think, full Superintelligence far, far later than many think (possibly never).
+[^ai]: To avoid confusion, when we say "artificial intelligence" unabbreviated (and without other qualifiers) we mean the broader societal, cultural, and technological change. We note 3 milestones: <br /><br />1. Domain specific AI: performs specific cognitive tasks but lacks broad adaptability. <br />2. AGI: _reasons_ across most domains as well as a human. <br />3. Superintelligence: performs cognition _above_ reasoning (appears to be _intuitive_). <br /><br />We believe we will have full AGI far sooner than most people think, full Superintelligence far, far later than many think (possibly never).
 
 ## Problem
 
