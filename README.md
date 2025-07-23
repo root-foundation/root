@@ -280,6 +280,8 @@ Let's understand how this phenomenon manifests in our world through the example 
 
 ### Example: creating a startup
 
+The following is the activity tree for creating a startup. Complexity falls as you go down the tree.
+
 ```mermaid
 flowchart TD
     %% Main nodes with curved (stadium) edges
@@ -336,20 +338,20 @@ flowchart TD
     class BuildNew,DesignNew,BuildSystemNew,SellNew,CreatePipelineNew new;
 ```
 
-Firstly, we can observe that skill transfer from an activity to a similarly complex activity (i.e. at the same depth) is represented by the _distance_ between them in the tree (i.e. via tree path). We observe this because domain specific and execution specific knowledge do not transfer easily, whereas, higher order reasoning and intuition do.
+Firstly, _ease_ of transferring ability from an activity to a similarly complex activity (at same depth) is represented by the _distance_ between them in the tree (i.e. via tree path). This represents the fact that domain specific and execution specific knowledge do not transfer easily, whereas, higher order reasoning and intuition do.
 
-| Depth            | Skill Type                   | Difference                                   | Skill Transferability | Intelligence |
-| ---------------- | ---------------------------- | -------------------------------------------- | --------------------- | ------------ |
-| `Towards parent` | Intuition                    | Even more similar "feel" for what works.     | HIGH                  | SI           |
-| `D2`             | Logic & reasoning            | Similar analysis & logical experimentation.  | MEDIUM                | AGI          |
-| `D3`             | Domain specific knowledge    | Different frameworks, principles.            | LOW                   | AI           |
-| `Towards leaves` | Execution specific knowledge | Very different tools (Figma vs. Salesforce). | VERY LOW              | AI / rules   |
+| Depth            | Ability Type                 | Difference                                   | Ability Transferability | Intelligence |
+| ---------------- | ---------------------------- | -------------------------------------------- | ----------------------- | ------------ |
+| `Towards root`   | Intuition                    | Even more similar "feel" for what works.     | HIGH                    | SI           |
+| `D2`             | Logic & reasoning            | Similar analysis & logical experimentation.  | MEDIUM                  | AGI          |
+| `D3`             | Domain specific knowledge    | Different frameworks, principles.            | LOW                     | AI           |
+| `Towards leaves` | Execution specific knowledge | Very different tools (Figma vs. Salesforce). | VERY LOW                | AI / rules   |
 
-Secondly, we observe that skill transfer _upwards_ (from an activity to its _parent_ activity) becomes more difficult higher in the tree you go. For example, it is much easier to go from proficiency in using Figma to building design systems than it is to go from designing to building — which requires understanding across design, engineering and the many other functions required to build a product.
+Secondly, we observe that ease of transferring ability _upwards_ (from an activity to its _parent_ activity) becomes more difficult the higher up the tree we go. For example, it is much easier to go from proficiency in using Figma to building design systems than it is to go from designing to building — which requires understanding across design, engineering and the many other functions required to build a product.
 
 ---
 
-As AGI prunes the tree according to complexity, we will notice that lower depths disappear, and new activities emerge at the higher depths. These new activities will be more _similar_ to each other (i.e., skill more likely to transfer) because the tree distance between them is shorter higher up in the tree.
+As AGI prunes the tree according to complexity, we will notice that lower depths disappear, and new activities emerge at depths higher up the tree. These new activities will be more _similar_ to each other (i.e., ability is more likely to transfer) because the tree distance between them is shorter higher up in the tree. This represents the fact that these more complex activities involve less domain and execution specific knowledge (as discussed above).
 
 ```mermaid
 flowchart TD
@@ -390,11 +392,44 @@ flowchart TD
     class BuildNew,DistributeNew new;
 ```
 
-These _new_ activities that are enabled _higher_ up in the tree are more similar (i.e., skill transfers more easily across them). This is because they involve less domain and execution specific knowledge (as discussed above). In the language of our tree model, these new activities are more similar because they are _closer_: i.e., distance between them via tree path is shorter as they are higher in the tree.
-
 ---
 
 Eventually activities converge towards a _singular_ activity.
+
+```mermaid
+flowchart TD
+Startup("Create Startup")
+
+classDef mainNode fill:#f3f3f3,stroke:#ffffff,stroke-width:2px,color:#000;
+
+class Root,Startup mainNode;
+```
+
+---
+
+### Caution
+
+Before we conclude this example, a few things to keep in mind:
+
+- We should not be attached to the labels we've used ("startup", "design", "sell" etc.) because these labels have no meaning on their own. For example, a lead designer at a far more complex startup will likely be performing higher complexity activities than a CEO of a less complex startup. Similarly, a mediocre designer will not operate at a high level of complexity even though their activity requires them to, because they are ignorant of its complexity. As we will see below, as we converge further, labels acceleratingly become not only useless, but also limiting.
+- In the "Transferability" column above, what we've considered as "HIGH" may be seen as "VERY LOW" by our descendents who will be operating at such heights in the tree where transfering abilities can happen even more seamlessly (/ faster). These are relative terms. We've presented it this way to show how convergence looks _locally_ within an activity that is familiar to many today. But, this activity itself will likely be very low in the global tree that artificial intelligence will enable.
+- While we have modeled our activities as _discrete_ nodes to make it easy to reason, in reality they are fluid: i.e. there are near infinite discrete steps within each step above. Yet, the underlying principle of convergence remains the same.
+
+---
+
+### Convergence amplifies extreme outcomes.
+
+We observe that more complex activities yield more _extreme_ outcomes. E.g., outcomes for product design are far more extreme than outcomes for assembly work. We can also observe this phenomenon in popular board games: Go is far more complex than Chess, and thus has more extreme outcomes[^elo]. As we converge upwards, complexity grows superexponentially.
+
+Therefore, as convergence increases the complexity of our activities, extreme outcomes are amplified.
+
+### All activities become more similar.
+
+Artificial intelligence will enable many more activities than it will remove. The range of activities we have witnessed throughout human history will eventually be a drop in the ocean of activities that will eventually exist. While it's impossible to predict the nature of these activities, we _can_ predict that they will increasingly be more _similar_: i.e. ability in one will increasingly translate to ability in all.
+
+### Convergence occurs locally and globally.
+
+Convergence occurs locally _and_ globally. In our example, we saw how the entire sub-tree stemming from "creating a startup" converges towards its root. Similarly, convergence occurs in the _global tree_ that "creating a startup" is a part of.
 
 ```mermaid
 flowchart TD
@@ -415,32 +450,6 @@ class Root,Startup mainNode;
 class Placeholder placeholder;
 class New new;
 ```
-
----
-
-### Caution
-
-Before we conclude this example, a few things to keep in mind:
-
-- We should not be attached to the labels we've used ("startup", "design", "sell" etc.) because these labels have no meaning on their own. For example, a lead designer at a far more complex startup will likely be performing higher complexity activities than a CEO of a less complex startup. Similarly, a mediocre designer will not operate at a high level of complexity even though their activity requires them to, because they are ignorant of its complexity. As we will see below, as we converge further, labels acceleratingly become not only useless, but also limiting.
-- In the "Transferability" column above, what we've considered as "HIGH" may be seen as "VERY LOW" by our descendents who will be operating at such heights in the tree where transfering skills can happen even more seamlessly (/ faster). These are relative terms. We've presented it this way to show how convergence looks _locally_ within an activity that is familiar to many today. But, this activity itself will likely be very low in the global tree that artificial intelligence will enable.
-- While we have modeled our activities as _discrete_ nodes to make it easy to reason, in reality they are fluid: i.e. there are near infinite discrete steps within each step above. Yet, the underlying principle of convergence remains the same.
-
----
-
-### Convergence amplifies extreme outcomes.
-
-We observe that more complex activities yield more _extreme_ outcomes. E.g., outcomes for product design are far more extreme than outcomes for assembly work. We can also observe this phenomenon in popular board games: Go is far more complex than Chess, and thus has more extreme outcomes[^elo]. As we converge upwards, complexity grows superexponentially.
-
-Therefore, as convergence increases the complexity of our activities, extreme outcomes are amplified.
-
-### All activities become more similar.
-
-Artificial intelligence will enable many more activities than it will remove. The range of activities we have witnessed throughout human history will eventually be a drop in the ocean of activities that will eventually exist. While it's impossible to predict the nature of these activities, we _can_ predict that they will increasingly be more _similar_: i.e. skill in one will increasingly translate to skill in all.
-
-### Convergence occurs locally and globally.
-
-Convergence occurs locally _and_ globally. In our example, we saw how the entire sub-tree stemming from "creating a startup" converges towards its root. Similarly, convergence occurs in the _global tree_ that "creating a startup" is a part of.
 
 For example, while activities within the average B2B startup converge towards its root, this startup itself will be rendered irrelevant due to convergence higher in the global tree. This is because a new company will emerge at a higher position in the tree that will perform the function of this particular startup and many other similar ones.
 
@@ -464,7 +473,7 @@ The higher into the tree we converge to (i.e. the more complex and similar our a
 
 The gap between the complexity of an activity and its sub-activity grows superexponentially with depth. At low complexity depths, this superexponentiality is not pronounced because the base complexity itself is low.
 
-We can understand this superexponentiality intuitively by studying the difference between the skill of a master and a novice in a highly complex game.
+We can understand this superexponentiality intuitively by studying the difference between the ability of a master and a novice in a highly complex game.
 
 - Novices make moves by _independently_ making moves in each of the sub-activities.
 - Masters makes moves by choosing _vectors_ from a higher dimensional _vector space_ created by using each sub-activity as a _basis vector_.
