@@ -407,29 +407,31 @@ class Root,Startup mainNode;
 
 ---
 
-### Caution
+### Cautions
 
 Before we conclude this example, a few things to keep in mind:
 
-- We should not be attached to the labels we've used ("startup", "design", "sell" etc.) because these labels have no meaning on their own. For example, a lead designer at a far more complex startup will likely be performing higher complexity activities than a CEO of a less complex startup. Similarly, a mediocre designer will not operate at a high level of complexity even though their activity requires them to, because they are ignorant of its complexity. As we will see below, as we converge further, labels acceleratingly become not only useless, but also limiting.
-- In the "Transferability" column above, what we've considered as "HIGH" may be seen as "VERY LOW" by our descendents who will be operating at such heights in the tree where transfering abilities can happen even more seamlessly (/ faster). These are relative terms. We've presented it this way to show how convergence looks _locally_ within an activity that is familiar to many today. But, this activity itself will likely be very low in the global tree that artificial intelligence will enable.
+- We should not be attached to the labels we've used ("startup", "design", "sell" etc.) because these labels have no meaning on their own. For example, a lead designer at a far more complex startup will likely be performing higher complexity activities than a CEO of a less complex startup. Similarly, a mediocre designer will not operate at a high level of complexity even though their activity requires them to, because they are ignorant of its complexity.
+- In the "Transferability" column above, what we've considered as "HIGH" may be seen as "VERY LOW" by our descendents who will be operating at such heights in the tree where transfering abilities can happen even more seamlessly. These are relative terms.
 - While we have modeled our activities as _discrete_ nodes to make it easy to reason, in reality they are fluid: i.e. there are near infinite discrete steps within each step above. Yet, the underlying principle of convergence remains the same.
 
 ---
 
+Let's explore the implications of convergence that are relevant to us.
+
 ### Convergence amplifies extreme outcomes.
 
-We observe that more complex activities yield more _extreme_ outcomes. E.g., outcomes for product design are far more extreme than outcomes for assembly work. We can also observe this phenomenon in popular board games: Go is far more complex than Chess, and thus has more extreme outcomes[^elo]. As we converge upwards, complexity grows superexponentially.
+As convergence increases the complexity of our activities, extreme outcomes are amplified.
 
-Therefore, as convergence increases the complexity of our activities, extreme outcomes are amplified.
+This is because generally we observe that more complex activities yield more _extreme_ outcomes. E.g., outcomes for product design are far more extreme than outcomes for assembly work. We can also observe this phenomenon in popular board games: Go is far more complex than Chess, and thus has more extreme outcomes[^elo].
 
 ### All activities become more similar.
 
-Artificial intelligence will enable many more activities than it will remove. The range of activities we have witnessed throughout human history will eventually be a drop in the ocean of activities that will eventually exist. While it's impossible to predict the nature of these activities, we _can_ predict that they will increasingly be more _similar_: i.e. ability in one will increasingly translate to ability in all.
+Artificial intelligence will enable many more activities than it will remove. The range of activities we have witnessed throughout human history will eventually be a drop in the ocean of activities that will eventually exist. While it's impossible to predict the nature of these activities, we _can_ predict that they will be increasingly _similar_: i.e. ability in one will increasingly translates to ability in all.
 
 ### Convergence occurs locally and globally.
 
-Convergence occurs locally _and_ globally. In our example, we saw how the entire sub-tree stemming from "creating a startup" converges towards its root. Similarly, convergence occurs in the _global tree_ that "creating a startup" is a part of.
+Convergence occurs locally _and_ globally. In our example, we saw how the entire tree stemming from "creating a startup" converges towards its root. But, "creating a startup" is a sub-activity for far more complex activities higher up in the _global_ tree. Convergence _also_ occurs in the _global tree_ that "creating a startup" is a part of.
 
 ```mermaid
 flowchart TD
@@ -451,15 +453,17 @@ class Placeholder placeholder;
 class New new;
 ```
 
-For example, while activities within the average B2B startup converge towards its root, this startup itself will be rendered irrelevant due to convergence higher in the global tree. This is because a new company will emerge at a higher position in the tree that will perform the function of this particular startup and many other similar ones.
+For example, while activities within the average B2B startup converge towards its root, this startup itself will be rendered irrelevant due to convergence higher in the global tree. This is because a new company will emerge at a higher position in the tree that will perform the function of this particular startup and many other _similarly complex_ ones.
 
-Increasingly, companies will be outcompeted from _above_ rather than from the _side_. Companies will be forced to win at the _higher_ complexity activity in order to survive.
+Increasingly, companies will be outcompeted from _above_ rather than from the _side_. Companies will be forced to compete and win at _higher_ complexity activities in order to survive.
 
 ### Convergence is accelerating.
 
-As activities become more similar, competition increases. This means that we will push each other to more quickly develop proficiency in higher complexity activities. Furthermore, artificial intelligence technology is growing exponentially fast, enabling us to execute faster.
+As activities become more similar, competition increases.
 
-Due to these two effects, convergence will accelerate — at least for as long as we can continue to see (and become proficient at) the higher complexity activities that appear.
+This means that we will push each other to more quickly develop proficiency in more complex activities. Furthermore, artificial intelligence technology is growing exponentially fast, enabling us to perform these more complex activities faster.
+
+Due to these two effects, convergence will accelerate — at least for as long as we can continue to see (and become proficient at) the more complex activities that appear.
 
 Such convergence is not new. We have been feeling convergence for a while, but to a low degree. Ideas such as ["Software eating the world"](https://a16z.com/why-software-is-eating-the-world/), ["Competition is for losers"](https://www.csun.edu/~vcact00f/497CapStone/Peter%20Thiel_%20Competition%20Is%20for%20Losers%20-%20WSJ.pdf), etc. are localized observations of the larger phenomenon of convergence.
 
@@ -469,9 +473,9 @@ _We have only scratched the surface of this phenomenon. You can find our rough n
 
 ## Superpositional intuition
 
-The higher into the tree we converge to (i.e. the more complex and similar our activities become), the less we can _define_ an activity by its sub-activities. An activity becomes _far_ more than the _sum_ of its sub-activities.
+The higher up in the tree we converge (i.e. the more complex and similar our activities become), the less we can _define_ an activity by its sub-activities. An activity becomes _far_ more than the _sum_ of its sub-activities.
 
-The gap between the complexity of an activity and its sub-activity grows superexponentially with depth. At low complexity depths, this superexponentiality is not pronounced because the base complexity itself is low.
+The gap between the complexity of an activity and its sub-activity grows superexponentially as we go up the tree (i.e. towards root). At low complexity depths, this superexponentiality is not pronounced because the base complexity itself is low.
 
 We can understand this superexponentiality intuitively by studying the difference between the ability of a master and a novice in a highly complex game.
 
@@ -480,21 +484,19 @@ We can understand this superexponentiality intuitively by studying the differenc
 
 The dimension of the vector space of moves for an activity faithfully represents its complexity.
 
-Moves in the master's higher dimensional vector space may not be describable using the labels of its sub-activities. For example, a master startup founder might make decisions that you will not be able to categorize as a "product", "design", "marketing", "brand", "sales", etc. decision. The move comes off as a weird, fluid, combination of sub-activities, or even none of them. For a novice founder, these moves may not only appear weird, but also _wrong_.
+Moves in the master's higher dimensional vector space may not be describable using the labels of its sub-activities. For example, a master startup founder might make decisions that you will not be able to categorize as a "product", "design", "marketing", "brand", "sales", etc. decision. Their moves may come off as a weird, fluid, combination of sub-activities, or even none of them. For a novice founder, these moves may not only appear weird, but also _wrong_. As complexity grows, increasingly, a mediocre player will be unable to conceive of _most_ of the possible moves — even though such moves exist, and are _better_. Similar to how a player viewing through a 2D lens can't imagine that they can "jump" because it is a move that only exists in a 3D lens.
 
-We call such a move that cannot be neatly categorized into sub-activities a _superpositional move_ because the move exists as a _superposition_ of the sub-activity basis vectors.
+We call such a move that cannot be neatly categorized into sub-activities a _superpositional move_ because the move exists as a _superposition_ of the sub-activity basis vectors[^superposition-math].
 
-Mathematically, a master player would _tensor product_ the vector spaces of the sub-activities (meaning, parent activity’s dimension will be the _product_ of the sub-activity dimensions). This would give them access to superpositional activities that cannot be factored (i.e., “neatly categorized”) into subactivities. On the other hand, a novice player would incorrectly presume that all moves can be factored. Thus, they ignorantly presume that the parent activity’s vector space is the _direct sum_ of subactivities (meaning, the parent activity’s dimension is the mere _sum_ of the sub-activity dimensions).
+[^superposition-math] Mathematically, a master player would _tensor product_ the vector spaces of the sub-activities (meaning, parent activity’s dimension will be the _product_ of the sub-activity dimensions). This would give them access to superpositional activities that cannot be factored (i.e., “neatly categorized”) into subactivities. On the other hand, a novice player would incorrectly presume that all moves can be factored. Thus, they ignorantly presume that the parent activity’s vector space is the _direct sum_ of subactivities (meaning, the parent activity’s dimension is the mere _sum_ of the sub-activity dimensions).
 
-In low complexity activities, this gap doesn't appear to be much because the base complexity itself is very low. As we converge towards higher and higher complexity activities, this gap between the move spaces grows superexponentially. At higher complexity activities, a mediocre player will be unable to conceive of _most_ of the possible moves — even though such moves exist, and are _better_. Similar to how a player viewing through a 2D lens can't imagine that they can "jump" because it is a move that only exists in a 3D lens.
-
-We call this ability to _see_ moves in this higher dimensional vector space: _superpositional intuition_. Proficiency in higher complexity activities _requires_ strong superpositional intuition because almost all of the possible moves are superpositional.
+We call this ability to _see_ moves in this higher dimensional vector space _superpositional intuition_. Proficiency in higher complexity activities _requires_ strong superpositional intuition because almost all of the possible moves are superpositional.
 
 ---
 
-Artificial intelligence has so far advanced in an imbalanced way: its technologies have far surpassed the stories and instruments. This has created our problem of [imbalance](#Interdependence--Imbalance). Yet, this imbalanced advancement, through convergence, has also enabled the solution: a higher dimensional activity that contains _superpositional moves_ which enable us to advance stories, instruments, technologies as _one_, instead of advancing each independently (which would lead to imbalance) — leading to balanced advancement.
+Artificial intelligence has so far advanced in an imbalanced way: its technologies have far surpassed its stories and instruments. This has created our problem of [imbalance](#Interdependence--Imbalance).
 
-In this newly enabled higher dimensional activity, we seek the _superpositional solution_ that enables us to advance stories, instruments, and technologies as one — to unite humanity and unlock its potential in a balanced way.
+Yet, this imbalanced advancement, through convergence, has also enabled the solution: a newly enabled higher dimensional activity. In this activity, we seek the _superpositional solution_ that enables us to advance stories, instruments, and technologies as one — to unite humanity and unlock its potential in a balanced way.
 
 # ACT III — Foundation
 
