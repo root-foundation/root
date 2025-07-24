@@ -241,6 +241,8 @@ Thus we must advance all features of change in order to achieve our mission: uni
 
 We believe this can _only_ be realized through a _single_ system that advances everything together — as _one_. Such an opportunity exists due to a phenomenon called _convergence_.
 
+_(Note: you can skip the following explanation and go straight to the solution explained in [ACT III](#act-iii--foundation))._
+
 ## Convergence phenomenon
 
 Convergence is the phenomenon of our activities evolving to be more complex _and_ similar — towards a _highly complex_, _singular_ activity.
