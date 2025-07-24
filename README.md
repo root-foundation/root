@@ -32,8 +32,8 @@ _ACT II — Convergence_
 _ACT III — Foundation_
 
 - [Design principles](#design-principles)
-- [Solution overview](#solution-overview)
-- [Approach](#approach)
+- [Solution](#solution)
+- [Applying principles](#applying-principles)
 - [Superintelligence](#superintelligence)
 
 ---
