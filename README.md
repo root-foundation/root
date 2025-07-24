@@ -586,30 +586,16 @@ Over time, FoundationOrg will progressively[^transparency] become more transpare
 
 ## Superintelligence
 
-Superintelligence[^ai] is a _change_ that comes with advanced stories, instruments, and technologies that will give each individual infinite power.
+Superintelligence[^ai] is a _change_ that comes with advanced stories, instruments, and technologies that will give each individual unimaginable power.
 
 Contrary to what some “superintelligence” labs seem to believe, technological advancement alone will not lead to superintelligence as it will be limited by lack of progress in the other features of change (stories, instruments).
 
-To see why, we must share our belief about cognition: the majority of cognition lies _beyond_ logic & reasoning. Our current data representation (text, images, videos) itself is far too restrictive to capture the significantly more complex cognition _from which_ these mediums arise. More specifically, we will require higher resolution data of the human experience that has far greater representational complexity than language, image, video. This would include, e.g., physiological data down to the chemical and quantum level representation of human experience.
+To see why, we must share our belief about cognition: the majority of cognition lies _beyond_ logic & reasoning. Our current data representation (text, images, videos, etc.) itself is far too restrictive to capture the significantly more complex cognition _from which_ these mediums arise. More specifically, we will require higher resolution data of the human experience that has far greater representational complexity than language, image, video, etc. This would include, e.g., physiological data down to the chemical and quantum level representation of human experience.
 
-This makes collective voluntary participation a _necessity_ for superintelligence as people must be willing[^coerced] to give up such higher resolution personal data. They would only do so in a world with advanced instruments: tokenization, UBE, and social platforms that capture this higher resolution data, and importantly a powerful story of unity that makes contributing an offering to our collective good — rather than a sacrifice, or even exploitation.
+This makes collective voluntary participation a _necessity_ for superintelligence as people must be willing to give up such higher resolution personal data. They would only voluntarily[^coerced] participate in a world with advanced instruments that give everyone a stake in the collective upside (i.e., tokenization, UBE, etc.). And importantly, they would only desire to participate in a world with the powerful story of unity that makes contributing an _offering_ to our collective good — rather than a sacrifice, or even exploitation.
 
 [^coerced]: Furthermore, if such higher resolution personal data is _coerced_ out of individuals, that data will not represent the full range of human expression because it will skewed towards a limited range of emotions (such as anger / fear). This will limit and bias training data and restrict (and bias) the superintelligence that emerges from this data.
 
-Therefore, superintelligence will emerge from the _Foundation_.
+Critically, the superintelligence that emerges from this _Foundation_ will be safe. Contrary to what AI safety teams seem to think, obedience and intelligence cannot co-exist. The only way to ensure a safe superintelligence is to convince it with the right incentives and stories. The _Foundation_, through its powerful story of unity of _all_ beings, and instruments that incentivize collective growth, will convince superintelligence to work with us instead of against us.
 
-Critically, the superintelligence that emerges upon the _Foundation_ will be safe. Contrary to what AI safety teams seem to think, obedience and intelligence cannot co-exist. The only way to ensure a safe superintelligence is to convince it with the right incentives and stories. The _Foundation_, through its powerful story of unity of _all_ beings, and instruments that incentivize collective growth, will convince superintelligence to work with us instead of against us.
-
-## Closing
-
-A good reader will be able to see that every _single_ activity can be represented within this system, and that the evolution of this single system will evolve story, instrument and technology as one.
-
-By tackling this higher dimensional activity, we can, through a single expression, create a world in which every individual has access to the resources they need to thrive, in which we are deeply connected to each other through our stories, instruments _and_ technologies, in which privilege will _not_ determine an individual's outcomes.
-
-There is a lot to be hopeful for. Extreme outcomes only speaks to the distribution, not how long each winner stays a winner. In an advanced world in which each individual has access to the resources they need to achieve their potential, we will likely see a far greater "absolute" number of winners even though the distribution itself is extreme. (todo: need to truthfully quell fears about extreme outcomes).
-
-We are at the dawn of humanity's progress. But, achieving this will require us to do the most difficult work we've ever done. Yet, we must try. This is our _most important_ activity. [Join us](todo) or fork us. Either way, we urge humanity's most capable minds to work on this. The longer the delay, the greater our collective suffering.
-
-Raise ambition.<br />
-Summon courage.<br />
-And meet us on the field.
+Therefore, _safe_ superintelligence — that unites humanity and unlocks our collective potential — can only emerge from _this_ _Foundation_.
