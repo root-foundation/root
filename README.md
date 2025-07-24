@@ -584,7 +584,7 @@ Over time, as the network progressively decentralizes, _even_ entities operating
 
 Over time, FoundationOrg will progressively[^transparency] become more transparent: every cent it spends, every idea it produces, every conversation it has, every line of code it writes will be published for the world to see, judge, and steal. Yet, even today, FoundationOrg will be _far_ more transparent than any organization.
 
-[^transparency]: We have stories we believe are too early to share.
+[^transparency]: We believe it's not the right time for some of our stories.
 
 ## Superintelligence
 
@@ -596,7 +596,7 @@ To see why, we must share our belief about cognition: the majority of cognition 
 
 This makes collective voluntary participation a _necessity_ for superintelligence as people must be willing to give up such higher resolution personal data. They would only voluntarily[^coerced] participate in a world with advanced instruments that give everyone a stake in the collective upside (i.e., tokenization, UBE, etc.). And importantly, they would only desire to participate in a world with the powerful story of unity that makes contributing an _offering_ to our collective good — rather than a sacrifice, or even exploitation.
 
-[^coerced]: Furthermore, if such higher resolution personal data is _coerced_ out of individuals, that data will not represent the full range of human expression because it will skewed towards a limited range of emotions (such as anger / fear). This will limit and bias training data and restrict (and bias) the superintelligence that emerges from this data.
+[^coerced]: Furthermore, if such higher resolution personal data is _coerced_ out of individuals, that data will not represent the full range of human expression because it will skewed towards a limited range of emotions (such as anger / fear). This will limit and bias training data, which will limit the superintelligence that emerges from this data.
 
 Critically, the superintelligence that emerges from this _Foundation_ will be safe. Contrary to what AI safety teams seem to think, obedience and intelligence cannot co-exist. The only way to ensure a safe superintelligence is to convince it with the right incentives and stories. The _Foundation_, through its powerful story of unity of _all_ beings, and instruments that incentivize collective growth, will convince superintelligence to work with us instead of against us.
 
