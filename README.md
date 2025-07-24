@@ -512,10 +512,8 @@ We believe the best way to create the _Foundation_ — given our ignorance — i
 
 We will mimic natural selection through:
 
-1. **Competition**. Encourage fair competition and ease of participation.
-2. **Progressive decentralization**. Move power from centralized authorities to individuals.
-3. **Fork-ability**. Enable duplication and mutation at any level of abstraction.
-4. **Transparency**. Ensure every action is auditable. Prevent secrets: any idea should be available to steal & judge at its earliest stages.
+1. **Progressive decentralization**. Move power away from centralized authorities.
+2. **Fork-ability**. Enable duplication and mutation at any level of abstraction.
 
 ## Solution
 
@@ -538,7 +536,7 @@ There are two _kinds_ of tokens that extend from this base structure: _personal 
 
 ### Ledger
 
-The Ledger is the structure that represents information about _all_ tokens in the network — on a decentralized blockchain.
+The Ledger is the structure that represents information about _all_ tokens in the network — on a decentralized blockchain. Every edit to the core ledger is recorded and public. Anyone can verify and audit what happens in this system.
 
 ### NetworkToken & Treasury
 
@@ -564,43 +562,27 @@ FoundationOrg members will work together _in person_ at our HQ in San Francisco,
 
 ## Applying principles
 
-### Competition
+### 1. Progressive decentralization
 
-To encourage competition, FoundationOrg will enable and encourage _other_ entities to operate on top of it to cultivate a rich ecosystem of products and services that can be used _through_ tokens.
+The core technology, and all of FoundationOrg’s creations, will be built upon decentralized primitives.
 
-Initially, to kickstart the network, FoundationOrg will create a for-profit company (FirstCompany) that will ensure legal compliance among other functions like: admission, product (client), discovery, etc. Critically, owning shares in a token does _not_ come with any rights such as influence over what the token holder does, governance, access to the token information, etc. without _explicit_ permission of the token owner. Thus, FirstCompany will also work to prevent (and penalize) any violations of these principles
-
-FirstCompany will operate like a lean, hungry startup.
-
-Initially, FoundationOrg and the FirstCompany will act seemingly as one because they both want the same exact thing: bringing tokens to the world as quickly as possible to unlock potential. Over time, there will be a growing tension between FoundationOrg & the FirstCompany. FoundationOrg will create opportunities for other entities to come and build on top of the _Foundation_ — who may even directly compete with the FirstCompany — to cultivate healthy competition to ensure a rich ecosystem of products and services.
-
-FoundationOrg will make sure that the _only_ advantage the FirstCompany has is being first by ensuring users aren't locked into any particular product / service.
-
-The incentive structure of a company doesn't allow it to remain relevant for centuries. Sooner or later, the FirstCompany will be outcompeted on _all_ of its functions. New companies will form and die in their efforts to serve the growing changing needs of users. FoundationOrg, on the other hand, is designed to last.
-
-### Progressive decentralization
-
-The core technology, and all of FoundationOrg’s creations, will be built upon decentralized primitives. Individuals will have complete power over their token information and can control access (visibility and otherwise). This control will be ensured at the technical level.
-
-Initially, FoundationOrg and FirstCompany will have a lot of control. Over time, as the network matures, FoundationOrg will progressively decentralize control. For example, early on the FoundationOrg / FirstCompany will handle reputation and fraud in a centralized way: managing complaints from users, investigating and banning / pursuing legal actions, etc. Over time, as the network matures, FoundationOrg will decentralize reputation by incentivizing users themselves to accurately identify misrepresentation / fraud[^decentralized_reputation].
+Initially, FoundationOrg will hold a lot of control. Over time, as the network matures, FoundationOrg will progressively decentralize control. For example, early on the FoundationOrg will handle reputation and fraud in a centralized way: managing complaints from users, investigating and banning/pursuing legal actions, etc. Over time, as the network matures, FoundationOrg will decentralize reputation by incentivizing users themselves to accurately identify misrepresentation/fraud[^decentralized_reputation].
 
 [^decentralized_reputation]: Perhaps something like a transparent, decentralized [community notes](https://vitalik.eth.limo/general/2023/08/16/communitynotes.html) with appropriate financial incentives.
 
-Similarly, as the network matures, FoundationOrg will enable token holders to _vote_ on decisions such as the rules that entities who are building on the network must adhere to. Voting will be a fluid, continuous process — not limited to discrete voting events. Only such a realtime voting system can enable the network to adapt quickly enough to a world that is changing exponentially fast. Thus, rules & policies can be updated in real-time based on the current "vote allocation". In addition to fluid, realtime voting, individuals will be able to transfer their voting power (for _all_ or _subset_ or _type_ of decisions) to others, which can be revoked at any time. Such a _representative_ voting system will be required as the rate of decision making grows exponentially.
+Such progressive decentralization will enable a rich, competitive ecosystem of ideas, companies, entities, etc. to emerge upon this tokenized foundation. And, users will increasingly have control and influence over all policy and decision making in the network (and how entities engage with the network) through a realtime, fluid _voting system_.
 
-Thus, over time, FoundationOrg will _truly_ ensure power to the people at _all_ layers of functionality — not only through words, but also through instruments and technologies.
+### 2. Fork-ability
 
-### Forkability
-
-If FoundationOrg stops serving its users in the way they want, the core ledger itself can be forked, a new NetworkToken issued, and a new foundation can continue the work towards uniting humanity and unlocking its potential in a way that's actually aligned with what users want.
+This system will be fork-able at its core. If FoundationOrg stops serving its users in the way they want, the core ledger itself can be forked, a new NetworkToken issued, and a new foundation can continue the work towards uniting humanity and unlocking its potential in a way that's actually aligned with what users want.
 
 All of the FoundationOrg’s activity will be publicly available in _this_ repository under an [MIT license](LICENSE), enabling anyone to fork anything we do without our permission.
 
-### Transparency
+Over time, as the network progressively decentralizes, _even_ entities operating on top of the Foundation will become fork-able because users will vote for policies that force transparency and fork-ability.
 
-Technologically, the system is transparent (todo). Every edit to the core ledger is recorded and public. Anyone can verify and audit what happens in this system.
+Over time, FoundationOrg will progressively[^transparency] become more transparent: every cent it spends, every idea it produces, every conversation it has, every line of code it writes will be published for the world to see, judge, and steal. Yet, even today, FoundationOrg will be _far_ more transparent than any organization.
 
-Culturally, FoundationOrg will operate transparently: every cent it spends, every idea it produces, every conversation it has, every line of code it writes will be published for the world to see, judge, and steal. FoundationOrg will hold no secrets. It doesn't need them.
+[^transparency]: We have stories we believe are too early to share.
 
 ## Superintelligence
 
