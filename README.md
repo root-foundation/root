@@ -588,7 +588,7 @@ Over time, FoundationOrg will progressively[^transparency] become more transpare
 
 ## Superintelligence
 
-Superintelligence[^ai] is a _change_ that comes with advanced stories, instruments, and technologies that will give each individual unimaginable power.
+Superintelligence[^ai] is an _advancement_ that comes with advanced stories, instruments, and technologies that will give each individual unimaginable power.
 
 Contrary to what some “superintelligence” labs seem to believe, technological advancement alone will not lead to superintelligence as it will be limited by lack of progress in the other features of change (stories, instruments).
 
