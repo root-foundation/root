@@ -494,17 +494,17 @@ We call this ability to _see_ moves in this higher dimensional vector space _sup
 
 ---
 
-Artificial intelligence has so far advanced in an imbalanced way: its technologies have far surpassed its stories and instruments. This has created our problem of [imbalance](#Interdependence--Imbalance).
+Artificial intelligence has so far advanced in an [imbalanced](#Interdependence--Imbalance) way: its technologies have far surpassed its stories and instruments. This imbalance is about to create great collective suffering.
 
 Yet, this imbalanced advancement, through convergence, has also enabled the solution: a higher dimensional activity that contains a _superpositional solution_ that enables us to advance stories, instruments, and technologies as one.
 
-Through this superpositional solution, we will unite humanity and unlock its potential — _without imbalance_.
+Through this superpositional solution, we will unite humanity and unlock our collective potential — in a _balanced_ way.
 
 # ACT III — Foundation
 
 Towards convergence, the most powerful story (unity), most powerful instruments (economic, governance, legal, communication, etc.), and most powerful technology (superintelligence) will increasingly emerge as a single expression. It will be impossible to distinguish which part of the expression is which. And importantly, the whole will be far more than the sum of its parts.
 
-We call this expression the _Foundation_ .
+We call this expression the _Foundation_.
 
 ## Design principles
 
