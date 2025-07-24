@@ -48,7 +48,7 @@ But, as we accelerate towards Artificial General Intelligence (AGI)[^ai], our de
 
 We propose a new economic system that unites society and unlocks humanity’s potential by giving every person a share in our collective progress and democratizing opportunity.
 
-[^ai]: To avoid confusion, when we say "artificial intelligence" unabbreviated (and without other qualifiers) we mean the broader societal, cultural, and technological change. We note 3 milestones: <br /><br />1. Domain specific AI: performs specific cognitive tasks but lacks broad adaptability. <br />2. AGI: _reasons_ across most domains as well as a human. <br />3. Superintelligence: performs cognition _above_ reasoning (appears to be _intuitive_). <br /><br />We believe we will have full AGI far sooner than most people think, full Superintelligence far, far later than many think (possibly never).
+[^ai]: To avoid confusion, when we say "artificial intelligence" unabbreviated (and without other qualifiers) we mean the broader societal, cultural, and technological change. We note 3 milestones: <br /><br />1. Domain specific AI: performs specific cognitive tasks but lacks broad adaptability. <br />2. AGI: _reasons_ across most domains as well as a human. <br />3. Superintelligence: performs cognition _above_ reasoning (appears to be _intuitive_). <br /><br />We believe we will have full AGI far sooner than most people think, full Superintelligence far, far later than many think.
 
 ## Problem
 
