@@ -496,7 +496,9 @@ We call this ability to _see_ moves in this higher dimensional vector space _sup
 
 Artificial intelligence has so far advanced in an imbalanced way: its technologies have far surpassed its stories and instruments. This has created our problem of [imbalance](#Interdependence--Imbalance).
 
-Yet, this imbalanced advancement, through convergence, has also enabled the solution: a newly enabled higher dimensional activity. In this activity, we seek the _superpositional solution_ that enables us to advance stories, instruments, and technologies as one — to unite humanity and unlock its potential in a balanced way.
+Yet, this imbalanced advancement, through convergence, has also enabled the solution: a higher dimensional activity that contains a _superpositional solution_ that enables us to advance stories, instruments, and technologies as one.
+
+Through this superpositional solution, we will unite humanity and unlock its potential — _without imbalance_.
 
 # ACT III — Foundation
 
@@ -527,7 +529,7 @@ A token is an object that contains the following information:
 2. **Ownership**: total number of shares, and mapping between any token.ID to number of shares that token holds.
 3. **Wallet**: holds USDC.
 4. **Data**: key value mapping that can contain any kind of data: strings, images, videos, and higher representational data formats that we haven't invented yet (e.g., high resolution data about feelings / sensations).
-5. **History**: all _interactions_ this token has had with any other token. For example: investing, transacting, liking a post, following, reporting, etc.
+5. **History**: all _interactions_ this token has had with any other token. For example: investing, transacting, liking a post, following, reporting fraud, etc.
 
 There are two _kinds_ of tokens that extend from this base structure: _personal tokens_ and _network tokens_.
 
