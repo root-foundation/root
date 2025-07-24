@@ -4,7 +4,7 @@ _v0.001_
 
 _[homan](https://x.com/homanspirit) & [shiv](https://scholar.google.com/citations?user=WNUGEccAAAAJ&hl=en)_
 
-A vision for a _single_ system that will unite humanity and unlock its potential — in the age of superintelligence.
+A vision for a _single_ expression that will unite humanity and unlock our collective potential — in the age of superintelligence.
 
 ---
 
@@ -169,7 +169,7 @@ All of society's functions will be grounded in tokens. A rich, _tokenized_ ecosy
 
 In effect, tokens will eat the world. Such a tokenized system will help us unite society and democratize opportunity.
 
-But, this new economic system alone will not enable us to _fully_ realize our mission to unite humanity and unlock its potential. Our economic system is a part of a much larger system that we must shape. To understand this larger system, we must start with a more fundamental worldview.
+But, this new economic system alone will not enable us to _fully_ realize our mission to unite humanity and unlock our collective potential. Our economic system is a part of a much larger system that we must shape. To understand this larger system, we must start with a more fundamental worldview.
 
 # ACT II — Convergence
 
@@ -237,7 +237,7 @@ Our outdated economic system is just one small part of the broader imbalance:
 
 This means our tokenized economic instrument alone won’t prevent catastrophe because advancement in a single feature alone will accomplish almost _nothing_.
 
-Thus we must advance all features of change in order to achieve our mission: unite humanity and unlock its potential. In addition to the instrument of tokens, we will also need to create all other instruments (governance, legal, social, etc.), _and_ advance our stories (towards unity), _and_ build technology (superintelligence). And importantly, they must be advanced _together_ to eliminate imbalance.
+Thus we must advance all features of change in order to achieve our mission: unite humanity and unlock our collective potential. In addition to the instrument of tokens, we will also need to create all other instruments (governance, legal, social, etc.), _and_ advance our stories (towards unity), _and_ build technology (superintelligence). And importantly, they must be advanced _together_ to eliminate imbalance.
 
 We believe this can _only_ be realized through a _single_ system that advances everything together — as _one_. Such an opportunity exists due to a phenomenon called _convergence_.
 
@@ -548,9 +548,9 @@ The NetworkToken's wallet reflects the dividends the NetworkToken accrues throug
 
 This core will be wrapped in a non-profit organization (FoundationOrg) that will create, control and develop the Ledger.
 
-FoundationOrg’s sole goal is to unite humanity and unlock its potential.
+FoundationOrg’s sole goal is to unite humanity and unlock our collective potential.
 
-In addition to building the core technology, FoundationOrg will be responsible for educating the world about these new ideas & helping shape policies in the direction of uniting humanity and unlocking its potential.
+In addition to building the core technology, FoundationOrg will be responsible for educating the world about these new ideas & helping shape policies in the direction of uniting humanity and unlocking our collective potential.
 
 The Foundation cannot be “bought”. Owning shares in the NetworkToken does not come with voting rights or influence in governance. Initially, we will be responsible for building the initial FoundationOrg team. But over time, we will implement a process to elect & fire FoundationOrg members.
 
@@ -574,7 +574,7 @@ Such progressive decentralization will enable a rich, competitive ecosystem of i
 
 ### 2. Fork-ability
 
-This system will be fork-able at its core. If FoundationOrg stops serving its users in the way they want, the core ledger itself can be forked, a new NetworkToken issued, and a new foundation can continue the work towards uniting humanity and unlocking its potential in a way that's actually aligned with what users want.
+This system will be fork-able at its core. If FoundationOrg stops serving its users in the way they want, the core ledger itself can be forked, a new NetworkToken issued, and a new foundation can continue the work towards uniting humanity and unlocking our collective potential in a way that's actually aligned with what users want.
 
 All of the FoundationOrg’s activity will be publicly available in _this_ repository under an [MIT license](LICENSE), enabling anyone to fork anything we do without our permission.
 
