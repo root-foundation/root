@@ -8,27 +8,32 @@ A vision for a _single_ expression that will unite humanity and unlock our colle
 
 ---
 
-- [Introduction](#introduction)
-- [Problem](#problem)
-- [Venture capital](#venture-capital)
-- [Personal token](#personal-token)
-- [Network](#network)
-- [Convergence](#convergence)
-- [Personal tokens will democratize opportunity](#personal-tokens-will-democratize-opportunity)
-- [Universal Basic Equity (UBE)](#universal-basic-equity-ube)
-- [Evolution of financial instruments](#evolution-of-financial-instruments)
-- [Value will concentrate in personal tokens](#value-will-concentrate-in-personal-tokens)
-- [Tokens will eat the world](#tokens-will-eat-the-world)
-- [Interdependence—Imbalance](#interdependence--imbalance)
-- [Foundation](#foundation)
-- [Design principles](#design-principles)
-- [Solution](#solution)
-- [Applying principles](#applying-principles)
-- [Superintelligence](#superintelligence)
+ACT I — Personal token
+
+1. [Introduction](#introduction)
+2. [Problem](#problem)
+3. [Venture capital](#venture-capital)
+4. [Personal token](#personal-token)
+5. [Network](#network)
+6. [Personal tokens will democratize opportunity](#personal-tokens-will-democratize-opportunity)
+7. [Universal Basic Equity (UBE)](#universal-basic-equity-ube)
+
+ACT II — Tokenization
+
+8. [Evolution of financial instruments](#evolution-of-financial-instruments)
+9. [Value will concentrate in personal tokens](#value-will-concentrate-in-personal-tokens)
+10. [Tokens will eat the world](#tokens-will-eat-the-world)
+
+ACT III — Foundation
+
+11. [Interdependence—Imbalance](#interdependence--imbalance)
+12. [Foundation](#foundation)
+13. [Design principles](#design-principles)
+14. [Solution](#solution)
+15. [Applying principles](#applying-principles)
+16. [Superintelligence](#superintelligence)
 
 ---
-
-# ACT I — Personal token
 
 ## Artificial intelligence
 
@@ -131,6 +136,8 @@ This system ensures that every one of descendents will enjoy a level of abundanc
 
 [^children]: UBE incentivizes having children. When a baby is born, new shares in the NetworkToken is minted for that baby, thus diluting the value everyone else’s shares. Thus, families will be incentivized to have more children to increase their collective equity in the NetworkToken.
 
+Personal tokens are the first step towards a new tokenized economic system.
+
 ## Evolution of financial instruments
 
 The personal token is the next phase in the evolution of financial instruments — as an abstraction that sits above the company, which in turn sits above money.
@@ -177,6 +184,8 @@ All of society's functions will be grounded in tokens. A rich, _tokenized_ ecosy
 
 Tokens will eat the world. Such a tokenized system will help us unite society and democratize opportunity.
 
+But, advancing our economic system alone will not suffice. Our economic system is part of a much broader system that we will need to shape in order to fully realize our mission. To understand this broader system, we need to first understand how seemingly disconnected systems are interconnected.
+
 ## Interdependence—Imbalance
 
 All evolution (or broadly all change) has three features:
@@ -209,30 +218,15 @@ Our outdated economic system is just one small part of the broader imbalance:
 - Advancement in AGI _technology_ makes our political climate oppressive because it lacks powerful stories of unity and collective growth that are now made possible due to artificial intelligence.
 - _(and many many more)_.
 
-This means our tokenized economic instrument alone won’t be enough. Advancement in a single feature alone will accomplish almost _nothing_. In addition to the instrument of tokens, we will also need to create all other instruments (governance, legal, social, etc.), _and_ advance our stories (towards unity), _and_ build technology (superintelligence). And importantly, they must be advanced _together_ to eliminate imbalance.
+This means our tokenized economic instrument alone won’t be enough. Advancement in a single feature alone will accomplish almost _nothing_. In addition to the instrument of tokens, we will also need to create all other instruments (governance, legal, social, etc.), _and_ advance our stories (towards unity), _and_ build technology (superintelligence). And importantly, they must be advanced _together_ to eliminate imbalance; tackling these separately would be a blunder.
 
-Tackling these separately would be a blunder. We believe this can _only_ be realized through a _single_ system that advances everything together — as _one_, because advancing these separately will cause imbalance.
+We believe this can _only_ be realized through a _single_ expression that advances everything together — as _one_.
 
 ## Foundation
 
-Unity story is the core of this.
+We call this _single_ expression the _Foundation_.
 
-We believe humanity evolves towards unity.
-
-Convergence is a manifestation of this even more fundamental phemonon in the context of activities.
-
-Artificial intelligence acceleratingly makes our activities more complex and more similar — converging towards a highly complex, singular activity.
-
-It is because all of our activities increasingly become similar, we can now serve all human activity with a single expression. AI has created a higher complexity activity Given this opportunity,
-
-In fact, it would be an error to only focus on the economic system given the existence of a solution that can work for all systems...
-
-- Not just economic system, but all systems.
-- Such an expression that advances _everything_ as one is made possible through the nature of convergence. (please read to understand why).
-
-Towards convergence, the most powerful story (unity), most powerful instruments (economic, governance, legal, communication, etc.), and most powerful technology (superintelligence) will increasingly emerge as a single expression. It will be impossible to distinguish which part of the expression is which. And importantly, the whole will be far more than the sum of its parts.
-
-We call this expression the _Foundation_.
+The Foundation's sole goal is to unite humanity and unlock our collective potential — by advancing all facets of change _together_ as part of the same system.
 
 ## Design principles
 
@@ -254,7 +248,7 @@ A token is an object that contains the following information:
 1. **ID**: a unique identifier.
 2. **Ownership**: total number of shares, and mapping between any token.ID to number of shares that token holds.
 3. **Wallet**: holds USDC.
-4. **Data**: key value mapping that can contain any kind of data: strings, images, videos, and higher representational data formats that we haven't invented yet (e.g., high resolution data about feelings / sensations).
+4. **Data**: key value mapping that can contain any kind of data: strings, images, videos, and higher representational data formats that we haven't invented yet.
 5. **History**: all _interactions_ this token has had with any other token. For example: investing, transacting, liking a post, following, reporting fraud, etc.
 
 There are two _kinds_ of tokens that extend from this base structure: _personal tokens_ and _network tokens_.
@@ -316,14 +310,12 @@ Over time, FoundationOrg will progressively[^transparency] become more transpare
 
 Superintelligence[^ai] is an _advancement_ that comes with advanced stories, instruments, and technologies that will give each individual unimaginable power.
 
-Contrary to what some “superintelligence” labs seem to believe, technological advancement alone will not lead to superintelligence as it will be limited by lack of progress in the other features of change (stories, instruments).
+Contrary to what some “superintelligence” labs seem to believe, technological advancement alone will not lead to superintelligence as it will be limited by lack of progress in the other features of change (stories, instruments). We expect that the majority of cognition lies _beyond_ logic & reasoning. Our current data representation (text, images, videos, etc.) itself is too restrictive to capture the significantly more complex cognition _from which_ these mediums arise. More specifically, we will require higher resolution data of the human experience that has far greater representational complexity than language, image, video, etc. This would include, e.g., physiological data down to the chemical and quantum level representation of human experience.
 
-To see why, we must share our belief about cognition: the majority of cognition lies _beyond_ logic & reasoning. Our current data representation (text, images, videos, etc.) itself is far too restrictive to capture the significantly more complex cognition _from which_ these mediums arise. More specifically, we will require higher resolution data of the human experience that has far greater representational complexity than language, image, video, etc. This would include, e.g., physiological data down to the chemical and quantum level representation of human experience.
-
-This makes collective voluntary participation a _necessity_ for superintelligence as people must be willing to give up such higher resolution personal data. They would only voluntarily[^coerced] participate in a world with advanced instruments that give everyone a stake in the collective upside (i.e., tokenization, UBE, etc.). And importantly, they would only desire to participate in a world with the powerful story of unity that makes contributing an _offering_ to our collective good — rather than a sacrifice, or even exploitation.
+This makes collective voluntary participation a _necessity_ for superintelligence as people must be willing to give up such higher resolution personal data. They would only voluntarily[^coerced] participate in a world with advanced instruments that give everyone a stake in the collective upside (i.e., tokenization, UBE, etc.). And importantly, they would only desire to participate in a world with our powerful story of unity that makes contributing an _offering_ to our collective good — rather than a sacrifice, or even exploitation.
 
 [^coerced]: Furthermore, if such higher resolution personal data is _coerced_ out of individuals, that data will not represent the full range of human expression because it will skewed towards a limited range of emotions (such as anger / fear). This will limit and bias training data, which will limit the superintelligence that emerges from this data.
 
-Critically, the superintelligence that emerges from this _Foundation_ will be safe. Contrary to what AI safety teams seem to think, obedience and intelligence cannot co-exist. The only way to ensure a safe superintelligence is to convince it with the right incentives and stories. The _Foundation_, through its powerful story of unity of _all_ beings, and instruments that incentivize collective growth, will convince superintelligence to work with us instead of against us.
+Critically, the superintelligence that emerges from this _Foundation_ will be safe. Contrary to what AI safety teams seem to think, obedience and intelligence cannot co-exist. The only way to ensure a safe superintelligence is to convince it with the right incentives and stories. The _Foundation_, through its powerful story of unity of _all_ beings, and instruments that incentivize _collective_ growth, will convince superintelligence to work with us instead of against us.
 
 Therefore, _safe_ superintelligence — that unites humanity and unlocks our collective potential — can only emerge from _this_ _Foundation_.
