@@ -40,27 +40,39 @@ ACT III — Foundation
 
 Artificial intelligence promises a future of abundance and prosperity in which each individual gains unimaginable power to realize their dreams.
 
-But, as we accelerate towards Artificial General Intelligence (AGI)[^ai], our debt-based economic system will increasingly concentrate opportunity and erode social cohesion.
+But, as we accelerate towards Artificial General Intelligence (AGI)[^ai], our debt-based economic system will increasingly become _oppressive_.
 
-To understand why our current economic system fails in a post AGI world, we must first understand how AGI changes our world — through _convergence_.
+To understand why our current economic system fails in a post AGI world, we must first understand how AGI changes our world.
 
 ## How AGI will change our world
 
 Outcomes in all activities will become _extreme_: an tiny share of people will create most of the economic value, while the median _share_ will shrink — a _power law distribution_ of outcomes.
 
-Extreme outcomes aren't new – the _average_ startup founder, musician, or content creator makes nothing, whereas the _best_ ones generate astronomical outcomes. What _is_ new is that the _entire_ economy will become very extreme instead of just a few domains.
+Extreme outcomes aren't new – the _average_ startup founder, musician, or content creator makes nothing, whereas the _best_ ones generate astronomical outcomes. What _is_ new is that the _entire_ economy will become very extreme instead of just a few activities.
 
-Additionally, the rate at which winners are displaced will accelerate. AGI will enable many more activities than it eats. _Current_ winners will be more quickly outcompeted by those who will win at the _new_, more complex activities (which will eliminate less complex activities along with their winners). Therefore, even though outcomes will be extreme, due to rapid change in the winners, within any period of time we will see a greater absolute number of winners than ever before.
+Importantly, the rate at which winners are displaced will also accelerate. AGI will enable many more activities than it eliminates. _Current_ winners will be more quickly outcompeted by those who will win at the _new_, more complex activities (which will eliminate less complex activities along with many of their winners). Therefore, even though outcomes will be extreme, due to rapid change in the winners, within any period of time we will likely see a greater absolute number of winners than ever before.
 
-Importantly, this displacement will increasingly be from _above_, not from the _side_. An agriculture robotics company will _not_ be outcompeted by another company operating at the same level of complexity, but by a general purpose robotics company operating at a much higher level of complexity that will make this domain specific robotics company irrelevant along with many others.
+This displacement will increasingly be from _above_ (more complex activities), not from the _side_ (similarly complex activities). For example, an _agriculture_ robotics company will _not_ be outcompeted by another agriculture tech company, but by a general purpose robotics company operating at a much higher level of complexity that will outcompete this company along with _many other_ domain specific ones.
 
-AGI accelerates _extreme outcomes_ and _displacement_ by converging human activity towards more complex activities which are also more similar (i.e., being great at one thing will increasingly translate to being great at all). It does this by eating lower complexity activities while enabling higher complexity activities. These higher complexity activities are more _similar_ due to the
+And the reason existing winners will increasingly struggle to remain winners is (notion of complexity growing superexponentially — it's v. important to build this intuition without the tree model).
+
+---
+
+( 1 para overview of convergence w/ a ref. to the tree structure — basically showing how the tree structure itself causes this )
+
+Extreme outcomes and displacement are byproducts of the _same_ phenomenon: _convergence_.
+
+AGI will converge human activity towards more complex activities which are also more similar (i.e., being great at one activity will increasingly translate to being great at all).
+
+It does this by eating lower complexity activities (below a certain threshold) while enabling higher complexity activities.
 
 Extreme outcomes are amplified because they are a byproduct of complexity, competition, and leverage. As our activities become more complex, and similar, they will have greater competition
 
 ## Problem
 
-In such an extreme world, **debt is death**. Everything will be too risky to finance with debt. This is not due to fewer opportunities (AGI will enable far more opportunities than it takes), but rather due to the extreme, winner-take-all nature of outcomes within _each_ opportunity. In extreme outcomes, the median outcome falls to nothing and thus financing with debt is no longer viable.
+In such an extreme world, **debt is no longer a viable means to finance anything** because everything will be too risky for debt.
+
+This is not due to fewer opportunities (AGI will enable far more opportunities than it takes), but rather due to the extreme, winner-take-all nature of outcomes within _each_ opportunity. In extreme outcomes, the median outcome falls to nothing and thus financing with debt is no longer viable.
 
 Tragically, the world does not understand that debt will no longer work. Billions around the world are still taking out loans to finance their lives — from their educations, to their homes and businesses — without realizing that they will almost certainly never be able to repay these loans in an extreme world.
 
