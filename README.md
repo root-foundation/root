@@ -58,13 +58,11 @@ In such an extreme world, **debt is death**. Everything will be too risky to fin
 
 Tragically, the world does not understand that debt will no longer work. Billions around the world are still taking out loans to finance their lives — from their educations, to their homes and businesses — without realizing that they will almost certainly never be able to repay these loans in an extreme world.
 
-We are walking blindly into a catastrophe.
+_Even_ if one is debt-free, they will almost certainly be outcompeted by one who can experiment boldly and tinker freely with _abundant_ resources.
 
-Moreover, _even_ if one is debt-free, they will almost certainly be outcompeted by one who can experiment boldly and tinker freely with _abundant_ resources.
+And critically, in an extreme world, if people don't have a stake in the collective upside, they will resent the winners — corroding social cohesion.
 
-And critically, in an extreme world, if individuals do not have a stake in the collective upside, they will resent the winners — corroding social cohesion and eventually tearing society apart at its seams.
-
-Therefore, we urgently need a viable way to:
+Therefore, we need a way to:
 
 1. Finance human activity in a way that ensures that anyone with potential has access to the resources they need to fully realize their potential — regardless of the circumstances of their birth.
 2. Give each individual a stake in the collective upside to unite society.
