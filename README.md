@@ -1,4 +1,4 @@
-# Convergence
+# Foundation
 
 _v0.001_
 
@@ -11,12 +11,13 @@ A vision for a _single_ expression that will unite humanity and unlock our colle
 ACT I — Personal token
 
 1. [Introduction](#introduction)
-2. [Problem](#problem)
-3. [Venture capital](#venture-capital)
-4. [Personal token](#personal-token)
-5. [Network](#network)
-6. [Personal tokens will democratize opportunity](#personal-tokens-will-democratize-opportunity)
-7. [Universal Basic Equity (UBE)](#universal-basic-equity-ube)
+2. [How AGI will change our world](#how-agi-will-change-our-world)
+3. [Problem](#problem)
+4. [Venture capital](#venture-capital)
+5. [Personal token](#personal-token)
+6. [Network](#network)
+7. [Personal tokens will democratize opportunity](#personal-tokens-will-democratize-opportunity)
+8. [Universal Basic Equity (UBE)](#universal-basic-equity-ube)
 
 ACT II — Tokenization
 
@@ -35,7 +36,7 @@ ACT III — Foundation
 
 ---
 
-## Artificial intelligence
+## Introduction
 
 Artificial intelligence promises a future of abundance and prosperity in which each individual gains unimaginable power to realize their dreams.
 
@@ -45,15 +46,17 @@ To understand why our current economic system fails in a post AGI world, we must
 
 ## How AGI will change our world
 
-Outcomes in all activities will become _extreme_: a tiny share of people will be creating most of the economic value, while the median _share_ will shrink — a _power law distribution_ of outcomes. Extreme outcomes aren't new – the _average_ startup founder, musician, or content creator makes nothing, whereas the _best_ ones generate astronomical outcomes. What _is_ new is that the _entire_ economy will become very extreme instead of just a few domains.
+Outcomes in all activities will become _extreme_: an tiny share of people will create most of the economic value, while the median _share_ will shrink — a _power law distribution_ of outcomes.
 
-Acceleratingly, AGI will create many more activities than it eats. _Current_ winners will be more quickly outcompeted by those who will win at the _new_, more complex activities (that encapsulate the current activities and much much more). Therefore, even though outcomes will be extreme, due to rapid change in the winners, within any period of time, we will have more absolute number of winners than ever before. We are already seeing this accelerating displacement of incumbents.
+Extreme outcomes aren't new – the _average_ startup founder, musician, or content creator makes nothing, whereas the _best_ ones generate astronomical outcomes. What _is_ new is that the _entire_ economy will become very extreme instead of just a few domains.
 
-(todo: examples of displacement from above. one at individual. one at company).
+Additionally, the rate at which winners are displaced will accelerate. AGI will enable many more activities than it eats. _Current_ winners will be more quickly outcompeted by those who will win at the _new_, more complex activities (which will eliminate less complex activities along with their winners). Therefore, even though outcomes will be extreme, due to rapid change in the winners, within any period of time we will see a greater absolute number of winners than ever before.
 
-()
+Importantly, this displacement will increasingly be from _above_, not from the _side_. An agriculture robotics company will _not_ be outcompeted by another company operating at the same level of complexity, but by a general purpose robotics company operating at a much higher level of complexity that will make this domain specific robotics company irrelevant along with many others.
 
-To understand why... <>.
+AGI accelerates _extreme outcomes_ and _displacement_ by converging human activity towards more complex activities which are also more similar (i.e., being great at one thing will increasingly translate to being great at all). It does this by eating lower complexity activities while enabling higher complexity activities. These higher complexity activities are more _similar_ due to the
+
+Extreme outcomes are amplified because they are a byproduct of complexity, competition, and leverage. As our activities become more complex, and similar, they will have greater competition
 
 ## Problem
 
@@ -227,6 +230,8 @@ We believe this can _only_ be realized through a _single_ expression that advanc
 We call this _single_ expression the _Foundation_.
 
 The Foundation's sole goal is to unite humanity and unlock our collective potential — by advancing all facets of change _together_ as part of the same system.
+
+(todo: describe this entire system using simple words — without references to existing systems — that encapsulates all human activity).
 
 ## Design principles
 
