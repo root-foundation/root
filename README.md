@@ -8,29 +8,27 @@ A vision for a _single_ expression that will unite humanity and unlock our colle
 
 ---
 
-_ACT I — Tokenization_
+ACT I — Personal token
 
 - [Introduction](#introduction)
 - [Problem](#problem)
+- [Convergence](#convergence)
 - [Venture capital](#venture-capital)
 - [Personal token](#personal-token)
-- [Network of personal tokens](#network-of-personal-tokens)
+- [Network](#network)
 - [Personal tokens will democratize opportunity](#personal-tokens-will-democratize-opportunity)
 - [Universal Basic Equity (UBE)](#universal-basic-equity-ube)
-- [Tokenization — Evolution of financial instruments](#tokenization--evolution-of-financial-instruments)
-- [Value will be concentrated in personal tokens](#value-will-be-concentrated-in-personal-tokens)
+
+ACT II — Tokenization
+
+- [Evolution of financial instruments](#evolution-of-financial-instruments)
+- [Value will concentrate in personal tokens](#value-will-concentrate-in-personal-tokens)
 - [Tokens will eat the world](#tokens-will-eat-the-world)
+- [Interdependence—Imbalance](#interdependence--imbalance)
 
-_ACT II — Convergence_
+ACT III — Foundation
 
-- [We are one](#we-are-one)
-- [Story, Instrument, Technology](#story-instrument-technology)
-- [Interdependence — Imbalance](#interdependence--imbalance)
-- [Convergence phenomenon](#convergence-phenomenon)
-- [Superpositional intuition](#superpositional-intuition)
-
-_ACT III — Foundation_
-
+- [Foundation](#foundation)
 - [Design principles](#design-principles)
 - [Solution](#solution)
 - [Applying principles](#applying-principles)
@@ -38,7 +36,7 @@ _ACT III — Foundation_
 
 ---
 
-# ACT I — Tokenization
+# ACT I — Personal token
 
 ## Introduction
 
@@ -101,7 +99,7 @@ Unlike company shareholders, personal token shareholders have _no_ “ownership"
 
 **The owner of the personal token retains absolute, complete agency and control**.
 
-## Network of personal tokens
+## Network
 
 Personal tokens can't exist in a vacuum. We need many functions in order to have a thriving ecosystem of individuals investing in each other through their personal tokens (e.g., fighting fraud, enabling discovery, etc.). In order to finance such functions this system will collect a small _equity fee_: a micro stake in every personal token that has successfully raised funds.
 
@@ -125,7 +123,9 @@ In addition to providing a strong baseline, UBE also creates a symbiotic relatio
 
 [^children]: UBE incentivizes having children. When a baby is born, new shares in the NetworkToken is minted for that baby, thus diluting the value everyone else’s shares. Thus, families will be incentivized to have more children to increase their collective equity in the NetworkToken.
 
-## Tokenization — Evolution of financial instruments
+# ACT II — Tokenization
+
+## Evolution of financial instruments
 
 The personal token is the next phase in the evolution of financial instruments — as an abstraction that sits above the company, which in turn sits above money.
 
@@ -151,6 +151,8 @@ Over time, value became concentrated in companies, not transactions — the most
 
 Similarly, in a post AGI world with extreme outcomes, value will become concentrated in personal tokens. A personal token will be valued far more than the sum of the values of its equities in companies _(recall: a personal token’s value is grounded in its equities in companies and other personal tokens)_.
 
+(todo: reference convergence. shows why value concentrates upwards).
+
 ## Tokens will eat the world
 
 Personal tokens will start as a toy in San Francisco, the only place in the world crazy enough to play with it. Most of the world will likely view it as a piece of trash in the sea of "waste" that SF produces. Out of ignorance, some may even perceive it as a tool for exploitation.
@@ -167,51 +169,17 @@ In an extreme, post AGI world, the outcomes of nations too will be extreme. The 
 
 All of society's functions will be grounded in tokens. A rich, _tokenized_ ecosystem of investing in tokens of _all_ kinds — personal tokens, ai tokens, company tokens, country tokens (e.g., "USAToken"), etc. — will emerge to enable venture capital to finance _anything_ that we do.
 
-In effect, tokens will eat the world. Such a tokenized system will help us unite society and democratize opportunity.
+Tokens will eat the world. Such a tokenized system will help us unite society and democratize opportunity.
 
-But, this new economic system alone will not enable us to _fully_ realize our mission to unite humanity and unlock our collective potential. Our economic system is a part of a much larger system that we must shape. To understand this larger system, we must start with a more fundamental worldview.
-
-# ACT II — Convergence
-
-## We are one
-
-We believe that all life is one. The wholeness of life instantiates as a multitude of individual lifeforms.
-
-Life has the “urge” to maximize its range of experiences. All of our desires are instantiations of this urge, meaning our desires stem from the same _source_ and are not as disconnected as they may seem. All of our activities reflect this urge _towards_ a greater range of experiences from which emerges a trend towards _unity_. This is because a more united, interconnected system creates richer possibilities and new avenues for experience, as opposed to independent, separate, individual systems.
-
-## Story, Instrument, Technology
-
-In order to understand this trend towards unity, we must first understand how humanity’s activities evolve.
+## Interdependence—Imbalance
 
 All evolution (or broadly all change) has three features:
 
-1. **Story** — generates _beliefs_.
-2. **Instrument** — generates _incentives_.
-3. **Technology** — generates _leverage_.
+- Story (generates _beliefs_): Narratives—from myth and religion to modern science and art—shape what we hold to be true, guiding collective aspiration and framing the possible.
+- Instrument (generates _incentives_): Social “games” such as money, companies, elections, courts, and social platforms codify rewards and penalties, channeling effort toward desired outcomes.
+- Technology (generates _leverage_): Tools like language, printing, software, the internet, and AI compress time and effort, enabling us to accomplish tasks more quickly, while creating new activities.
 
-Many things can influence the nature of change, including, and not limited to, our activities that influence stories, instruments, and technologies.
-
-### Story
-
-A story is something that creates _beliefs_. A belief is something we accept is true (with a notion of degree).
-
-Sciences and the arts are both forms of storytelling, with different mechanisms. The scientific process aims to iterate on beliefs through reasoning and reproducible experimentation, whereas the arts iterate on beliefs through structure and feeling. And often the distinction between art and science is blurry: e.g. Ramanujan produced mathematical theorems intuitively like an artist which took decades to validate through the scientific process.
-
-### Instrument
-
-An instrument is something that creates _incentives_.
-
-There are many types of instruments: financial (e.g. money, companies, personal tokens, etc.), governance (e.g. democratic election systems), communication (e.g. social platforms), legal (e.g. courts), etc. Each of these instruments creates a sort of “game” that incentivizes certain behaviors.
-
-And often the distinction between these types are blurry: social platforms also create financial incentives and power incentives as they grow; financial incentives also translate to power and status incentives.
-
-### Technology
-
-We define technology more narrowly as something that creates _leverage_. Leverage is defined simply as how quickly you can accomplish a task. For example, language, computers, software, internet, smartphones, AI, etc., create leverage. Gain in leverage often enables new opportunities and activities.
-
-## Interdependence — Imbalance
-
-Features of change are interdependent. Stories, instruments and technologies tend to emerge together:
+These features are interdependent. Stories, instruments and technologies tend to emerge together[^emerge-together]:
 
 | Change        | Story               | Instrument          | Technology                  |
 | ------------- | ------------------- | ------------------- | --------------------------- |
@@ -219,7 +187,7 @@ Features of change are interdependent. Stories, instruments and technologies ten
 | `Colonialism` | Spread civilization | Company             | Ships, guns, etc.           |
 | `AGI`         | Unity               | Personal token, UBE | Large language models, etc. |
 
-As presented in this table, every broad change comes with a collection of stories, instruments and technologies, of which we have only shown a few.
+[^emerge-together]: As presented in this table, every broad change comes with a collection of stories, instruments and technologies, of which we have only shown a few.
 
 Each feature of change (story, instrument, technology) has a notion of advancement, i.e., more advanced stories, instruments, technology enable more complex activities. (Note: from here on, when we reference AGI we are referring to the AGI _change_: i.e., the stories, instruments _and_ technologies it comes with. If we are only talking about a particular feature of this change, we will explicitly mention it.).
 
@@ -235,272 +203,9 @@ Our outdated economic system is just one small part of the broader imbalance:
 - Advancement in AGI _technology_ makes our political climate oppressive because it lacks powerful stories of unity and collective growth that are now made possible due to artificial intelligence.
 - _(and many many more)_.
 
-This means our tokenized economic instrument alone won’t prevent catastrophe because advancement in a single feature alone will accomplish almost _nothing_.
+This means our tokenized economic instrument alone won’t be enough. Advancement in a single feature alone will accomplish almost _nothing_. In addition to the instrument of tokens, we will also need to create all other instruments (governance, legal, social, etc.), _and_ advance our stories (towards unity), _and_ build technology (superintelligence). And importantly, they must be advanced _together_ to eliminate imbalance.
 
-Thus we must advance all features of change in order to achieve our mission: unite humanity and unlock our collective potential. In addition to the instrument of tokens, we will also need to create all other instruments (governance, legal, social, etc.), _and_ advance our stories (towards unity), _and_ build technology (superintelligence). And importantly, they must be advanced _together_ to eliminate imbalance.
-
-We believe this can _only_ be realized through a _single_ system that advances everything together — as _one_. Such an opportunity exists due to a phenomenon called _convergence_.
-
-_(Note: you can skip the following explanation and go straight to the solution explained in [ACT III](#act-iii--foundation))._
-
-## Convergence phenomenon
-
-Convergence is the phenomenon of our activities evolving to be more complex _and_ similar — towards a _highly complex_, _singular_ activity.
-
-To understand what this means and how it's caused, we must first understand the nature of an activity.
-
-### Activity tree
-
-Human activity resembles a _finite_, _recursive_ tree [^tree]. Each node of the tree represents an activity. Every activity can be broken down into sub-activities that each can be further divided into more sub-activities, thus forming a tree. This tree is finite because at some point the sub-activities become too simple to be considered an activity.
-
-[^tree]: Viewing human experience as a recursive tree is a very [old idea](https://chatgpt.com/share/68775f64-306c-8004-a5c1-f5ed7983ea07).
-
-Activities have a notion of _complexity_ and _similarity_:
-
-1. Each activity (i.e., node) has a notion of [complexity](https://en.wikipedia.org/wiki/Game_complexity): the number of possible states for that activity. For example: assembly work is less complex due to limited possibilities, whereas product design is far more complex due to exponentially more possibilities. Within the tree, sub-activities will be superexponentially less complex than their parent (explained later).
-2. A pair of similarly complex activities have a notion of "similarity": the more similar two activities are, the more seamlessly ability transfers between them. The tree-path distance between two activities (at the same complexity depth) represents the similarity between them.
-
-[^elo]: Go has a greater ELO spread amongst its top players than Chess, leading to more extreme outcomes.
-
-_Advancements_ (i.e., [changes](#story-instrument-technology)) tend to push us _upwards_ towards more complex activities — by adding more complex activities (and sub-activities) to the tree while removing less complex ones. For example, spreadsheets removed many lower complexity activities related to bookkeeping while spawning many new branches and fields (e.g. analysis, risk modeling, etc.).
-
-Yet, throughout history, advancement has been unequally distributed. Some branches of activity advanced far more rapidly than others. For example, most knowledge work is far more complex than the average activities in agriculture.
-
-But, AGI operates on our tree in a fundamentally different way than any previous advancement. AGI will prune _all_ activities below a certain complexity threshold, completely eliminating less complex activities. Therefore, all activities will become highly complex.
-
-<img src="foundation/assets/diagram.png">
-
-- A. Activities as a tree. It is unbalanced because change is not equally distributed.
-- B. Advancements update the tree.
-- C. AGI (fundamentally _different_ type of advancement) balances tree by eating all activities below a complexity threshold.
-
-And importantly, due to the tree structure, newly _added_ activities are added higher in the tree (as they are more complex), and thus are closer to each other (i.e., more similar).
-
-Thus, artificial intelligence will _converge_ human activity _towards_ a highly complex, singular, activity such that an individual great at one activity will be great at all.
-
-Let's understand how this phenomenon manifests in our world through the example of creating a startup.
-
-### Example: creating a startup
-
-The following is the activity tree for creating a startup. Complexity falls as you go down the tree.
-
-```mermaid
-flowchart TD
-    %% Main nodes with curved (stadium) edges
-    Startup("Create Startup")
-    Build("Build")
-    Distribute("Distribute")
-    Design("Design")
-    BuildSystem("Design system")
-    UseFigma("Use Figma")
-    Sell("Sell")
-    CreatePipeline("Create pipeline")
-    UseSalesforce("Use Salesforce")
-
-    %% Dimmed placeholder nodes
-    BuildEtc["..."]
-    DesignEtc["..."]
-    BuildSysEtc["..."]
-    DistEtc["..."]
-    SellEtc["..."]
-    PipelineEtc["..."]
-
-    %% New placeholder
-    %% BuildNew["+++"]
-    %% DesignNew["+++"]
-    %% BuildSystemNew["+++"]
-    %% SellNew["+++"]
-    %% CreatePipelineNew["+++"]
-
-    %% Connections
-    Startup --> Build
-    Startup --> Distribute
-
-    Build --> BuildEtc
-    Build --> Design
-    Design --> DesignEtc
-    Design --> BuildSystem
-    BuildSystem --> BuildSysEtc
-    BuildSystem --> UseFigma
-
-    Distribute --> Sell
-    Distribute --> DistEtc
-    Sell --> CreatePipeline
-    Sell --> SellEtc
-    CreatePipeline --> UseSalesforce
-    CreatePipeline --> PipelineEtc
-
-    %% Styling
-    classDef mainNode fill:#f3f3f3,stroke:#ffffff,stroke-width:2px,color:#000;
-    classDef placeholder fill:transparent,stroke:transparent,color:#555555;
-    classDef new fill:transparent,stroke:green,color:green;
-
-    class Startup,Build,Distribute,Design,BuildSystem,UseFigma,Sell,CreatePipeline,UseSalesforce mainNode;
-    class BuildEtc,DesignEtc,BuildSysEtc,DistEtc,SellEtc,PipelineEtc placeholder;
-    class BuildNew,DesignNew,BuildSystemNew,SellNew,CreatePipelineNew new;
-```
-
-Firstly, _ease_ of transferring ability from an activity to a similarly complex activity (at same depth) is represented by the _distance_ between them in the tree (i.e. via tree path). This represents the fact that domain specific and execution specific knowledge do not transfer easily, whereas, higher order reasoning and intuition do.
-
-| Depth            | Ability Type                 | Difference                                   | Ability Transferability | Intelligence |
-| ---------------- | ---------------------------- | -------------------------------------------- | ----------------------- | ------------ |
-| `Towards root`   | Intuition                    | Even more similar "feel" for what works.     | HIGH                    | SI           |
-| `D2`             | Logic & reasoning            | Similar analysis & logical experimentation.  | MEDIUM                  | AGI          |
-| `D3`             | Domain specific knowledge    | Different frameworks, principles.            | LOW                     | AI           |
-| `Towards leaves` | Execution specific knowledge | Very different tools (Figma vs. Salesforce). | VERY LOW                | AI / rules   |
-
-Secondly, we observe that ease of transferring ability _upwards_ (from an activity to its _parent_ activity) becomes more difficult the higher up the tree we go. For example, it is much easier to go from proficiency in using Figma to building design systems than it is to go from designing to building — which requires understanding across design, engineering and the many other functions required to build a product.
-
----
-
-As AGI prunes the tree according to complexity, we will notice that lower depths disappear, and new activities emerge at depths higher up the tree. These new activities will be more _similar_ to each other (i.e., ability is more likely to transfer) because the tree distance between them is shorter higher up in the tree. This represents the fact that these more complex activities involve less domain and execution specific knowledge (as discussed above).
-
-```mermaid
-flowchart TD
-    %% Main nodes with curved (stadium) edges
-    Startup("Create Startup")
-    Build("Build")
-    Distribute("Distribute")
-    Design("Design")
-    Sell("Sell")
-
-    %% Dimmed placeholder nodes
-    BuildEtc["..."]
-    DistEtc["..."]
-
-    %% New placeholder
-    BuildNew["? +++"]
-    DistributeNew["? +++"]
-
-    %% Connections
-    Startup --> Build
-    Startup --> Distribute
-
-    Build --> BuildEtc
-    Build --> Design
-    Build --> BuildNew
-
-    Distribute --> DistEtc
-    Distribute --> Sell
-    Distribute --> DistributeNew
-
-    %% Styling
-    classDef mainNode fill:#f3f3f3,stroke:#ffffff,stroke-width:2px,color:#000;
-    classDef placeholder fill:transparent,stroke:transparent,color:#555555;
-    classDef new fill:transparent,stroke:transparent,color:green;
-
-    class Startup,Build,Distribute,Design,BuildSystem,UseFigma,Sell,CreatePipeline,UseSalesforce mainNode;
-    class BuildEtc,DesignEtc,BuildSysEtc,DistEtc,SellEtc,PipelineEtc placeholder;
-    class BuildNew,DistributeNew new;
-```
-
----
-
-Eventually activities converge towards a _singular_ activity.
-
-```mermaid
-flowchart TD
-Startup("Create Startup")
-
-classDef mainNode fill:#f3f3f3,stroke:#ffffff,stroke-width:2px,color:#000;
-
-class Root,Startup mainNode;
-```
-
----
-
-### Cautions
-
-Before we conclude this example, a few things to keep in mind:
-
-- We should not be attached to the labels we've used ("startup", "design", "sell" etc.) because these labels have no meaning on their own. For example, a lead designer at a far more complex startup will likely be performing higher complexity activities than a CEO of a less complex startup. Similarly, a mediocre designer will not operate at a high level of complexity even though their activity requires them to, because they are ignorant of its complexity.
-- In the "Transferability" column above, what we've considered as "HIGH" may be seen as "VERY LOW" by our descendents who will be operating at such heights in the tree where transfering abilities can happen even more seamlessly. These are relative terms.
-- While we have modeled our activities as _discrete_ nodes to make it easy to reason, in reality they are fluid: i.e. there are near infinite discrete steps within each step above. Yet, the underlying principle of convergence remains the same.
-
----
-
-Let's explore the implications of convergence that are relevant to us.
-
-### Convergence amplifies extreme outcomes.
-
-As convergence increases the complexity of our activities, extreme outcomes are amplified.
-
-This is because generally we observe that more complex activities yield more _extreme_ outcomes. E.g., outcomes for product design are far more extreme than outcomes for assembly work. We can also observe this phenomenon in popular board games: Go is far more complex than Chess, and thus has more extreme outcomes[^elo].
-
-### All activities become more similar.
-
-Artificial intelligence will enable many more activities than it will remove. The range of activities we have witnessed throughout human history will eventually be a drop in the ocean of activities that will eventually exist. While it's impossible to predict the nature of these activities, we _can_ predict that they will be increasingly _similar_: i.e. ability in one will increasingly translates to ability in all.
-
-### Convergence occurs locally and globally.
-
-Convergence occurs locally _and_ globally. In our example, we saw how the entire tree stemming from "creating a startup" converges towards its root. But, "creating a startup" is a sub-activity for far more complex activities higher up in the _global_ tree. Convergence _also_ occurs in the _global tree_ that "creating a startup" is a part of.
-
-```mermaid
-flowchart TD
-Root("?")
-Startup("Create Startup")
-Placeholder("? ...")
-New("? +++")
-
-Root --> Placeholder
-Root --> Startup
-Root --> New
-
-classDef mainNode fill:#f3f3f3,stroke:#ffffff,stroke-width:2px,color:#000;
-classDef placeholder fill:transparent,stroke:transparent,color:#555555;
-classDef new fill:transparent,stroke:transparent,color:green;
-
-class Root,Startup mainNode;
-class Placeholder placeholder;
-class New new;
-```
-
-For example, while activities within the average B2B startup converge towards its root, this startup itself will be rendered irrelevant due to convergence higher in the global tree. This is because a new company will emerge at a higher position in the tree that will perform the function of this particular startup and many other _similarly complex_ ones.
-
-Increasingly, companies will be outcompeted from _above_ rather than from the _side_. Companies will be forced to compete and win at _higher_ complexity activities in order to survive.
-
-### Convergence is accelerating.
-
-As activities become more similar, competition increases.
-
-This means that we will push each other to more quickly develop proficiency in more complex activities. Furthermore, artificial intelligence technology is growing exponentially fast, enabling us to perform these more complex activities faster.
-
-Due to these two effects, convergence will accelerate — at least for as long as we can continue to see (and become proficient at) the more complex activities that appear.
-
-Such convergence is not new. We have been feeling convergence for a while, but to a low degree. Ideas such as ["Software eating the world"](https://a16z.com/why-software-is-eating-the-world/), ["Competition is for losers"](https://www.csun.edu/~vcact00f/497CapStone/Peter%20Thiel_%20Competition%20Is%20for%20Losers%20-%20WSJ.pdf), etc. are localized observations of the larger phenomenon of convergence.
-
----
-
-_We have only scratched the surface of this phenomenon. You can find our rough notes about further implications & predictions [here](https://github.com/root-foundation/root/blob/main/foundation/convergence_notes.md)._
-
-## Superpositional intuition
-
-The higher up in the tree we converge (i.e. the more complex and similar our activities become), the less we can _define_ an activity by its sub-activities. An activity becomes _far_ more than the _sum_ of its sub-activities.
-
-The gap between the complexity of an activity and its sub-activity grows superexponentially as we go up the tree (i.e. towards root). At low complexity depths, this superexponentiality is not pronounced because the base complexity itself is low.
-
-We can understand this superexponentiality intuitively by studying the difference between the ability of a master and a novice in a highly complex game.
-
-- Novices make moves by _independently_ making moves in each of the sub-activities.
-- Masters makes moves by choosing _vectors_ from a higher dimensional _vector space_ created by using each sub-activity as a _basis vector_.
-
-The dimension of the vector space of moves for an activity faithfully represents its complexity.
-
-Moves in the master's higher dimensional vector space may not be describable using the labels of its sub-activities. For example, a master startup founder might make decisions that you will not be able to categorize as a "product", "design", "marketing", "brand", "sales", etc. decision. Their moves may come off as a weird, fluid, combination of sub-activities, or even none of them. For a novice founder, these moves may not only appear weird, but also _wrong_. As complexity grows, increasingly, a mediocre player will be unable to conceive of _most_ of the possible moves — even though such moves exist, and are _better_. Similar to how a player viewing through a 2D lens can't imagine that they can "jump" because it is a move that only exists in a 3D lens.
-
-We call such a move that cannot be neatly categorized into sub-activities a _superpositional move_ because the move exists as a _superposition_ of the sub-activity basis vectors[^superposition-math].
-
-[^superposition-math]: Mathematically, a master player would _tensor product_ the vector spaces of the sub-activities (meaning, parent activity’s dimension will be the _product_ of the sub-activity dimensions). This would give them access to superpositional activities that cannot be factored (i.e., “neatly categorized”) into subactivities. On the other hand, a novice player would incorrectly presume that all moves can be factored. Thus, they ignorantly presume that the parent activity’s vector space is the _direct sum_ of subactivities (meaning, the parent activity’s dimension is the mere _sum_ of the sub-activity dimensions).
-
-We call this ability to _see_ moves in this higher dimensional vector space _superpositional intuition_. Proficiency in higher complexity activities _requires_ strong superpositional intuition because almost all of the possible moves are superpositional.
-
----
-
-Artificial intelligence has so far advanced in an [imbalanced](#Interdependence--Imbalance) way: its technologies have far surpassed its stories and instruments. This imbalance is about to create great collective suffering.
-
-Yet, this imbalanced advancement, through convergence, has also enabled the solution: a higher dimensional activity that contains a _superpositional solution_ that enables us to advance stories, instruments, and technologies as one.
-
-Through this superpositional solution, we will unite humanity and unlock our collective potential — in a _balanced_ way.
+Tackling these separately would be a blunder. We believe this can _only_ be realized through a _single_ system that advances everything together — as _one_.
 
 # ACT III — Foundation
 
