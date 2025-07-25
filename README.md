@@ -30,21 +30,27 @@ A vision for a _single_ expression that will unite humanity and unlock our colle
 
 # ACT I — Personal token
 
-## Introduction
+## Artificial intelligence
 
 Artificial intelligence promises a future of abundance and prosperity in which each individual gains unimaginable power to realize their dreams.
 
-But, as we accelerate towards Artificial General Intelligence (AGI)[^ai], our debt-based economic system will increasingly concentrate opportunity, cruelly oppress those without wealth and will eventually tear society apart at its seams.
+But, as we accelerate towards Artificial General Intelligence (AGI)[^ai], our debt-based economic system will increasingly concentrate opportunity and erode social cohesion.
 
-We propose a new economic system that unites society and unlocks humanity’s potential by giving every person a share in our collective progress and by democratizing opportunity.
+To understand why our current economic system fails in a post AGI world, we must first understand how AGI changes our world — through _convergence_.
 
-[^ai]: To avoid confusion, when we say "artificial intelligence" unabbreviated (and without other qualifiers) we mean the broader societal, cultural, and technological change. We note 3 milestones: <br /><br />1. Domain specific AI: performs specific cognitive tasks but lacks broad adaptability. <br />2. AGI: _reasons_ across most domains as well as a human. <br />3. Superintelligence: performs cognition _above_ reasoning (appears to be _intuitive_). <br /><br />We believe we will have full AGI far sooner than most people think, full Superintelligence far, far later than many think.
+## How AGI will change our world
+
+Outcomes in all activities will become _extreme_: a tiny share of people will be creating most of the economic value, while the median _share_ will shrink — a _power law distribution_ of outcomes. Extreme outcomes aren't new – the _average_ startup founder, musician, or content creator makes nothing, whereas the _best_ ones generate astronomical outcomes. What _is_ new is that the _entire_ economy will become very extreme instead of just a few domains.
+
+Acceleratingly, AGI will create many more activities than it eats. _Current_ winners will be more quickly outcompeted by those who will win at the _new_, more complex activities (that encapsulate the current activities and much much more). Therefore, even though outcomes will be extreme, due to rapid change in the winners, within any period of time, we will have more absolute number of winners than ever before. We are already seeing this accelerating displacement of incumbents.
+
+(todo: examples of displacement from above. one at individual. one at company).
+
+()
+
+To understand why... <>.
 
 ## Problem
-
-AGI will make the world very extreme: a tiny share of people will create most of the economic value, while the median _share_ will shrink — a _power law distribution_ of outcomes.
-
-Extreme outcomes aren't new; any highly complex activity has extreme outcomes – the _average_ startup founder, musician, or content creator makes nothing, whereas the _best_ ones generate astronomical outcomes. What _is_ new is that the _entire_ economy will become very extreme instead of just a few creative domains. This is because AGI will eat lower complexity activities across _all_ domains, pushing us towards higher complexity activities which will yield _even_ more extreme outcomes. Extreme outcomes are here to stay and will only become more extreme over time.
 
 In such an extreme world, **debt is death**. Everything will be too risky to finance with debt. This is not due to fewer opportunities (AGI will enable far more opportunities than it takes), but rather due to the extreme, winner-take-all nature of outcomes within _each_ opportunity. In extreme outcomes, the median outcome falls to nothing and thus financing with debt is no longer viable.
 
@@ -95,183 +101,17 @@ Personal tokens can't exist in a vacuum. We need many functions in order to have
 
 To be able to collect this equity fee, we have another _type_ of token called the _network token_. An instance of a network token (i.e., “NetworkToken”) represents the collective potential of the _entire_ network through its micro stakes in all personal tokens. The wallet associated with the NetworkToken is the network's treasury that helps finance all of its functions.
 
-## Convergence
-
 Before we can paint the picture of _how_ personal and network tokens can unite society and democratize opportunity, we need to first see how artificial intelligence is changing our world.
-
-Artificial intelligence acceleratingly makes our activities more _complex_ and more _similar_ — _converging_ towards a highly complex, singular activity. Convergence means that every human task keeps climbing the “activity tree,” becoming both more complex and more alike, until they blur into one ultra-complex root activity.
-
-Advances such as spreadsheets already push us upward, but artificial-general intelligence (AGI) will go further by _also_ pruning away all the easy, low complexity activities. What remains are only high-complexity tasks packed tightly together near the top of the tree.
-
-Consider creating a startup.
-
-```mermaid
-flowchart TD
-    %% Main nodes with curved (stadium) edges
-    Startup("Create Startup")
-    Build("Build")
-    Distribute("Distribute")
-    Design("Design")
-    BuildSystem("Design system")
-    UseFigma("Use Figma")
-    Sell("Sell")
-    CreatePipeline("Create pipeline")
-    UseSalesforce("Use Salesforce")
-
-    %% Dimmed placeholder nodes
-    BuildEtc["..."]
-    DesignEtc["..."]
-    BuildSysEtc["..."]
-    DistEtc["..."]
-    SellEtc["..."]
-    PipelineEtc["..."]
-
-    %% New placeholder
-    %% BuildNew["+++"]
-    %% DesignNew["+++"]
-    %% BuildSystemNew["+++"]
-    %% SellNew["+++"]
-    %% CreatePipelineNew["+++"]
-
-    %% Connections
-    Startup --> Build
-    Startup --> Distribute
-
-    Build --> BuildEtc
-    Build --> Design
-    Design --> DesignEtc
-    Design --> BuildSystem
-    BuildSystem --> BuildSysEtc
-    BuildSystem --> UseFigma
-
-    Distribute --> Sell
-    Distribute --> DistEtc
-    Sell --> CreatePipeline
-    Sell --> SellEtc
-    CreatePipeline --> UseSalesforce
-    CreatePipeline --> PipelineEtc
-
-    %% Styling
-    classDef mainNode fill:#f3f3f3,stroke:#ffffff,stroke-width:2px,color:#000;
-    classDef placeholder fill:transparent,stroke:transparent,color:#555555;
-    classDef new fill:transparent,stroke:green,color:green;
-
-    class Startup,Build,Distribute,Design,BuildSystem,UseFigma,Sell,CreatePipeline,UseSalesforce mainNode;
-    class BuildEtc,DesignEtc,BuildSysEtc,DistEtc,SellEtc,PipelineEtc placeholder;
-    class BuildNew,DesignNew,BuildSystemNew,SellNew,CreatePipelineNew new;
-```
-
-| Depth            | Ability Type                 | Difference                                   | Ability Transferability | Intelligence |
-| ---------------- | ---------------------------- | -------------------------------------------- | ----------------------- | ------------ |
-| `Towards root`   | Intuition                    | Even more similar "feel" for what works.     | HIGH                    | SI           |
-| `D2`             | Logic & reasoning            | Similar analysis & logical experimentation.  | MEDIUM                  | AGI          |
-| `D3`             | Domain specific knowledge    | Different frameworks, principles.            | LOW                     | AI           |
-| `Towards leaves` | Execution specific knowledge | Very different tools (Figma vs. Salesforce). | VERY LOW                | AI / rules   |
-
-Activities higher up in the tree are more similar because ability transfers more easily. As we can see, domain specific and execution specific knowledge do not transfer easily, whereas, higher order reasoning and intuition do.
-
-Furthermore, we observe that ease of transferring ability _upwards_ (from an activity to its _parent_ activity) becomes more difficult the higher up the tree we go. For example, it is much easier to go from proficiency in using Figma to building design systems than it is to go from designing to building — which requires understanding across design, engineering and the many other functions required to build a product.
-
----
-
-As AGI cuts off the simpler activities, new, _more complex_ activities appear higher up:
-
-```mermaid
-flowchart TD
-    %% Main nodes with curved (stadium) edges
-    Startup("Create Startup")
-    Build("Build")
-    Distribute("Distribute")
-    Design("Design")
-    Sell("Sell")
-
-    %% Dimmed placeholder nodes
-    BuildEtc["..."]
-    DistEtc["..."]
-
-    %% New placeholder
-    BuildNew["? +++"]
-    DistributeNew["? +++"]
-
-    %% Connections
-    Startup --> Build
-    Startup --> Distribute
-
-    Build --> BuildEtc
-    Build --> Design
-    Build --> BuildNew
-
-    Distribute --> DistEtc
-    Distribute --> Sell
-    Distribute --> DistributeNew
-
-    %% Styling
-    classDef mainNode fill:#f3f3f3,stroke:#ffffff,stroke-width:2px,color:#000;
-    classDef placeholder fill:transparent,stroke:transparent,color:#555555;
-    classDef new fill:transparent,stroke:transparent,color:green;
-
-    class Startup,Build,Distribute,Design,BuildSystem,UseFigma,Sell,CreatePipeline,UseSalesforce mainNode;
-    class BuildEtc,DesignEtc,BuildSysEtc,DistEtc,SellEtc,PipelineEtc placeholder;
-    class BuildNew,DistributeNew new;
-```
-
-These new activities are more _similar_: ability more easily transfers amongst them.
-For example: (todo).
-
-> A word of caution: we should not be attached to the labels we've used ("startup", "design", "sell" etc.) because these labels have no meaning on their own. For example, a lead designer at a far more complex startup will likely be performing higher complexity activities than a CEO of a less complex startup. Similarly, a mediocre designer will not operate at a high level of complexity even though their activity requires them to, because they are ignorant of its complexity.
-
----
-
-Eventually the entire “create a startup” subtree itself collapses into a single node — the founder’s job blends product, design, sales, and more into one fluid activity.
-
-```mermaid
-flowchart TD
-Startup("Create Startup")
-
-classDef mainNode fill:#f3f3f3,stroke:#ffffff,stroke-width:2px,color:#000;
-
-class Root,Startup mainNode;
-```
-
----
-
-As artificial intelligence accelerates convergence, extreme outcomes are acceleratingly amplified. This is because more complex activities have more extreme outcomes, and convergence pushes us towards more and more complex activities.
-
-Furthermore, all activities become more similar because they are added _higher_ up the tree where there is increasingly less friction in transfering ability across them.
-
-Convergence occurs locally _and_ globally. In our example, we saw how the entire tree stemming from "creating a startup" converges towards its root. But, "creating a startup" is itself a sub-activity for far more complex activities higher up in the _global_ tree. Convergence _also_ occurs in the _global tree_ that "creating a startup" is a part of.
-
-Convergence works locally _and_ globally: within a startup, every task collapses toward its core, yet the startup itself is only a sub-tree within the tree of a higher (thus more complex) activity tree that is also converging toward its own root.
-
-```mermaid
-flowchart TD
-Root("?")
-Startup("Create Startup")
-Placeholder("? ...")
-New("? +++")
-
-Root --> Placeholder
-Root --> Startup
-Root --> New
-
-classDef mainNode fill:#f3f3f3,stroke:#ffffff,stroke-width:2px,color:#000;
-classDef placeholder fill:transparent,stroke:transparent,color:#555555;
-classDef new fill:transparent,stroke:transparent,color:green;
-
-class Root,Startup mainNode;
-class Placeholder placeholder;
-class New new;
-```
-
-For example, while activities within the average B2B startup converge towards its root, this startup itself will be rendered irrelevant due to convergence higher in the global tree. This is because a new company will emerge at a higher position in the tree that will perform the function of this particular startup and many other _similarly complex_ ones. We will be forced to compete and win at _higher_ complexity activities in order to survive. Increasingly, companies, and individuals, will be outcompeted from _above_ rather than from the _side_.
-
-_Further reading: A deeper essay on [convergence](/foundation/Convergence.md)_
 
 ## Personal tokens will democratize opportunity
 
 Personal tokens create a market for human potential that will increasingly allocate resources according to an individual’s potential — _regardless_ of the circumstances of their birth and privilege.
 
 We acknowledge that _initially_ personal tokens will be better harnessed by individuals with privilege. Early individuals who raise capital by selling equity in their personal tokens would have likely had advantages such as better education, access to resources, capital, networks, etc. But eventually, as the network matures through more participants and investments (in number and magnitude), market forces will more aggressively allocate resources to undervalued or undiscovered talent. Thus, market forces will push resources to individuals _earlier_ in their lives across a _broader_ range of activities — preventing wastage of valuable potential and minimizing unfair advantages.
+
+As discussed earlier, _even_ with extreme outcomes we will have a greater absolute number of winners because of rapid displacement of winners (due to accelerating convergence). Furthermore, as artificial intelligence advances humanity, the number of quality contenders will increase (due to better training, resources, leverage, etc.).
+
+Because of more extreme success outcomes _and_ greater number of competent contenders for those outcomes, we will see more widespread investments of greater magnitude. Therefore, even the investment into the median contender will increase.
 
 Thus, personal tokens, and the market forces they create, will increasingly negate privilege — unlocking our collective potential.
 
@@ -281,7 +121,13 @@ In an extreme world with a falling median outcome, a sufficient baseline of reso
 
 This is best achieved through _Universal Basic Equity (UBE)_: every citizen receives an _equity stake_ in the collective upside — a stake in the NetworkToken.[^children]
 
-In addition to providing a strong baseline, UBE also creates a symbiotic relationship between the individual and the collective. When one wins, everyone immediately benefits because the value of everyone’s equity in the collective upside increases. Thus, UBE enables social cohesion.
+In addition to providing a strong baseline, UBE also creates a symbiotic relationship between the individual and the collective. When value is created anywhere, in any form, everyone immediately benefits because the value of everyone’s equity in the collective upside will increase (i.e., value of the NetworkToken rises). UBE will enable social cohesion.
+
+Critically, Universal basic _income_ (UBI) will _not_ work on its own because it will cause difficult-to-manage inflation (because capital pumped into the market). On the other hand, Universal basic _equity_ (UBE) will not cause inflation due to the _strong_ incentive to hold your equity in the NetworkToken given the promise of great upside (i.e., belief that humanity will create _even_ more value in the future). If needed, in addition to UBE, UBI can also be offered by siphoning some of the dividends the NetworkToken accrues to its shareholders.
+
+As long as we have faith in humanity, more people will hold than sell.
+
+This system ensures that every one of descendents will enjoy a level of abundance that we can't fathom. Artificial intelligence and economies of scale will bring the price of all important goods down, while UBE will increase the wealth in each indivdual's hands without inflation. Furthermore, as your shares in the NetworkToken accumulate, you gain a safety net to take bold risks. Even if you sell all of your equity today to take a bold risk, future UBE share allocations will more than enable you to live a healthy life. Ushering prosperity.
 
 [^children]: UBE incentivizes having children. When a baby is born, new shares in the NetworkToken is minted for that baby, thus diluting the value everyone else’s shares. Thus, families will be incentivized to have more children to increase their collective equity in the NetworkToken.
 
@@ -365,9 +211,24 @@ Our outdated economic system is just one small part of the broader imbalance:
 
 This means our tokenized economic instrument alone won’t be enough. Advancement in a single feature alone will accomplish almost _nothing_. In addition to the instrument of tokens, we will also need to create all other instruments (governance, legal, social, etc.), _and_ advance our stories (towards unity), _and_ build technology (superintelligence). And importantly, they must be advanced _together_ to eliminate imbalance.
 
-Tackling these separately would be a blunder. We believe this can _only_ be realized through a _single_ system that advances everything together — as _one_.
+Tackling these separately would be a blunder. We believe this can _only_ be realized through a _single_ system that advances everything together — as _one_, because advancing these separately will cause imbalance.
 
 ## Foundation
+
+Unity story is the core of this.
+
+We believe humanity evolves towards unity.
+
+Convergence is a manifestation of this even more fundamental phemonon in the context of activities.
+
+Artificial intelligence acceleratingly makes our activities more complex and more similar — converging towards a highly complex, singular activity.
+
+It is because all of our activities increasingly become similar, we can now serve all human activity with a single expression. AI has created a higher complexity activity Given this opportunity,
+
+In fact, it would be an error to only focus on the economic system given the existence of a solution that can work for all systems...
+
+- Not just economic system, but all systems.
+- Such an expression that advances _everything_ as one is made possible through the nature of convergence. (please read to understand why).
 
 Towards convergence, the most powerful story (unity), most powerful instruments (economic, governance, legal, communication, etc.), and most powerful technology (superintelligence) will increasingly emerge as a single expression. It will be impossible to distinguish which part of the expression is which. And importantly, the whole will be far more than the sum of its parts.
 
