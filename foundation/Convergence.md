@@ -1,6 +1,6 @@
 ## Convergence phenomenon
 
-Convergence is the phenomenon of our activities evolving to be more complex _and_ similar — towards a _highly complex_, _singular_ activity.
+Convergence is a phenomenon in which our activities acceleratingly evolve to be more complex _and_ similar — towards a _highly complex_, _singular_ activity.
 
 To understand what this means and how it's caused, we must first understand the nature of an activity.
 
@@ -14,8 +14,6 @@ Activities have a notion of _complexity_ and _similarity_:
 
 1. Each activity (i.e., node) has a notion of [complexity](https://en.wikipedia.org/wiki/Game_complexity): the number of possible states for that activity. For example: assembly work is less complex due to limited possibilities, whereas product design is far more complex due to exponentially more possibilities. Within the tree, sub-activities will be superexponentially less complex than their parent (explained later).
 2. A pair of similarly complex activities have a notion of "similarity": the more similar two activities are, the more seamlessly ability transfers between them. The tree-path distance between two activities (at the same complexity depth) represents the similarity between them.
-
-[^elo]: Go has a greater ELO spread amongst its top players than Chess, leading to more extreme outcomes.
 
 _Advancements_ (i.e., [changes](#story-instrument-technology)) tend to push us _upwards_ towards more complex activities — by adding more complex activities (and sub-activities) to the tree while removing less complex ones. For example, spreadsheets removed many lower complexity activities related to bookkeeping while spawning many new branches and fields (e.g. analysis, risk modeling, etc.).
 
@@ -181,6 +179,8 @@ Let's explore the implications of convergence that are relevant to us.
 As convergence increases the complexity of our activities, extreme outcomes are amplified.
 
 This is because generally we observe that more complex activities yield more _extreme_ outcomes. E.g., outcomes for product design are far more extreme than outcomes for assembly work. We can also observe this phenomenon in popular board games: Go is far more complex than Chess, and thus has more extreme outcomes[^elo].
+
+[^elo]: Go has a greater ELO spread amongst its top players than Chess, leading to more extreme outcomes.
 
 ### All activities become more similar.
 

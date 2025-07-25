@@ -8,26 +8,18 @@ A vision for a _single_ expression that will unite humanity and unlock our colle
 
 ---
 
-ACT I — Personal token
-
 - [Introduction](#introduction)
 - [Problem](#problem)
-- [Convergence](#convergence)
 - [Venture capital](#venture-capital)
 - [Personal token](#personal-token)
 - [Network](#network)
+- [Convergence](#convergence)
 - [Personal tokens will democratize opportunity](#personal-tokens-will-democratize-opportunity)
 - [Universal Basic Equity (UBE)](#universal-basic-equity-ube)
-
-ACT II — Tokenization
-
 - [Evolution of financial instruments](#evolution-of-financial-instruments)
 - [Value will concentrate in personal tokens](#value-will-concentrate-in-personal-tokens)
 - [Tokens will eat the world](#tokens-will-eat-the-world)
 - [Interdependence—Imbalance](#interdependence--imbalance)
-
-ACT III — Foundation
-
 - [Foundation](#foundation)
 - [Design principles](#design-principles)
 - [Solution](#solution)
@@ -44,15 +36,15 @@ Artificial intelligence promises a future of abundance and prosperity in which e
 
 But, as we accelerate towards Artificial General Intelligence (AGI)[^ai], our debt-based economic system will increasingly concentrate opportunity, cruelly oppress those without wealth and will eventually tear society apart at its seams.
 
-We propose a new economic system that unites society and unlocks humanity’s potential by giving every person a share in our collective progress and democratizing opportunity.
+We propose a new economic system that unites society and unlocks humanity’s potential by giving every person a share in our collective progress and by democratizing opportunity.
 
 [^ai]: To avoid confusion, when we say "artificial intelligence" unabbreviated (and without other qualifiers) we mean the broader societal, cultural, and technological change. We note 3 milestones: <br /><br />1. Domain specific AI: performs specific cognitive tasks but lacks broad adaptability. <br />2. AGI: _reasons_ across most domains as well as a human. <br />3. Superintelligence: performs cognition _above_ reasoning (appears to be _intuitive_). <br /><br />We believe we will have full AGI far sooner than most people think, full Superintelligence far, far later than many think.
 
 ## Problem
 
-AGI will make the world very extreme: a tiny share of people will create most of the economic value, while the median share will shrink — a power law distribution of outcomes.
+AGI will make the world very extreme: a tiny share of people will create most of the economic value, while the median _share_ will shrink — a _power law distribution_ of outcomes.
 
-Extreme outcomes aren't new; any highly complex activity has extreme outcomes – the _average_ startup founder, musician, or content creator makes nothing, whereas the _best_ ones generate astronomical outcomes. What _is_ new is that the _entire_ economy will become very extreme instead of just a few creative domains. This is because AGI will eat lower complexity activities across _all_ domains, pushing us towards higher complexity activities which will yield _even_ more extreme outcomes. Extreme outcomes are here to stay and will only become more extreme over time. _(In case this is unintuitive, please read [Convergence phenomenon](https://github.com/root-foundation/root#convergence-phenomenon) below)_.
+Extreme outcomes aren't new; any highly complex activity has extreme outcomes – the _average_ startup founder, musician, or content creator makes nothing, whereas the _best_ ones generate astronomical outcomes. What _is_ new is that the _entire_ economy will become very extreme instead of just a few creative domains. This is because AGI will eat lower complexity activities across _all_ domains, pushing us towards higher complexity activities which will yield _even_ more extreme outcomes. Extreme outcomes are here to stay and will only become more extreme over time.
 
 In such an extreme world, **debt is death**. Everything will be too risky to finance with debt. This is not due to fewer opportunities (AGI will enable far more opportunities than it takes), but rather due to the extreme, winner-take-all nature of outcomes within _each_ opportunity. In extreme outcomes, the median outcome falls to nothing and thus financing with debt is no longer viable.
 
@@ -62,12 +54,12 @@ _Even_ if one is debt-free, they will almost certainly be outcompeted by one who
 
 And critically, in an extreme world, if people don't have a stake in the collective upside, they will resent the winners — corroding social cohesion.
 
-Therefore, we need a way to:
+Therefore, we urgently need a way to:
 
 1. Finance human activity in a way that ensures that anyone with potential has access to the resources they need to fully realize their potential — regardless of the circumstances of their birth.
 2. Give each individual a stake in the collective upside to unite society.
 
-Otherwise, human potential will be cruelly crushed, society will be torn apart, and we will fail to fully realize humanity's potential.
+Otherwise we will fail to fully realize our potential.
 
 ## Venture capital
 
@@ -103,6 +95,16 @@ Personal tokens can't exist in a vacuum. We need many functions in order to have
 
 To be able to collect this equity fee, we have another _type_ of token called the _network token_. An instance of a network token (i.e., “NetworkToken”) represents the collective potential of the _entire_ network through its micro stakes in all personal tokens. The wallet associated with the NetworkToken is the network's treasury that helps finance all of its functions.
 
+## Convergence
+
+Before we can paint the picture of _how_ personal and network tokens can unite society and democratize opportunity, we need to first understand how artificial intelligence is changing our world.
+
+**Artificial intelligence acceleratingly makes our activities more _complex_ and more _similar_ — _converging_ towards a highly complex, singular activity.**
+
+To see how, let's first understand the nature of an activity.
+
+Human activity resembles a _finite_, _recursive_ tree [^tree]. Each node of the tree represents an activity. Every activity can be broken down into sub-activities that each can be further divided into more sub-activities, thus forming a tree. This tree is finite because at some point the sub-activities become too simple to be considered an activity
+
 ## Personal tokens will democratize opportunity
 
 Personal tokens create a market for human potential that will increasingly allocate resources according to an individual’s potential — _regardless_ of the circumstances of their birth and privilege.
@@ -120,8 +122,6 @@ This is best achieved through _Universal Basic Equity (UBE)_: every citizen rece
 In addition to providing a strong baseline, UBE also creates a symbiotic relationship between the individual and the collective. When one wins, everyone immediately benefits because the value of everyone’s equity in the collective upside increases. Thus, UBE enables social cohesion.
 
 [^children]: UBE incentivizes having children. When a baby is born, new shares in the NetworkToken is minted for that baby, thus diluting the value everyone else’s shares. Thus, families will be incentivized to have more children to increase their collective equity in the NetworkToken.
-
-# ACT II — Tokenization
 
 ## Evolution of financial instruments
 
@@ -205,7 +205,7 @@ This means our tokenized economic instrument alone won’t be enough. Advancemen
 
 Tackling these separately would be a blunder. We believe this can _only_ be realized through a _single_ system that advances everything together — as _one_.
 
-# ACT III — Foundation
+## Foundation
 
 Towards convergence, the most powerful story (unity), most powerful instruments (economic, governance, legal, communication, etc.), and most powerful technology (superintelligence) will increasingly emerge as a single expression. It will be impossible to distinguish which part of the expression is which. And importantly, the whole will be far more than the sum of its parts.
 
