@@ -97,13 +97,175 @@ To be able to collect this equity fee, we have another _type_ of token called th
 
 ## Convergence
 
-Before we can paint the picture of _how_ personal and network tokens can unite society and democratize opportunity, we need to first understand how artificial intelligence is changing our world.
+Before we can paint the picture of _how_ personal and network tokens can unite society and democratize opportunity, we need to first see how artificial intelligence is changing our world.
 
-**Artificial intelligence acceleratingly makes our activities more _complex_ and more _similar_ — _converging_ towards a highly complex, singular activity.**
+Artificial intelligence acceleratingly makes our activities more _complex_ and more _similar_ — _converging_ towards a highly complex, singular activity. Convergence means that every human task keeps climbing the “activity tree,” becoming both more complex and more alike, until they blur into one ultra-complex root activity.
 
-To see how, let's first understand the nature of an activity.
+Advances such as spreadsheets already push us upward, but artificial-general intelligence (AGI) will go further by _also_ pruning away all the easy, low complexity activities. What remains are only high-complexity tasks packed tightly together near the top of the tree.
 
-Human activity resembles a _finite_, _recursive_ tree [^tree]. Each node of the tree represents an activity. Every activity can be broken down into sub-activities that each can be further divided into more sub-activities, thus forming a tree. This tree is finite because at some point the sub-activities become too simple to be considered an activity
+Consider creating a startup.
+
+```mermaid
+flowchart TD
+    %% Main nodes with curved (stadium) edges
+    Startup("Create Startup")
+    Build("Build")
+    Distribute("Distribute")
+    Design("Design")
+    BuildSystem("Design system")
+    UseFigma("Use Figma")
+    Sell("Sell")
+    CreatePipeline("Create pipeline")
+    UseSalesforce("Use Salesforce")
+
+    %% Dimmed placeholder nodes
+    BuildEtc["..."]
+    DesignEtc["..."]
+    BuildSysEtc["..."]
+    DistEtc["..."]
+    SellEtc["..."]
+    PipelineEtc["..."]
+
+    %% New placeholder
+    %% BuildNew["+++"]
+    %% DesignNew["+++"]
+    %% BuildSystemNew["+++"]
+    %% SellNew["+++"]
+    %% CreatePipelineNew["+++"]
+
+    %% Connections
+    Startup --> Build
+    Startup --> Distribute
+
+    Build --> BuildEtc
+    Build --> Design
+    Design --> DesignEtc
+    Design --> BuildSystem
+    BuildSystem --> BuildSysEtc
+    BuildSystem --> UseFigma
+
+    Distribute --> Sell
+    Distribute --> DistEtc
+    Sell --> CreatePipeline
+    Sell --> SellEtc
+    CreatePipeline --> UseSalesforce
+    CreatePipeline --> PipelineEtc
+
+    %% Styling
+    classDef mainNode fill:#f3f3f3,stroke:#ffffff,stroke-width:2px,color:#000;
+    classDef placeholder fill:transparent,stroke:transparent,color:#555555;
+    classDef new fill:transparent,stroke:green,color:green;
+
+    class Startup,Build,Distribute,Design,BuildSystem,UseFigma,Sell,CreatePipeline,UseSalesforce mainNode;
+    class BuildEtc,DesignEtc,BuildSysEtc,DistEtc,SellEtc,PipelineEtc placeholder;
+    class BuildNew,DesignNew,BuildSystemNew,SellNew,CreatePipelineNew new;
+```
+
+| Depth            | Ability Type                 | Difference                                   | Ability Transferability | Intelligence |
+| ---------------- | ---------------------------- | -------------------------------------------- | ----------------------- | ------------ |
+| `Towards root`   | Intuition                    | Even more similar "feel" for what works.     | HIGH                    | SI           |
+| `D2`             | Logic & reasoning            | Similar analysis & logical experimentation.  | MEDIUM                  | AGI          |
+| `D3`             | Domain specific knowledge    | Different frameworks, principles.            | LOW                     | AI           |
+| `Towards leaves` | Execution specific knowledge | Very different tools (Figma vs. Salesforce). | VERY LOW                | AI / rules   |
+
+Activities higher up in the tree are more similar because ability transfers more easily. As we can see, domain specific and execution specific knowledge do not transfer easily, whereas, higher order reasoning and intuition do.
+
+Furthermore, we observe that ease of transferring ability _upwards_ (from an activity to its _parent_ activity) becomes more difficult the higher up the tree we go. For example, it is much easier to go from proficiency in using Figma to building design systems than it is to go from designing to building — which requires understanding across design, engineering and the many other functions required to build a product.
+
+---
+
+As AGI cuts off the simpler activities, new, _more complex_ activities appear higher up:
+
+```mermaid
+flowchart TD
+    %% Main nodes with curved (stadium) edges
+    Startup("Create Startup")
+    Build("Build")
+    Distribute("Distribute")
+    Design("Design")
+    Sell("Sell")
+
+    %% Dimmed placeholder nodes
+    BuildEtc["..."]
+    DistEtc["..."]
+
+    %% New placeholder
+    BuildNew["? +++"]
+    DistributeNew["? +++"]
+
+    %% Connections
+    Startup --> Build
+    Startup --> Distribute
+
+    Build --> BuildEtc
+    Build --> Design
+    Build --> BuildNew
+
+    Distribute --> DistEtc
+    Distribute --> Sell
+    Distribute --> DistributeNew
+
+    %% Styling
+    classDef mainNode fill:#f3f3f3,stroke:#ffffff,stroke-width:2px,color:#000;
+    classDef placeholder fill:transparent,stroke:transparent,color:#555555;
+    classDef new fill:transparent,stroke:transparent,color:green;
+
+    class Startup,Build,Distribute,Design,BuildSystem,UseFigma,Sell,CreatePipeline,UseSalesforce mainNode;
+    class BuildEtc,DesignEtc,BuildSysEtc,DistEtc,SellEtc,PipelineEtc placeholder;
+    class BuildNew,DistributeNew new;
+```
+
+These new activities are more _similar_: ability more easily transfers amongst them.
+For example: (todo).
+
+> A word of caution: we should not be attached to the labels we've used ("startup", "design", "sell" etc.) because these labels have no meaning on their own. For example, a lead designer at a far more complex startup will likely be performing higher complexity activities than a CEO of a less complex startup. Similarly, a mediocre designer will not operate at a high level of complexity even though their activity requires them to, because they are ignorant of its complexity.
+
+---
+
+Eventually the entire “create a startup” subtree itself collapses into a single node — the founder’s job blends product, design, sales, and more into one fluid activity.
+
+```mermaid
+flowchart TD
+Startup("Create Startup")
+
+classDef mainNode fill:#f3f3f3,stroke:#ffffff,stroke-width:2px,color:#000;
+
+class Root,Startup mainNode;
+```
+
+---
+
+As artificial intelligence accelerates convergence, extreme outcomes are acceleratingly amplified. This is because more complex activities have more extreme outcomes, and convergence pushes us towards more and more complex activities.
+
+Furthermore, all activities become more similar because they are added _higher_ up the tree where there is increasingly less friction in transfering ability across them.
+
+Convergence occurs locally _and_ globally. In our example, we saw how the entire tree stemming from "creating a startup" converges towards its root. But, "creating a startup" is itself a sub-activity for far more complex activities higher up in the _global_ tree. Convergence _also_ occurs in the _global tree_ that "creating a startup" is a part of.
+
+Convergence works locally _and_ globally: within a startup, every task collapses toward its core, yet the startup itself is only a sub-tree within the tree of a higher (thus more complex) activity tree that is also converging toward its own root.
+
+```mermaid
+flowchart TD
+Root("?")
+Startup("Create Startup")
+Placeholder("? ...")
+New("? +++")
+
+Root --> Placeholder
+Root --> Startup
+Root --> New
+
+classDef mainNode fill:#f3f3f3,stroke:#ffffff,stroke-width:2px,color:#000;
+classDef placeholder fill:transparent,stroke:transparent,color:#555555;
+classDef new fill:transparent,stroke:transparent,color:green;
+
+class Root,Startup mainNode;
+class Placeholder placeholder;
+class New new;
+```
+
+For example, while activities within the average B2B startup converge towards its root, this startup itself will be rendered irrelevant due to convergence higher in the global tree. This is because a new company will emerge at a higher position in the tree that will perform the function of this particular startup and many other _similarly complex_ ones. We will be forced to compete and win at _higher_ complexity activities in order to survive. Increasingly, companies, and individuals, will be outcompeted from _above_ rather than from the _side_.
+
+_Further reading: A deeper essay on [convergence](/foundation/Convergence.md)_
 
 ## Personal tokens will democratize opportunity
 
