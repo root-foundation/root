@@ -1,4 +1,4 @@
-The higher up in the tree we [converge](./Convergence.md) (i.e. the more complex and similar our activities become), the less we can define an activity by its sub-activities. An activity becomes far more than the sum of its sub-activities.
+The higher up in the tree we [converge](Convergence.md) (i.e. the more complex and similar our activities become), the less we can define an activity by its sub-activities. An activity becomes far more than the sum of its sub-activities.
 
 The gap between the complexity of an activity and its sub-activity grows superexponentially as we go up the tree (i.e. towards root). At low complexity depths, this superexponentiality is not pronounced because the base complexity itself is low.
 

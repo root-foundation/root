@@ -227,7 +227,7 @@ Since AGI technology is accelerating exponentially, **imbalance is growing accel
 
 Our outdated economic system is just one small part of the broader imbalance:
 
-- Advancement of AGI _technology_ makes our economic system oppressive because debt becomes an _unviable instrument_ to finance anything (i.e., our [problem](#problem)).
+- Advancement of AGI *technology* makes our economic system oppressive because debt becomes an _unviable instrument_ to finance anything (i.e., our [problem](#problem)).
 - Advancement in AGI _technology_ makes our education system oppressive because what people are learning will make them _unemployable_ in a post AGI world (i.e., our _stories_ are outdated).
 - Advancement in AGI _technology_ makes our governance system oppressive because its rate of decision-making can’t keep up with rate of change (i.e., _governance instruments_ are outdated). For example, personal tokens will simply be a toy for the rich until UBE is implemented to ensure everyone has a stake in the collective growth.
 - Advancement in AGI _technology_ makes our political climate oppressive because it lacks powerful stories of unity and collective growth that are now made possible due to artificial intelligence.
@@ -247,7 +247,7 @@ The Foundation's sole goal is to unite humanity and unlock our collective potent
 
 ## Design principles
 
-We believe the best way to create the _Foundation_ — given our ignorance — is one that mimics natural selection, while maximizing the rate of iteration.
+We believe the best way to create the *Foundation* — given our ignorance — is one that mimics natural selection, while maximizing the rate of iteration.
 
 We will mimic natural selection through:
 
