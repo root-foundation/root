@@ -9,11 +9,13 @@ A vision for a _single_ expression that will unite humanity and unlock our colle
 ---
 
 ACT I — AGI
+
 1. [Introduction](#introduction)
 2. [How AGI changes our world](#how-agi-changes-our-world)
 3. [Problem](#problem)
 
 ACT II — Tokenization
+
 4. [Our economic problem](#our-economic-problem)
 5. [Venture capital](#venture-capital)
 6. [Personal token](#personal-token)
@@ -25,6 +27,7 @@ ACT II — Tokenization
 12. [Tokens will eat the world](#tokens-will-eat-the-world)
 
 ACT III — Foundation
+
 13. [Foundation](#foundation)
 14. [Design principles](#design-principles)
 15. [Solution](#solution)
