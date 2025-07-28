@@ -1,4 +1,4 @@
-# Foundation
+# Convergence
 
 _v0.001_
 
@@ -8,69 +8,106 @@ A vision for a _single_ expression that will unite humanity and unlock our colle
 
 ---
 
-ACT I — Personal token
-
+ACT I — AGI
 1. [Introduction](#introduction)
-2. [How AGI will change our world](#how-agi-will-change-our-world)
+2. [How AGI changes our world](#how-agi-changes-our-world)
 3. [Problem](#problem)
-4. [Venture capital](#venture-capital)
-5. [Personal token](#personal-token)
-6. [Network](#network)
-7. [Personal tokens will democratize opportunity](#personal-tokens-will-democratize-opportunity)
-8. [Universal Basic Equity (UBE)](#universal-basic-equity-ube)
 
 ACT II — Tokenization
+4. [Our economic problem](#our-economic-problem)
+5. [Venture capital](#venture-capital)
+6. [Personal token](#personal-token)
+7. [Network](#network)
+8. [Personal tokens will democratize opportunity](#personal-tokens-will-democratize-opportunity)
+9. [Universal Basic Equity (UBE)](#universal-basic-equity-ube)
+10. [Evolution of financial instruments](#evolution-of-financial-instruments)
+11. [Value will concentrate in personal tokens](#value-will-concentrate-in-personal-tokens)
+12. [Tokens will eat the world](#tokens-will-eat-the-world)
 
-8. [Evolution of financial instruments](#evolution-of-financial-instruments)
-9. [Value will concentrate in personal tokens](#value-will-concentrate-in-personal-tokens)
-10. [Tokens will eat the world](#tokens-will-eat-the-world)
-
-ACT III — Foundation
-
-11. [Interdependence—Imbalance](#interdependence--imbalance)
-12. [Foundation](#foundation)
-13. [Design principles](#design-principles)
-14. [Solution](#solution)
-15. [Applying principles](#applying-principles)
-16. [Superintelligence](#superintelligence)
+ACT III — Foundation
+13. [Foundation](#foundation)
+14. [Design principles](#design-principles)
+15. [Solution](#solution)
+16. [Applying principles](#applying-principles)
+17. [Superintelligence](#superintelligence)
 
 ---
+
+# ACT I — AGI
 
 ## Introduction
 
 Artificial intelligence promises a future of abundance and prosperity in which each individual gains unimaginable power to realize their dreams.
 
-But, as we accelerate towards Artificial General Intelligence (AGI)[^ai], our debt-based economic system will increasingly become _oppressive_.
+Yet, we are far from _organizing_ humanity in a way that enables us to take advantage of artificial intelligence towards prosperity instead of destruction.
 
-To understand why our current economic system fails in a post AGI world, we must first understand how AGI changes our world.
+To understand why we aren't organized to take advantage of artificial intelligence, we must first understand how artificial intelligence will change our world.
 
-## How AGI will change our world
+## How AGI changes our world
 
-Outcomes in all activities will become _extreme_: an tiny share of people will create most of the economic value, while the median _share_ will shrink — a _power law distribution_ of outcomes.
+By Artificial _General_ Intelligence (AGI) we mean an intelligence that can generally _reason_ across any task as well as any human. And that this intelligence also sufficiently _embodied_ such that it is capable of doing most physical tasks that humans do today (e.g. agriculture, assembly, delivery, etc.). We believe we will achieve full AGI sooner than expected, and that such AGI will amplify human potential, _not_ replace the need for humans.
 
-Extreme outcomes aren't new – the _average_ startup founder, musician, or content creator makes nothing, whereas the _best_ ones generate astronomical outcomes. What _is_ new is that the _entire_ economy will become very extreme instead of just a few activities.
+As artificial intelligence advances, our activities will _acceleratingly_ evolve to become more **_complex_** (i.e., more possibilities within them) and more **_alike_** (i.e., being great at one will increasingly translate to being great at all).
 
-Importantly, the rate at which winners are displaced will also accelerate. AGI will enable many more activities than it eliminates. _Current_ winners will be more quickly outcompeted by those who will win at the _new_, more complex activities (which will eliminate less complex activities along with many of their winners). Therefore, even though outcomes will be extreme, due to rapid change in the winners, within any period of time we will likely see a greater absolute number of winners than ever before.
+**Outcomes in _all_ activities will become increasingly _extreme_**: at any given moment in time, a _smaller_ percentage of individuals will be responsible for a _greater_ share of economic value created — i.e., a _[power law distribution of outcomes](https://en.wikipedia.org/wiki/Power_law)_. The peak outcomes grow exponentially, while the median share falls.
 
-This displacement will increasingly be from _above_ (more complex activities), not from the _side_ (similarly complex activities). For example, an _agriculture_ robotics company will _not_ be outcompeted by another agriculture tech company, but by a general purpose robotics company operating at a much higher level of complexity that will outcompete this company along with _many other_ domain specific ones.
+**Rate of displacement of the winners accelerates.** Those who are generating the greatest outcomes will increasingly struggle to retain their dominance. _Churn_ will accelerate.
 
-And the reason existing winners will increasingly struggle to remain winners is (notion of complexity growing superexponentially — it's v. important to build this intuition without the tree model).
+**The absolute number of winners will grow**. Even though the distribution of outcomes will be far more extreme, since the peak outcomes grow exponentially, even _tiny_ wins (relative to the peak wins) will still be massive. And since the rate of displacement accelerates, in a given period of time, there will be many more who would have touched success. We're already seeing early signs of this (todo).
+
+**Artificial intelligence will enable _many_ more activities than it will render unnecessary**. The range of activities we have witnessed throughout human history will eventually be a drop in the ocean of activities that will eventually exist. While it's impossible to predict the nature of these activities, we _can_ predict that they will be increasingly _similar_: i.e. ability in one will increasingly translates to ability in all, and that they will be highly complex with increasingly extreme outcomes.
+
+- (todo: talk about how increasingly our imaginations and ability to see possibilities will be our biggest bottlenecks).
+
+**Notions of separate domains and roles will dissolve**. As our activities become more complex and alike, rigidly defined domains and roles won't exist. We are seeing early signs of this: roles within startups are converging towards a singular "founder" role, and startups themselves are becoming much more than just "technology" companies. This means that the competition pool for roles and companies grows as ability transfers more easily across activities.
+
+**Being outcompeted from _above_ will be the norm.** Companies operating at higher levels of complexity will more quickly render more number of companies operating at lower levels of complexity unnecessary. For example: a more general robotics company will render many, many domains specific robotics companies (e.g. agriculture robotics company) obsolete. Previously, due to slow pace of change, domain specific companies had time to survive and thrive. As AGI rapidly advances, more niche companies will be rendered obsolete more quickly by a more general company (i.e., operating at a higher level of complexity) offering a competing service.
+
+It will become exponentially more difficult to grow _upwards_: i.e start small and grow ambitious, forcing the most ambitious to _start_ from above.
+
+(todo: express notion that each "eat" from above will become bigger and bigger - due to being higher in the tree).
+
+**Such change will accelerate.** It is not only technological advancement that causes such change. Any progress (more equal opportunity, better training, etc.) amplifies these changes. Even if AI progress halted for 5 years (unlikely), we would still see accelerating change because we've barely utilized the current technology itself.
 
 ---
 
-( 1 para overview of convergence w/ a ref. to the tree structure — basically showing how the tree structure itself causes this )
+AGI is a fundamentally different kind of advancement than we've ever seen because it cuts away activities below a certain complexity threshold, _across the board_. Previous advancements (such as computers, smartphones, internet, etc.) did not make less complex work in _all_ domains irrelevant. Even as the reach of software and the internet grew, less complex work continued to exist in various domains (agriculture, supply chain, delivery, etc.).
 
-Extreme outcomes and displacement are byproducts of the _same_ phenomenon: _convergence_.
+In other words, previous advancements did not _force_ _everyone_ towards highly complex work. But, AGI does. It is this aggressive _universal_ impact of AGI that elevates all human activity away from less complex work towards highly complex work — which have more extreme outcomes.
 
-AGI will converge human activity towards more complex activities which are also more similar (i.e., being great at one activity will increasingly translate to being great at all).
+Furthermore, an activity is best represented as a recursive tree with sub-activities of less complexity which each have more sub-activities. AGI pushes our activities _upwards_ in this tree. Thus, activities increasingly become more alike (rigid boundaries dissolve) as a byproduct of the tree structure.
 
-It does this by eating lower complexity activities (below a certain threshold) while enabling higher complexity activities.
+We call this phenomenon of in which our activities acceleratingly evolve to be more complex _and_ alike — towards a _highly complex_, _singular_ activity — **Convergence**[^convergence]. (note: in case you want to more thoroughly understand the underlying model that explains our predictions before proceeding, please read the more technical [convergence essay](./Convergence.md) and return).
 
-Extreme outcomes are amplified because they are a byproduct of complexity, competition, and leverage. As our activities become more complex, and similar, they will have greater competition
+[^convergence]: We believe Convergence is a fundamental phenomenon that not only explains how AGI will change our world, but also many other seemingly unrelated concepts (such as evolution, etc.).
+
+---
+
+Many activities we consider quite simple today, our ancestors found incredibly complex and difficult. Similarly, our close descendants will view many of our greatest challenges today as simple problems. Artificial intelligence will enable us to tackle problems that we previously thought were too complex to attack; from global warming, to health, to food and water scarcity, to space travel, etc. — promising a future of prosperity and abundance that we can't imagine.
+
+But, without a fundamental re-organization of society, we will be needlessly crushed by AGI and will significantly delay (or fail) achieving the prosperity AGI promises.
 
 ## Problem
 
-In such an extreme world, **debt is no longer a viable means to finance anything** because everything will be too risky for debt.
+Rapid acceleration of artificial intelligence technology without similar acceleration of other kinds of advancements causes an imbalance. Imbalance causes suffering — proportional to the degree of imbalance.
+
+For example, AGI makes our current economic system oppressive because in a world with only extreme outcomes **debt is no longer a viable means to finance anything.**
+
+Similarly, AGI has raced so far ahead of our education system that most learning is increasingly more harmful than helpful.
+
+Critically, our governance systems can no longer make decisions fast enough to keep up with the accelerating change that AGI enables.
+
+Our society isn't organized in a way that enables us to finance our activities and react in time to the rapidly changing world. All of these accelerating imbalances are poised to inflict great suffering for many.
+
+We propose a new system that will progressively grow to become the foundation for all human activity. This system will enable us
+
+To show this system, we'll first start with how it enables a new economic system, and then from there show how it will evolve to ...
+
+# ACT II — Tokenization
+
+## Our economic problem
+
+In an extreme world, **debt is no longer a viable means to finance anything** because everything will be too risky for debt.
 
 This is not due to fewer opportunities (AGI will enable far more opportunities than it takes), but rather due to the extreme, winner-take-all nature of outcomes within _each_ opportunity. In extreme outcomes, the median outcome falls to nothing and thus financing with debt is no longer viable.
 
@@ -141,15 +178,15 @@ In an extreme world with a falling median outcome, a sufficient baseline of reso
 
 This is best achieved through _Universal Basic Equity (UBE)_: every citizen receives an _equity stake_ in the collective upside — a stake in the NetworkToken.[^children]
 
+[^children]: UBE also incentivizes having children. When a baby is born, new shares in the NetworkToken is minted for that baby, thus diluting the value everyone else’s shares. Thus, families will be incentivized to have more children to increase their collective equity in the NetworkToken.
+
 In addition to providing a strong baseline, UBE also creates a symbiotic relationship between the individual and the collective. When value is created anywhere, in any form, everyone immediately benefits because the value of everyone’s equity in the collective upside will increase (i.e., value of the NetworkToken rises). UBE will enable social cohesion.
 
 Critically, Universal basic _income_ (UBI) will _not_ work on its own because it will cause difficult-to-manage inflation (because capital pumped into the market). On the other hand, Universal basic _equity_ (UBE) will not cause inflation due to the _strong_ incentive to hold your equity in the NetworkToken given the promise of great upside (i.e., belief that humanity will create _even_ more value in the future). If needed, in addition to UBE, UBI can also be offered by siphoning some of the dividends the NetworkToken accrues to its shareholders.
 
 As long as we have faith in humanity, more people will hold than sell.
 
-This system ensures that every one of descendents will enjoy a level of abundance that we can't fathom. Artificial intelligence and economies of scale will bring the price of all important goods down, while UBE will increase the wealth in each indivdual's hands without inflation. Furthermore, as your shares in the NetworkToken accumulate, you gain a safety net to take bold risks. Even if you sell all of your equity today to take a bold risk, future UBE share allocations will more than enable you to live a healthy life. Ushering prosperity.
-
-[^children]: UBE incentivizes having children. When a baby is born, new shares in the NetworkToken is minted for that baby, thus diluting the value everyone else’s shares. Thus, families will be incentivized to have more children to increase their collective equity in the NetworkToken.
+This system ensures that every one of descendants will enjoy a level of abundance that we can't fathom. Artificial intelligence and economies of scale will bring the price of all important goods down, while UBE will increase the wealth in each individual's hands without inflation. Furthermore, as your shares in the NetworkToken accumulate, you gain a safety net to take bold risks. Even if you sell all of your equity today to take a bold risk, future UBE share allocations will more than enable you to live a healthy life. Ushering prosperity.
 
 Personal tokens are the first step towards a new tokenized economic system.
 
@@ -179,8 +216,6 @@ Over time, value became concentrated in companies, not transactions — the most
 
 Similarly, in a post AGI world with extreme outcomes, value will become concentrated in personal tokens. A personal token will be valued far more than the sum of the values of its equities in companies _(recall: a personal token’s value is grounded in its equities in companies and other personal tokens)_.
 
-(todo: reference convergence. shows why value concentrates upwards).
-
 ## Tokens will eat the world
 
 Personal tokens will start as a toy in San Francisco, the only place in the world crazy enough to play with it. Most of the world will likely view it as a piece of trash in the sea of "waste" that SF produces. Out of ignorance, some may even perceive it as a tool for exploitation.
@@ -201,41 +236,7 @@ Tokens will eat the world. Such a tokenized system will help us unite society an
 
 But, advancing our economic system alone will not suffice. Our economic system is part of a much broader system that we will need to shape in order to fully realize our mission. To understand this broader system, we need to first understand how seemingly disconnected systems are interconnected.
 
-## Interdependence—Imbalance
-
-All evolution (or broadly all change) has three features:
-
-- Story (generates _beliefs_): Narratives—from myth and religion to modern science and art—shape what we hold to be true, guiding collective aspiration and framing the possible.
-- Instrument (generates _incentives_): Social “games” such as money, companies, elections, courts, and social platforms codify rewards and penalties, channeling effort toward desired outcomes.
-- Technology (generates _leverage_): Tools like language, printing, software, the internet, and AI compress time and effort, enabling us to accomplish tasks more quickly, while creating new activities.
-
-These features are interdependent. Stories, instruments and technologies tend to emerge together[^emerge-together]:
-
-| Change        | Story               | Instrument          | Technology                  |
-| ------------- | ------------------- | ------------------- | --------------------------- |
-| `Commerce`    | God                 | Money               | Coinage, bookkeeping, etc.  |
-| `Colonialism` | Spread civilization | Company             | Ships, guns, etc.           |
-| `AGI`         | Unity               | Personal token, UBE | Large language models, etc. |
-
-[^emerge-together]: As presented in this table, every broad change comes with a collection of stories, instruments and technologies, of which we have only shown a few.
-
-Each feature of change (story, instrument, technology) has a notion of advancement, i.e., more advanced stories, instruments, technology enable more complex activities. (Note: from here on, when we reference AGI we are referring to the AGI _change_: i.e., the stories, instruments _and_ technologies it comes with. If we are only talking about a particular feature of this change, we will explicitly mention it.).
-
-When one feature advances far beyond the rest, a _pressure_ is created for all other features to catch up. This pressure manifests as pain in the collective human experience. Thus, the degree of imbalance in the advancements of these three features (story, instrument, technology) correlates with collective suffering.
-
-Since AGI technology is accelerating exponentially, **imbalance is growing acceleratingly fast**. If we continue to accelerate this imbalance, our suffering will also accelerate — far eclipsing the suffering we've discussed till now.
-
-Our outdated economic system is just one small part of the broader imbalance:
-
-- Advancement of AGI *technology* makes our economic system oppressive because debt becomes an _unviable instrument_ to finance anything (i.e., our [problem](#problem)).
-- Advancement in AGI _technology_ makes our education system oppressive because what people are learning will make them _unemployable_ in a post AGI world (i.e., our _stories_ are outdated).
-- Advancement in AGI _technology_ makes our governance system oppressive because its rate of decision-making can’t keep up with rate of change (i.e., _governance instruments_ are outdated). For example, personal tokens will simply be a toy for the rich until UBE is implemented to ensure everyone has a stake in the collective growth.
-- Advancement in AGI _technology_ makes our political climate oppressive because it lacks powerful stories of unity and collective growth that are now made possible due to artificial intelligence.
-- _(and many many more)_.
-
-This means our tokenized economic instrument alone won’t be enough. Advancement in a single feature alone will accomplish almost _nothing_. In addition to the instrument of tokens, we will also need to create all other instruments (governance, legal, social, etc.), _and_ advance our stories (towards unity), _and_ build technology (superintelligence). And importantly, they must be advanced _together_ to eliminate imbalance; tackling these separately would be a blunder.
-
-We believe this can _only_ be realized through a _single_ expression that advances everything together — as _one_.
+# ACT III — Foundation
 
 ## Foundation
 
@@ -247,7 +248,7 @@ The Foundation's sole goal is to unite humanity and unlock our collective potent
 
 ## Design principles
 
-We believe the best way to create the *Foundation* — given our ignorance — is one that mimics natural selection, while maximizing the rate of iteration.
+We believe the best way to create the _Foundation_ — given our ignorance — is one that mimics natural selection, while maximizing the rate of iteration.
 
 We will mimic natural selection through:
 
