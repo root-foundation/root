@@ -4,7 +4,7 @@ _v0.01_
 
 _[homan](https://x.com/homanspirit) & [shiv](https://scholar.google.com/citations?user=WNUGEccAAAAJ&hl=en)_
 
-a system to democratize opportunity, unite humanity, and organize ourselves to take advantage of artificial intelligence.
+a system to democratize opportunity, unite humanity, and organize ourselves to take advantage of AGI.
 
 ---
 
@@ -16,15 +16,14 @@ ACT I — AGI
 
 ACT II — Tokenization
 
-4. [Our economic problem](#our-economic-problem)
-5. [Venture capital](#venture-capital)
-6. [Personal token](#personal-token)
-7. [Network](#network)
-8. [Personal tokens will democratize opportunity](#personal-tokens-will-democratize-opportunity)
-9. [Universal Basic Equity (UBE)](#universal-basic-equity-ube)
-10. [Evolution of financial instruments](#evolution-of-financial-instruments)
-11. [Value will concentrate in personal tokens](#value-will-concentrate-in-personal-tokens)
-12. [Tokens will eat the world](#tokens-will-eat-the-world)
+4. [Venture capital](#venture-capital)
+5. [Personal token](#personal-token)
+6. [Network](#network)
+7. [Personal tokens will democratize opportunity](#personal-tokens-will-democratize-opportunity)
+8. [Universal Basic Equity (UBE)](#universal-basic-equity-ube)
+9. [Evolution of financial instruments](#evolution-of-financial-instruments)
+10. [Value will concentrate in personal tokens](#value-will-concentrate-in-personal-tokens)
+11. [Tokens will eat the world](#tokens-will-eat-the-world)
 
 ACT III — Foundation
 
@@ -211,8 +210,7 @@ Tokens will eat the world. And such a tokenized system will help us unite societ
 
 ## Foundation
 
-The Foundation will enable all human activity in a post AGI world. From investing, to communicating, to governing.
-
+(todo).
 ## Design principles
 
 We believe the best way to create the _Foundation_ — given our ignorance — is one that mimics natural selection, while maximizing the rate of iteration.
