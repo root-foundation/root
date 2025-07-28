@@ -44,7 +44,7 @@ Artificial intelligence promises a future of abundance and prosperity in which e
 
 But, we're far from _organizing_ ourselves in a way that enables us to take advantage of artificial intelligence to achieve prosperity instead of self-destruction.
 
-To understand why we aren't organized to take advantage of artificial intelligence, we must first understand how artificial intelligence will change our world.
+To see why, we must first understand how artificial intelligence will change our world.
 
 ## How AGI changes our world
 
@@ -60,21 +60,15 @@ As artificial intelligence advances, our activities will _acceleratingly_ evolve
 
 **Artificial intelligence will enable _many_ more activities than it will render unnecessary**. The range of activities we have witnessed throughout human history will eventually be a drop in the ocean of activities that will eventually exist. While it's impossible to predict the nature of these activities, we _can_ predict that they will be increasingly _similar_: i.e. ability in one will increasingly translates to ability in all, and that they will be highly complex with increasingly extreme outcomes.
 
-**Notions of separate domains and roles will dissolve**. As our activities become more complex and alike, rigidly defined domains and roles won't exist. We are seeing early signs of this: roles within startups are converging towards a singular "founder" role, and startups themselves are becoming much more than just "technology" companies. This means that the competition pool for roles and companies grows as ability transfers more easily across activities.
-
-**Being outcompeted from _above_ will be the norm.** Companies operating at higher levels of complexity will more quickly render more number of companies operating at lower levels of complexity unnecessary. For example: a more general robotics company will render many, many domains specific robotics companies (e.g. agriculture robotics company) obsolete. Previously, due to slow pace of change, domain specific companies had time to survive and thrive. As AGI rapidly advances, more niche companies will be rendered obsolete more quickly by a more general company (i.e., operating at a higher level of complexity) offering a competing service.
-
-It will become exponentially more difficult to grow _upwards_: i.e start small and grow ambitious, forcing the most ambitious to _start_ from above.
-
 **Such change will accelerate.** It is not only technological advancement that causes such change. Any progress (more equal opportunity, better training, etc.) amplifies these changes. Even if AI progress halted for 5 years (unlikely), we would still see accelerating change because we've barely utilized the current technology itself.
 
 ---
 
 AGI is a fundamentally different kind of advancement than we've ever seen because it cuts away activities below a certain complexity threshold, _across the board_. Previous advancements (such as computers, smartphones, internet, etc.) did not make less complex work in _all_ domains irrelevant. Even as the reach of software and the internet grew, less complex work continued to exist in various domains (agriculture, supply chain, delivery, etc.).
 
-In other words, previous advancements did not _force_ _everyone_ towards highly complex work. But, AGI does. It is this aggressive universal impact of AGI that elevates all human activity away from less complex work towards highly complex work — which have more extreme outcomes. And increasingly, these new activities will be more alike: ability will transfer more seamlessly between them.
+In other words, previous advancements did not _force_ _everyone_ towards highly complex work. But, AGI does. It is this universal impact of AGI that elevates all human activity towards highly complex work — which have more extreme outcomes.
 
-We call this phenomenon in which our activities acceleratingly evolve to be more complex _and_ alike — towards a _highly complex_, _singular_ activity — [Convergence](Convergence.md). All of our predictions about what a post AGI world will look like are derived from this fundamental phenomenon. AGI, and more broadly any human progress, *accelerates convergence*.
+We call this phenomenon in which our activities acceleratingly evolve to be more complex _and_ alike — towards a _highly complex_, _singular_ activity — [Convergence](Convergence.md).
 
 ---
 
@@ -83,20 +77,6 @@ Artificial intelligence will enable us to tackle highly complex problems; from g
 But, we are far from being organized in a way to take advantage of artificial intelligence. Even worse, on top of our current systems, artificial intelligence is poised to inflict needless suffering on many — significantly delaying, and possibly even preventing, a future in which every one has access to opportunity and abundance.
 
 ## Problem
-
-Rapid acceleration of artificial intelligence technology without similar acceleration of other kinds of advancements causes an *imbalance*. Imbalance leads to suffering — proportional to the degree of imbalance.
-
-For example, AGI makes our current economic system oppressive because in a world with only extreme outcomes **debt is no longer a viable means to finance anything.** Similarly, AGI has raced so far ahead of our education system that most learning is increasingly more harmful than helpful. And critically, our governance systems can no longer make decisions fast enough to keep up with the accelerating change that AGI enables.
-
-Our society isn't organized in a way that enables us to finance our activities and react in time to the rapidly changing world. All of these accelerating imbalances are poised to inflict great suffering for many.
-
-We propose a new system that will progressively grow to become the foundation for all human activity. This system will enable us
-
-To show this system, we'll first start with how it enables a new economic system, and then from there show how it will evolve to ...(todo).
-
-# ACT II — Tokenization
-
-## Our economic problem
 
 In an extreme world, **debt is no longer a viable means to finance anything** because everything will be too risky for debt.
 
@@ -113,7 +93,9 @@ Therefore, we urgently need a way to:
 1. Finance human activity in a way that ensures that anyone with potential has access to the resources they need to fully realize their potential — regardless of the circumstances of their birth.
 2. Give each individual a stake in the collective upside to unite society.
 
-Otherwise we will fail to fully realize our potential.
+Otherwise opportunity becomes concentrated in those who won't be burdened by debt. And we will fail to realize our potential.
+
+# ACT II — Tokenization
 
 ## Venture capital
 
@@ -225,19 +207,17 @@ All of society's functions will be grounded in tokens. A rich, _tokenized_ ecosy
 
 Tokens will eat the world. And such a tokenized system will help us unite society and democratize opportunity.
 
-But, as we [discussed earlier](#problem), advancing our economic system alone won't suffice. We need a system that advances all systems together, as one, to minimize imbalance. Let's now see how a system built on tokens can advance *all* of our systems.
 # ACT III — Foundation
 
 ## Foundation
 
-(todo).
+The Foundation will enable all human activity in a post AGI world. From investing, to communicating, to governing.
 
 ## Design principles
 
 We believe the best way to create the _Foundation_ — given our ignorance — is one that mimics natural selection, while maximizing the rate of iteration.
 
 We will mimic natural selection through:
-
 1. **Progressive decentralization**. Move power away from centralized authorities.
 2. **Fork-ability**. Enable duplication and mutation at any level of abstraction.
 
@@ -248,7 +228,6 @@ We will mimic natural selection through:
 At the heart of the solution is the _token_.
 
 A token is an object that contains the following information:
-
 1. **ID**: a unique identifier.
 2. **Ownership**: total number of shares, and mapping between any token.ID to number of shares that token holds.
 3. **Wallet**: holds USDC.
