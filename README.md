@@ -56,11 +56,9 @@ As artificial intelligence advances, our activities will _acceleratingly_ evolve
 
 **Rate of displacement of the winners accelerates.** Those who are generating the greatest outcomes will increasingly struggle to retain their dominance. _Churn_ will accelerate.
 
-**The absolute number of winners will grow**. Even though the distribution of outcomes will be far more extreme, since the peak outcomes grow exponentially, even _tiny_ wins (relative to the peak wins) will still be massive. And since the rate of displacement accelerates, in a given period of time, there will be many more who would have touched success. We're already seeing early signs of this (todo).
+**The absolute number of winners will grow**. Even though the distribution of outcomes will be far more extreme, since the peak outcomes grow exponentially, even _tiny_ wins (relative to the peak wins) will still be massive. And since the rate of displacement accelerates, in a given period of time, there will be many more who would have touched success.
 
 **Artificial intelligence will enable _many_ more activities than it will render unnecessary**. The range of activities we have witnessed throughout human history will eventually be a drop in the ocean of activities that will eventually exist. While it's impossible to predict the nature of these activities, we _can_ predict that they will be increasingly _similar_: i.e. ability in one will increasingly translates to ability in all, and that they will be highly complex with increasingly extreme outcomes.
-
-- (todo: talk about how increasingly our imaginations and ability to see possibilities will be our biggest bottlenecks).
 
 **Notions of separate domains and roles will dissolve**. As our activities become more complex and alike, rigidly defined domains and roles won't exist. We are seeing early signs of this: roles within startups are converging towards a singular "founder" role, and startups themselves are becoming much more than just "technology" companies. This means that the competition pool for roles and companies grows as ability transfers more easily across activities.
 
@@ -68,43 +66,33 @@ As artificial intelligence advances, our activities will _acceleratingly_ evolve
 
 It will become exponentially more difficult to grow _upwards_: i.e start small and grow ambitious, forcing the most ambitious to _start_ from above.
 
-(todo: express notion that each "eat" from above will become bigger and bigger - due to being higher in the tree).
-
 **Such change will accelerate.** It is not only technological advancement that causes such change. Any progress (more equal opportunity, better training, etc.) amplifies these changes. Even if AI progress halted for 5 years (unlikely), we would still see accelerating change because we've barely utilized the current technology itself.
 
 ---
 
 AGI is a fundamentally different kind of advancement than we've ever seen because it cuts away activities below a certain complexity threshold, _across the board_. Previous advancements (such as computers, smartphones, internet, etc.) did not make less complex work in _all_ domains irrelevant. Even as the reach of software and the internet grew, less complex work continued to exist in various domains (agriculture, supply chain, delivery, etc.).
 
-In other words, previous advancements did not _force_ _everyone_ towards highly complex work. But, AGI does. It is this aggressive _universal_ impact of AGI that elevates all human activity away from less complex work towards highly complex work — which have more extreme outcomes.
+In other words, previous advancements did not _force_ _everyone_ towards highly complex work. But, AGI does. It is this aggressive universal impact of AGI that elevates all human activity away from less complex work towards highly complex work — which have more extreme outcomes. And increasingly, these new activities will be more alike: ability will transfer more seamlessly between them.
 
-Furthermore, an activity is best represented as a recursive tree with sub-activities of less complexity which each have more sub-activities. AGI pushes our activities _upwards_ in this tree. Thus, activities increasingly become more alike (rigid boundaries dissolve) as a byproduct of the tree structure.
-
-We call this phenomenon of in which our activities acceleratingly evolve to be more complex _and_ alike — towards a _highly complex_, _singular_ activity — **Convergence**[^convergence]. (note: in case you want to more thoroughly understand the underlying model that explains our predictions before proceeding, please read the more technical [convergence essay](./Convergence.md) and return).
-
-[^convergence]: We believe Convergence is a fundamental phenomenon that not only explains how AGI will change our world, but also many other seemingly unrelated concepts (such as evolution, etc.).
+We call this phenomenon in which our activities acceleratingly evolve to be more complex _and_ alike — towards a _highly complex_, _singular_ activity — [Convergence](Convergence.md). All of our predictions about what a post AGI world will look like are derived from this fundamental phenomenon. AGI, and more broadly any human progress, accelerates convergence.
 
 ---
 
 Many activities we consider quite simple today, our ancestors found incredibly complex and difficult. Similarly, our close descendants will view many of our greatest challenges today as simple problems. Artificial intelligence will enable us to tackle problems that we previously thought were too complex to attack; from global warming, to health, to food and water scarcity, to space travel, etc. — promising a future of prosperity and abundance that we can't imagine.
 
-But, without a fundamental re-organization of society, we will be needlessly crushed by AGI and will significantly delay (or fail) achieving the prosperity AGI promises.
+But, without a fundamental re-organization of society, we will be needlessly crushed by AGI and will significantly delay (or fail) achieving the prosperity AGI promises. (todo: a line about the suffering).
 
 ## Problem
 
-Rapid acceleration of artificial intelligence technology without similar acceleration of other kinds of advancements causes an imbalance. Imbalance causes suffering — proportional to the degree of imbalance.
+Rapid acceleration of artificial intelligence technology without similar acceleration of other kinds of advancements causes an *imbalance*. Imbalance leads to suffering — proportional to the degree of imbalance.
 
-For example, AGI makes our current economic system oppressive because in a world with only extreme outcomes **debt is no longer a viable means to finance anything.**
-
-Similarly, AGI has raced so far ahead of our education system that most learning is increasingly more harmful than helpful.
-
-Critically, our governance systems can no longer make decisions fast enough to keep up with the accelerating change that AGI enables.
+For example, AGI makes our current economic system oppressive because in a world with only extreme outcomes **debt is no longer a viable means to finance anything.** Similarly, AGI has raced so far ahead of our education system that most learning is increasingly more harmful than helpful. And critically, our governance systems can no longer make decisions fast enough to keep up with the accelerating change that AGI enables.
 
 Our society isn't organized in a way that enables us to finance our activities and react in time to the rapidly changing world. All of these accelerating imbalances are poised to inflict great suffering for many.
 
 We propose a new system that will progressively grow to become the foundation for all human activity. This system will enable us
 
-To show this system, we'll first start with how it enables a new economic system, and then from there show how it will evolve to ...
+To show this system, we'll first start with how it enables a new economic system, and then from there show how it will evolve to ...(todo).
 
 # ACT II — Tokenization
 
