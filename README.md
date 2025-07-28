@@ -1,4 +1,4 @@
-# Convergence
+# Foundation
 
 _v0.001_
 
@@ -243,11 +243,7 @@ But, advancing our economic system alone will not suffice. Our economic system i
 
 ## Foundation
 
-We call this _single_ expression the _Foundation_.
-
-The Foundation's sole goal is to unite humanity and unlock our collective potential — by advancing all facets of change _together_ as part of the same system.
-
-(todo: describe this entire system using simple words — without references to existing systems — that encapsulates all human activity).
+(todo).
 
 ## Design principles
 
