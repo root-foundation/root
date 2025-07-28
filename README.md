@@ -1,6 +1,6 @@
 # Foundation
 
-_v0.001_
+_v0.01_
 
 _[homan](https://x.com/homanspirit) & [shiv](https://scholar.google.com/citations?user=WNUGEccAAAAJ&hl=en)_
 
@@ -223,10 +223,9 @@ In an extreme, post AGI world, the outcomes of nations too will be extreme. The 
 
 All of society's functions will be grounded in tokens. A rich, _tokenized_ ecosystem of investing in tokens of _all_ kinds — personal tokens, ai tokens, company tokens, country tokens (e.g., "USAToken"), etc. — will emerge to enable venture capital to finance _anything_ that we do.
 
-Tokens will eat the world. Such a tokenized system will help us unite society and democratize opportunity.
+Tokens will eat the world. And such a tokenized system will help us unite society and democratize opportunity.
 
-But, advancing our economic system alone will not suffice. Our economic system is part of a much broader system that we will need to shape in order to fully realize our mission. To understand this broader system, we need to first understand how seemingly disconnected systems are interconnected.
-
+But, as we [discussed earlier](#problem), advancing our economic system alone won't suffice. We need a system that advances all systems together, as one, to minimize imbalance. Let's now see how a system built on tokens can advance *all* of our systems.
 # ACT III — Foundation
 
 ## Foundation
