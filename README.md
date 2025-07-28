@@ -4,7 +4,7 @@ _v0.01_
 
 _[homan](https://x.com/homanspirit) & [shiv](https://scholar.google.com/citations?user=WNUGEccAAAAJ&hl=en)_
 
-A vision for a _single_ expression that will unite humanity and unlock our collective potential — in the age of superintelligence.
+a system to democratize opportunity, unite humanity, and organize ourselves to take advantage of artificial intelligence.
 
 ---
 
@@ -42,13 +42,13 @@ ACT III — Foundation
 
 Artificial intelligence promises a future of abundance and prosperity in which each individual gains unimaginable power to realize their dreams.
 
-Yet, we are far from _organizing_ humanity in a way that enables us to take advantage of artificial intelligence towards prosperity instead of destruction.
+But, we're far from _organizing_ ourselves in a way that enables us to take advantage of artificial intelligence to achieve prosperity instead of self-destruction.
 
 To understand why we aren't organized to take advantage of artificial intelligence, we must first understand how artificial intelligence will change our world.
 
 ## How AGI changes our world
 
-By Artificial _General_ Intelligence (AGI) we mean an intelligence that can generally _reason_ across any task as well as any human. And that this intelligence also sufficiently _embodied_ such that it is capable of doing most physical tasks that humans do today (e.g. agriculture, assembly, delivery, etc.). We believe we will achieve full AGI sooner than expected, and that such AGI will amplify human potential, _not_ replace the need for humans.
+By Artificial _General_ Intelligence (AGI) we mean an intelligence that can generally _reason_ across any task as well as any human. And that this intelligence also sufficiently _embodied_ such that it is capable of doing most physical tasks that humans do today (e.g. agriculture, assembly, delivery, etc.). We believe we will achieve AGI sooner than expected, and that such AGI will amplify human potential, _not_ replace the need for humans.
 
 As artificial intelligence advances, our activities will _acceleratingly_ evolve to become more **_complex_** (i.e., more possibilities within them) and more **_alike_** (i.e., being great at one will increasingly translate to being great at all).
 
@@ -74,13 +74,13 @@ AGI is a fundamentally different kind of advancement than we've ever seen becaus
 
 In other words, previous advancements did not _force_ _everyone_ towards highly complex work. But, AGI does. It is this aggressive universal impact of AGI that elevates all human activity away from less complex work towards highly complex work — which have more extreme outcomes. And increasingly, these new activities will be more alike: ability will transfer more seamlessly between them.
 
-We call this phenomenon in which our activities acceleratingly evolve to be more complex _and_ alike — towards a _highly complex_, _singular_ activity — [Convergence](Convergence.md). All of our predictions about what a post AGI world will look like are derived from this fundamental phenomenon. AGI, and more broadly any human progress, accelerates convergence.
+We call this phenomenon in which our activities acceleratingly evolve to be more complex _and_ alike — towards a _highly complex_, _singular_ activity — [Convergence](Convergence.md). All of our predictions about what a post AGI world will look like are derived from this fundamental phenomenon. AGI, and more broadly any human progress, *accelerates convergence*.
 
 ---
 
-Many activities we consider quite simple today, our ancestors found incredibly complex and difficult. Similarly, our close descendants will view many of our greatest challenges today as simple problems. Artificial intelligence will enable us to tackle problems that we previously thought were too complex to attack; from global warming, to health, to food and water scarcity, to space travel, etc. — promising a future of prosperity and abundance that we can't imagine.
+Artificial intelligence will enable us to tackle highly complex problems; from global warming, to health, to food and water scarcity, to space travel, etc. — promising a future of prosperity and abundance that we can't fathom. 
 
-But, without a fundamental re-organization of society, we will be needlessly crushed by AGI and will significantly delay (or fail) achieving the prosperity AGI promises. (todo: a line about the suffering).
+But, we are far from being organized in a way to take advantage of artificial intelligence. Even worse, on top of our current systems, artificial intelligence is poised to inflict needless suffering on many — significantly delaying, and possibly even preventing, a future in which every one has access to opportunity and abundance.
 
 ## Problem
 
@@ -131,7 +131,7 @@ We need a new _financial instrument_ that democratizes venture capital.
 
 ## Personal token
 
-We are creating the _personal token_: a financial instrument that represents an individual's potential, with transactable shares. Individuals can raise venture capital by selling equity in their personal token.
+We are creating the _personal token_: a financial instrument that represents an individual's potential, with transact-able shares. Individuals can raise venture capital by selling equity in their personal token.
 
 <img src="foundation/assets/personal-token-preview.png" width="500" />
 
