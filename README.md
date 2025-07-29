@@ -29,7 +29,8 @@ In this essay we explore why we will _need_ RootNet to organize humanity to take
 13. [Design principles](#design-principles)
 14. [Solution](#solution)
 15. [Applying principles](#applying-principles)
-16. [Superintelligence](#superintelligence)
+16. [Legal grounding](#legal-grounding)
+17. [Superintelligence](#superintelligence)
 
 ---
 
@@ -272,11 +273,11 @@ RootFoundation members will work together _in person_ at our HQ in San Francisco
 
 The Ledger, and all of RootFoundation’s creations, will be built upon decentralized primitives.
 
-Initially, RootFoundation will hold a lot of control. Over time, as the network matures, RootFoundation will progressively decentralize control. For example, early on the RootFoundation will handle reputation and fraud in a centralized way: managing complaints from users, investigating and banning/pursuing legal actions, etc. Over time, as the network matures, RootFoundation will decentralize reputation by incentivizing users themselves to accurately identify misrepresentation/fraud[^decentralized_reputation].
+Initially, RootFoundation will hold a lot of control. Over time, as the network matures, RootFoundation will progressively decentralize control. For example, early on, RootFoundation will handle reputation and fraud in a centralized way: managing complaints from users, investigating and banning/pursuing legal actions, etc. Over time, as the network matures, RootFoundation will decentralize reputation by incentivizing users themselves to accurately identify misrepresentation/fraud[^decentralized_reputation].
 
 [^decentralized_reputation]: Perhaps something like a transparent, decentralized [community notes](https://vitalik.eth.limo/general/2023/08/16/communitynotes.html) with appropriate financial incentives.
 
-Such progressive decentralization will enable a rich, competitive ecosystem of ideas, companies, entities, etc. to emerge upon this tokenized foundation. And, users will increasingly have control and influence over all policy and decision making in the network (and how entities engage with the network) through a realtime, continuous _voting system_.
+Such progressive decentralization will enable a rich, competitive ecosystem of ideas, companies, entities, etc. to emerge upon this tokenized foundation. And, users will increasingly have control and influence over all policy and decision making regarding the network (and how entities engage with the network) through a realtime, continuous _voting system_.
 
 ### 2. Fork-ability
 
@@ -287,6 +288,10 @@ All of the RootFoundation’s activity will be publicly available in _this_ repo
 Over time, as the network progressively decentralizes, we believe that even the entities operating on top of RootFoundation will become fork-able because users will vote for policies that force transparency and fork-ability on any entity that engages with the network.
 
 RootFoundation will progressively become more transparent: every cent it spends, every idea it produces, every conversation it has, every line of code it writes will be published in realtime for the world to see, judge, and steal. Yet, even today, RootFoundation will be _far_ more transparent than any other organization.
+
+## Legal grounding
+
+RootFoundation will ensure that all transactions in RootNet are compliant with all relevant laws and regulations. This means that investing in tokens within RootNet will initially be restricted to users who live in the United States of America.
 
 ## Superintelligence
 
