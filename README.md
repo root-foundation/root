@@ -22,7 +22,7 @@ In this essay we explore why we will _need_ RootNet to unite humanity in a post 
 6. [The network](#the-network)
 7. [Personal tokens will democratize opportunity](#personal-tokens-will-democratize-opportunity)
 8. [Universal Basic Equity (UBE)](#universal-basic-equity-ube)
-9. [Money → Company → Personal Token](#money--company--personal-token)
+9. [Money → Company → Personal Token](#money---company---personal-token)
 10. [Value will be concentrated in personal tokens](#value-will-be-concentrated-in-personal-tokens)
 11. [Tokens will eat the world](#tokens-will-eat-the-world)
 12. [RootNet](#rootnet)
@@ -180,7 +180,7 @@ Being able to _transact_ shares of equity in personal tokens enables individuals
 
 As we advance, value concentrates _upwards_.
 
-Over time, value became concentrated in companies, not transactions — the most valuable companies in the world are valued far more than the sum of their transactions (revenue).
+Over time, value became concentrated in companies, not transactions. The most valuable companies have been *increasingly* valued more than the sum of their transactions (revenue).
 
 Similarly, in a post AGI world with extreme outcomes, value will become concentrated in personal tokens. A personal token will be valued far more than the sum of the values of its equities in companies _(recall: a personal token’s value is grounded in its equities in companies and other personal tokens)_.
 
