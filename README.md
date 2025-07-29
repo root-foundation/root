@@ -1,10 +1,16 @@
-# Foundation
+# RootNet
 
-_v0.01_
+_v0.1_
 
 _[homan](https://x.com/homanspirit) & [shiv](https://scholar.google.com/citations?user=WNUGEccAAAAJ&hl=en)_
 
-a system to democratize opportunity, unite humanity, and organize ourselves to take advantage of AGI.
+---
+
+RootNet is a network that connects people socially *and* financially. 
+
+Users own their data, invest in each other's ideas and potential, and increasingly influence how the network functions and evolves.
+
+RootNet's mission is to unite humanity and unlock our collective potential in the age of intelligence — by giving each person a stake in our collective success, and by democratizing opportunity.
 
 ---
 
@@ -18,16 +24,16 @@ ACT II — Tokenization
 
 4. [Venture capital](#venture-capital)
 5. [Personal token](#personal-token)
-6. [Network](#network)
+6. [The network](#the-network)
 7. [Personal tokens will democratize opportunity](#personal-tokens-will-democratize-opportunity)
 8. [Universal Basic Equity (UBE)](#universal-basic-equity-ube)
 9. [Evolution of financial instruments](#evolution-of-financial-instruments)
 10. [Value will concentrate in personal tokens](#value-will-concentrate-in-personal-tokens)
 11. [Tokens will eat the world](#tokens-will-eat-the-world)
 
-ACT III — Foundation
+ACT III — RootNet
 
-13. [Foundation](#foundation)
+13. [RootNet](#rootnet)
 14. [Design principles](#design-principles)
 15. [Solution](#solution)
 16. [Applying principles](#applying-principles)
@@ -73,7 +79,9 @@ We call this phenomenon in which our activities acceleratingly evolve to be more
 
 Artificial intelligence will enable us to tackle highly complex problems; from global warming, to health, to food and water scarcity, to space travel, etc. — promising a future of prosperity and abundance that we can't fathom. 
 
-But, we are far from being organized in a way to take advantage of artificial intelligence. Even worse, on top of our current systems, artificial intelligence is poised to inflict needless suffering on many — significantly delaying, and possibly even preventing, a future in which every one has access to opportunity and abundance.
+But, we are far from being organized in a way to take advantage of artificial intelligence. Even worse, on top of our current systems, artificial intelligence is poised to concentrate opportunity in the hands of those with wealth — significantly delaying, and possibly even preventing, a future in which every one has access to opportunity and abundance, while causing needless suffering. 
+
+To see why, let's first understand how our current economic system becomes oppressive in a post AGI world.
 
 ## Problem
 
@@ -81,18 +89,17 @@ In an extreme world, **debt is no longer a viable means to finance anything** be
 
 This is not due to fewer opportunities (AGI will enable far more opportunities than it takes), but rather due to the extreme, winner-take-all nature of outcomes within _each_ opportunity. In extreme outcomes, the median outcome falls to nothing and thus financing with debt is no longer viable.
 
-Tragically, the world does not understand that debt will no longer work. Billions around the world are still taking out loans to finance their lives — from their educations, to their homes and businesses — without realizing that they will almost certainly never be able to repay these loans in an extreme world.
+Tragically, the world does not understand that debt will no longer work in a post AGI world. Billions around the world are still taking out loans to finance their lives — from their educations, to their homes and businesses — without realizing that they will almost certainly never be able to repay these loans as outcomes rapidly becomes more extreme.
 
 _Even_ if one is debt-free, they will almost certainly be outcompeted by one who can experiment boldly and tinker freely with _abundant_ resources.
 
-And critically, in an extreme world, if people don't have a stake in the collective upside, they will resent the winners — corroding social cohesion.
+And critically, in an extreme world, if people don't have a stake in the collective upside, they will resent the winners — dividing society.
 
-Therefore, we urgently need a way to:
-
+Therefore, we must:
 1. Finance human activity in a way that ensures that anyone with potential has access to the resources they need to fully realize their potential — regardless of the circumstances of their birth.
 2. Give each individual a stake in the collective upside to unite society.
 
-Otherwise opportunity becomes concentrated in those who won't be burdened by debt. And we will fail to realize our potential.
+Otherwise opportunity becomes concentrated in those who won't be burdened by debt and we will fail to realize our potential.
 
 # ACT II — Tokenization
 
@@ -106,7 +113,7 @@ VC is already a popular way to finance startups: investors give startup companie
 
 Venture capital works exceptionally well in domains with extreme outcomes because an investor only needs a few bets to succeed in order to _more-than-compensate_ for the many failed bets they will inevitably have (because the median outcome is failure). Therefore, VC is the only way to finance activities that have extreme outcomes because no other mode of financing can withstand the extreme failure rate.
 
-Since AGI makes _all_ activities extreme, VC will be the only viable way to finance anything. But, VC as it is understood today is far too restrictive because only those ready to start a company can leverage venture capital. In order to unlock our collective potential, we must enable individuals to access venture capital to finance a broader range of activities, much earlier in their lives.
+Since AGI makes _all_ activities extreme, VC will be the only viable way to finance anything. But, VC as, as it exists today, is too restrictive because only those ready to start a company can leverage venture capital. In order to unlock our collective potential, we must enable individuals to access venture capital to finance a broader range of activities, much earlier in their lives.
 
 We need a new _financial instrument_ that democratizes venture capital.
 
@@ -124,7 +131,7 @@ Unlike company shareholders, personal token shareholders have _no_ “ownership"
 
 **The owner of the personal token retains absolute, complete agency and control**.
 
-## Network
+## The network
 
 Personal tokens can't exist in a vacuum. We need many functions in order to have a thriving ecosystem of individuals investing in each other through their personal tokens (e.g., fighting fraud, enabling discovery, etc.). In order to finance such functions this system will collect a small _equity fee_: a micro stake in every personal token that has successfully raised funds.
 
@@ -206,11 +213,15 @@ All of society's functions will be grounded in tokens. A rich, _tokenized_ ecosy
 
 Tokens will eat the world. And such a tokenized system will help us unite society and democratize opportunity.
 
-# ACT III — Foundation
+# ACT III — RootNet
 
-## Foundation
+## RootNet
 
-(todo).
+The Foundation is a decentralized platform that will eventually support all human activity.
+Invest. Transact. Communicate. Vote. Join.
+
+All users of the Foundation will have equity stake in the collective; the collective will have equity stakes in all users — a symbiotic relationship.
+
 ## Design principles
 
 We believe the best way to create the _Foundation_ — given our ignorance — is one that mimics natural selection, while maximizing the rate of iteration.
@@ -247,7 +258,7 @@ The NetworkToken is an _instance_ of a network token that represents the collect
 
 The NetworkToken's wallet reflects the dividends the NetworkToken accrues through its stakes in all tokens in the network. The NetworkToken is the economic heart of the entire system: fueling all of the activities required to keep this system healthy.
 
-### FoundationOrg
+### RootFoundation
 
 This core will be wrapped in a non-profit organization (FoundationOrg) that will create, control and develop the Ledger.
 
@@ -289,11 +300,11 @@ Over time, FoundationOrg will progressively[^transparency] become more transpare
 
 ## Superintelligence
 
-Superintelligence[^ai] is an _advancement_ that comes with advanced stories, instruments, and technologies that will give each individual unimaginable power.
+The Network enables superintelligence.
 
-Contrary to what some “superintelligence” labs seem to believe, technological advancement alone will not lead to superintelligence as it will be limited by lack of progress in the other features of change (stories, instruments). We expect that the majority of cognition lies _beyond_ logic & reasoning. Our current data representation (text, images, videos, etc.) itself is too restrictive to capture the significantly more complex cognition _from which_ these mediums arise. More specifically, we will require higher resolution data of the human experience that has far greater representational complexity than language, image, video, etc. This would include, e.g., physiological data down to the chemical and quantum level representation of human experience.
+Contrary to what some “superintelligence” labs seem to believe, technological advancement alone will not lead to superintelligence. We expect that the majority of cognition lies _beyond_ logic & reasoning. Our current data representation (text, images, videos, etc.) itself is too restrictive to capture the significantly more complex cognition _from which_ these mediums arise. More specifically, we will require higher resolution data of the human experience that has far greater representational complexity than language, image, video, etc. This would include, e.g., physiological data down to the chemical and quantum level representation of human experience.
 
-This makes collective voluntary participation a _necessity_ for superintelligence as people must be willing to give up such higher resolution personal data. They would only voluntarily[^coerced] participate in a world with advanced instruments that give everyone a stake in the collective upside (i.e., tokenization, UBE, etc.). And importantly, they would only desire to participate in a world with our powerful story of unity that makes contributing an _offering_ to our collective good — rather than a sacrifice, or even exploitation.
+This makes collective voluntary participation a _necessity_ for superintelligence as people must be willing to give up such higher resolution personal data. They would only voluntarily[^coerced] participate in a world in which everyone has a stake in the collective upside (i.e., tokenization, UBE, etc.).
 
 [^coerced]: Furthermore, if such higher resolution personal data is _coerced_ out of individuals, that data will not represent the full range of human expression because it will skewed towards a limited range of emotions (such as anger / fear). This will limit and bias training data, which will limit the superintelligence that emerges from this data.
 
