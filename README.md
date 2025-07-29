@@ -238,7 +238,7 @@ A token contains the following information:
 There are two _kinds_ of tokens that extend from this base structure: _personal tokens_ and _network tokens_.
 
 - personal tokens are for individuals.
-- network tokens are for collectives (companies, nations (e.g., "USAToken"), etc.).
+- network tokens are for collectives (companies, nations (e.g., "USAToken"), NetworkToken, etc.).
 
 ### Ledger
 
@@ -248,17 +248,17 @@ The Ledger is the structure that represents information about _all_ tokens in th
 
 The NetworkToken is an _instance_ of a network token that represents the collective potential of the entire network through its micro stakes in all tokens in the network (which it captures through an equity fee when token shares are transacted). Since the NetworkToken is just another token, it exists _within_ the Ledger.
 
-The NetworkToken's wallet reflects the dividends the NetworkToken accrues through its stakes in all tokens in the network. The NetworkToken is the economic heart of the entire system: fueling all of the activities required to keep this system healthy.
+The NetworkToken's wallet reflects the dividends the NetworkToken accrues through its stakes in all tokens in the network. The NetworkToken is the economic heart of the entire system: fueling all of the activities required to keep the network healthy.
 
 ### RootFoundation
 
-This core will be wrapped in a non-profit organization (RootFoundation) that will create, control and develop the Ledger.
+The Ledger will be developed and controlled by a non-profit organization (RootFoundation).
 
 RootFoundation’s sole goal is to unite humanity and unlock our collective potential.
 
 In addition to building the core technology, RootFoundation will be responsible for educating the world about these new ideas & helping shape policies in the direction of uniting humanity and unlocking our collective potential.
 
-RootFoundation cannot be “bought”. Owning shares in the NetworkToken does not come with voting rights or influence in governance. Initially, we will be responsible for building the initial RootFoundation team. But over time, we will implement a process to elect & fire RootFoundation members.
+RootFoundation cannot be “bought”. Owning shares in the NetworkToken does not come with voting rights or influence in governance. Initially, we will be responsible for building the initial RootFoundation team. But over time, we will implement a process to elect & fire RootFoundation members, and progressively decentralize control over the network's functionality and evolution.
 
 RootFoundation members will work together _in person_ at our HQ in San Francisco, California, USA.
 
@@ -270,34 +270,38 @@ RootFoundation members will work together _in person_ at our HQ in San Francisco
 
 ### 1. Progressive decentralization
 
-The core technology, and all of RootFoundation’s creations, will be built upon decentralized primitives.
+The Ledger, and all of RootFoundation’s creations, will be built upon decentralized primitives.
 
 Initially, RootFoundation will hold a lot of control. Over time, as the network matures, RootFoundation will progressively decentralize control. For example, early on the RootFoundation will handle reputation and fraud in a centralized way: managing complaints from users, investigating and banning/pursuing legal actions, etc. Over time, as the network matures, RootFoundation will decentralize reputation by incentivizing users themselves to accurately identify misrepresentation/fraud[^decentralized_reputation].
 
 [^decentralized_reputation]: Perhaps something like a transparent, decentralized [community notes](https://vitalik.eth.limo/general/2023/08/16/communitynotes.html) with appropriate financial incentives.
 
-Such progressive decentralization will enable a rich, competitive ecosystem of ideas, companies, entities, etc. to emerge upon this tokenized foundation. And, users will increasingly have control and influence over all policy and decision making in the network (and how entities engage with the network) through a realtime, fluid _voting system_.
+Such progressive decentralization will enable a rich, competitive ecosystem of ideas, companies, entities, etc. to emerge upon this tokenized foundation. And, users will increasingly have control and influence over all policy and decision making in the network (and how entities engage with the network) through a realtime, continuous _voting system_.
 
 ### 2. Fork-ability
 
-This system will be fork-able at its core. If RootFoundation stops serving its users in the way they want, the core ledger itself can be forked, a new NetworkToken issued, and a new foundation can continue the work towards uniting humanity and unlocking our collective potential in a way that's actually aligned with what users want.
+This system will be fork-able at its core. If RootFoundation stops serving its users in the way they want, the Ledger itself can be forked, a new NetworkToken issued, and a new foundation can continue the work towards uniting humanity and unlocking our collective potential in a way that's actually aligned with what people want.
 
 All of the RootFoundation’s activity will be publicly available in _this_ repository under an [MIT license](LICENSE), enabling anyone to fork anything we do without our permission.
 
-Over time, as the network progressively decentralizes, _even_ entities operating on top of the Foundation will become fork-able because we believe users will vote for policies that force transparency and fork-ability.
+Over time, as the network progressively decentralizes, we believe that even the entities operating on top of RootFoundation will become fork-able because users will vote for policies that force transparency and fork-ability on any entity that engages with the network.
 
-Over time, RootFoundation will progressively become more transparent: every cent it spends, every idea it produces, every conversation it has, every line of code it writes will be published for the world to see, judge, and steal. Yet, even today, RootFoundation will be _far_ more transparent than any organization.
+RootFoundation will progressively become more transparent: every cent it spends, every idea it produces, every conversation it has, every line of code it writes will be published in realtime for the world to see, judge, and steal. Yet, even today, RootFoundation will be _far_ more transparent than any other organization.
 
 ## Superintelligence
 
-RootNet enables superintelligence.
+Superintelligence can only emerge from RootNet.
 
 Contrary to what some superintelligence labs seem to believe, technological advancement alone will not lead to superintelligence.
 
-We expect that the majority of cognition lies _beyond_ logic & reasoning. Our current data representation (text, images, videos, etc.) itself is too restrictive to capture the significantly more complex cognition _from which_ these mediums arise. More specifically, we will require higher resolution data of the human experience that has far greater representational complexity than language, image, video, etc. This would include, e.g., physiological data down to the chemical and quantum level representation of human experience.
+We expect that the majority of cognition lies _beyond_ logic & reasoning. Our current data representation (text, images, videos, etc.) itself is too restrictive to capture the significantly more complex cognition _from which_ these mediums arise. More specifically, we will require higher resolution data of the human experience that has far greater representational complexity than language, image, video, etc. We believe this would include, e.g., physiological data down to the chemical and quantum level representation of human experience.[^timeline]
 
-This makes collective voluntary participation a _necessity_ for superintelligence as people must be willing to give up such higher resolution personal data. They would only voluntarily[^coerced] participate in a world in which everyone has a stake in the collective upside (i.e., UBE).
+[^timeline]: This is why we believe superintelligence (an entity that surpasses the *intuitions* of the best humans for the most complex tasks) will not arrive anytime soon, if ever. We don't have anywhere near the quality of sensors and compute required to even represent an experience in sufficient resolution, let alone train on it. Which is why we strongly believe that for the foreseeable future, artificial intelligence will *amplify* human expression, not eliminate the need for humans to create value.
 
-[^coerced]: Furthermore, if such higher resolution personal data is _coerced_ out of individuals, that data will not represent the full range of human expression because it will skewed towards a limited range of emotions (such as anger / fear). This will limit and bias training data, which will limit the superintelligence that emerges from this data.
+This makes collective voluntary participation a _necessity_ for superintelligence as people must be willing to give up such higher resolution personal data. They would only voluntarily[^coerced] participate if they had a strong incentive to do so: a significant stake in the collective upside (through UBE), *and* had sufficient influence over how companies could use their data.
 
-Critically, the superintelligence that emerges from RootNet will be safe. Contrary to what AI safety teams seem to think, obedience and intelligence cannot co-exist. The only way to ensure a safe superintelligence is to convince it with the right incentives and stories. The _Foundation_, through its powerful story of unity of _all_ beings, and instruments that incentivize _collective_ growth, will convince superintelligence to work with us instead of against us.
+RootNet will give users both a financial incentive to offer their data to train superintelligence *and* control (because users will increasingly have control over how entities can engage with RootNet through realtime, continuous voting). Therefore, superintelligence will emerge from RootNet (or a winning fork), *not* from an entity outside of the network.
+
+[^coerced]: If such higher resolution personal data is _coerced_ out of individuals, that data will not represent the full range of human expression because it will skewed towards a limited range of emotions (such as anger / fear). This will limit and bias training data, which will limit the superintelligence that emerges from this data. Thus, it's critically important that people actively choose to participate in creating superintelligence.
+
+Critically, the superintelligence that emerges from RootNet will be safe. Contrary to what AI safety teams seem to think, obedience and intelligence cannot co-exist. The only way to ensure a safe superintelligence is to convince it with the right incentives and stories. RootNet, through its powerful story of unity of _all_ beings, and instruments that incentivize _collective_ growth, will convince superintelligence to work with us instead of against us.
