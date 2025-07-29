@@ -6,7 +6,7 @@ _[homan](https://x.com/homanspirit) & [shiv](https://scholar.google.com/citation
 
 ---
 
-RootNet is a network that connects people socially _and_ financially. Users own their data, invest in each other's ideas and potential, and increasingly influence how the network functions and evolves.
+RootNet is a network that connects people socially _and_ financially. Users own their data, invest in each other's ideas and potential, and increasingly control how the network functions and evolves.
 
 RootNet's mission is to unite humanity and unlock our collective potential in the age of intelligence — by giving each person a stake in our collective success, and by democratizing opportunity.
 
@@ -58,15 +58,11 @@ As artificial intelligence advances, our activities will _acceleratingly_ evolve
 
 **Such change will accelerate.** It is not only technological advancement that causes such change. Any progress (more equal opportunity, better training, etc.) amplifies these changes. Even if AI progress halted for 5 years (unlikely), we would still see accelerating change because we've barely utilized the current technology itself.
 
----
+AGI is a fundamentally different kind of advancement than we've ever seen because it cuts away activities below a certain complexity threshold, _across the board_. Previous advancements (such as computers, smartphones, internet, etc.) did not make less complex work in _all_ domains irrelevant. Even as the reach of software and the internet grew, less complex work continued to exist in various domains (e.g., agriculture, supply chain, delivery work, etc.).
 
-AGI is a fundamentally different kind of advancement than we've ever seen because it cuts away activities below a certain complexity threshold, _across the board_. Previous advancements (such as computers, smartphones, internet, etc.) did not make less complex work in _all_ domains irrelevant. Even as the reach of software and the internet grew, less complex work continued to exist in various domains (agriculture, supply chain, delivery, etc.).
-
-In other words, previous advancements did not _force_ _everyone_ towards highly complex work. But, AGI does. It is this universal impact of AGI that elevates all human activity towards highly complex work — which have more extreme outcomes.
+In other words, previous advancements did not force *everyone* towards highly complex work. But, AGI does. It is this universal impact of AGI that elevates all human activity towards highly complex work.
 
 We call this phenomenon in which our activities acceleratingly evolve to be more complex _and_ alike — towards a _highly complex_, _singular_ activity — [Convergence](Convergence.md).
-
----
 
 Artificial intelligence will enable us to tackle highly complex problems; from global warming, to health, to food and water scarcity, to space travel, etc. — promising a future of prosperity and abundance that we can't fathom.
 
@@ -76,7 +72,7 @@ To see why, let's first understand how our current economic system becomes oppre
 
 ## Problem
 
-In an extreme world, debt is no longer a viable means to finance anything.
+In a post AGI world, due to extreme outcomes in *all* activities, debt will no longer a viable means to finance anything.
 
 This is not due to fewer opportunities (AGI will enable far more opportunities than it takes), but rather due to the extreme, winner-take-all nature of outcomes within _each_ opportunity. In extreme outcomes, the median outcome falls to nothing and thus financing with debt is no longer viable.
 
@@ -301,7 +297,7 @@ Contrary to what some superintelligence labs seem to believe, technological adva
 
 We expect that the majority of cognition lies _beyond_ logic & reasoning. Our current data representation (text, images, videos, etc.) itself is too restrictive to capture the significantly more complex cognition _from which_ these mediums arise. More specifically, we will require higher resolution data of the human experience that has far greater representational complexity than language, image, video, etc. We believe this would include, e.g., physiological data down to the chemical and quantum level representation of human experience.[^timeline]
 
-[^timeline]: This is why we believe superintelligence (an entity that surpasses the *intuitions* of the best humans for the most complex tasks) will not arrive anytime soon, if ever. We don't have anywhere near the quality of sensors and compute required to even represent an experience in sufficient resolution, let alone train on it. Which is why we strongly believe that for the foreseeable future artificial intelligence will *amplify* human expression, not eliminate the need for humans to create value.
+[^timeline]: This is why we believe superintelligence (an entity that surpasses the *intuitions* of the best humans for the most complex tasks) will not arrive anytime soon, if ever. We don't have anywhere near the quality of sensors and compute required to even represent a single experience in sufficient resolution, let alone train on a set of many experiences. Which is why we strongly believe that for the foreseeable future artificial intelligence will *amplify* human expression, not eliminate the need for humans to create value.
 
 This makes collective voluntary participation a _necessity_ for superintelligence as people must be willing to give up such higher resolution personal data. They would only voluntarily[^coerced] participate if they had a strong incentive to do so: a significant stake in the collective upside (through UBE), *and* had sufficient influence over how companies could use their data.
 
@@ -309,4 +305,4 @@ RootNet will give users both a financial incentive to offer their data to train 
 
 [^coerced]: If such higher resolution personal data is _coerced_ out of individuals, that data will not represent the full range of human expression because it will skewed towards a limited range of emotions (such as anger / fear). This will limit and bias training data, which will limit the superintelligence that emerges from this data. Thus, it's critically important that people actively choose to participate in creating superintelligence.
 
-Critically, the superintelligence that emerges from RootNet will be safe. Contrary to what AI safety teams seem to think, obedience and intelligence cannot co-exist. The only way to ensure a safe superintelligence is to convince it with the right incentives and stories. RootNet, through its powerful story of unity of _all_ beings, and instruments that incentivize _collective_ growth, will convince superintelligence to work with us instead of against us.
+Critically, the superintelligence that emerges from RootNet will be safe. Contrary to what AI safety teams seem to think, obedience and intelligence cannot co-exist. The only way to ensure a safe superintelligence is to convince it with the right incentives and stories. RootNet, through its powerful story of unity of _all_ beings, and instruments that incentivize _collective_ growth, will convince superintelligence to work *with* us instead of *against* us.
