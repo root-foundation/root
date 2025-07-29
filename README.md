@@ -132,11 +132,11 @@ Personal tokens create a market for human potential that will increasingly alloc
 
 We acknowledge that _initially_ personal tokens will be better harnessed by individuals with privilege. Early individuals who raise capital by selling equity in their personal tokens would have likely had advantages such as better education, access to resources, capital, networks, etc. But eventually, as the network matures through more participants and investments (in number and magnitude), market forces will more aggressively allocate resources to undervalued or undiscovered talent. Thus, market forces will push resources to individuals _earlier_ in their lives across a _broader_ range of activities — preventing wastage of valuable potential and minimizing unfair advantages.
 
-As discussed earlier, _even_ with extreme outcomes we will have a greater absolute number of winners because of rapid displacement of winners (due to accelerating convergence). Furthermore, as artificial intelligence advances humanity, the number of quality contenders will increase (due to better training, resources, leverage, etc.).
+As discussed earlier, _even_ with extreme outcomes we will have a greater absolute number of winners because of rapid displacement of winners (due to accelerating change). Furthermore, as artificial intelligence advances humanity, the number of quality contenders will increase (due to better training, resources, leverage, etc.).
 
 Because of more extreme success outcomes _and_ greater number of competent contenders for those outcomes, we will see more widespread investments of greater magnitude. Therefore, even the investment into the median contender will increase.
 
-Thus, personal tokens, and the market forces they create, will increasingly negate privilege — unlocking our collective potential.
+Therefore, personal tokens, and the market forces they create, will increasingly negate privilege by incentivizing capital to flow to incorrectly undervalued individuals — based on their potential, not wealth.
 
 ## Universal Basic Equity (UBE)
 
@@ -180,7 +180,9 @@ As we advance, value concentrates _upwards_.
 
 Over time, value became concentrated in companies, not transactions. The most valuable companies have been *increasingly* valued more than the sum of their transactions (revenue).
 
-Similarly, in a post AGI world with extreme outcomes, value will become concentrated in personal tokens. A personal token will be valued far more than the sum of the values of its equities in companies _(recall: a personal token’s value is grounded in its equities in companies and other personal tokens)_.
+Similarly, in a post AGI world with extreme outcomes, value will increasingly become concentrated in personal tokens. A personal token will be valued far more than the sum of the values of its equities in companies _(recall: a personal token’s value is grounded in its equities in companies and other personal tokens)_.
+
+With the leverage that artificial intelligence provides, individuals will be able to manifest many more ideas. Therefore, people will increasingly want to directly invest in the individuals who will generate many valuable ideas (i.e., in their personal tokens) instead of in specific idea (i.e., company).
 
 ## Tokens will eat the world
 
@@ -190,9 +192,9 @@ Yet, for early adopters, engaging with personal tokens will come naturally as pe
 
 Then, personal tokens will rewrite our entire education system by enabling a better business model: instead of _charging_ for education, great teachers will _invest_ in students they want to train. In an extreme world, this will be the _only_ way teachers will be able to earn what they deserve, and the _only_ way students will be able to incentivize the best teachers to train them.
 
-Increasingly, great products and discoveries will find their start in individual explorations financed by personal tokens. Then, investing in personal tokens will become more popular than investing in companies because attention and value become concentrated in individuals holistically, not in their particular expressions.
+An education system based on *investing* instead of charging money will improve the quality of knowledge available for everyone — *even* for students who aren't yet ready to be invested in. Teachers who charge money to teach are incentivized to hoard their most important knowledge to only paying students. Teacher-investors, on the other hand, are *incentivized* to spread *all* of their knowledge as widely as they can in order to attract more investable talent.
 
-Future governance structures built upon personal tokens will enable social cohesion through Universal Basic Equity (UBE) that gives everyone a stake in this collective progress.
+Increasingly, great products and discoveries will find their start in individual explorations financed by personal tokens. Then, investing in personal tokens will become more popular than investing in companies because attention and value become concentrated in individuals holistically, not in their particular expressions.
 
 In an extreme, post AGI world, the outcomes of nations too will be extreme. The most powerful nation will be orders of magnitude more powerful than the next one, leading to economic and cultural domination. This is because the nation that adopts personal tokens first will best maximize their growth by unlocking their collective potential. Eventually, the winning nation will force everyone else into this economic system.
 
