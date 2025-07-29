@@ -10,18 +10,20 @@ RootNet is a network that connects people socially _and_ financially. Users own 
 
 RootNet's mission is to unite humanity and unlock our collective potential in the age of intelligence — by giving each person a stake in our collective success, and by democratizing opportunity.
 
+In this essay we explore why we will _need_ RootNet to unite humanity in a post AGI world, our vision of the future, and how we will build it.
+
 ---
 
 1. [Introduction](#introduction)
-2. [How AGI changes our world](#how-agi-changes-our-world)
+2. [How AGI will change our world](#how-agi-will-change-our-world)
 3. [Problem](#problem)
 4. [Venture capital](#venture-capital)
 5. [Personal token](#personal-token)
 6. [The network](#the-network)
 7. [Personal tokens will democratize opportunity](#personal-tokens-will-democratize-opportunity)
 8. [Universal Basic Equity (UBE)](#universal-basic-equity-ube)
-9. [Evolution of financial instruments](#evolution-of-financial-instruments)
-10. [Value will concentrate in personal tokens](#value-will-concentrate-in-personal-tokens)
+9. [Money → Company → Personal Token](#money--company--personal-token)
+10. [Value will be concentrated in personal tokens](#value-will-be-concentrated-in-personal-tokens)
 11. [Tokens will eat the world](#tokens-will-eat-the-world)
 12. [RootNet](#rootnet)
 13. [Design principles](#design-principles)
@@ -39,7 +41,7 @@ But, we're far from _organizing_ ourselves in a way that enables us to take adva
 
 To see why, we must first understand how artificial intelligence will change our world.
 
-## How AGI changes our world
+## How AGI will change our world
 
 By Artificial _General_ Intelligence (AGI) we mean an intelligence that can generally _reason_ across any task as well as any human. And that this intelligence also sufficiently _embodied_ such that it is capable of doing most physical tasks that humans do today (e.g. agriculture, assembly, delivery, etc.). We believe we will achieve AGI sooner than expected, and that such AGI will amplify human potential, _not_ replace the need for humans.
 
@@ -156,7 +158,7 @@ This system ensures that every one of descendants will enjoy a level of abundanc
 
 Personal tokens are the first step towards a new tokenized economic system.
 
-## Evolution of financial instruments
+## Money -> Company -> Personal token
 
 The personal token is the next phase in the evolution of financial instruments — as an abstraction that sits above the company, which in turn sits above money.
 
