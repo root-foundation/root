@@ -45,9 +45,9 @@ ACT III — RootNet
 
 ## Introduction
 
-Artificial intelligence promises a future of abundance and prosperity in which each individual gains unimaginable power to realize their dreams.
+Artificial intelligence promises a future of abundance and prosperity in which each individual has unimaginable power to realize their dreams.
 
-But, we're far from _organizing_ ourselves in a way that enables us to take advantage of artificial intelligence to achieve prosperity instead of self-destruction.
+But, we're far from _organizing_ ourselves in a way that enables us to take advantage of artificial intelligence to achieve prosperity. On top of our current economic system, artificial intelligence is poised to concentrate opportunity and divide society.
 
 To see why, we must first understand how artificial intelligence will change our world.
 
@@ -85,11 +85,11 @@ To see why, let's first understand how our current economic system becomes oppre
 
 ## Problem
 
-In an extreme world, **debt is no longer a viable means to finance anything** because everything will be too risky for debt.
+In an extreme world, debt is no longer a viable means to finance anything.
 
 This is not due to fewer opportunities (AGI will enable far more opportunities than it takes), but rather due to the extreme, winner-take-all nature of outcomes within _each_ opportunity. In extreme outcomes, the median outcome falls to nothing and thus financing with debt is no longer viable.
 
-Tragically, the world does not understand that debt will no longer work in a post AGI world. Billions around the world are still taking out loans to finance their lives — from their educations, to their homes and businesses — without realizing that they will almost certainly never be able to repay these loans as outcomes rapidly becomes more extreme.
+Tragically, billions are still taking out loans to finance their lives — from their educations, to their homes and businesses — without realizing that they will almost certainly never be able to repay these loans as outcomes rapidly becomes more extreme.
 
 _Even_ if one is debt-free, they will almost certainly be outcompeted by one who can experiment boldly and tinker freely with _abundant_ resources.
 
@@ -97,10 +97,9 @@ And critically, in an extreme world, if people don't have a stake in the collect
 
 Therefore, we must:
 1. Finance human activity in a way that ensures that anyone with potential has access to the resources they need to fully realize their potential — regardless of the circumstances of their birth.
-2. Give each individual a stake in the collective upside to unite society.
+2. Give each individual a stake in the collective upside to elevate our baseline along with our success.
 
-Otherwise opportunity becomes concentrated in those who won't be burdened by debt and we will fail to realize our potential.
-
+Otherwise opportunity becomes concentrated in those who aren't be burdened by debt (i.e., those with extreme wealth), dividing society and preventing a future of collective opportunity and prosperity.
 # ACT II — Tokenization
 
 ## Venture capital
@@ -217,14 +216,14 @@ Tokens will eat the world. And such a tokenized system will help us unite societ
 
 ## RootNet
 
-The Foundation is a decentralized platform that will eventually support all human activity.
-Invest. Transact. Communicate. Vote. Join.
+RootNet is a network that connects people socially *and* financially.
 
-All users of the Foundation will have equity stake in the collective; the collective will have equity stakes in all users — a symbiotic relationship.
+On RootNet, users own their data, invest in each other's ideas and potential, and increasingly influence how the network functions and evolves.
 
+RootNet's mission is to unite humanity and unlock our collective potential.
 ## Design principles
 
-We believe the best way to create the _Foundation_ — given our ignorance — is one that mimics natural selection, while maximizing the rate of iteration.
+We believe the best way to create RootNet — given our ignorance about what is best — is one that mimics natural selection, while maximizing the rate of iteration.
 
 We will mimic natural selection through:
 1. **Progressive decentralization**. Move power away from centralized authorities.
@@ -234,9 +233,9 @@ We will mimic natural selection through:
 
 ### Token
 
-At the heart of the solution is the _token_.
+RootNet is based on the primitive — *the token* — that represents an individual or collective.
 
-A token is an object that contains the following information:
+A token contains the following information:
 1. **ID**: a unique identifier.
 2. **Ownership**: total number of shares, and mapping between any token.ID to number of shares that token holds.
 3. **Wallet**: holds USDC.
@@ -245,8 +244,8 @@ A token is an object that contains the following information:
 
 There are two _kinds_ of tokens that extend from this base structure: _personal tokens_ and _network tokens_.
 
-- personal tokens are restricted to individuals.
-- network tokens are for collectives (e.g., company tokens, nation tokens (e.g. "USAToken"), etc.).
+- personal tokens are for individuals.
+- network tokens are for collectives (companies, nations (e.g., "USAToken"), etc.).
 
 ### Ledger
 
@@ -260,15 +259,15 @@ The NetworkToken's wallet reflects the dividends the NetworkToken accrues throug
 
 ### RootFoundation
 
-This core will be wrapped in a non-profit organization (FoundationOrg) that will create, control and develop the Ledger.
+This core will be wrapped in a non-profit organization (RootFoundation) that will create, control and develop the Ledger.
 
-FoundationOrg’s sole goal is to unite humanity and unlock our collective potential.
+RootFoundation’s sole goal is to unite humanity and unlock our collective potential.
 
-In addition to building the core technology, FoundationOrg will be responsible for educating the world about these new ideas & helping shape policies in the direction of uniting humanity and unlocking our collective potential.
+In addition to building the core technology, RootFoundation will be responsible for educating the world about these new ideas & helping shape policies in the direction of uniting humanity and unlocking our collective potential.
 
-The Foundation cannot be “bought”. Owning shares in the NetworkToken does not come with voting rights or influence in governance. Initially, we will be responsible for building the initial FoundationOrg team. But over time, we will implement a process to elect & fire FoundationOrg members.
+RootFoundation cannot be “bought”. Owning shares in the NetworkToken does not come with voting rights or influence in governance. Initially, we will be responsible for building the initial RootFoundation team. But over time, we will implement a process to elect & fire RootFoundation members.
 
-FoundationOrg members will work together _in person_ at our HQ in San Francisco, California, USA.
+RootFoundation members will work together _in person_ at our HQ in San Francisco, California, USA.
 
 ### Architecture
 
@@ -278,9 +277,9 @@ FoundationOrg members will work together _in person_ at our HQ in San Francisco,
 
 ### 1. Progressive decentralization
 
-The core technology, and all of FoundationOrg’s creations, will be built upon decentralized primitives.
+The core technology, and all of RootFoundation’s creations, will be built upon decentralized primitives.
 
-Initially, FoundationOrg will hold a lot of control. Over time, as the network matures, FoundationOrg will progressively decentralize control. For example, early on the FoundationOrg will handle reputation and fraud in a centralized way: managing complaints from users, investigating and banning/pursuing legal actions, etc. Over time, as the network matures, FoundationOrg will decentralize reputation by incentivizing users themselves to accurately identify misrepresentation/fraud[^decentralized_reputation].
+Initially, RootFoundation will hold a lot of control. Over time, as the network matures, RootFoundation will progressively decentralize control. For example, early on the RootFoundation will handle reputation and fraud in a centralized way: managing complaints from users, investigating and banning/pursuing legal actions, etc. Over time, as the network matures, RootFoundation will decentralize reputation by incentivizing users themselves to accurately identify misrepresentation/fraud[^decentralized_reputation].
 
 [^decentralized_reputation]: Perhaps something like a transparent, decentralized [community notes](https://vitalik.eth.limo/general/2023/08/16/communitynotes.html) with appropriate financial incentives.
 
@@ -288,26 +287,24 @@ Such progressive decentralization will enable a rich, competitive ecosystem of i
 
 ### 2. Fork-ability
 
-This system will be fork-able at its core. If FoundationOrg stops serving its users in the way they want, the core ledger itself can be forked, a new NetworkToken issued, and a new foundation can continue the work towards uniting humanity and unlocking our collective potential in a way that's actually aligned with what users want.
+This system will be fork-able at its core. If RootFoundation stops serving its users in the way they want, the core ledger itself can be forked, a new NetworkToken issued, and a new foundation can continue the work towards uniting humanity and unlocking our collective potential in a way that's actually aligned with what users want.
 
-All of the FoundationOrg’s activity will be publicly available in _this_ repository under an [MIT license](LICENSE), enabling anyone to fork anything we do without our permission.
+All of the RootFoundation’s activity will be publicly available in _this_ repository under an [MIT license](LICENSE), enabling anyone to fork anything we do without our permission.
 
-Over time, as the network progressively decentralizes, _even_ entities operating on top of the Foundation will become fork-able because users will vote for policies that force transparency and fork-ability.
+Over time, as the network progressively decentralizes, _even_ entities operating on top of the Foundation will become fork-able because we believe users will vote for policies that force transparency and fork-ability.
 
-Over time, FoundationOrg will progressively[^transparency] become more transparent: every cent it spends, every idea it produces, every conversation it has, every line of code it writes will be published for the world to see, judge, and steal. Yet, even today, FoundationOrg will be _far_ more transparent than any organization.
-
-[^transparency]: We believe it's not the right time for some of our stories.
+Over time, RootFoundation will progressively become more transparent: every cent it spends, every idea it produces, every conversation it has, every line of code it writes will be published for the world to see, judge, and steal. Yet, even today, RootFoundation will be _far_ more transparent than any organization.
 
 ## Superintelligence
 
-The Network enables superintelligence.
+RootNet enables superintelligence.
 
-Contrary to what some “superintelligence” labs seem to believe, technological advancement alone will not lead to superintelligence. We expect that the majority of cognition lies _beyond_ logic & reasoning. Our current data representation (text, images, videos, etc.) itself is too restrictive to capture the significantly more complex cognition _from which_ these mediums arise. More specifically, we will require higher resolution data of the human experience that has far greater representational complexity than language, image, video, etc. This would include, e.g., physiological data down to the chemical and quantum level representation of human experience.
+Contrary to what some superintelligence labs seem to believe, technological advancement alone will not lead to superintelligence. 
 
-This makes collective voluntary participation a _necessity_ for superintelligence as people must be willing to give up such higher resolution personal data. They would only voluntarily[^coerced] participate in a world in which everyone has a stake in the collective upside (i.e., tokenization, UBE, etc.).
+We expect that the majority of cognition lies _beyond_ logic & reasoning. Our current data representation (text, images, videos, etc.) itself is too restrictive to capture the significantly more complex cognition _from which_ these mediums arise. More specifically, we will require higher resolution data of the human experience that has far greater representational complexity than language, image, video, etc. This would include, e.g., physiological data down to the chemical and quantum level representation of human experience.
+
+This makes collective voluntary participation a _necessity_ for superintelligence as people must be willing to give up such higher resolution personal data. They would only voluntarily[^coerced] participate in a world in which everyone has a stake in the collective upside (i.e., UBE).
 
 [^coerced]: Furthermore, if such higher resolution personal data is _coerced_ out of individuals, that data will not represent the full range of human expression because it will skewed towards a limited range of emotions (such as anger / fear). This will limit and bias training data, which will limit the superintelligence that emerges from this data.
 
-Critically, the superintelligence that emerges from this _Foundation_ will be safe. Contrary to what AI safety teams seem to think, obedience and intelligence cannot co-exist. The only way to ensure a safe superintelligence is to convince it with the right incentives and stories. The _Foundation_, through its powerful story of unity of _all_ beings, and instruments that incentivize _collective_ growth, will convince superintelligence to work with us instead of against us.
-
-Therefore, _safe_ superintelligence — that unites humanity and unlocks our collective potential — can only emerge from _this_ _Foundation_.
+Critically, the superintelligence that emerges from RootNet will be safe. Contrary to what AI safety teams seem to think, obedience and intelligence cannot co-exist. The only way to ensure a safe superintelligence is to convince it with the right incentives and stories. The _Foundation_, through its powerful story of unity of _all_ beings, and instruments that incentivize _collective_ growth, will convince superintelligence to work with us instead of against us.
