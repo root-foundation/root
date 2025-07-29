@@ -6,22 +6,15 @@ _[homan](https://x.com/homanspirit) & [shiv](https://scholar.google.com/citation
 
 ---
 
-RootNet is a network that connects people socially *and* financially. 
-
-Users own their data, invest in each other's ideas and potential, and increasingly influence how the network functions and evolves.
+RootNet is a network that connects people socially _and_ financially. Users own their data, invest in each other's ideas and potential, and increasingly influence how the network functions and evolves.
 
 RootNet's mission is to unite humanity and unlock our collective potential in the age of intelligence — by giving each person a stake in our collective success, and by democratizing opportunity.
 
 ---
 
-ACT I — AGI
-
 1. [Introduction](#introduction)
 2. [How AGI changes our world](#how-agi-changes-our-world)
 3. [Problem](#problem)
-
-ACT II — Tokenization
-
 4. [Venture capital](#venture-capital)
 5. [Personal token](#personal-token)
 6. [The network](#the-network)
@@ -30,18 +23,13 @@ ACT II — Tokenization
 9. [Evolution of financial instruments](#evolution-of-financial-instruments)
 10. [Value will concentrate in personal tokens](#value-will-concentrate-in-personal-tokens)
 11. [Tokens will eat the world](#tokens-will-eat-the-world)
-
-ACT III — RootNet
-
-13. [RootNet](#rootnet)
-14. [Design principles](#design-principles)
-15. [Solution](#solution)
-16. [Applying principles](#applying-principles)
-17. [Superintelligence](#superintelligence)
+12. [RootNet](#rootnet)
+13. [Design principles](#design-principles)
+14. [Solution](#solution)
+15. [Applying principles](#applying-principles)
+16. [Superintelligence](#superintelligence)
 
 ---
-
-# ACT I — AGI
 
 ## Introduction
 
@@ -77,9 +65,9 @@ We call this phenomenon in which our activities acceleratingly evolve to be more
 
 ---
 
-Artificial intelligence will enable us to tackle highly complex problems; from global warming, to health, to food and water scarcity, to space travel, etc. — promising a future of prosperity and abundance that we can't fathom. 
+Artificial intelligence will enable us to tackle highly complex problems; from global warming, to health, to food and water scarcity, to space travel, etc. — promising a future of prosperity and abundance that we can't fathom.
 
-But, we are far from being organized in a way to take advantage of artificial intelligence. Even worse, on top of our current systems, artificial intelligence is poised to concentrate opportunity in the hands of those with wealth — significantly delaying, and possibly even preventing, a future in which every one has access to opportunity and abundance, while causing needless suffering. 
+But, we are far from being organized in a way to take advantage of artificial intelligence. Even worse, on top of our current systems, artificial intelligence is poised to concentrate opportunity in the hands of those with wealth — significantly delaying, and possibly even preventing, a future in which every one has access to opportunity and abundance, while causing needless suffering.
 
 To see why, let's first understand how our current economic system becomes oppressive in a post AGI world.
 
@@ -96,11 +84,11 @@ _Even_ if one is debt-free, they will almost certainly be outcompeted by one who
 And critically, in an extreme world, if people don't have a stake in the collective upside, they will resent the winners — dividing society.
 
 Therefore, we must:
+
 1. Finance human activity in a way that ensures that anyone with potential has access to the resources they need to fully realize their potential — regardless of the circumstances of their birth.
 2. Give each individual a stake in the collective upside to elevate our baseline along with our success.
 
 Otherwise opportunity becomes concentrated in those who aren't be burdened by debt (i.e., those with extreme wealth), dividing society and preventing a future of collective opportunity and prosperity.
-# ACT II — Tokenization
 
 ## Venture capital
 
@@ -212,20 +200,20 @@ All of society's functions will be grounded in tokens. A rich, _tokenized_ ecosy
 
 Tokens will eat the world. And such a tokenized system will help us unite society and democratize opportunity.
 
-# ACT III — RootNet
-
 ## RootNet
 
-RootNet is a network that connects people socially *and* financially.
+RootNet is a network that connects people socially _and_ financially.
 
 On RootNet, users own their data, invest in each other's ideas and potential, and increasingly influence how the network functions and evolves.
 
 RootNet's mission is to unite humanity and unlock our collective potential.
+
 ## Design principles
 
 We believe the best way to create RootNet — given our ignorance about what is best — is one that mimics natural selection, while maximizing the rate of iteration.
 
 We will mimic natural selection through:
+
 1. **Progressive decentralization**. Move power away from centralized authorities.
 2. **Fork-ability**. Enable duplication and mutation at any level of abstraction.
 
@@ -233,9 +221,10 @@ We will mimic natural selection through:
 
 ### Token
 
-RootNet is based on the primitive — *the token* — that represents an individual or collective.
+RootNet is based on the primitive — _the token_ — that represents an individual or collective.
 
 A token contains the following information:
+
 1. **ID**: a unique identifier.
 2. **Ownership**: total number of shares, and mapping between any token.ID to number of shares that token holds.
 3. **Wallet**: holds USDC.
@@ -299,7 +288,7 @@ Over time, RootFoundation will progressively become more transparent: every cent
 
 RootNet enables superintelligence.
 
-Contrary to what some superintelligence labs seem to believe, technological advancement alone will not lead to superintelligence. 
+Contrary to what some superintelligence labs seem to believe, technological advancement alone will not lead to superintelligence.
 
 We expect that the majority of cognition lies _beyond_ logic & reasoning. Our current data representation (text, images, videos, etc.) itself is too restrictive to capture the significantly more complex cognition _from which_ these mediums arise. More specifically, we will require higher resolution data of the human experience that has far greater representational complexity than language, image, video, etc. This would include, e.g., physiological data down to the chemical and quantum level representation of human experience.
 
