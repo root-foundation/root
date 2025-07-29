@@ -10,7 +10,7 @@ RootNet is a network that connects people socially _and_ financially. Users own 
 
 RootNet's mission is to unite humanity and unlock our collective potential in the age of intelligence — by giving each person a stake in our collective success, and by democratizing opportunity.
 
-In this essay we explore why we will _need_ RootNet to unite humanity in a post AGI world, our vision of the future, and how we will build it.
+In this essay we explore why we will _need_ RootNet to organize humanity to take advantage of artificial intelligence, our vision of the future, and how we will build it.
 
 ---
 
@@ -37,13 +37,13 @@ In this essay we explore why we will _need_ RootNet to unite humanity in a post 
 
 Artificial intelligence promises a future of abundance and prosperity in which each individual has unimaginable power to realize their dreams.
 
-But, we're far from _organizing_ ourselves in a way that enables us to take advantage of artificial intelligence to achieve prosperity. On top of our current economic system, artificial intelligence is poised to concentrate opportunity and divide society.
+But, we're far from _organizing_ ourselves in a way that enables us to take advantage of artificial intelligence to achieve prosperity. On top of our current economic and governance systems, artificial intelligence is poised to concentrate opportunity and divide society.
 
 To see why, we must first understand how artificial intelligence will change our world.
 
 ## How AGI will change our world
 
-By Artificial _General_ Intelligence (AGI) we mean an intelligence that can generally _reason_ across any task as well as any human. And that this intelligence also sufficiently _embodied_ such that it is capable of doing most physical tasks that humans do today (e.g. agriculture, assembly, delivery, etc.). We believe we will achieve AGI sooner than expected, and that such AGI will amplify human potential, _not_ replace the need for humans.
+By Artificial _General_ Intelligence (AGI) we mean an intelligence that can generally _reason_ across any task as well as a human. And that this intelligence also sufficiently _embodied_ such that it is capable of doing most physical tasks that humans do today (e.g. in agriculture, assembly, delivery, etc.). We believe we will achieve AGI sooner than expected, and that such AGI will amplify human potential, _not_ replace the need for humans.
 
 As artificial intelligence advances, our activities will _acceleratingly_ evolve to become more **_complex_** (i.e., more possibilities within them) and more **_alike_** (i.e., being great at one will increasingly translate to being great at all).
 
@@ -108,7 +108,7 @@ We need a new _financial instrument_ that democratizes venture capital.
 
 ## Personal token
 
-We are creating the _personal token_: a financial instrument that represents an individual's potential, with transact-able shares. Individuals can raise venture capital by selling equity in their personal token.
+To democratize access to venture capital, we are creating the _personal token_: a financial instrument that represents an individual's potential, with transact-able shares. Individuals can raise venture capital by selling equity in their personal token.
 
 <img src="foundation/assets/personal-token-preview.png" width="500" />
 
@@ -116,9 +116,7 @@ We are creating the _personal token_: a financial instrument that represents an 
 
 Your personal token's value is grounded in your equities in companies and other personal tokens. A portion of the capital you gain when selling equity in a company or personal token is sent to your personal token shareholders — proportional to the equity they hold (i.e. dividends).
 
-Unlike company shareholders, personal token shareholders have _no_ “ownership", control or say over the personal token owner or anything they do.
-
-**The owner of the personal token retains absolute, complete agency and control**.
+Unlike company shareholders, personal token shareholders have _no_ “ownership", control or say over the personal token owner or anything they do. **The personal token owner retains absolute, complete agency and control over their lives**.
 
 ## The network
 
@@ -144,19 +142,19 @@ Thus, personal tokens, and the market forces they create, will increasingly nega
 
 In an extreme world with a falling median outcome, a sufficient baseline of resources for each individual is a prerequisite to democratizing opportunity.
 
-This is best achieved through _Universal Basic Equity (UBE)_: every citizen receives an _equity stake_ in the collective upside — a stake in the NetworkToken.[^children]
+This is best achieved through _Universal Basic Equity (UBE)_: every citizen receives an _equity stake_ in the collective upside — i.e., a stake in the NetworkToken.[^children]
 
 [^children]: UBE also incentivizes having children. When a baby is born, new shares in the NetworkToken is minted for that baby, thus diluting the value everyone else’s shares. Thus, families will be incentivized to have more children to increase their collective equity in the NetworkToken.
 
-In addition to providing a strong baseline, UBE also creates a symbiotic relationship between the individual and the collective. When value is created anywhere, in any form, everyone immediately benefits because the value of everyone’s equity in the collective upside will increase (i.e., value of the NetworkToken rises). UBE will enable social cohesion.
+In addition to providing a strong baseline, UBE also creates a symbiotic relationship between the individual and the collective. When value is created anywhere, in any form, everyone immediately benefits because the value of everyone’s equity in the collective upside will increase (i.e., value of the NetworkToken rises). UBE incentivizes us to root for each other to win.
 
-Critically, Universal basic _income_ (UBI) will _not_ work on its own because it will cause difficult-to-manage inflation (because capital pumped into the market). On the other hand, Universal basic _equity_ (UBE) will not cause inflation due to the _strong_ incentive to hold your equity in the NetworkToken given the promise of great upside (i.e., belief that humanity will create _even_ more value in the future). If needed, in addition to UBE, UBI can also be offered by siphoning some of the dividends the NetworkToken accrues to its shareholders.
+Critically, Universal basic _income_ (UBI) will _not_ work on its own because it will cause difficult-to-manage inflation (because capital pumped into the market). Universal basic _equity_ (UBE) will not cause inflation due to the _strong_ incentive to hold your equity in the NetworkToken given the promise of great upside (i.e., belief that humanity will create _even_ more value in the future). 
 
-As long as we have faith in humanity, more people will hold than sell.
+As long as we have faith in humanity's potential, more people will hold than sell, preventing inflation.
 
-This system ensures that every one of descendants will enjoy a level of abundance that we can't fathom. Artificial intelligence and economies of scale will bring the price of all important goods down, while UBE will increase the wealth in each individual's hands without inflation. Furthermore, as your shares in the NetworkToken accumulate, you gain a safety net to take bold risks. Even if you sell all of your equity today to take a bold risk, future UBE share allocations will more than enable you to live a healthy life. Ushering prosperity.
+> Note: if needed, in addition to UBE, UBI can also be offered by siphoning some of the dividends the NetworkToken accrues to its shareholders, or by having the NetworkToken periodically sell a percentage of its stakes in every person, triggering dividends for all holders of the NetworkToken. The details of this functionality can be voted on by users.
 
-Personal tokens are the first step towards a new tokenized economic system.
+UBE ensures that every one of descendants will enjoy a level of abundance that we can't fathom. Artificial intelligence and economies of scale will bring the price of all important goods down, while UBE will increase the wealth in each individual's hands without inflation. Furthermore, as your shares in the NetworkToken accumulate, you gain a safety net to take bold risks. Even if you sell all of your equity in the NetworkToken to take a bold risk, UBE share allocations (which will eventually be a continuously flowing allocation) will more than enable you to live a healthy life.
 
 ## Money -> Company -> Personal token
 
@@ -200,7 +198,9 @@ In an extreme, post AGI world, the outcomes of nations too will be extreme. The 
 
 All of society's functions will be grounded in tokens. A rich, _tokenized_ ecosystem of investing in tokens of _all_ kinds — personal tokens, ai tokens, company tokens, country tokens (e.g., "USAToken"), etc. — will emerge to enable venture capital to finance _anything_ that we do.
 
-Tokens will eat the world. And such a tokenized system will help us unite society and democratize opportunity.
+Tokens will eat the world. And such a tokenized system, through UBE and the marketplace for potential, will help us unite society and democratize opportunity.
+
+Let's explore how to build such a system.
 
 ## RootNet
 
