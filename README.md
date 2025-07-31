@@ -58,10 +58,10 @@ If a sub-activity is simple enough to do it, Bob just does it. If it's too compl
 
 For Bob, the activity of driving a car is represented as a *recursive tree with falling complexity*: i.e., parent activities are more complex than sub-activities. We can think of [complexity](https://en.wikipedia.org/wiki/Game_complexity) as the number of possibilities (or *moves*) within an activity.
 
-(todo: notion of root and leaves and of breaking things down further and further as a consequence of limitations).
-- And *skill* in an activity is either: 
-1. determining the sub-activities to break it into and prioritizing.
-2. just doing it (activity doesn't need to be broken down further).
+(todo:)
+- leaf is what you can tackle.
+- root is what you want to tackle.
+- this difference in what you want to tackle vs. what you can tackle is what causes the tree.
 
 ### Complexity
 
@@ -103,6 +103,8 @@ We break an activity into sub-activities when we can't tackle it as a whole. Thi
 
 ### Similarity
 
+- (todo: start with the *breaking* more and thus creating greater *differences* as the primitive upon which we build the intuition for similarity).
+
 Another important observation in this activity tree is that activities of a similar complexity are more *similar* the closer they are to their common ancestor. 
 
 For example, "Build product" and "Distribute" are more similar than their respective leaves of their sub-trees: "Design component in Figma" vs. "Set up a sales pipeline in Salesforce". The high level reasoning and intuition required to effectively break down "Build product" and "Distribute" into sub-activities and correctly prioritize them is more *similar* than the domain specific knowledge you need to operate two different tools.
@@ -115,21 +117,19 @@ We can think of AGI as a advancement that *eats* activities below a certain comp
 
 In our robotics company example, as AGI advances, it will eat activities lower in the tree: starting at the leaves (e.g., "Design component in Figma", "Write a specific algorithm", etc.) and work upwards.
 
-As this happens, we change the way we break activities into sub-activities. And, we start to see activities that are now enabled that we previously couldn't do. For example, In our company, a new activity (and role) could be managing AI agents to the lower complexity work we previously had to do yourself.
+As this happens, we change the way we break activities into sub-activities — i.e., changing our tree. Therefore, we can also see new sub-activities that have been enabled (that we previously couldn't do). For example, In our company, a new activity (and role) could be managing AI agents that will do to the lower complexity work that we previously did ourselves.
 
-As AGI continues to advance, it will *converge* our activities (and thus our attention) towards our *root*. As we saw earlier, activities become more complex *and* more similar the higher up you go. Therefore, AGI will *converge* our activities towards a highly complex, *singular* activity.
+Thus, As AGI continues to push us upwards, it will *converge* our activities (and thus our attention) towards our *root*. As we saw earlier, activities become more complex *and* more similar the higher up you go.
+
+**Therefore, AGI will *converge* our activities towards a highly complex, *singular* activity.**
 
 ### Local vs. global convergence
 
-Our activity (creating an agriculture robotics company) is a sub-activity within a much larger *global* activity tree: i.e, that contains all of humanity's activities. This means that there exist activities higher in the global tree for which our local activity is just a possible sub-activity for. I.e., there exists activities higher in the global tree that contain *all* the possibilities of our activity *and* many many more.
+Our activity (creating an agriculture robotics company) is a sub-activity within a larger activity tree that is rooted in creating *general* robotics company which contains all the possibilities of our agriculture robotics company along with many many more possibilities. And this larger activity tree itself is a part of a much larger *global* activity tree: i.e, one that contains all of humanity's activities.
 
 While convergence happens locally: towards the root of our company, it also happens globally. AGI enables greater (and faster) progress higher above the tree. This means that progress in a more complex activity higher in the tree *will make our entire activity irrelevant* in the same way that AGI *made our local leaves irrelevant*.
 
-For example, AGI accelerates the rate of progress of a more *general* robotics company that will be able to do all of the things our agriculture specific robotics company can do, and much much more. 
-
-Eventually, there will be no distinction between local and global. We will no longer start companies that are not that complex because we know that it will be eaten from *above* very quickly.
-
-From this model of how AGI changes our activities, we can predict what a post AGI world will look like.
+From this model of how AGI impacts our activities, we can predict what a post AGI world will look like.
 
 ### Predictions
 
@@ -151,7 +151,7 @@ Since complexity grows superexponentially as we go up the tree, so will the peak
 
 ### 2. Competition grows at least exponentially.
 
-(todo: similarity increases as you go up the tree).
+We have already seen that activities become more similar the higher up we go. Since ability transfers more easily across them, so does competition.
 
 Furthermore, due to better training and resources, there will be many more people capable of competing at more complex activities, amplifying competition further.
 
@@ -159,12 +159,14 @@ Furthermore, due to better training and resources, there will be many more peopl
 
 Within *any* activity, at any moment, a _smaller_ percentage of individuals will be responsible for a _greater_ share of economic value created — i.e., a *[power law distribution of outcomes](https://en.wikipedia.org/wiki/Power_law)*. Thus, the median *share* falls.
 
-Extreme outcomes emerges as a byproduct of: 
-1. complexity of an activity.
-2. competition (quantity and quality).
-3. leverage (how fast you can make a move).
+Outcomes become more extreme as the following increase: 
+1. Complexity of an activity.
+2. Competition (quantity and quality).
+3. Leverage (how fast you can make a move).
 
-We can observe this relationship in popular games such as Chess and Go. Go has more extreme outcomes than Chess because it is more [complex](https://en.wikipedia.org/wiki/Game_complexity) — i.e., has more possible states or possibilities). As competition has improved (more players, better computer assisted training, coaching, etc.) over the years, outcomes have become *even more* extreme (i.e., ELO spread has increased). 
+We observe this relationship between extreme outcomes and complexity in popular games such as Chess and Go. Go has more extreme outcomes than Chess because it is more [complex](https://en.wikipedia.org/wiki/Game_complexity) — i.e., has more possible states or possibilities).
+
+As competition has improved (more players, better computer assisted training, coaching, etc.) over the years, outcomes have become *even more* extreme (i.e., ELO spread has increased). 
 
 Leverage also matters because the faster you can make a move, the more quickly the underlying extreme outcomes manifest. For example, when two competing startup founders can iterate twice as fast, the difference in their outcomes accelerates — the better one will more quickly outcompete the other.
 
@@ -178,11 +180,20 @@ Extreme outcomes aren't new. Complex activities like building startups and creat
 
 ### 4. Number of economically viable activities grows superexponentially.
 
-As we saw in our examples above, the number of sub-activities you can break an activity into is proportional to the complexity of the activity. Since complexity grows superexponentially the higher up in the activity tree we go, the number of viable activities too grows superexponentially.
+**All of humanity's activities until now aren't even a drop of water in the ocean of activities that will emerge.**
 
-All of humanity's activities until now aren't even a drop of water in the ocean of activities that will emerge.
+All of the activities we see in our world are sub-activities for some highly complex root activity that we may not even be able to see right now.
 
+The number of activities that we conceive will be proportional to ratio of: the complexity of the highest complexity activity we can see (i.e., "root"), and the complexity that we can tackle directly without breaking into sub-activities. Since the complexity of activities grows superexponentially the higher up we go, this ratio will always increase. This ratio will likely increase at least exponentially.
 ### 5. Rate of displacement of winners accelerates.
+
+1. Advantage itself shrinks.
+2. Success becomes a drag because learnings don't translate (and increasingly create wrong intuitions about the higher complexity activity).
+3. Pool of competition widens exponentially. Increasingly you will be made irrelevant from places you least expect.
+
+
+The jump in complexity from an activity to a parent grows superexponentially the higher up we go. This jump quickly becomes so massive, that winning in a lower complexity sub-activity isn't really a "head start" in tackling this new higher complexity activity - relative to someone who is starting at 0.
+
 
 Winners remaining winners becomes exponentially more difficult. *Churn* accelerates.
 
@@ -225,6 +236,8 @@ Even though the distribution of outcomes will be far more extreme, since the pea
 ### AGI will expand humanity's horizon
 
 A post AGI world will be dynamic. The reign of winners will be increasingly short-lived. We will see rapid advancement across the board. AGI will push humanity to dream bigger and work on more and more complex problems. Problems we consider too complex to solve now will seem like simple tasks to our descendants. Thus, advancing and leveraging AGI will enable us to achieve a degree prosperity and abundance that we can't fathom.
+
+(Bet on humanity: *we can always see more than what we can do*).
 
 But, we are *not* organized in a way that enables us to take advantage of artificial intelligence. In fact, AGI makes our current systems oppressive — concentrating opportunity in the hands of those who are wealthy, and devastating those without means. To understand why, let's study how our current economic system becomes oppressive in a post AGI world.
 
