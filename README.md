@@ -1,6 +1,4 @@
-# RootNet
-
-_v0.1_
+# Root
 
 _[homan](https://x.com/homanspirit) & [shiv](https://scholar.google.com/citations?user=WNUGEccAAAAJ&hl=en)_
 
@@ -14,69 +12,84 @@ In this essay we explore why we will _need_ RootNet to organize humanity to take
 
 ---
 
-1. [Introduction](#introduction)
-2. [How AGI will change our world](#how-agi-will-change-our-world)
-3. [Problem](#problem)
-4. [Venture capital](#venture-capital)
-5. [Personal token](#personal-token)
-6. [Money → Company → Personal Token](#money---company---personal-token)
-7. [Value will be concentrated in personal tokens](#value-will-be-concentrated-in-personal-tokens)
-8. [Personal tokens will democratize opportunity](#personal-tokens-will-democratize-opportunity)
-9. [The network](#the-network)
-10. [Universal Basic Equity (UBE)](#universal-basic-equity-ube)
-11. [Tokens will eat the world](#tokens-will-eat-the-world)
-12. [Imbalance](#imbalance)
-13. [RootNet](#rootnet)
-14. [Design principles](#design-principles)
-15. [Solution](#solution)
-16. [Applying principles](#applying-principles)
-17. [Legal grounding](#legal-grounding)
-18. [Superintelligence](#superintelligence)
-19. [Closing](#closing)
-
----
-
-## Introduction
-
 Artificial intelligence promises a future of abundance and prosperity in which each individual has unimaginable power to realize their dreams.
 
 But, we're far from _organizing_ ourselves in a way that enables us to take advantage of artificial intelligence to achieve prosperity. In fact, on top of our current economic and governance systems, artificial intelligence is poised to concentrate opportunity and divide society.
 
 To see why, we must first understand how artificial intelligence will change our world.
 
-## How AGI will change our world
+---
 
-When we ask how AGI will change our world, what we're really asking is how it changes the nature of our *activities*: what will we will find valuable to work on, and how we work on them.
+A. How AI will change our world
+1. [Activity](#activity)
+2. [Complexity of an activity](#complexity-of-an-activity)
+3. [Example: creating a company](#example-creating-a-company)
+4. [Similarity between activities](#similarity-between-activities)
+5. [AGI eats activities and enables new ones.](#agi-eats-activities-and-enables-new-ones)
+6. [Local vs. global convergence](#local-vs-global-convergence)
+7. [Predictions](#predictions)
+8. [Peak outcome grows superexponentially](#1-peak-outcome-grows-superexponentially)
+9. [Competition grows at least exponentially](#2-competition-grows-at-least-exponentially)
+10. [Outcomes superexponentially become more extreme across the board](#3-outcomes-superexponentially-become-more-extreme-across-the-board)
+11. [Number of economically viable activities grows superexponentially.](#4-number-of-economically-viable-activities-grows-superexponentially)
+12. [Rate of displacement of winners accelerates.](#5-rate-of-displacement-of-winners-accelerates)
+13. [Absolute number of winners grows at least exponentially.](#6-absolute-number-of-winners-grows-at-least-exponentially)
+14. [AGI will expand humanity's horizon](#agi-will-expand-humanitys-horizon)
 
-### Activity
+B. Unlocking our potential
+15. [Problem](#problem)
+16. [Venture capital](#venture-capital)
+17. [Personal token](#personal-token)
+18. [Money → Company → Personal Token](#money---company---personal-token)
+19. [Value will be concentrated in personal tokens](#value-will-be-concentrated-in-personal-tokens)
+20. [Personal tokens will democratize opportunity](#personal-tokens-will-democratize-opportunity)
+21. [The network](#the-network)
+22. [Universal Basic Equity (UBE)](#universal-basic-equity-ube)
+23. [Tokens will eat the world](#tokens-will-eat-the-world)
+24. [Imbalance](#imbalance)
+25. [RootNet](#rootnet)
+26. [Design principles](#design-principles)
+27. [Solution](#solution)
+28. [Applying principles](#applying-principles)
+29. [Legal grounding](#legal-grounding)
+30. [Superintelligence](#superintelligence)
 
-Let's start with understanding the nature of an activity itself through an example: drive a car.
+---
 
-Bob is a beginner driver who breaks down the activity of driving a car into *sub-activities*: turn it on, steer, accelerate, change gear, check the mirror, etc.
+# A. How AI will change our world
 
-If a sub-activity is simple enough to do it, Bob just does it. If it's too complex, Bob breaks that sub-activity down further into more sub-activities. For example, Bob breaks "change gear" down into remembering the gear pattern, pressing the clutch, etc.
+When we ask how AI will change our world, what we're really asking is how it changes the nature of our _activities_: what will we will find valuable to work on, and how we work on them.
 
-For Bob, the activity of driving a car is represented as a *recursive tree with falling complexity*: i.e., parent activities are more complex than sub-activities. We can think of [complexity](https://en.wikipedia.org/wiki/Game_complexity) as the number of possibilities (or *moves*) within an activity.
+## Activity
 
-A *leaf* activity (at the bottom) has a complexity that *can* be tackled without breaking down into more sub-activities. The root is the activity you *want* to tackle. And importantly, this *difference* between the complexity of the activity you *want* to tackle and the complexity of what you *can* tackle (without breaking down further) is what *causes* the tree to be constructed.
+Let's start with understanding the nature of an activity itself through an example: "drive car".
 
-### Complexity
+Bob is a beginner driver who breaks down the activity of driving a car into _sub-activities_: turn it on, steer, accelerate, change gear, check the mirror, etc.
 
-At first glance, it's tempting to consider the complexity of the parent activity just the *sum* of complexities of its sub-activities. This feels natural because of course the parent activity contains the moves of the sub-activities, otherwise sub-activities wouldn't be *sub* activities.
+If a sub-activity is simple enough to do it, Bob just does it. If it's too complex, Bob breaks that sub-activity down further into more sub-activities. For example, Bob breaks "change gear" down into remembering the gear pattern, pressing down the clutch, moving the gear handle etc.
 
-But, in reality, we see that the parent activity actually contains many moves that *can't* be categorized neatly into these sub-activities. 
+For Bob, the activity of driving a car is represented as a _recursive tree with falling complexity_: i.e., parent activities are more complex than sub-activities. We can think of [complexity](https://en.wikipedia.org/wiki/Game_complexity) as the number of possibilities (or _moves_) within an activity.
+
+A _leaf_ activity (at the bottom) has a complexity that _can_ be tackled without breaking down into more sub-activities. The root is the activity you _want_ to tackle. And importantly, this _difference_ between the complexity of the activity you _want_ to tackle and the complexity of what you _can_ tackle (without breaking down further) is what _causes_ the tree to be constructed.
+
+## Complexity of an activity
+
+At first glance, it's tempting to consider the complexity of the parent activity just the _sum_ of complexities of its sub-activities. This feels natural because of course the parent activity contains the moves of the sub-activities, otherwise sub-activities wouldn't be _sub_ activities.
+
+But, in reality, we see that the parent activity actually contains many moves that _can't_ be categorized neatly into these sub-activities.
 
 For example, when Alice, an expert driver, drives a car, she fluidly makes many moves that don't treat those moves as separate sub-activities. For example, she may glance at the mirror while changing gears while turning the steering wheel while skipping to the next song in her music player. Alice has no need to break the activity of driving a car into sub-activities because she can handle its complexity.
 
-We can also see this in the context of startups: a great founder makes moves that can't neatly be categorized into product, design, engineering, brand, marketing, etc. Their moves exist in a fluid *space* that contains exponentially more possibilities than the possibilities in any sub-activity.
+We can also see this in the context of startups: a great founder makes moves that can't neatly be categorized into product, design, engineering, brand, marketing, etc. Their moves exist in a fluid _space_ that contains exponentially more possibilities than the possibilities in any sub-activity.
 
-This means that each activity is *exponentially* more complex than its sub-activities, so complexity increases *superexponentially* as we climb the tree. In other words, the space of possible moves doesn’t just grow as we go up the tree, it *accelerates*.
+This means that each activity is _exponentially_ more complex than its sub-activities, so complexity increases _superexponentially_ as we climb the tree. In other words, the space of possible moves doesn’t just grow as we go up the tree, it _accelerates_.
 
-### Example: creating a company
+## Example: creating a company
 
-To reason about how AGI will impact our activities, let's take a more relevant example: creating a company that wants to automate agriculture with robots.
+Now let's take a more relevant example: creating a company that wants to, say, automate agriculture with robots.
 
-This root activity is broken into *sub-activities*:
+This root activity is broken into _sub-activities_:
+
 1. Build product
 2. Distribute
 3. Raise money
@@ -84,47 +97,50 @@ This root activity is broken into *sub-activities*:
 5. ... etc.
 
 And these sub-activities are broken down even further. Build product may have the following sub-activities:
+
 1. Craft spec
 2. Design robot
 3. Engineer prototype
 4. ... etc.
 
-This process of breaking down goes on until *leaves* such as:
+This process of breaking down goes on until _leaves_ such as:
+
 1. Write a specific algorithm.
 2. Design component in Figma.
 3. ... etc.
 
-We break an activity into sub-activities when we can't tackle it as a whole. This can happen because we lack skill to perform it as a whole as we saw with how a beginner driver can't just "drive". We may also be forced to break an activity into sub-activities due to lack of tools. For example, a great filmmaker who already knows what they want to create may still have to break it down into sub-activities to *implement* it: e.g., animation, etc. because they lack the tools or resources to abstract that sub-activity away.
+We break an activity into sub-activities when we can't tackle it as a whole. This can happen because we lack skill to perform it as a whole as we saw with how a beginner driver can't just "drive". We may also be forced to break an activity into sub-activities due to lack of tools. For example, a great filmmaker who already knows what they want to create may still have to break it down into sub-activities to _implement_ it: e.g., animation, etc. because they lack the tools or resources to abstract that sub-activity away.
 
-### Similarity
+## Similarity between activities
 
-The lower you go in the tree, the more we have broken the root activity further and further. Each *break* creates a separation or difference. This means the further down we go, the more the differences compound — i.e., the further away activities are from their common ancestor, the more different they become.
+The lower you go in the tree, the more we have broken the root activity further and further. Each _break_ creates a separation or difference. This means the further down we go, the more the differences compound — i.e., the further away activities are from their common ancestor, the more different they become.
 
 Which is why when we compare two activities further down in our tree, we will find that they are less similar — i.e., ability transfers less easily across them. The higher up we go, ability transfers more easily between activities because they are closer to their common ancestor (i.e., shorter tree path).
 
-In our example above, "Build product" and "Distribute" are more similar than their respective leaves of their sub-trees: "Design component in Figma" vs. "Set up a sales pipeline in Salesforce". The high level reasoning and intuition required to effectively break down "Build product" and "Distribute" into sub-activities and correctly prioritize them is more *similar* than the domain specific knowledge you need to operate two different tools.
+In our example above, "Build product" and "Distribute" are more similar than their respective leaves of their sub-trees: "Design component in Figma" vs. "Set up a sales pipeline in Salesforce". The high level reasoning and intuition required to effectively break down "Build product" and "Distribute" into sub-activities and correctly prioritize them is more _similar_ than the domain specific knowledge you need to operate two different tools.
 
-### AGI eats activities and enables new ones.
+## AGI eats activities and enables new ones.
 
-We can think of AGI as a advancement that *eats* activities below a certain complexity threshold — *across the board*. In other words, AGI will eat low complexity activities in *any* domain: design, product, music, art, engineering, law, etc. It distinguishes by *complexity*, not "domain" or any other form of distinctions that we've created between different kinds of work.
+We can think of AGI as a advancement that _eats_ activities below a certain complexity threshold — *across the board*. In other words, AGI will eat low complexity activities in _any_ domain: design, product, music, art, engineering, law, etc. It distinguishes by _complexity_, not "domain" or any other form of distinctions that we've created between different kinds of work.
 
 In our example, as AGI advances, it will eat activities lower in the tree: starting at the leaves (e.g., "Design component in Figma", "Write a specific algorithm", etc.) and work upwards.
 
 As this happens, we change the way we break activities into sub-activities — i.e., changing our tree. Therefore, we can also see new sub-activities that have been enabled (that we previously couldn't do). For example, In our company, a new activity (and role) could be managing AI agents that will do to the lower complexity work that we previously had to do ourselves using domain specific tools.
 
-**Thus, As AGI continues to push us upwards, it will *converge* our activities (and thus our attention) towards our *root* — a *highly complex*, *singular* activity.**
+**Thus, As AGI continues to push us upwards, it will _converge_ our activities (and thus our attention) towards our _root_ — a _highly complex_, _singular_ activity.**
 
-### Local vs. global convergence
+## Local vs. global convergence
 
-Our activity (creating an agriculture robotics company) is a sub-activity within a larger activity tree that is rooted in creating *general* robotics company which contains all the possibilities of our agriculture robotics company along with many many more possibilities. And this larger activity tree itself is a part of a much larger *global* activity tree: i.e, one that contains all of humanity's activities.
+Our activity (creating an agriculture robotics company) is a sub-activity within a larger activity tree that is rooted in creating _general_ robotics company which contains all the possibilities of our agriculture robotics company along with many many more possibilities. And this larger activity tree itself is a part of a much larger _global_ activity tree: i.e, one that contains all of humanity's activities.
 
-While convergence happens locally: towards the root of our company, it also happens globally. AGI enables greater (and faster) progress higher above the tree. This means that progress in a more complex activity higher in the tree *will make our entire activity irrelevant* in the same way that AGI *made our local leaves irrelevant*.
+While convergence happens locally: towards the root of our company, it also happens globally. AGI enables greater (and faster) progress higher above the tree. This means that progress in a more complex activity higher in the tree _will make our entire activity irrelevant_ in the same way that AGI _made our local leaves irrelevant_.
 
-From this model of how AGI impacts our activities, we can predict what a post AGI world will look like.
+From this understanding of how AGI impacts our activities, we can predict what a post AGI world will look like.
 
-### Predictions
+## Predictions
 
 As artificial intelligence advances towards and beyond AGI:
+
 1. Peak outcome grows superexponentially.
 2. Competition grows at least exponentially.
 3. Outcomes superexponentially become more extreme across the board.
@@ -132,44 +148,46 @@ As artificial intelligence advances towards and beyond AGI:
 5. Rate of displacement of winners accelerates at least exponentially.
 6. Absolute number of winners grows at least exponentially.
 
-### 1. Peak outcome grows superexponentially.
+## 1. Peak outcome grows superexponentially.
 
-We value an activity proportional to the possibilities it enables — i.e., proportional to its *complexity*.
+We value an activity proportional to the possibilities it enables — i.e., proportional to its _complexity_.
 
 Building Youtube is far more valuable than building a niche, genre-specific, video platform because Youtube captures far more possibilities. Similarly, building a general robotics company that can work for many domains is far more valuable than building a domain specific one because it enables far more possibilities.
 
-Since complexity grows superexponentially as we go up the tree, so will the peak value that can be created (i.e., the peak *outcome*).
+Since complexity grows superexponentially as we go up the tree, so will the peak value that can be created (i.e., the peak _outcome_).
 
-### 2. Competition grows at least exponentially.
+## 2. Competition grows at least exponentially.
 
 We have already seen that activities become more similar the higher up we go. Since ability transfers more easily across them, so does competition.
 
 Furthermore, due to better training and resources, there will be many more people capable of competing at more complex activities, amplifying competition further.
 
-### 3. Outcomes superexponentially become more extreme across the board.
+## 3. Outcomes superexponentially become more extreme across the board.
 
-Within *any* activity, at any moment, a _smaller_ percentage of individuals will be responsible for a _greater_ share of economic value created — i.e., a *[power law distribution of outcomes](https://en.wikipedia.org/wiki/Power_law)*. Thus, the median *share* falls.
+Within _any_ activity, at any moment, a _smaller_ percentage of individuals will be responsible for a _greater_ share of economic value created — i.e., a _[power law distribution of outcomes](https://en.wikipedia.org/wiki/Power_law)_. Thus, the median _share_ falls.
 
-Outcomes become more extreme as the following increase: 
+Outcomes become more extreme as the following increase:
+
 1. Complexity of an activity.
 2. Competition (quantity and quality).
 3. Leverage (how fast you can make a move).
 
 We observe this relationship between extreme outcomes and complexity in popular games such as Chess and Go. Go has more extreme outcomes than Chess because it is more [complex](https://en.wikipedia.org/wiki/Game_complexity) — i.e., has more possible states or possibilities).
 
-As competition has improved (more players, better computer assisted training, coaching, etc.) over the years, outcomes have become *even more* extreme (i.e., ELO spread has increased). 
+As competition has improved (more players, better computer assisted training, coaching, etc.) over the years, outcomes have become _even more_ extreme (i.e., ELO spread has increased).
 
 Leverage also matters because the faster you can make a move, the more quickly the underlying extreme outcomes manifest. For example, when two competing startup founders can iterate twice as fast, the difference in their outcomes accelerates — the better one will more quickly outcompete the other.
 
-AGI accelerates all three factors: 
+AGI accelerates all three factors:
+
 1. Complexity increases superexponentially.
 2. Competition increases at least exponentially.
 3. Leverage (AGI capability) has been increasing exponentially.
-Thus, outcomes will acceleratingly become more extreme.
+   Thus, outcomes will acceleratingly become more extreme.
 
-Extreme outcomes aren't new. Complex activities like building startups and creating content have always had extreme outcomes: the best founders and creators generate massive outcomes while the median founders and creators make nothing. **But, for the first time in human history, outcomes will be extreme in *all* activities, not only in a few activities**. This is because AGI eats less complex activities *across the board*, instead of just in a few domains.
+Extreme outcomes aren't new. Complex activities like building startups and creating content have always had extreme outcomes: the best founders and creators generate massive outcomes while the median founders and creators make nothing. **But, for the first time in human history, outcomes will be extreme in _all_ activities, not only in a few activities**. This is because AGI eats less complex activities _across the board_, instead of just in a few domains.
 
-### 4. Number of economically viable activities grows superexponentially.
+## 4. Number of economically viable activities grows superexponentially.
 
 **All of humanity's activities until now aren't even a drop of water in the ocean of activities that will emerge.**
 
@@ -177,20 +195,21 @@ All of the activities we see in our world are sub-activities for some highly com
 
 The number of activities that we conceive will be proportional to ratio of: the complexity of the highest complexity activity we can see (i.e., "root"), and the complexity that we can tackle directly without breaking into sub-activities. Since the complexity of activities grows superexponentially the higher up we go, this ratio will always increase. This ratio will likely increase at least exponentially.
 
-### 5. Rate of displacement of winners accelerates.
+## 5. Rate of displacement of winners accelerates.
 
-Winners remaining winners becomes exponentially more difficult. *Churn* accelerates.
+Winners remaining winners becomes exponentially more difficult. _Churn_ accelerates.
 
 For winners at the current level of complexity, who are aiming to tackle a parent activity (which will be exponentially more complex):
+
 1. Advantage relative to someone just starting off shrinks rapidly. The complexity of the new activity is so massive that the knowledge you gained in the lower complexity activity increasingly becomes an irrelevant advantage relative to someone starting off with no knowledge.
-2. Success becomes a drag because learnings increasingly won't translate to higher complexity activities (and will actually create wrong intuitions). You will increasingly be outcompeted by those who *start* from above.
+2. Success becomes a drag because learnings increasingly won't translate to higher complexity activities (and will actually create wrong intuitions). You will increasingly be outcompeted by those who _start_ from above.
 3. Pool of competition widens exponentially. Increasingly you will be made irrelevant from places you least expect.
 
 At higher complexities, transferring success from an activity to its parent activity is less about scaling what you already know and more about having a fundamental breakthrough.
 
-For example, scaling McDonald's from one city to the world (a previously high complexity activity from a couple of decades ago) is far more straightforward than scaling a robotics company from one domain (agriculture) to a more general robotics company that can handle many domains (an example of *current* high complexity activity). You can reason about how to scale McDonald's to many locations. But you cannot *linearly* reason about how to make a domain specific robot *generally* useful — this requires re-imagining and big breakthroughs.
+For example, scaling McDonald's from one city to the world (a previously high complexity activity from a couple of decades ago) is far more straightforward than scaling a robotics company from one domain (agriculture) to a more general robotics company that can handle many domains (an example of _current_ high complexity activity). You can reason about how to scale McDonald's to many locations. But you cannot _linearly_ reason about how to make a domain specific robot _generally_ useful — this requires re-imagining and big breakthroughs.
 
-Those who will crack the more complex activity that will make current winners obsolete will increasingly have to *start* directly at the higher complexity activity. Success at a lower complexity activity creates unnecessary drag and distraction because the learnings you gain from that traction become less likely to translate into insights in the higher complexity activities above. For example, OpenAI could not have emerged as an evolution of a domain specific AI winner.
+Those who will crack the more complex activity that will make current winners obsolete will increasingly have to _start_ directly at the higher complexity activity. Success at a lower complexity activity creates unnecessary drag and distraction because the learnings you gain from that traction become less likely to translate into insights in the higher complexity activities above. For example, OpenAI could not have emerged as an evolution of a domain specific AI winner.
 
 Furthermore, the higher up in the tree we are at, the more similar our activities become — i.e., the more easily you can transfer ability from one activity to another. This greatly widens the pool of competition.
 
@@ -202,31 +221,31 @@ There will be greater overall quality of competition as quality of training and 
 
 It will be tough to remain a winner when you have no idea where you will be outcompeted from, your pool of competent competitors grows superexponentially, and the prizes for winning grow superexponentially leading to many more competent teams working activities that will make yours irrelevant.
 
-**Therefore, most value will be created by companies that haven't been started, by individuals who haven't been born.** 
+**Therefore, most value will be created by companies that haven't been started, by individuals who haven't been born.**
 
 We are entering a new age of creating value. Successfully tackling highly complex activities requires a very different approach than we're used to. Increasingly, the way the best teams operate will look very weird[^weirdwinner] (and "wrong") to current winners.
 
-[^weirdwinner]: We are entering a new age of creating value. Individuals and teams that will win will operate very differently than they do today. Teams will take years just to discover and frame the right activity to work on before they launch anything because you cannot simply *iterate* upwards from a lower complexity activity. Roles will be distinguished by complexity not "domain". Teams will completely abandon their current products and customers and jump upwards as soon as they see a glimpse of a higher complexity activity. They will simultaneously execute mass layoffs *and* go on hiring frenzies at every jump in AGI. They will be paranoid about advancements in completely unrelated activities that may have a common ancestor with theirs higher up in the tree. Most of our current winners will be blindsided.
+[^weirdwinner]: We are entering a new age of creating value. Individuals and teams that will win will operate very differently than they do today. Teams will take years just to discover and frame the right activity to work on before they launch anything because you cannot simply _iterate_ upwards from a lower complexity activity. Roles will be distinguished by complexity not "domain". Teams will completely abandon their current products and customers and jump upwards as soon as they see a glimpse of a higher complexity activity. They will simultaneously execute mass layoffs _and_ go on hiring frenzies at every jump in AGI. They will be paranoid about advancements in completely unrelated activities that may have a common ancestor with theirs higher up in the tree. Most of our current winners will be blindsided.
 
-### 6. Absolute number of winners grows at least exponentially.
+## 6. Absolute number of winners grows at least exponentially.
 
-Even though the distribution of outcomes will be far more extreme, since the peak outcomes grow exponentially, even _tiny_ wins (relative to the peak wins) will still be *massive*. And since the rate of displacement accelerates, in a given period of time, there will be many more who would have touched the extreme success as well.
+Even though the distribution of outcomes will be far more extreme, since the peak outcomes grow exponentially, even _tiny_ wins (relative to the peak wins) will still be _massive_. And since the rate of displacement accelerates, in a given period of time, there will be many more who would have touched the extreme success as well.
 
----
-
-### AGI will expand humanity's horizon
+## AGI will expand humanity's horizon
 
 A post AGI world will be dynamic. The reign of winners will be increasingly short-lived. We will see rapid advancement across the board. AGI will push humanity to dream bigger and work on more and more complex problems. Problems we consider too complex to solve now will seem like simple tasks to our descendants. Thus, advancing and leveraging AGI will enable us to achieve a degree prosperity and abundance that we can't fathom.
 
-(todo: Bet on humanity: *we can always see more than what we can do*).
+(todo: Bet on humanity: _we can always see more than what we can do_).
 
-But, we are *not* organized in a way that enables us to take advantage of artificial intelligence. In fact, AGI makes our current systems oppressive — concentrating opportunity in the hands of those who are wealthy, and devastating those without means. To understand why, let's study how our current economic system becomes oppressive in a post AGI world.
+But, we are _not_ organized in a way that enables us to take advantage of artificial intelligence. In fact, AGI makes our current systems oppressive — concentrating opportunity in the hands of those who are wealthy, and devastating those without means. To understand why, let's study how our current economic system becomes oppressive in a post AGI world.
+
+# B. Unlocking our potential
 
 ## Problem
 
-In a post AGI world, due to extreme outcomes in *all* activities, debt will no longer be a viable means to finance anything.
+In a post AGI world, due to extreme outcomes in _all_ activities, debt will no longer be a viable means to finance anything.
 
-This is not due to fewer opportunities (AGI will enable far more opportunities than it takes), but rather due to the extreme, winner-take-all nature of outcomes within *any* opportunity. In extreme outcomes, the median outcome falls to nothing and thus financing with debt is no longer viable.
+This is not due to fewer opportunities (AGI will enable far more opportunities than it takes), but rather due to the extreme, winner-take-all nature of outcomes within _any_ opportunity. In extreme outcomes, the median outcome falls to nothing and thus financing with debt is no longer viable.
 
 Tragically, billions are still taking out loans to finance their lives — from their educations, to their homes, businesses, etc. — without realizing that they will almost certainly never be able to repay these loans as outcomes rapidly becomes more extreme.
 
@@ -235,6 +254,7 @@ _Even_ if one is debt-free, they will almost certainly be outcompeted by one who
 And critically, in an extreme world, if people don't have a stake in the collective upside, they will resent the winners — dividing society.
 
 Therefore, we must:
+
 1. Finance human activity in a way that ensures that anyone with potential has access to the resources they need to fully realize their potential — regardless of the circumstances of their birth.
 2. Give each individual a stake in the collective upside to elevate our baseline along with our success.
 
@@ -260,7 +280,7 @@ To democratize access to venture capital, we are creating the _personal token_: 
 
 <img src="foundation/assets/personal-token-preview.png" width="500" />
 
-*(Jane's personal token with her shareholders and her equities in companies and other personal tokens.)*
+_(Jane's personal token with her shareholders and her equities in companies and other personal tokens.)_
 
 Your personal token's value is grounded in your equities in companies and other personal tokens. A portion of the capital you gain when selling equity in a company or personal token is sent to your personal token shareholders — proportional to the equity they hold (i.e. dividends).
 
@@ -288,11 +308,11 @@ Being able to _transact_ shares of equity in personal tokens enables individuals
 
 As we advance, value concentrates _upwards_.
 
-Over time, value became concentrated in companies, not transactions. The most valuable companies have been *increasingly* valued more than the sum of their transactions (revenue).
+Over time, value became concentrated in companies, not transactions. The most valuable companies have been _increasingly_ valued more than the sum of their transactions (revenue).
 
 Similarly, in a post AGI world with extreme outcomes, value will increasingly become concentrated in personal tokens. A personal token will be valued far more than the sum of the values of its equities in companies _(recall: a personal token’s value is grounded in its equities in companies and other personal tokens)_.
 
-With the leverage that artificial intelligence provides, individuals will be able to manifest many more ideas. Therefore, people will increasingly want to invest directly in the *source* of the many valuable ideas (i.e., in personal tokens) instead of specific ideas (i.e., in companies).
+With the leverage that artificial intelligence provides, individuals will be able to manifest many more ideas. Therefore, people will increasingly want to invest directly in the _source_ of the many valuable ideas (i.e., in personal tokens) instead of specific ideas (i.e., in companies).
 
 ## Personal tokens will democratize opportunity
 
@@ -322,7 +342,7 @@ This is best achieved through _Universal Basic Equity (UBE)_: every citizen rece
 
 [^children]: UBE also incentivizes having children. When a baby is born, new shares in the NetworkToken is minted for that baby, thus diluting the value everyone else’s shares. Thus, families will be incentivized to have more children to increase their collective equity in the NetworkToken.
 
-In addition to providing a strong baseline, UBE also creates a symbiotic relationship between the individual and the collective. When value is created anywhere, in any form, everyone *immediately* benefits because the value of everyone’s equity in the collective upside will increase (i.e., value of the NetworkToken rises). UBE incentivizes us to root for each other to win.
+In addition to providing a strong baseline, UBE also creates a symbiotic relationship between the individual and the collective. When value is created anywhere, in any form, everyone _immediately_ benefits because the value of everyone’s equity in the collective upside will increase (i.e., value of the NetworkToken rises). UBE incentivizes us to root for each other to win.
 
 Critically, Universal basic _income_ (UBI) will _not_ work on its own because it will cause difficult-to-manage inflation (because capital pumped into the market). **Universal basic _equity_ (UBE) will not cause inflation** due to the _strong_ incentive to hold your equity in the NetworkToken given the promise of great upside (i.e., belief that humanity will create _even_ more value in the future).
 
@@ -330,7 +350,7 @@ As long as we have faith in humanity's potential, more people will hold than sel
 
 > Note: if needed, in addition to UBE, UBI can also be offered by siphoning some of the dividends the NetworkToken accrues to its shareholders, or by having the NetworkToken periodically sell a percentage of its stakes in every person, triggering dividends for all holders of the NetworkToken. The details of this functionality can be voted on by users.
 
-**UBE eliminates the lag between individual and collective success**. Waiting to *tax* success to distribute wealth doesn't work because we have to wait for equity to be sold (i.e., so that capital *gains* can be taxed). When each individual directly holds equity in the collective, the value of their equity goes up as soon as hope in the future increases. Any major scientific discovery, breakthrough, artistic expression that instills hope, etc. will lead to your equity in the collective rising. And importantly, this equity in the collective is grounded in reality: in the actual revenue generated at the end of the day.
+**UBE eliminates the lag between individual and collective success**. Waiting to _tax_ success to distribute wealth doesn't work because we have to wait for equity to be sold (i.e., so that capital _gains_ can be taxed). When each individual directly holds equity in the collective, the value of their equity goes up as soon as hope in the future increases. Any major scientific discovery, breakthrough, artistic expression that instills hope, etc. will lead to your equity in the collective rising. And importantly, this equity in the collective is grounded in reality: in the actual revenue generated at the end of the day.
 
 UBE ensures that every one of descendants will enjoy a level of abundance that we can't fathom. Artificial intelligence and economies of scale will bring the price of all important goods down, while UBE will increase the wealth in each individual's hands without inflation. Furthermore, as your shares in the NetworkToken accumulate, you gain a safety net to take bold risks. Even if you sell all of your equity in the NetworkToken to take a bold risk, UBE share allocations (which will eventually be a continuously flowing allocation) will more than enable you to live a healthy life.
 
@@ -342,7 +362,7 @@ Yet, for early adopters, engaging with personal tokens will come naturally as pe
 
 Then, personal tokens will rewrite our entire education system by enabling a better business model: instead of _charging_ for education, great teachers will _invest_ in students they want to train. In an extreme world, this will be the _only_ way teachers will be able to earn what they deserve, and the _only_ way students will be able to incentivize the best teachers to train them.
 
-An education system based on *investing* instead of charging money will improve the quality of knowledge available for everyone — *even* for students who aren't yet ready to be invested in. Teachers who charge money to teach are incentivized to hoard their most important knowledge to only paying students. Teacher-investors, on the other hand, are *incentivized* to spread *all* of their knowledge as widely as they can in order to attract more investable talent.
+An education system based on _investing_ instead of charging money will improve the quality of knowledge available for everyone — _even_ for students who aren't yet ready to be invested in. Teachers who charge money to teach are incentivized to hoard their most important knowledge to only paying students. Teacher-investors, on the other hand, are _incentivized_ to spread _all_ of their knowledge as widely as they can in order to attract more investable talent.
 
 Increasingly, great products and discoveries will find their start in individual explorations financed by personal tokens. Then, investing in personal tokens will become more popular than investing in companies because attention and value become concentrated in individuals holistically, not in their particular expressions.
 
@@ -353,6 +373,7 @@ All of society's functions will be grounded in tokens. A rich, _tokenized_ ecosy
 Tokens will eat the world. And such a tokenized system, through UBE and the marketplace for potential, will help us unite society and democratize opportunity.
 
 Let's explore how to build such a system.
+
 ## Imbalance
 
 ## RootNet
@@ -453,12 +474,12 @@ Contrary to what some superintelligence labs seem to believe, technological adva
 
 We expect that the majority of cognition lies _beyond_ logic & reasoning. Our current data representation (text, images, videos, etc.) itself is too restrictive to capture the significantly more complex cognition _from which_ these mediums arise. More specifically, we will require higher resolution data of the human experience that has far greater representational complexity than language, image, video, etc. We believe this would include, e.g., physiological data down to the chemical and quantum level representation of human experience.[^timeline]
 
-[^timeline]: This is why we believe superintelligence (an entity that surpasses the *intuitions* of the best humans for the most complex tasks) will not arrive anytime soon, if ever. We don't have anywhere near the quality of sensors and compute required to even represent a single experience in sufficient resolution, let alone train on a set of many experiences. Which is why we strongly believe that for the foreseeable future artificial intelligence will *amplify* human expression, not eliminate the need for humans to create value.
+[^timeline]: This is why we believe superintelligence (an entity that surpasses the _intuitions_ of the best humans for the most complex tasks) will not arrive anytime soon, if ever. We don't have anywhere near the quality of sensors and compute required to even represent a single experience in sufficient resolution, let alone train on a set of many experiences. Which is why we strongly believe that for the foreseeable future artificial intelligence will _amplify_ human expression, not eliminate the need for humans to create value.
 
-This makes collective voluntary participation a _necessity_ for superintelligence as people must be willing to give up such higher resolution personal data. They would only voluntarily[^coerced] participate if they had a strong incentive to do so: a significant stake in the collective upside (through UBE), *and* had sufficient influence over how companies could use their data.
+This makes collective voluntary participation a _necessity_ for superintelligence as people must be willing to give up such higher resolution personal data. They would only voluntarily[^coerced] participate if they had a strong incentive to do so: a significant stake in the collective upside (through UBE), _and_ had sufficient influence over how companies could use their data.
 
-RootNet will give users both a financial incentive to offer their data to train superintelligence *and* control (because users will increasingly have control over how entities can engage with RootNet through realtime, continuous voting). Therefore, superintelligence will emerge from RootNet (or a winning fork), *not* from an entity outside of such a network.
+RootNet will give users both a financial incentive to offer their data to train superintelligence _and_ control (because users will increasingly have control over how entities can engage with RootNet through realtime, continuous voting). Therefore, superintelligence will emerge from RootNet (or a winning fork), _not_ from an entity outside of such a network.
 
 [^coerced]: If such higher resolution personal data is _coerced_ out of individuals, that data will not represent the full range of human expression because it will skewed towards a limited range of emotions (such as anger / fear). This will limit and bias training data, which will limit the superintelligence that emerges from this data. Thus, it's critically important that people actively choose to participate in creating superintelligence.
 
-Critically, the superintelligence that emerges from RootNet will be safe. Contrary to what AI safety teams seem to think, obedience and intelligence cannot co-exist. The only way to ensure a safe superintelligence is to convince it with the right incentives and stories. RootNet, through its powerful story of unity of _all_ beings, and instruments that incentivize _collective_ growth, will convince superintelligence to work *with* us instead of *against* us.
+Critically, the superintelligence that emerges from RootNet will be safe. Contrary to what AI safety teams seem to think, obedience and intelligence cannot co-exist. The only way to ensure a safe superintelligence is to convince it with the right incentives and stories. RootNet, through its powerful story of unity of _all_ beings, and instruments that incentivize _collective_ growth, will convince superintelligence to work _with_ us instead of _against_ us.
