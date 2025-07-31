@@ -188,8 +188,33 @@ All of humanity's activities until now aren't even a drop of water in the ocean 
 
 ### 5. Rate of displacement of winners accelerates.
 
+Winners remaining winners becomes exponentially more difficult. *Churn* accelerates.
+
+Transferring ability *upwards* (from activity to parent activity) becomes exponentially more difficult the higher up in the tree we are at.
+
+For example, scaling McDonald's from one city to the world (a high complexity activity from a couple of decades ago) is far more straightforward than scaling a robotics company from one domain (agriculture) to a more general robotics company that can handle many domains (current high complexity activity).
+
+The difficulty to *transfer* winning at current complexity to higher complexity grows because it is increasingly less about scaling something you already have a good idea about and more about discovering a completely new way of doing it. For example, going from a domain specific robotics company to a general purpose robotics company requires a completely different approach the core design and technology itself.
+
+It is likely that the team that makes a big breakthrough in general purpose robotics will have *started* at this level of complexity rather than *grow* to this complexity after starting at a less complex activity.
+
+Furthermore, current winners are bogged down by serving users at the current level of complexity to be able to jump upwards. Their culture and how they organize themselves is inherently tied to the complexity of their activity. For example, while a domain specific robotics company is bogged down by serving a niche audience, a more general purpose robotics company would be laser focused on the core innovation required to crack the higher complexity activity.
+
+This vulnerability of the current winner is further amplified by the fact that our activities become more similar the higher up we go. The more similar our activities become, the wider the pool of competition becomes. Winners will increasingly face competition from places they least expect it. For example, the top content creators and startup founders are starting to find themselves competing. Similarly, companies building coding agents are finding increasingly finding themselves competing with startups working on project management (because building and managing activities are converging).
+
+It will be tough to compete when you have no idea where the competition will come from. Some random innovation in some quantum computing company will wipe out a whole sub-tree of robotics companies. 
+
+And finally, there will be greater overall quality of competition as quality of training and resources become more democratized. As the peak outcome grows superexponentially, more capable individuals will start directly attacking activities very high in the tree, shaking up many many sub-trees of current winners.
+
+We are entering a new generation of creating value in which most of the best practices and intuitions we've developed tackling less complex problems (lower in the tree) no longer work.
 
 ### 6. Absolute number of winners grows at least exponentially.
+
+Even though the distribution of outcomes will be far more extreme, since the peak outcomes grow exponentially, even _tiny_ wins (relative to the peak wins) will still be massive. And since the rate of displacement accelerates, in a given period of time, there will be many more who would have touched the extreme success as well.
+
+---
+
+(concluding thoughts + transition).
 
 ## Problem
 
