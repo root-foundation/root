@@ -98,13 +98,11 @@ We break an activity into sub-activities when we can't tackle it as a whole. Thi
 
 ### Similarity
 
-- (todo: start with the *breaking* more and thus creating greater *differences* as the primitive upon which we build the intuition for similarity).
+The lower you go in the tree, the more we have broken the root activity further and further. Each *break* creates a separation or difference. This means the further down we go, the more the differences compound — i.e., the further away activities are from their common ancestor, the more different they become.
 
-Another important observation in this activity tree is that activities of a similar complexity are more *similar* the closer they are to their common ancestor. 
+Which is why when we compare two activities further down in our tree, we will find that they are less similar — i.e., ability transfers less easily across them. The higher up we go, ability transfers more easily between activities because they are closer to their common ancestor (i.e., shorter tree path).
 
-For example, "Build product" and "Distribute" are more similar than their respective leaves of their sub-trees: "Design component in Figma" vs. "Set up a sales pipeline in Salesforce". The high level reasoning and intuition required to effectively break down "Build product" and "Distribute" into sub-activities and correctly prioritize them is more *similar* than the domain specific knowledge you need to operate two different tools.
-
-This means that *ability transfers more easily across activities of similar complexity*, the higher up in the tree you go (because they have a closer common ancestor). This also intuitively makes sense because the lower you go, the more *differences* you've created by breaking an activity into separate sub-activities. Differences are less compounded the closer you are towards the root.
+In our example above, "Build product" and "Distribute" are more similar than their respective leaves of their sub-trees: "Design component in Figma" vs. "Set up a sales pipeline in Salesforce". The high level reasoning and intuition required to effectively break down "Build product" and "Distribute" into sub-activities and correctly prioritize them is more *similar* than the domain specific knowledge you need to operate two different tools.
 
 ### AGI eats activities and enables new ones.
 
