@@ -19,10 +19,10 @@ In this essay we explore why we will _need_ RootNet to organize humanity to take
 3. [Problem](#problem)
 4. [Venture capital](#venture-capital)
 5. [Personal token](#personal-token)
-6. [The network](#the-network)
-7. [Money → Company → Personal Token](#money---company---personal-token)
-8. [Value will be concentrated in personal tokens](#value-will-be-concentrated-in-personal-tokens)
-9. [Personal tokens will democratize opportunity](#personal-tokens-will-democratize-opportunity)
+6. [Money → Company → Personal Token](#money---company---personal-token)
+7. [Value will be concentrated in personal tokens](#value-will-be-concentrated-in-personal-tokens)
+8. [Personal tokens will democratize opportunity](#personal-tokens-will-democratize-opportunity)
+9. [The network](#the-network)
 10. [Universal Basic Equity (UBE)](#universal-basic-equity-ube)
 11. [Tokens will eat the world](#tokens-will-eat-the-world)
 12. [Imbalance](#imbalance)
@@ -40,7 +40,7 @@ In this essay we explore why we will _need_ RootNet to organize humanity to take
 
 Artificial intelligence promises a future of abundance and prosperity in which each individual has unimaginable power to realize their dreams.
 
-But, we're far from _organizing_ ourselves in a way that enables us to take advantage of artificial intelligence to achieve prosperity. On top of our current economic and governance systems, artificial intelligence is poised to concentrate opportunity and divide society.
+But, we're far from _organizing_ ourselves in a way that enables us to take advantage of artificial intelligence to achieve prosperity. In fact, on top of our current economic and governance systems, artificial intelligence is poised to concentrate opportunity and divide society.
 
 To see why, we must first understand how artificial intelligence will change our world.
 
@@ -50,7 +50,7 @@ When we ask how AGI will change our world, what we're really asking is how it ch
 
 ### Activity
 
-Let's start with understanding the nature of an activity itself through an example: driving a car.
+Let's start with understanding the nature of an activity itself through an example: drive a car.
 
 Bob is a beginner driver who breaks down the activity of driving a car into *sub-activities*: turn it on, steer, accelerate, change gear, check the mirror, etc.
 
@@ -58,10 +58,7 @@ If a sub-activity is simple enough to do it, Bob just does it. If it's too compl
 
 For Bob, the activity of driving a car is represented as a *recursive tree with falling complexity*: i.e., parent activities are more complex than sub-activities. We can think of [complexity](https://en.wikipedia.org/wiki/Game_complexity) as the number of possibilities (or *moves*) within an activity.
 
-(todo:)
-- leaf is what you can tackle.
-- root is what you want to tackle.
-- this difference in what you want to tackle vs. what you can tackle is what causes the tree.
+A *leaf* activity (at the bottom) has a complexity that *can* be tackled without breaking down into more sub-activities. The root is the activity you *want* to tackle. And importantly, this *difference* between the complexity of the activity you *want* to tackle and the complexity of what you *can* tackle (without breaking down further) is what *causes* the tree to be constructed.
 
 ### Complexity
 
@@ -69,13 +66,11 @@ At first glance, it's tempting to consider the complexity of the parent activity
 
 But, in reality, we see that the parent activity actually contains many moves that *can't* be categorized neatly into these sub-activities. 
 
-For example, when Alice, an expert driver, drives a car, she fluidly makes many moves that don't treat those moves as separate sub-activities. For example, she may glance at the mirror while changing gears while turning the steering wheel while skipping to the next song in her music player.
+For example, when Alice, an expert driver, drives a car, she fluidly makes many moves that don't treat those moves as separate sub-activities. For example, she may glance at the mirror while changing gears while turning the steering wheel while skipping to the next song in her music player. Alice has no need to break the activity of driving a car into sub-activities because she can handle its complexity.
 
 We can also see this in the context of startups: a great founder makes moves that can't neatly be categorized into product, design, engineering, brand, marketing, etc. Their moves exist in a fluid *space* that contains exponentially more possibilities than the possibilities in any sub-activity.
 
-This means that complexity *grows superexponentially* as we go up the tree.
-
-> Note: by superexponential growth, we mean growth that is faster than exponential. Exponential growth is like a crowd that simply doubles each round; super‑exponential growth is when the crowd not only doubles but also makes the _doubling speed_ itself rise every round, so the numbers skyrocket far faster than any steady doubling could.
+This means that each activity is *exponentially* more complex than its sub-activities, so complexity increases *superexponentially* as we climb the tree. In other words, the space of possible moves doesn’t just grow as we go up the tree, it *accelerates*.
 
 ### Example: creating a company
 
@@ -237,7 +232,7 @@ Even though the distribution of outcomes will be far more extreme, since the pea
 
 A post AGI world will be dynamic. The reign of winners will be increasingly short-lived. We will see rapid advancement across the board. AGI will push humanity to dream bigger and work on more and more complex problems. Problems we consider too complex to solve now will seem like simple tasks to our descendants. Thus, advancing and leveraging AGI will enable us to achieve a degree prosperity and abundance that we can't fathom.
 
-(Bet on humanity: *we can always see more than what we can do*).
+(todo: Bet on humanity: *we can always see more than what we can do*).
 
 But, we are *not* organized in a way that enables us to take advantage of artificial intelligence. In fact, AGI makes our current systems oppressive — concentrating opportunity in the hands of those who are wealthy, and devastating those without means. To understand why, let's study how our current economic system becomes oppressive in a post AGI world.
 
@@ -279,19 +274,11 @@ To democratize access to venture capital, we are creating the _personal token_: 
 
 <img src="foundation/assets/personal-token-preview.png" width="500" />
 
-(Jane's personal token with her shareholders and her equities in companies and other personal tokens.)
+*(Jane's personal token with her shareholders and her equities in companies and other personal tokens.)*
 
 Your personal token's value is grounded in your equities in companies and other personal tokens. A portion of the capital you gain when selling equity in a company or personal token is sent to your personal token shareholders — proportional to the equity they hold (i.e. dividends).
 
 Unlike company shareholders, personal token shareholders have _no_ “ownership", control or say over the personal token owner or anything they do. **The personal token owner retains absolute, complete agency and control over their lives**.
-
-## The network
-
-Personal tokens can't exist in a vacuum. We need many functions in order to have a thriving ecosystem of individuals investing in each other through their personal tokens (e.g., fighting fraud, enabling discovery, etc.). In order to finance such functions this system will collect a small _equity fee_: a micro stake in every personal token that has successfully raised funds.
-
-To be able to collect this equity fee, we have another _type_ of token called the _network token_. An instance of a network token (i.e., “NetworkToken”) represents the collective potential of the _entire_ network through its micro stakes in all personal tokens. The wallet associated with the NetworkToken is the network's treasury that helps finance all of its functions.
-
-Before we can paint the picture of _how_ personal and network tokens can unite society and democratize opportunity, we need to first see how artificial intelligence is changing our world.
 
 ## Money -> Company -> Personal token
 
@@ -332,6 +319,14 @@ As discussed earlier, _even_ with extreme outcomes we will have a greater absolu
 Because of more extreme success outcomes _and_ greater number of competent contenders for those outcomes, we will see more widespread investments of greater magnitude. Therefore, even the investment into the median contender will increase.
 
 Therefore, personal tokens, and the market forces they create, will increasingly negate privilege by incentivizing capital to flow to incorrectly undervalued individuals — based on their potential, not wealth.
+
+## The network
+
+Personal tokens can't exist in a vacuum. We need many functions in order to have a thriving ecosystem of individuals investing in each other through their personal tokens (e.g., fighting fraud, enabling discovery, etc.). In order to finance such functions this system will collect a small _equity fee_: a micro stake in every personal token that has successfully raised funds.
+
+To be able to collect this equity fee, we have another _type_ of token called the _network token_. An instance of a network token (i.e., “NetworkToken”) represents the collective potential of the _entire_ network through its micro stakes in all personal tokens. The wallet associated with the NetworkToken is the network's treasury that helps finance all of its functions.
+
+Before we can paint the picture of _how_ personal and network tokens can unite society and democratize opportunity, we need to first see how artificial intelligence is changing our world.
 
 ## Universal Basic Equity (UBE)
 
