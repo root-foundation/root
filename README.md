@@ -21,6 +21,7 @@ To see why, we must first understand how artificial intelligence will change our
 ---
 
 A. How AI will change our world
+
 1. [Activity](#activity)
 2. [Complexity of an activity](#complexity-of-an-activity)
 3. [Example: creating a company](#example-creating-a-company)
@@ -37,6 +38,7 @@ A. How AI will change our world
 14. [AGI will expand humanity's horizon](#agi-will-expand-humanitys-horizon)
 
 B. Unlocking our potential
+
 15. [Problem](#problem)
 16. [Venture capital](#venture-capital)
 17. [Personal token](#personal-token)
