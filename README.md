@@ -179,20 +179,12 @@ The number of activities that we conceive will be proportional to ratio of: the 
 
 ### 5. Rate of displacement of winners accelerates.
 
-1. Advantage itself shrinks.
-2. Success becomes a drag because learnings don't translate (and increasingly create wrong intuitions about the higher complexity activity).
-3. Pool of competition widens exponentially. Increasingly you will be made irrelevant from places you least expect.
-
-The jump in complexity from an activity to a parent grows superexponentially the higher up we go. This jump quickly becomes so massive, that winning in a lower complexity sub-activity isn't really a "head start" in tackling this new higher complexity activity - relative to someone who is starting at 0.
-
-
 Winners remaining winners becomes exponentially more difficult. *Churn* accelerates.
 
-This is because:
-1. Transferring success *upwards* (from activity to parent activity) becomes exponentially more difficult the higher up in the tree we are at. You will be outcompeted by those who *start* from above.
-2. Pool of competition widens. Increasingly, those from completely unrelated areas of work will create something that makes your activity irrelevant.
-
----
+For winners at the current level of complexity, who are aiming to tackle a parent activity (which will be exponentially more complex):
+1. Advantage relative to someone just starting off shrinks rapidly. The complexity of the new activity is so massive that the knowledge you gained in the lower complexity activity increasingly becomes an irrelevant advantage relative to someone starting off with no knowledge.
+2. Success becomes a drag because learnings increasingly won't translate to higher complexity activities (and will actually create wrong intuitions). You will increasingly be outcompeted by those who *start* from above.
+3. Pool of competition widens exponentially. Increasingly you will be made irrelevant from places you least expect.
 
 At higher complexities, transferring success from an activity to its parent activity is less about scaling what you already know and more about having a fundamental breakthrough.
 
@@ -200,21 +192,21 @@ For example, scaling McDonald's from one city to the world (a previously high co
 
 Those who will crack the more complex activity that will make current winners obsolete will increasingly have to *start* directly at the higher complexity activity. Success at a lower complexity activity creates unnecessary drag and distraction because the learnings you gain from that traction become less likely to translate into insights in the higher complexity activities above. For example, OpenAI could not have emerged as an evolution of a domain specific AI winner.
 
----
-
 Furthermore, the higher up in the tree we are at, the more similar our activities become — i.e., the more easily you can transfer ability from one activity to another. This greatly widens the pool of competition.
 
-Winners will increasingly face competition from places they least expect. We are seeing early signs, the top content creators and startup founders are starting to find themselves rubbing shoulders fighting for the same attention. At a lower level in the tree, companies building coding agents are finding themselves competing with companies working on project management (because building and managing are converging).
+Winners will increasingly face competition from places they least expect. We are seeing early signs, the top content creators and startup founders are starting to find themselves rubbing shoulders fighting for the same attention. Similarly, companies building coding agents are finding themselves competing with companies working on project management platforms (because building and managing are converging).
 
-Eventually, some random biology discovery in a quantum computing lab could wipe out a massive sub-tree of robotics companies by enabling embodied intelligence grounded in biology that can generalize far better than mechanical robots.
+Eventually, some random biology discovery in a quantum computing lab could wipe out a massive sub-tree of robotics companies by enabling embodied intelligence grounded in biology that can generalize far better than mechanical robots. It will be increasingly difficult to predict and counter such competition.
 
-There will be greater overall quality of competition as quality of training and resources become more democratized. As the peak outcome grows superexponentially, more capable individuals will start directly attacking activities very high in the tree, shaking up many many sub-trees of current winners.
+There will be greater overall quality of competition as quality of training and resources become more democratized. As the peak outcome grows superexponentially, more capable individuals will start by directly attacking activities very high in the tree, shaking up many sub-trees of current winners.
 
-It will be tough to remain a winner when you have no idea where you will be outcompeted from, your pool of competent competitors grows superexponentially, and the prizes for winning grow superexponentially leading to many more attacking activities that will make yours irrelevant.
+It will be tough to remain a winner when you have no idea where you will be outcompeted from, your pool of competent competitors grows superexponentially, and the prizes for winning grow superexponentially leading to many more competent teams working activities that will make yours irrelevant.
 
-**Most value that will be created will be from companies that haven't yet been started and by individuals who haven't yet been born.**
+**Therefore, most value will be created by companies that haven't yet been started and individuals who haven't yet been born.** 
 
-> Note: we are entering a new age of creating value. Individuals and teams that will win will operate very differently than they do today. Teams will take years just to discover and frame the right activity to work on before they launch anything because you cannot simply *iterate* upwards from a lower complexity activity. Roles will be distinguished by complexity not "domain". Teams will completely abandon their current products and customers and jump upwards as soon as they see a glimpse of a higher complexity activity. They will simultaneously execute mass layoffs *and* go on hiring frenzies at every jump in AGI. They will be paranoid about advancements in completely unrelated activities that may have a common ancestor with theirs higher up in the tree. Most of our current winners be blindsided.
+We are entering a new age of creating value. Successfully tackling highly complex activities requires a very different approach than we're used to. Increasingly, the way the best teams operate will look very weird (and "wrong") to current winners.[^weirdwinner].
+
+[^weirdwinner]: we are entering a new age of creating value. Individuals and teams that will win will operate very differently than they do today. Teams will take years just to discover and frame the right activity to work on before they launch anything because you cannot simply *iterate* upwards from a lower complexity activity. Roles will be distinguished by complexity not "domain". Teams will completely abandon their current products and customers and jump upwards as soon as they see a glimpse of a higher complexity activity. They will simultaneously execute mass layoffs *and* go on hiring frenzies at every jump in AGI. They will be paranoid about advancements in completely unrelated activities that may have a common ancestor with theirs higher up in the tree. Most of our current winners be blindsided.
 
 ### 6. Absolute number of winners grows at least exponentially.
 
