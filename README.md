@@ -108,13 +108,11 @@ In our example above, "Build product" and "Distribute" are more similar than the
 
 We can think of AGI as a advancement that *eats* activities below a certain complexity threshold — *across the board*. In other words, AGI will eat low complexity activities in *any* domain: design, product, music, art, engineering, law, etc. It distinguishes by *complexity*, not "domain" or any other form of distinctions that we've created between different kinds of work.
 
-In our robotics company example, as AGI advances, it will eat activities lower in the tree: starting at the leaves (e.g., "Design component in Figma", "Write a specific algorithm", etc.) and work upwards.
+In our example, as AGI advances, it will eat activities lower in the tree: starting at the leaves (e.g., "Design component in Figma", "Write a specific algorithm", etc.) and work upwards.
 
-As this happens, we change the way we break activities into sub-activities — i.e., changing our tree. Therefore, we can also see new sub-activities that have been enabled (that we previously couldn't do). For example, In our company, a new activity (and role) could be managing AI agents that will do to the lower complexity work that we previously did ourselves.
+As this happens, we change the way we break activities into sub-activities — i.e., changing our tree. Therefore, we can also see new sub-activities that have been enabled (that we previously couldn't do). For example, In our company, a new activity (and role) could be managing AI agents that will do to the lower complexity work that we previously had to do ourselves using domain specific tools.
 
-Thus, As AGI continues to push us upwards, it will *converge* our activities (and thus our attention) towards our *root*. As we saw earlier, activities become more complex *and* more similar the higher up you go.
-
-**Therefore, AGI will *converge* our activities towards a highly complex, *singular* activity.**
+**Thus, As AGI continues to push us upwards, it will *converge* our activities (and thus our attention) towards our *root* — a *highly complex*, *singular* activity.**
 
 ### Local vs. global convergence
 
