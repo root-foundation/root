@@ -226,9 +226,9 @@ But, we are *not* organized in a way that enables us to take advantage of artifi
 
 In a post AGI world, due to extreme outcomes in *all* activities, debt will no longer be a viable means to finance anything.
 
-This is not due to fewer opportunities (AGI will enable far more opportunities than it takes), but rather due to the extreme, winner-take-all nature of outcomes within _each_ opportunity. In extreme outcomes, the median outcome falls to nothing and thus financing with debt is no longer viable.
+This is not due to fewer opportunities (AGI will enable far more opportunities than it takes), but rather due to the extreme, winner-take-all nature of outcomes within *any* opportunity. In extreme outcomes, the median outcome falls to nothing and thus financing with debt is no longer viable.
 
-Tragically, billions are still taking out loans to finance their lives — from their educations, to their homes and businesses — without realizing that they will almost certainly never be able to repay these loans as outcomes rapidly becomes more extreme.
+Tragically, billions are still taking out loans to finance their lives — from their educations, to their homes, businesses, etc. — without realizing that they will almost certainly never be able to repay these loans as outcomes rapidly becomes more extreme.
 
 _Even_ if one is debt-free, they will almost certainly be outcompeted by one who can experiment boldly and tinker freely with _abundant_ resources.
 
