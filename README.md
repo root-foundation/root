@@ -295,7 +295,7 @@ Over time, value became concentrated in companies, not transactions. The most va
 
 Similarly, in a post AGI world with extreme outcomes, value will increasingly become concentrated in personal tokens. A personal token will be valued far more than the sum of the values of its equities in companies _(recall: a personal token’s value is grounded in its equities in companies and other personal tokens)_.
 
-With the leverage that artificial intelligence provides, individuals will be able to manifest many more ideas. Therefore, people will increasingly want to directly invest in the individuals who will generate many valuable ideas (i.e., in their personal tokens) instead of in specific idea (i.e., company).
+With the leverage that artificial intelligence provides, individuals will be able to manifest many more ideas. Therefore, people will increasingly want to invest directly in the *source* of the many valuable ideas (i.e., in personal tokens) instead of specific ideas (i.e., in companies).
 
 ## Personal tokens will democratize opportunity
 
@@ -317,13 +317,15 @@ This is best achieved through _Universal Basic Equity (UBE)_: every citizen rece
 
 [^children]: UBE also incentivizes having children. When a baby is born, new shares in the NetworkToken is minted for that baby, thus diluting the value everyone else’s shares. Thus, families will be incentivized to have more children to increase their collective equity in the NetworkToken.
 
-In addition to providing a strong baseline, UBE also creates a symbiotic relationship between the individual and the collective. When value is created anywhere, in any form, everyone immediately benefits because the value of everyone’s equity in the collective upside will increase (i.e., value of the NetworkToken rises). UBE incentivizes us to root for each other to win.
+In addition to providing a strong baseline, UBE also creates a symbiotic relationship between the individual and the collective. When value is created anywhere, in any form, everyone *immediately* benefits because the value of everyone’s equity in the collective upside will increase (i.e., value of the NetworkToken rises). UBE incentivizes us to root for each other to win.
 
-Critically, Universal basic _income_ (UBI) will _not_ work on its own because it will cause difficult-to-manage inflation (because capital pumped into the market). Universal basic _equity_ (UBE) will not cause inflation due to the _strong_ incentive to hold your equity in the NetworkToken given the promise of great upside (i.e., belief that humanity will create _even_ more value in the future). 
+Critically, Universal basic _income_ (UBI) will _not_ work on its own because it will cause difficult-to-manage inflation (because capital pumped into the market). **Universal basic _equity_ (UBE) will not cause inflation** due to the _strong_ incentive to hold your equity in the NetworkToken given the promise of great upside (i.e., belief that humanity will create _even_ more value in the future).
 
 As long as we have faith in humanity's potential, more people will hold than sell, preventing inflation.
 
 > Note: if needed, in addition to UBE, UBI can also be offered by siphoning some of the dividends the NetworkToken accrues to its shareholders, or by having the NetworkToken periodically sell a percentage of its stakes in every person, triggering dividends for all holders of the NetworkToken. The details of this functionality can be voted on by users.
+
+**UBE eliminates the lag between individual and collective success**. Waiting to *tax* success to distribute wealth doesn't work because we have to wait for equity to be sold (i.e., so that capital *gains* can be taxed). When each individual directly holds equity in the collective, the value of their equity goes up as soon as hope in the future increases. Any major scientific discovery, breakthrough, artistic expression that instills hope, etc. will lead to your equity in the collective rising.
 
 UBE ensures that every one of descendants will enjoy a level of abundance that we can't fathom. Artificial intelligence and economies of scale will bring the price of all important goods down, while UBE will increase the wealth in each individual's hands without inflation. Furthermore, as your shares in the NetworkToken accumulate, you gain a safety net to take bold risks. Even if you sell all of your equity in the NetworkToken to take a bold risk, UBE share allocations (which will eventually be a continuously flowing allocation) will more than enable you to live a healthy life.
 
