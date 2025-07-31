@@ -129,10 +129,6 @@ For example, AGI accelerates the rate of progress of a more *general* robotics c
 
 Eventually, there will be no distinction between local and global. We will no longer start companies that are not that complex because we know that it will be eaten from *above* very quickly.
 
-### AGI will expand our horizon
-
-Through this process of pushing us *up* our activity tree, AGI will push humanity to dream bigger and work on more and more complex problems. Problems we consider too complex to solve now will seem like simple tasks to our descendants. Thus, advancing and leveraging AGI will enable us to achieve a degree prosperity and abundance that we can't fathom.
-
 From this model of how AGI changes our activities, we can predict what a post AGI world will look like.
 
 ### Predictions
@@ -155,13 +151,13 @@ Since complexity grows superexponentially as we go up the tree, so will the peak
 
 ### 2. Competition grows at least exponentially.
 
-(similarity increases as you go up the tree).
+(todo: similarity increases as you go up the tree).
 
 Furthermore, due to better training and resources, there will be many more people capable of competing at more complex activities, amplifying competition further.
 
 ### 3. Outcomes superexponentially become more extreme across the board.
 
-Within *any* activity, at any moment, a _smaller_ percentage of individuals will be responsible for a _greater_ share of economic value created — i.e., a _[power law distribution of outcomes](https://en.wikipedia.org/wiki/Power_law)_
+Within *any* activity, at any moment, a _smaller_ percentage of individuals will be responsible for a _greater_ share of economic value created — i.e., a *[power law distribution of outcomes](https://en.wikipedia.org/wiki/Power_law)*. Thus, the median *share* falls.
 
 Extreme outcomes emerges as a byproduct of: 
 1. complexity of an activity.
@@ -178,7 +174,7 @@ AGI accelerates all three factors:
 3. Leverage (AGI capability) has been increasing exponentially.
 Thus, outcomes will acceleratingly become more extreme.
 
-Importantly, for the first time in human history, outcomes will be extreme in *any* activity. This is because AGI eats less complex activities *across the board*, instead of just in a few domains.
+Extreme outcomes aren't new. Complex activities like building startups and creating content have always had extreme outcomes: the best founders and creators generate massive outcomes while the median founders and creators make nothing. **But, for the first time in human history, outcomes will be extreme in *all* activities, not only in a few activities**. This is because AGI eats less complex activities *across the board*, instead of just in a few domains.
 
 ### 4. Number of economically viable activities grows superexponentially.
 
@@ -226,11 +222,15 @@ Even though the distribution of outcomes will be far more extreme, since the pea
 
 ---
 
-(todo: conclusion and transition).
+### AGI will expand humanity's horizon
+
+A post AGI world will be dynamic. The reign of winners will be increasingly short-lived. We will see rapid advancement across the board. AGI will push humanity to dream bigger and work on more and more complex problems. Problems we consider too complex to solve now will seem like simple tasks to our descendants. Thus, advancing and leveraging AGI will enable us to achieve a degree prosperity and abundance that we can't fathom.
+
+But, we are *not* organized in a way that enables us to take advantage of artificial intelligence. In fact, AGI makes our current systems oppressive — concentrating opportunity in the hands of those who are wealthy, and devastating those without means. To understand why, let's study how our current economic system becomes oppressive in a post AGI world.
 
 ## Problem
 
-In a post AGI world, due to extreme outcomes in *all* activities, debt will no longer a viable means to finance anything.
+In a post AGI world, due to extreme outcomes in *all* activities, debt will no longer be a viable means to finance anything.
 
 This is not due to fewer opportunities (AGI will enable far more opportunities than it takes), but rather due to the extreme, winner-take-all nature of outcomes within _each_ opportunity. In extreme outcomes, the median outcome falls to nothing and thus financing with debt is no longer viable.
 
@@ -241,7 +241,6 @@ _Even_ if one is debt-free, they will almost certainly be outcompeted by one who
 And critically, in an extreme world, if people don't have a stake in the collective upside, they will resent the winners — dividing society.
 
 Therefore, we must:
-
 1. Finance human activity in a way that ensures that anyone with potential has access to the resources they need to fully realize their potential — regardless of the circumstances of their birth.
 2. Give each individual a stake in the collective upside to elevate our baseline along with our success.
 
