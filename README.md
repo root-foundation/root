@@ -206,7 +206,7 @@ It will be tough to compete when you have no idea where the competition will com
 
 And finally, there will be greater overall quality of competition as quality of training and resources become more democratized. As the peak outcome grows superexponentially, more capable individuals will start directly attacking activities very high in the tree, shaking up many many sub-trees of current winners.
 
-We are entering a new generation of creating value in which most of the best practices and intuitions we've developed tackling less complex problems (lower in the tree) no longer work.
+We are entering a new generation of creating value in which most of the best practices and intuitions we've developed tackling less complex problems (lower in the tree) no longer work. Most value that will be created will be from companies that haven't yet been started and by individuals who haven't yet been born.
 
 ### 6. Absolute number of winners grows at least exponentially.
 
@@ -214,7 +214,7 @@ Even though the distribution of outcomes will be far more extreme, since the pea
 
 ---
 
-(concluding thoughts + transition).
+A post AGI world is dynamic.
 
 ## Problem
 
