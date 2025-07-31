@@ -176,12 +176,12 @@ Extreme outcomes aren't new. Complex activities like building startups and creat
 All of the activities we see in our world are sub-activities for some highly complex root activity that we may not even be able to see right now.
 
 The number of activities that we conceive will be proportional to ratio of: the complexity of the highest complexity activity we can see (i.e., "root"), and the complexity that we can tackle directly without breaking into sub-activities. Since the complexity of activities grows superexponentially the higher up we go, this ratio will always increase. This ratio will likely increase at least exponentially.
+
 ### 5. Rate of displacement of winners accelerates.
 
 1. Advantage itself shrinks.
 2. Success becomes a drag because learnings don't translate (and increasingly create wrong intuitions about the higher complexity activity).
 3. Pool of competition widens exponentially. Increasingly you will be made irrelevant from places you least expect.
-
 
 The jump in complexity from an activity to a parent grows superexponentially the higher up we go. This jump quickly becomes so massive, that winning in a lower complexity sub-activity isn't really a "head start" in tackling this new higher complexity activity - relative to someone who is starting at 0.
 
@@ -212,11 +212,9 @@ There will be greater overall quality of competition as quality of training and 
 
 It will be tough to remain a winner when you have no idea where you will be outcompeted from, your pool of competent competitors grows superexponentially, and the prizes for winning grow superexponentially leading to many more attacking activities that will make yours irrelevant.
 
----
-
-We are entering a new age of creating value. Individuals and teams that will win will operate very differently than they do today. Teams will take years just to discover and frame the right activity to work on before they launch anything because you cannot simply *iterate* upwards from a lower complexity activity. Roles will be distinguished by complexity not "domain". Teams will completely abandon their current products and customers and jump upwards as soon as they see a glimpse of a higher complexity activity. They will simultaneously execute mass layoffs *and* go on hiring frenzies at every jump in AGI. They will be paranoid about advancements in completely unrelated activities that may have a common ancestor with theirs higher up in the tree. Most of our current winners be blindsided.
-
 **Most value that will be created will be from companies that haven't yet been started and by individuals who haven't yet been born.**
+
+> Note: we are entering a new age of creating value. Individuals and teams that will win will operate very differently than they do today. Teams will take years just to discover and frame the right activity to work on before they launch anything because you cannot simply *iterate* upwards from a lower complexity activity. Roles will be distinguished by complexity not "domain". Teams will completely abandon their current products and customers and jump upwards as soon as they see a glimpse of a higher complexity activity. They will simultaneously execute mass layoffs *and* go on hiring frenzies at every jump in AGI. They will be paranoid about advancements in completely unrelated activities that may have a common ancestor with theirs higher up in the tree. Most of our current winners be blindsided.
 
 ### 6. Absolute number of winners grows at least exponentially.
 
