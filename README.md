@@ -190,19 +190,27 @@ All of humanity's activities until now aren't even a drop of water in the ocean 
 
 Winners remaining winners becomes exponentially more difficult. *Churn* accelerates.
 
-Transferring ability *upwards* (from activity to parent activity) becomes exponentially more difficult the higher up in the tree we are at.
+This is because:
+1. Transferring success *upwards* (from activity to parent activity) becomes exponentially more difficult the higher up in the tree we are at. You will be outcompeted by those who *start* from above.
+2. Pool of competition widens. Increasingly, those from completely unrelated areas of work will create something that makes your activity irrelevant.
 
-For example, scaling McDonald's from one city to the world (a high complexity activity from a couple of decades ago) is far more straightforward than scaling a robotics company from one domain (agriculture) to a more general robotics company that can handle many domains (current high complexity activity).
+---
 
-The difficulty to *transfer* winning at current complexity to higher complexity grows because it is increasingly less about scaling something you already have a good idea about and more about discovering a completely new way of doing it. For example, going from a domain specific robotics company to a general purpose robotics company requires a completely different approach the core design and technology itself.
+Transferring success upwards becomes exponentially more difficult the higher up in the tree we go because at higher complexity going from an activity to a parent activity is less about scaling what you already know and more about having a fundamental breakthrough.
 
-It is likely that the team that makes a big breakthrough in general purpose robotics will have *started* at this level of complexity rather than *grow* to this complexity after starting at a less complex activity.
+For example, scaling McDonald's from one city to the world (a previously high complexity activity from a couple of decades ago) is far more straightforward than scaling a robotics company from one domain (agriculture) to a more general robotics company that can handle many domains (an example of *current* high complexity activity). You can reason about how to scale McDonald's to many locations. But you cannot *linearly* reason about how to make a domain specific robot generally useful — this requires re-imagining from the ground up and big breakthroughs.
 
-Furthermore, current winners are bogged down by serving users at the current level of complexity to be able to jump upwards. Their culture and how they organize themselves is inherently tied to the complexity of their activity. For example, while a domain specific robotics company is bogged down by serving a niche audience, a more general purpose robotics company would be laser focused on the core innovation required to crack the higher complexity activity.
+Those who will crack the more complex activity that will make current winners obsolete will increasingly have to *start* directly at the higher complexity activity. Success at a lower complexity activity creates unnecessary drag and distraction because the learnings you gain from that traction become less likely to translate into insights in the higher complexity activities above. For example, OpenAI could not have emerged as an evolution of a domain specific AI winner.
 
-This vulnerability of the current winner is further amplified by the fact that our activities become more similar the higher up we go. The more similar our activities become, the wider the pool of competition becomes. Winners will increasingly face competition from places they least expect it. For example, the top content creators and startup founders are starting to find themselves competing. Similarly, companies building coding agents are finding increasingly finding themselves competing with startups working on project management (because building and managing activities are converging).
+---
 
-It will be tough to compete when you have no idea where the competition will come from. Some random innovation in some quantum computing company will wipe out a whole sub-tree of robotics companies. 
+Furthermore, the higher up in the tree we are at, the more similar our activities become — i.e., the more easily you can transfer ability from one activity to another. This greatly widens the pool of competition.
+
+Winners will increasingly face competition from places they least expect it. For example, the top content creators and startup founders are starting to find themselves rubbing shoulders fighting for the same attention. At a lower level in the tree, companies building coding agents are increasingly finding themselves competing with startups working on project management (because building and managing are converging).
+
+It will be tough to remain a winner when you have no idea where you will be outcompeted from. Some random biology discovery in a quantum computing lab could wipe out a massive sub-tree of robotics companies by enabling embodied intelligence grounded in biology that can generalize far better than mechanical robots.
+
+---
 
 And finally, there will be greater overall quality of competition as quality of training and resources become more democratized. As the peak outcome grows superexponentially, more capable individuals will start directly attacking activities very high in the tree, shaking up many many sub-trees of current winners.
 
