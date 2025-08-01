@@ -74,7 +74,9 @@ For example, when Alice, an expert driver, drives a car, she fluidly makes many 
 
 We can also see this in the context of startups: a great founder makes moves that can't neatly be categorized into product, design, engineering, brand, marketing, etc. Their moves exist in a fluid _space_ that contains exponentially more possibilities than the possibilities in any sub-activity.
 
-This means that each activity is _exponentially_ more complex than its sub-activities, so complexity increases _superexponentially_ as we climb the tree. In other words, the space of possible moves doesn’t just grow as we go up the tree, it _accelerates_.
+This means that each activity is _exponentially_ more complex than its sub-activities, so complexity increases _superexponentially_ as we climb the tree.
+
+> In case you aren't familiar with exponential / superexponential growth rates, we recommend reading [our primer](GrowthRatePrimer.md).
 
 ## Example: creating a company
 
@@ -140,6 +142,7 @@ As artificial intelligence advances towards and beyond AGI:
 5. Rate of displacement of winners accelerates at least exponentially.
 6. Absolute number of winners grows at least exponentially.
 
+Specificity in growth rates is critically important. Miscalculations in growth rates can lead to very different, sometimes even opposite, predictions. In case you are unfamiliar with differences in growth rates (i.e., linear vs. exponential vs. superexponential) we recommend reading [our primer](GrowthRatePrimer.md).
 ## 1. Peak outcome grows superexponentially.
 
 We value an activity proportional to the possibilities it enables — i.e., proportional to its _complexity_.
