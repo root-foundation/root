@@ -143,7 +143,7 @@ As artificial intelligence advances towards and beyond AGI:
 6. Absolute number of winners grows at least exponentially.
 
 Specificity in growth rates is critically important. Miscalculations in growth rates can lead to very different, sometimes even opposite, predictions. In case you are unfamiliar with differences in growth rates (i.e., linear vs. exponential vs. superexponential) we recommend reading [our primer](GrowthRatePrimer.md).
-## 1. Peak outcome grows superexponentially.
+## 1) Peak outcome grows superexponentially.
 
 We value an activity proportional to the possibilities it enables — i.e., proportional to its _complexity_.
 
@@ -151,13 +151,13 @@ Building Youtube is far more valuable than building a niche, genre-specific, vid
 
 Since complexity grows superexponentially as we go up the tree, so will the peak value that can be created (i.e., the peak _outcome_).
 
-## 2. Competition grows at least exponentially.
+## 2) Competition grows at least exponentially.
 
 We have already seen that activities become more similar the higher up we go. Since ability transfers more easily across them, so does competition.
 
 Furthermore, due to better training and resources, there will be many more people capable of competing at more complex activities, amplifying competition further.
 
-## 3. Outcomes superexponentially become more extreme across the board.
+## 3) Outcomes superexponentially become more extreme across the board.
 
 Within _any_ activity, at any moment, a _smaller_ percentage of individuals will be responsible for a _greater_ share of economic value created — i.e., a _[power law distribution of outcomes](https://en.wikipedia.org/wiki/Power_law)_. Thus, the *median share* falls.
 
@@ -182,7 +182,7 @@ AGI accelerates all three factors:
 
 Extreme outcomes aren't new. Complex activities like building startups and creating content have always had extreme outcomes: the best founders and creators generate massive outcomes while the median founders and creators make nothing. **But, for the first time in human history, outcomes will be extreme in _all_ activities, not only in a few activities**. This is because AGI eats less complex activities _across the board_, instead of just in a few domains.
 
-## 4. Number of economically viable activities grows superexponentially.
+## 4) Number of economically viable activities grows superexponentially.
 
 **All of humanity's activities until now aren't even a drop of water in the ocean of activities that will emerge.**
 
@@ -190,7 +190,7 @@ All of the activities we see in our world are sub-activities for some highly com
 
 The number of activities that we conceive will be proportional to ratio of: the complexity of the highest complexity activity we can see (i.e., "root"), and the complexity that we can tackle directly without breaking into sub-activities. Since the complexity of activities grows superexponentially the higher up we go, this ratio will always increase. This ratio will likely increase at least exponentially.
 
-## 5. Rate of displacement of winners accelerates.
+## 5) Rate of displacement of winners accelerates.
 
 Winners remaining winners becomes exponentially more difficult. _Churn_ accelerates.
 
@@ -222,7 +222,7 @@ We are entering a new age of creating value. Successfully tackling highly comple
 
 [^weirdwinner]: We are entering a new age of creating value. Individuals and teams that will win will operate very differently than they do today. Teams will take years just to discover and frame the right activity to work on before they launch anything because you cannot simply _iterate_ upwards from a lower complexity activity. Roles will be distinguished by complexity not "domain". Teams will completely abandon their current products and customers and jump upwards as soon as they see a glimpse of a higher complexity activity. They will simultaneously execute mass layoffs _and_ go on hiring frenzies at every jump in AGI. They will be paranoid about advancements in completely unrelated activities that may have a common ancestor with theirs higher up in the tree. Most of our current winners will be blindsided.
 
-## 6. Absolute number of winners grows at least exponentially.
+## 6) Absolute number of winners grows at least exponentially.
 
 Even though the distribution of outcomes will be far more extreme, since the peak outcomes grow exponentially, even _tiny_ wins (relative to the peak wins) will still be _massive_. And since the rate of displacement accelerates, in a given period of time, there will be many more who would have touched the extreme success as well.
 
