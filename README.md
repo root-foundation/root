@@ -371,13 +371,27 @@ All of society's functions will be grounded in tokens. A rich, _tokenized_ ecosy
 
 Tokens will eat the world. And such a tokenized system, through UBE and the marketplace for potential, will help us unite society and democratize opportunity.
 
-Let's explore how to build such a system.
+But, to enable us to take advantage of artificial intelligence towards unity and prosperity instead of division and destruction, advancing our economic system alone isn't enough. Our problem is actually much larger...
 
 ## Imbalance
 
+In our world, when one system advances rapidly ahead of the others, it causes an *imbalance*. 
+
+For example, rapid advancement in AI made our economic system oppressive by making outcomes extreme across the board and invalidating debt — creating an *imbalance* between our technological progress and economic organization.
+
+Similarly, there are many other imbalances that rapid advancement in AI has caused (and will accelerate):
+- Our education system has become oppressive because what people are learning will make them _unemployable_ in a post AGI world.
+- Our governance system has become oppressive because its rate of decision-making can’t keep up with rate of change. Our policies, regulations and courts are acceleratingly lagging behind where they need to be.
+- Our political climate has become oppressive because it lacks the powerful story of unity and collective growth that are required to take advantage of AI.
+- _(and many many more)_.
+
+We need a solution that more broadly *advances* humanity while *minimizing imbalance*. 
+
+We propose such a solution:
+
 ## RootNet
 
-RootNet is a network that connects people socially _and_ financially.
+RootNet is a network that connects people *financially* and *socially*, while giving them *control* over how the network functions and evolves.
 
 On RootNet, users own their data, invest in each other's ideas and potential, and increasingly influence how the network functions and evolves.
 
