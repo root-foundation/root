@@ -113,7 +113,7 @@ In our example above, "Build product" and "Distribute" are more similar than the
 
 ## AGI eats activities and enables new ones.
 
-We can think of AGI as a advancement that _eats_ activities below a certain complexity threshold — *across the board*. In other words, AGI will eat low complexity activities in _any_ domain: design, product, music, art, engineering, law, etc. It distinguishes by _complexity_, not "domain" or any other form of distinctions that we've created between different kinds of work.
+We can think of artificial *general* intelligence (AGI) as a technology that _eats_ activities below a certain complexity threshold — *across the board*. In other words, AGI will eat low complexity activities in _any_ domain: design, product, music, art, engineering, law, etc. AGI distinguishes by _complexity_, not "domain" or any other form of distinctions that we've created between different kinds of work.
 
 In our example, as AGI advances, it will eat activities lower in the tree: starting at the leaves (e.g., "Design component in Figma", "Write a specific algorithm", etc.) and work upwards.
 
