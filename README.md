@@ -230,9 +230,11 @@ Even though the distribution of outcomes will be far more extreme, since the pea
 
 A post AGI world will be dynamic. The reign of winners will be increasingly short-lived. We will see rapid advancement across the board. AGI will push humanity to dream bigger and work on more and more complex problems. Problems we consider too complex to solve now will seem like simple tasks to our descendants. Thus, advancing and leveraging AGI will enable us to achieve a degree prosperity and abundance that we can't fathom.
 
-(todo: Bet on humanity: _we can always see more than what we can do_).
+Artificial intelligence will never render humans unnecessary because we will *always* see more than we can do. When we cure cancer we will want to cure death itself. When we reach Mars, we will want to get to Pluto. It is human nature to always want to do something much bigger than what we can do. Our imaginations are our only limitations. We believe in humanity's ability to imagine far more than anything artificial intelligence will be able to do.
 
-But, we are _not_ organized in a way that enables us to take advantage of artificial intelligence. In fact, AGI makes our current systems oppressive — concentrating opportunity in the hands of those who are wealthy, and devastating those without means. To understand why, let's study how our current economic system becomes oppressive in a post AGI world.
+But, we are _not_ organized in a way that enables us to take advantage of artificial intelligence. In fact, AGI makes our current systems oppressive — concentrating opportunity in the hands of those who are wealthy, and devastating those without means. 
+
+To understand why, let's study how our current economic system becomes oppressive in a post AGI world.
 
 # B. Unlocking our potential
 
