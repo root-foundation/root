@@ -58,7 +58,9 @@ Let's start with understanding the nature of an activity itself through an examp
 
 Bob is a beginner driver who breaks down the activity of driving a car into _sub-activities_: turn it on, steer, accelerate, change gear, check the mirror, etc.
 
-If a sub-activity is simple enough to do it, Bob just does it. If it's too complex, Bob breaks that sub-activity down further into more sub-activities. For example, Bob breaks "change gear" down into remembering the gear pattern, pressing down the clutch, moving the gear handle etc.
+If a sub-activity is simple enough to do it, Bob just does it. If it's too complex, Bob breaks[^break] that sub-activity down further into more sub-activities. For example, Bob breaks "change gear" down into remembering the gear pattern, pressing down the clutch, moving the gear handle etc.
+
+[^break]: We break an activity into sub-activities when we can't tackle it as a whole. This can happen because we lack skill to perform it as a whole or perhaps due to lack of tools. For example, a great filmmaker who already knows what they want to create may still have to break it down into sub-activities to _implement_ it: e.g., animation, etc. because they lack the tools or resources to abstract that sub-activity away.
 
 For Bob, the activity of driving a car is represented as a _recursive tree with falling complexity_: i.e., parent activities are more complex than sub-activities. We can think of [complexity](https://en.wikipedia.org/wiki/Game_complexity) as the number of possibilities (or _moves_) within an activity.
 
@@ -82,28 +84,64 @@ This means that each activity is _exponentially_ more complex than its sub-activ
 
 Now let's take a more relevant example: creating a company that wants to, say, automate agriculture with robots.
 
-This root activity is broken into _sub-activities_:
+```mermaid
+flowchart TD
+    %% Main nodes with curved (stadium) edges
+    Startup("Create Startup")
+    Build("Build")
+    Distribute("Distribute")
+    Design("Design")
+    BuildSystem("Design system")
+    UseFigma("Use Figma")
+    Sell("Sell")
+    CreatePipeline("Create pipeline")
+    UseSalesforce("Use Salesforce")
 
-1. Build product
-2. Distribute
-3. Raise money
-4. Hire
-5. ... etc.
+    %% Dimmed placeholder nodes
+    StartupEtc["..."]
+    BuildEtc["..."]
+    DesignEtc["..."]
+    BuildSysEtc["..."]
+    DistEtc["..."]
+    SellEtc["..."]
+    PipelineEtc["..."]
 
-And these sub-activities are broken down even further. Build product may have the following sub-activities:
+    %% New placeholder
+    %% BuildNew["+++"]
+    %% DesignNew["+++"]
+    %% BuildSystemNew["+++"]
+    %% SellNew["+++"]
+    %% CreatePipelineNew["+++"]
 
-1. Craft spec
-2. Design robot
-3. Engineer prototype
-4. ... etc.
+    %% Connections
+    Startup --> Build
+    Startup --> StartupEtc
+    Startup --> Distribute
 
-This process of breaking down goes on until _leaves_ such as:
+    Build --> BuildEtc
+    Build --> Design
+    Design --> DesignEtc
+    Design --> BuildSystem
+    BuildSystem --> BuildSysEtc
+    BuildSystem --> UseFigma
 
-1. Write a specific algorithm.
-2. Design component in Figma.
-3. ... etc.
+    Distribute --> Sell
+    Distribute --> DistEtc
+    Sell --> CreatePipeline
+    Sell --> SellEtc
+    CreatePipeline --> UseSalesforce
+    CreatePipeline --> PipelineEtc
 
-We break an activity into sub-activities when we can't tackle it as a whole. This can happen because we lack skill to perform it as a whole as we saw with how a beginner driver can't just "drive". We may also be forced to break an activity into sub-activities due to lack of tools. For example, a great filmmaker who already knows what they want to create may still have to break it down into sub-activities to _implement_ it: e.g., animation, etc. because they lack the tools or resources to abstract that sub-activity away.
+    %% Styling
+    classDef mainNode fill:#f3f3f3,stroke:#ffffff,stroke-width:2px,color:#000;
+    classDef placeholder fill:transparent,stroke:transparent,color:#555555;
+    classDef new fill:transparent,stroke:green,color:green;
+
+    class Startup,Build,Distribute,Design,BuildSystem,UseFigma,Sell,CreatePipeline,UseSalesforce mainNode;
+    class StartupEtc,BuildEtc,DesignEtc,BuildSysEtc,DistEtc,SellEtc,PipelineEtc placeholder;
+    class BuildNew,DesignNew,BuildSystemNew,SellNew,CreatePipelineNew new;
+```
+
 
 ## Similarity between activities
 
@@ -178,7 +216,8 @@ AGI accelerates all three factors:
 1. Complexity increases superexponentially.
 2. Competition increases at least exponentially.
 3. Leverage (AGI capability) has been increasing exponentially.
-   Thus, outcomes will acceleratingly become more extreme.
+
+Thus, outcomes will acceleratingly become more extreme.
 
 Extreme outcomes aren't new. Complex activities like building startups and creating content have always had extreme outcomes: the best founders and creators generate massive outcomes while the median founders and creators make nothing. **But, for the first time in human history, outcomes will be extreme in _all_ activities, not only in a few activities**. This is because AGI eats less complex activities _across the board_, instead of just in a few domains.
 
