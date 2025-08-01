@@ -387,17 +387,19 @@ Similarly, there are many other imbalances that rapid advancement in AI has caus
 
 We need a solution that more broadly *advances* humanity while *minimizing imbalance*. 
 
-We propose such a solution:
+We propose such a solution: *RootNet*.
 
 ## RootNet
 
-RootNet is a network that connects people *financially* and *socially*, while giving them *control* over how the network functions and evolves.
+RootNet is a network that connects people *socially* and *financially*, while giving people *control* over how the network functions and evolves.
 
-On RootNet, users own their data, invest in each other's ideas and potential, and increasingly influence how the network functions and evolves.
+Users can *express* themselves, publish ideas, and engage with other users — while *owning* everything they create.
 
-(todo: 3 paras, one for each function).
+Users can *invest* in each other's ideas and potential. Importantly, the user and the collective are financially connected — user holds equity in the NetworkToken which holds equity in every user's personal token. When one wins every one wins.
 
-RootNet's mission is to unite humanity and unlock our collective potential.
+Users will increasingly be able to influence all functions and policies of the network through *voting*. Voting will be continuous: users can shift their vote as soon as they change their minds. Users can *transfer* their vote for someone else to cast for an *individual* decision, a *type* of decision, or all decisions. Such representational voting will be necessary as the rate of decision-making accelerates.
+
+RootNet's mission is to unite humanity and unlock our collective potential — in the age of intelligence by connecting humanity socially and financially, while putting power in the hands of the people.
 
 ## Design principles
 
@@ -405,7 +407,7 @@ We believe the best way to create RootNet — given our ignorance about what is 
 
 We will mimic natural selection through:
 
-1. **Progressive decentralization**. Move power away from centralized authorities.
+1. **Progressive decentralization**. Move power away from centralized authority.
 2. **Fork-ability**. Enable duplication and mutation at any level of abstraction.
 
 ## Solution
