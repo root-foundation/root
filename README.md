@@ -159,7 +159,7 @@ Furthermore, due to better training and resources, there will be many more peopl
 
 ## 3. Outcomes superexponentially become more extreme across the board.
 
-Within _any_ activity, at any moment, a _smaller_ percentage of individuals will be responsible for a _greater_ share of economic value created — i.e., a _[power law distribution of outcomes](https://en.wikipedia.org/wiki/Power_law)_. Thus, the median _share_ falls.
+Within _any_ activity, at any moment, a _smaller_ percentage of individuals will be responsible for a _greater_ share of economic value created — i.e., a _[power law distribution of outcomes](https://en.wikipedia.org/wiki/Power_law)_. Thus, the *median share* falls.
 
 Outcomes become more extreme as the following increase:
 
@@ -251,7 +251,6 @@ _Even_ if one is debt-free, they will almost certainly be outcompeted by one who
 And critically, in an extreme world, if people don't have a stake in the collective upside, they will resent the winners — dividing society.
 
 Therefore, we must:
-
 1. Finance human activity in a way that ensures that anyone with potential has access to the resources they need to fully realize their potential — regardless of the circumstances of their birth.
 2. Give each individual a stake in the collective upside to elevate our baseline along with our success.
 
