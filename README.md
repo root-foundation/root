@@ -4,19 +4,11 @@ _[homan](https://x.com/homanspirit) & [shiv](https://scholar.google.com/citation
 
 ---
 
-RootNet is a network that connects people socially _and_ financially. Users own their data, invest in each other's ideas and potential, and increasingly control how the network functions and evolves.
+Artificial intelligence promises to elevate humanity towards collective prosperity. But, we are not *organized* in a way that enables us to take advantage of artificial intelligence. In fact, on top of our current systems, artificial intelligence will concentrate opportunity and divide society.
 
-RootNet's mission is to unite humanity and unlock our collective potential in the age of intelligence — by giving each person a stake in our collective success and by democratizing opportunity.
+In this essay we propose a system to organize humanity in a way that enables us to take advantage of artificial intelligence towards unity and prosperity, instead of division and destruction.
 
-In this essay we explore why we will _need_ RootNet to organize humanity to take advantage of artificial intelligence, our vision of the future, and how we will build it.
-
----
-
-Artificial intelligence promises a future of abundance and prosperity in which each individual has unimaginable power to realize their dreams.
-
-But, we're far from _organizing_ ourselves in a way that enables us to take advantage of artificial intelligence to achieve prosperity. In fact, on top of our current economic and governance systems, artificial intelligence is poised to concentrate opportunity and divide society.
-
-To see why, we must first understand how artificial intelligence will change our world.
+Before we propose this system, we must first understand how artificial intelligence will change our world.
 
 ---
 
