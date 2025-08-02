@@ -14,7 +14,7 @@ Before we propose this system, we must first understand how artificial intellige
 
 ---
 
-#### A. How AI will change our world
+#### Side A. How AI will change our world
 1. [Activity](#activity)
 2. [Complexity of an activity](#complexity-of-an-activity)
 3. [Example activity: creating a company](#example-activity-creating-a-company)
@@ -30,7 +30,7 @@ Before we propose this system, we must first understand how artificial intellige
 13. [6) Absolute number of winners grows at least exponentially.](#6-absolute-number-of-winners-grows-at-least-exponentially)
 14. [AGI will expand humanity's horizon](#agi-will-expand-humanitys-horizon)
 
-#### B. Unlocking our potential
+#### Side B. Unlocking our potential
 15. [Problem](#problem)
 16. [Venture capital](#venture-capital)
 17. [Personal token](#personal-token)
@@ -189,6 +189,7 @@ As artificial intelligence advances, we will see that:
 6. Absolute number of winners grows at least exponentially.
 
 Specificity in growth rates is critically important. Miscalculations in growth rates can lead to very different, sometimes even opposite predictions. In case you are unfamiliar with differences in growth rates (i.e., superlinear vs. exponential vs. superexponential) we recommend reading [our primer](GrowthRatePrimer.md).
+
 ## 1) Peak outcome grows superexponentially
 
 We value an activity proportional to the possibilities it enables — i.e., proportional to its _complexity_.
@@ -285,7 +286,7 @@ A post AGI world will be dynamic. The reign of winners will be increasingly shor
 
 Artificial intelligence will never render humans unnecessary because we will always *see* more than we can *do*. When we cure cancer we will want to cure death itself. When we reach Mars, we will want to get to Pluto. It is human nature to always want to do something much bigger than what we can do. Our imaginations are our only limitations. We believe in humanity's ability to imagine far more than anything artificial intelligence will be able to do.
 
-But, we are _not_ organized in a way that enables us to *collectively* take advantage of artificial intelligence. In fact, AGI makes our current systems oppressive — concentrating opportunity in the hands of those who are wealthy, devastating those without means, and tearing society apart.
+But, we are not organized in a way that enables us to *collectively* take advantage of artificial intelligence. In fact, AGI makes our current systems oppressive — concentrating opportunity in the hands of those who are wealthy, devastating those without means, and tearing society apart.
 
 To understand why, let's study how our current economic system becomes oppressive in a post AGI world.
 
