@@ -4,9 +4,11 @@ _[homan](https://x.com/homanspirit) & [shiv](https://scholar.google.com/citation
 
 ---
 
-Artificial intelligence promises to elevate humanity towards collective prosperity. But, we are not *organized* in a way that enables us to take advantage of artificial intelligence. In fact, on top of our current systems, artificial intelligence will concentrate opportunity and divide society.
+Artificial intelligence promises a future of abundance and prosperity. 
 
-In this essay we propose a system to organize humanity in a way that enables us to take advantage of artificial intelligence towards unity and prosperity, instead of division and destruction.
+But, we are not *organized* in a way that allows us to take advantage of artificial intelligence. In fact, artificial intelligence, upon our *current* systems, will concentrate opportunity and divide society.
+
+In this essay, we propose a *new* system to organize our world in a way that enables us to take advantage of artificial intelligence — towards unity and prosperity, instead of division and destruction.
 
 Before we propose this system, we must first understand how artificial intelligence will change our world.
 
@@ -15,7 +17,7 @@ Before we propose this system, we must first understand how artificial intellige
 #### A. How AI will change our world
 1. [Activity](#activity)
 2. [Complexity of an activity](#complexity-of-an-activity)
-3. [Example: creating a company](#example-creating-a-company)
+3. [Example activity: creating a company](#example-activity-creating-a-company)
 4. [Similarity between activities](#similarity-between-activities)
 5. [AGI eats activities and enables new ones.](#agi-eats-activities-and-enables-new-ones)
 6. [Local vs. global convergence](#local-vs-global-convergence)
@@ -50,37 +52,41 @@ Before we propose this system, we must first understand how artificial intellige
 
 # A. How AI will change our world
 
-When we ask how AI will change our world, what we're really asking is how it changes the nature of our _activities_: what will we will find valuable to work on, and how we work on them.
+When we ask how AI will change our world, what we're really asking is how it changes the nature of our _activities_: i.e, what we will find valuable to work on and how we will work on them.
 
 ## Activity
 
-Let's start with understanding the nature of an activity itself through an example: "drive car".
+Let's start with understanding the nature of an activity through an example: driving a car.
 
-Bob is a beginner driver who breaks down the activity of driving a car into _sub-activities_: turn it on, steer, accelerate, change gear, check the mirror, etc.
+Bob, a beginner, wants to drive a car. Since driving a car is too complex to just do for Bob, he has to break this activity into *sub-activities*: turn it on, steer, accelerate, change gear, check the mirror, etc.
 
-If a sub-activity is simple enough to do it, Bob just does it. If it's too complex, Bob breaks[^break] that sub-activity down further into more sub-activities. For example, Bob breaks "change gear" down into remembering the gear pattern, pressing down the clutch, moving the gear handle etc.
+If a sub-activity is simple enough to do, Bob just does it. If it's too complex, Bob breaks[^break] that sub-activity down further into more sub-activities. For example, Bob breaks "change gear" down into remembering the gear pattern, pressing down the clutch, moving the gear handle etc.
 
 [^break]: We break an activity into sub-activities when we can't tackle it as a whole. This can happen because we lack skill to perform it as a whole or perhaps due to lack of tools. For example, a great filmmaker who already knows what they want to create may still have to break it down into sub-activities to _implement_ it: e.g., animation, etc. because they lack the tools or resources to abstract that sub-activity away.
 
-For Bob, the activity of driving a car is represented as a _recursive tree with falling complexity_: i.e., parent activities are more complex than sub-activities. We can think of [complexity](https://en.wikipedia.org/wiki/Game_complexity) as the number of possibilities (or _moves_) within an activity.
+For Bob, the activity of driving a car is represented as a _recursive tree with falling complexity_: i.e., activities are more complex than their sub-activities. By complexity we mean the number of possibilities (or *moves*) for an activity. For example, in the activity of changing a gear, its complexity is the number of possible gear changes you can make.
 
-A _leaf_ activity (at the bottom) has a complexity that _can_ be tackled without breaking down into more sub-activities. The root is the activity you _want_ to tackle. And importantly, this _difference_ between the complexity of the activity you _want_ to tackle and the complexity of what you _can_ tackle (without breaking down further) is what _causes_ the tree to be constructed.
+A _leaf_ activity (at the bottom) has a complexity that _can_ be tackled without breaking down into further sub-activities. The root is the activity you _want_ to tackle. And importantly, this _difference_ between the complexity of the activity you _want_ to tackle and the complexity you _can_ tackle (without breaking down further) is what _causes_ this tree to be constructed.
 
-## Complexity of an activity
+## Parent vs. child activity
 
-At first glance, it's tempting to consider the complexity of the parent activity just the _sum_ of complexities of its sub-activities. This feels natural because of course the parent activity contains the moves of the sub-activities, otherwise sub-activities wouldn't be _sub_ activities.
+At first glance, it's tempting to consider the complexity of the parent activity as just the _sum_ of the complexities of its sub-activities. This feels natural because of course the parent activity contains the moves of the sub-activities, otherwise sub-activities wouldn't be _sub_ activities.
 
-But, in reality, we see that the parent activity actually contains many moves that _can't_ be categorized neatly into these sub-activities.
+But, in reality, we see that the parent activity actually contains *many* moves that can't be found in any of the sub-activities. I.e., there are moves in the parent activity that *cannot* be understood as a collection of sub-moves that are each restricted to a sub-activity.
 
-For example, when Alice, an expert driver, drives a car, she fluidly makes many moves that don't treat those moves as separate sub-activities. For example, she may glance at the mirror while changing gears while turning the steering wheel while skipping to the next song in her music player. Alice has no need to break the activity of driving a car into sub-activities because she can handle its complexity.
+For example, when Steve Jobs envisioned the iPhone, he impacted product, engineering, marketing, sales, etc. sub-activities simultaneously. Each team projected this move into their own domains to understand and execute it. But, the *real* move lived *above* these sub-activities. The real move emerged from a holistic intuition about *all* the possibilities of the parent activity without *fracturing* the parent activity into sub-activities. 
 
-We can also see this in the context of startups: a great founder makes moves that can't neatly be categorized into product, design, engineering, brand, marketing, etc. Their moves exist in a fluid _space_ that contains exponentially more possibilities than the possibilities in any sub-activity.
+Importantly, the real move *could not* have been reconstructed from the projections each team perceived. That is, if someone were to attempt to understand the real move by talking to the heads of each team to gather their perceptions about the move, they would fail to capture the essence of Steve's move.
 
-This means that each activity is _exponentially_ more complex than its sub-activities, so complexity increases _superexponentially_ as we climb the tree.
+This means that the complexity of the parent activity is *always greater* than the *sum* of complexities of its sub-activities. Specifically, the relationship between the parent's complexity and the sum of childs' complexities is at least *superlinear* (and possibly exponential).
 
-> In case you aren't familiar with exponential / superexponential growth rates, we recommend reading [our primer](GrowthRatePrimer.md).
+Consequently, the complexity of an activity in the tree grows *superexponentially*[^complexity-growth] as we go up the tree.
 
-## Example: creating a company
+[^complexity-growth]: To see why, let's consider the following: when we recurse this relation from any activity in the tree to *its* leaves, we see that the complexity of the activity is a superlinear function of the sum of complexity of its leaves. Because the number of leaves already grows exponentially with depth (due to tree structure), the complexity of the activity will be superexponentially greater than the complexity of its individual leaves.
+
+> In case you unfamiliar with growth rates (i.e., superlinear, exponential, superexponential), we recommend reading [our primer](GrowthRatePrimer.md).
+
+## Example activity: creating a company
 
 Now let's take a more relevant example: creating a company that wants to, say, automate agriculture with robots.
 
@@ -145,43 +151,45 @@ flowchart TD
 
 ## Similarity between activities
 
-The lower you go in the tree, the more we have broken the root activity further and further. Each _break_ creates a separation or difference. This means the further down we go, the more the differences compound — i.e., the further away activities are from their common ancestor, the more different they become.
+The lower you go in the tree, the more we have broken the root activity into more and more sub-activities. Each break introduces a separation or difference that would otherwise not exist if the activity could be performed as whole. This means the further down we go, the more the differences compound — i.e., the further away activities are from their common ancestor, the more *different* they become.
 
-Which is why when we compare two activities further down in our tree, we will find that they are less similar — i.e., ability transfers less easily across them. The higher up we go, ability transfers more easily between activities because they are closer to their common ancestor (i.e., shorter tree path).
+Which is why when we compare activities with further away common ancestors, they are less similar — i.e., ability transfers less easily across them. Naturally, the higher up in the tree we go, activities will be closer to their common ancestors, i.e., they become *more similar*.
 
-In our example above, "Build product" and "Distribute" are more similar than their respective leaves of their sub-trees: "Design component in Figma" vs. "Set up a sales pipeline in Salesforce". The high level reasoning and intuition required to effectively break down "Build product" and "Distribute" into sub-activities and correctly prioritize them is more _similar_ than the domain specific knowledge you need to operate two different tools.
+In our example above, "Build product" and "Distribute" are more similar than their respective leaves of their sub-trees: "Design component in Figma" vs. "Set up a sales pipeline in Salesforce". The high level reasoning and intuition required to effectively break down "Build product" and "Distribute" into sub-activities and correctly prioritize them is more _similar_ (and easily ) than the domain specific knowledge you need to operate two different tools.
 
 ## AGI eats activities and enables new ones.
 
-We can think of artificial *general* intelligence (AGI) as a technology that _eats_ activities below a certain complexity threshold — *across the board*. In other words, AGI will eat low complexity activities in _any_ domain: design, product, music, art, engineering, law, etc. AGI distinguishes by _complexity_, not "domain" or any other form of distinctions that we've created between different kinds of work.
+Artificial *general* intelligence (AGI) is a technology that _eats_ activities below a certain complexity threshold — *across the board*. In other words, AGI will eat low complexity activities in _any_ domain: design, product, music, art, engineering, law, etc. AGI distinguishes by _complexity_, not "domain" or any other form of distinctions that we've created between different kinds of work.
 
 In our example, as AGI advances, it will eat activities lower in the tree: starting at the leaves (e.g., "Design component in Figma", "Write a specific algorithm", etc.) and work upwards.
 
-As this happens, we change the way we break activities into sub-activities — i.e., changing our tree. Therefore, we can also see new sub-activities that have been enabled (that we previously couldn't do). For example, In our company, a new activity (and role) could be managing AI agents that will do to the lower complexity work that we previously had to do ourselves using domain specific tools.
+As this happens, we change the way we break activities into sub-activities — i.e., we change our tree. When we change the way we break activities, we will also see new sub-activities that we previously couldn't do. In our company example, a new activity (and role) could be managing AI agents that will do to the lower complexity work that we previously had to do ourselves using domain specific tools.
 
-**Thus, As AGI continues to push us upwards, it will _converge_ our activities (and thus our attention) towards our _root_ — a _highly complex_, _singular_ activity.**
+**Thus, as AGI continues to push us upwards, it will _converge_ our activities (and thus our attention) towards our _root_ — a _highly complex_, _singular_ activity.**
 
 ## Local vs. global convergence
 
-Our activity (creating an agriculture robotics company) is a sub-activity within a larger activity tree that is rooted in creating _general_ robotics company which contains all the possibilities of our agriculture robotics company along with many many more possibilities. And this larger activity tree itself is a part of a much larger _global_ activity tree: i.e, one that contains all of humanity's activities.
+Our example activity (creating an agriculture robotics company) is a sub-activity within a larger activity tree that is rooted in creating _general_ robotics company which contains all the possibilities of our company along with many many more possibilities. And this larger activity tree itself is a part of a much larger _global_ activity tree: i.e, one that contains all of humanity's activities.
 
-While convergence happens locally: towards the root of our company, it also happens globally. AGI enables greater (and faster) progress higher above the tree. This means that progress in a more complex activity higher in the tree _will make our entire activity irrelevant_ in the same way that AGI _made our local leaves irrelevant_.
+While convergence happens locally (towards the root of our company), it also happens globally. This means that progress in a more complex activity higher in the tree _will make our entire activity irrelevant_ in the same way that AGI _made our local leaves irrelevant_.
+
+---
 
 From this understanding of how AGI impacts our activities, we can predict what a post AGI world will look like.
 
 ## Predictions
 
-As artificial intelligence advances towards and beyond AGI:
+As artificial intelligence advances, we will see that:
 
 1. Peak outcome grows superexponentially.
 2. Competition grows at least exponentially.
-3. Outcomes superexponentially become more extreme across the board.
+3. Outcomes become more extreme superexponentially, across the board.
 4. Number of economically viable activities grows superexponentially.
-5. Rate of displacement of winners accelerates at least exponentially.
+5. Rate of displacement of winners grows at least exponentially.
 6. Absolute number of winners grows at least exponentially.
 
-Specificity in growth rates is critically important. Miscalculations in growth rates can lead to very different, sometimes even opposite, predictions. In case you are unfamiliar with differences in growth rates (i.e., linear vs. exponential vs. superexponential) we recommend reading [our primer](GrowthRatePrimer.md).
-## 1) Peak outcome grows superexponentially.
+Specificity in growth rates is critically important. Miscalculations in growth rates can lead to very different, sometimes even opposite predictions. In case you are unfamiliar with differences in growth rates (i.e., superlinear vs. exponential vs. superexponential) we recommend reading [our primer](GrowthRatePrimer.md).
+## 1) Peak outcome grows superexponentially
 
 We value an activity proportional to the possibilities it enables — i.e., proportional to its _complexity_.
 
@@ -189,17 +197,17 @@ Building Youtube is far more valuable than building a niche, genre-specific, vid
 
 Since complexity grows superexponentially as we go up the tree, so will the peak value that can be created (i.e., the peak _outcome_).
 
-## 2) Competition grows at least exponentially.
+## 2) Competition grows at least exponentially
 
 We have already seen that activities become more similar the higher up we go. Since ability transfers more easily across them, so does competition.
 
 Furthermore, due to better training and resources, there will be many more people capable of competing at more complex activities, amplifying competition further.
 
-## 3) Outcomes superexponentially become more extreme across the board.
+## 3) Outcomes become more extreme superexponentially, across the board
 
 Within _any_ activity, at any moment, a _smaller_ percentage of individuals will be responsible for a _greater_ share of economic value created — i.e., a _[power law distribution of outcomes](https://en.wikipedia.org/wiki/Power_law)_. Thus, the *median share* falls.
 
-Outcomes become more extreme as the following increase:
+Generally, outcomes become more extreme as the following increase:
 
 1. Complexity of an activity.
 2. Competition (quantity and quality).
@@ -207,9 +215,9 @@ Outcomes become more extreme as the following increase:
 
 We observe this relationship between extreme outcomes and complexity in popular games such as Chess and Go. Go has more extreme outcomes than Chess because it is more [complex](https://en.wikipedia.org/wiki/Game_complexity) — i.e., has more possible states or possibilities).
 
-As competition has improved (more players, better computer assisted training, coaching, etc.) over the years, outcomes have become _even more_ extreme (i.e., ELO spread has increased).
+Furthermore, as competition has improved in these games (more players, better computer assisted training, coaching, etc.) over the years, outcomes have become _even more_ extreme (i.e., ELO spread has increased).
 
-Leverage also matters because the faster you can make a move, the more quickly the underlying extreme outcomes manifest. For example, when two competing startup founders can iterate twice as fast, the difference in their outcomes accelerates — the better one will more quickly outcompete the other.
+Finally, leverage also matters because the faster you can make a move, the more quickly the underlying extreme outcomes manifest. For example, when two competing startup founders can iterate twice as fast, the difference in their outcomes accelerates — the better one will more quickly outcompete the other.
 
 AGI accelerates all three factors:
 
@@ -217,7 +225,7 @@ AGI accelerates all three factors:
 2. Competition increases at least exponentially.
 3. Leverage (AGI capability) has been increasing exponentially.
 
-Thus, outcomes will acceleratingly become more extreme.
+Thus, outcomes will become more extreme superexponentially.
 
 Extreme outcomes aren't new. Complex activities like building startups and creating content have always had extreme outcomes: the best founders and creators generate massive outcomes while the median founders and creators make nothing. **But, for the first time in human history, outcomes will be extreme in _all_ activities, not only in a few activities**. This is because AGI eats less complex activities _across the board_, instead of just in a few domains.
 
@@ -229,31 +237,37 @@ All of the activities we see in our world are sub-activities for some highly com
 
 The number of activities that we conceive will be proportional to ratio of: the complexity of the highest complexity activity we can see (i.e., "root"), and the complexity that we can tackle directly without breaking into sub-activities. Since the complexity of activities grows superexponentially the higher up we go, this ratio will always increase. This ratio will likely increase at least exponentially.
 
-## 5) Rate of displacement of winners accelerates.
+## 5) Rate of displacement of winners grows at least exponentially
 
 Winners remaining winners becomes exponentially more difficult. _Churn_ accelerates.
 
-For winners at the current level of complexity, who are aiming to tackle a parent activity (which will be exponentially more complex):
+For winners at the current level of complexity, who are aiming to tackle a more complex activities, the following apply:
 
-1. Advantage relative to someone just starting off shrinks rapidly. The complexity of the new activity is so massive that the knowledge you gained in the lower complexity activity increasingly becomes an irrelevant advantage relative to someone starting off with no knowledge.
-2. Success becomes a drag because learnings increasingly won't translate to higher complexity activities (and will actually create wrong intuitions). You will increasingly be outcompeted by those who _start_ from above.
+1. Advantage relative to someone just starting off shrinks rapidly. As we go up the tree, the complexity of new high complexity activities will be so massive that the knowledge you gained in the lower complexity activity increasingly becomes an irrelevant advantage relative to someone starting off with no knowledge.
+2. Success becomes a drag because learnings increasingly won't translate to insights in higher complexity activities (and will increasingly create wrong, limiting intuitions). You will increasingly be outcompeted by those who _start_ from above.
 3. Pool of competition widens exponentially. Increasingly you will be made irrelevant from places you least expect.
+
+---
 
 At higher complexities, transferring success from an activity to its parent activity is less about scaling what you already know and more about having a fundamental breakthrough.
 
-For example, scaling McDonald's from one city to the world (a previously high complexity activity from a couple of decades ago) is far more straightforward than scaling a robotics company from one domain (agriculture) to a more general robotics company that can handle many domains (an example of _current_ high complexity activity). You can reason about how to scale McDonald's to many locations. But you cannot _linearly_ reason about how to make a domain specific robot _generally_ useful — this requires re-imagining and big breakthroughs.
+For example, scaling McDonald's from one city to the world (a previously high complexity activity from a couple of decades ago) is far more straightforward than scaling a robotics company from one domain (agriculture) to a more general robotics company that can handle many domains (an example of a current high complexity activity). You can reason about how to scale McDonald's to many locations. But you cannot easily reason about how to make a domain specific robot _generally_ useful — this requires re-imagining and big breakthroughs.
 
-Those who will crack the more complex activity that will make current winners obsolete will increasingly have to _start_ directly at the higher complexity activity. Success at a lower complexity activity creates unnecessary drag and distraction because the learnings you gain from that traction become less likely to translate into insights in the higher complexity activities above. For example, OpenAI could not have emerged as an evolution of a domain specific AI winner.
+Those who will crack the more complex activities will increasingly have to start directly *at* them. Success at a lower complexity activity creates unnecessary drag and distraction because your learnings at that level become less likely to translate into insights in the higher complexity activities above. For example, OpenAI could not have emerged as an evolution of a domain specific AI winner.
+
+---
 
 Furthermore, the higher up in the tree we are at, the more similar our activities become — i.e., the more easily you can transfer ability from one activity to another. This greatly widens the pool of competition.
 
-Winners will increasingly face competition from places they least expect. We are seeing early signs, the top content creators and startup founders are starting to find themselves rubbing shoulders fighting for the same attention. Similarly, companies building coding agents are finding themselves competing with companies working on project management platforms (because building and managing are converging).
+Winners will increasingly face competition from places they least expect. We are seeing early signs of this: top content creators and startup founders are starting to find themselves rubbing shoulders fighting for the same attention. Similarly, companies building coding agents are finding themselves competing with companies working on project management tools (because building and managing are converging).
 
 Eventually, some random biology discovery in a quantum computing lab could wipe out a massive sub-tree of robotics companies by enabling embodied intelligence grounded in biology that can generalize far better than mechanical robots. It will be increasingly difficult to predict and counter such competition.
 
-There will be greater overall quality of competition as quality of training and resources become more democratized. As the peak outcome grows superexponentially, more capable individuals will start by directly attacking activities very high in the tree, shaking up many sub-trees of current winners.
+Also, there will be greater quality of competition due to better training at scale (enabled by AI). Furthermore, as the peak outcome grows superexponentially, more capable individuals will start by directly attacking activities very high in the tree, shaking up many sub-trees of current winners.
 
-It will be tough to remain a winner when you have no idea where you will be outcompeted from, your pool of competent competitors grows superexponentially, and the prizes for winning grow superexponentially leading to many more competent teams working activities that will make yours irrelevant.
+It will be tough to remain a winner when you have no idea where you will be outcompeted from. Your pool of competent competitors grows superexponentially and the prizes for winning grow superexponentially leading to many more competent teams working on activities that will make yours irrelevant.
+
+---
 
 **Therefore, most value will be created by companies that haven't been started, by individuals who haven't been born.**
 
@@ -263,15 +277,15 @@ We are entering a new age of creating value. Successfully tackling highly comple
 
 ## 6) Absolute number of winners grows at least exponentially.
 
-Even though the distribution of outcomes will be far more extreme, since the peak outcomes grow exponentially, even _tiny_ wins (relative to the peak wins) will still be _massive_. And since the rate of displacement accelerates, in a given period of time, there will be many more who would have touched the extreme success as well.
+Even though the distribution of outcomes will be far more extreme, since the peak outcomes grow superexponentially, even _tiny_ wins (relative to the peak wins) will still be _massive_. And since the rate of displacement grows at least exponentially, in a given period of time, there will be *many more* who would have touched extreme successes as well.
 
 ## AGI will expand humanity's horizon
 
 A post AGI world will be dynamic. The reign of winners will be increasingly short-lived. We will see rapid advancement across the board. AGI will push humanity to dream bigger and work on more and more complex problems. Problems we consider too complex to solve now will seem like simple tasks to our descendants. Thus, advancing and leveraging AGI will enable us to achieve a degree prosperity and abundance that we can't fathom.
 
-Artificial intelligence will never render humans unnecessary because we will *always* see more than we can do. When we cure cancer we will want to cure death itself. When we reach Mars, we will want to get to Pluto. It is human nature to always want to do something much bigger than what we can do. Our imaginations are our only limitations. We believe in humanity's ability to imagine far more than anything artificial intelligence will be able to do.
+Artificial intelligence will never render humans unnecessary because we will always *see* more than we can *do*. When we cure cancer we will want to cure death itself. When we reach Mars, we will want to get to Pluto. It is human nature to always want to do something much bigger than what we can do. Our imaginations are our only limitations. We believe in humanity's ability to imagine far more than anything artificial intelligence will be able to do.
 
-But, we are _not_ organized in a way that enables us to take advantage of artificial intelligence. In fact, AGI makes our current systems oppressive — concentrating opportunity in the hands of those who are wealthy, and devastating those without means. 
+But, we are _not_ organized in a way that enables us to *collectively* take advantage of artificial intelligence. In fact, AGI makes our current systems oppressive — concentrating opportunity in the hands of those who are wealthy, devastating those without means, and tearing society apart.
 
 To understand why, let's study how our current economic system becomes oppressive in a post AGI world.
 
