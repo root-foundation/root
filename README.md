@@ -282,9 +282,9 @@ Even though the distribution of outcomes will be far more extreme, since the pea
 
 ## AGI will expand humanity's horizon
 
-A post AGI world will be dynamic. The reign of winners will be increasingly short-lived. We will see rapid advancement across the board. AGI will push humanity to dream bigger and work on more and more complex problems. Problems we consider too complex to solve now will seem like simple tasks to our descendants. Thus, advancing and leveraging AGI will enable us to achieve a degree prosperity and abundance that we can't fathom.
+A post AGI world will be dynamic and extreme. The reign of winners will be increasingly short-lived. We will see rapid advancement across the board. AGI will push humanity to dream bigger and work on more and more complex problems. Problems we consider too complex to solve now will seem like simple tasks to our descendants. Thus, advancing and leveraging AGI will enable us to achieve a degree prosperity and abundance that we can't fathom.
 
-Artificial intelligence will never render humans unnecessary because we will always *see* more than we can *do*. When we cure cancer we will want to cure death itself. When we reach Mars, we will want to get to Pluto. It is human nature to always want to do something much bigger than what we can do. Our imaginations are our only limitations. We believe in humanity's ability to imagine far more than anything artificial intelligence will be able to do.
+Artificial intelligence will never render humans unnecessary because we will always *see* more than we can *do*. When we cure cancer we will want to cure death itself. When we reach Mars, we will want to get to Pluto. Our imaginations are our only limitations. We believe in humanity's ability to imagine far more than anything artificial intelligence will be able to do.
 
 But, we are not organized in a way that enables us to *collectively* take advantage of artificial intelligence. In fact, AGI makes our current systems oppressive — concentrating opportunity in the hands of those who are wealthy, devastating those without means, and tearing society apart.
 
@@ -294,9 +294,9 @@ To understand why, let's study how our current economic system becomes oppressiv
 
 ## Problem
 
-In a post AGI world, due to extreme outcomes in _all_ activities, debt will no longer be a viable means to finance anything.
+In a post AGI world, due to [extreme outcomes](#3-outcomes-superexponentially-become-more-extreme-across-the-board) in _all_ activities, debt will no longer be a viable means to finance anything.
 
-This is not due to fewer opportunities (AGI will enable far more opportunities than it takes), but rather due to the extreme, winner-take-all nature of outcomes within _any_ opportunity. In extreme outcomes, the median outcome falls to nothing and thus financing with debt is no longer viable.
+This is not due to fewer opportunities (AGI will enable far more opportunities than it takes), but rather due to the extreme, winner-takes-all nature of outcomes within _any_ opportunity. In extreme outcomes, the median outcome falls to nothing and thus financing with debt is no longer viable.
 
 Tragically, billions are still taking out loans to finance their lives — from their educations, to their homes, businesses, etc. — without realizing that they will almost certainly never be able to repay these loans as outcomes rapidly becomes more extreme.
 
@@ -306,7 +306,7 @@ And critically, in an extreme world, if people don't have a stake in the collect
 
 Therefore, we must:
 1. Finance human activity in a way that ensures that anyone with potential has access to the resources they need to fully realize their potential — regardless of the circumstances of their birth.
-2. Give each individual a stake in the collective upside to elevate our baseline along with our success.
+2. Give each individual a stake in the collective upside to elevate our baseline, i.e, when any one succeeds everyone benefits.
 
 Otherwise opportunity becomes concentrated in those who aren't be burdened by debt (i.e., those with extreme wealth), dividing society and preventing a future of collective opportunity and prosperity.
 
@@ -316,13 +316,13 @@ In an extreme world, venture capital (VC) is the _only_ viable way to finance ou
 
 At its core, venture capital unites people by intertwining their success and failure — through _equity_ in outcomes.
 
-VC is already a popular way to finance startups: investors give startup companies money in exchange for an _equity_ stake in the startup itself. If the startup succeeds, the investors make great returns. If the startup fails, the investors lose their investment. Importantly, startup founders are not indebted to investors. And because of the shared stake, investors are incentivized to give founders the resources they need to succeed.
+VC is already a popular way to finance startups: investors give startup companies money in exchange for an _equity_ stake in the startup itself. If the startup succeeds, the investors make great returns. If the startup fails, the investors lose their investment. Importantly, startup founders are *not* indebted to investors. And because of the shared stake, investors are incentivized to give founders the resources they need to succeed.
 
 Venture capital works exceptionally well in domains with extreme outcomes because an investor only needs a few bets to succeed in order to _more-than-compensate_ for the many failed bets they will inevitably have (because the median outcome is failure). Therefore, VC is the only way to finance activities that have extreme outcomes because no other mode of financing can withstand the extreme failure rate.
 
-Since AGI makes _all_ activities extreme, VC will be the only viable way to finance anything. But, VC as, as it exists today, is too restrictive because only those ready to start a company can leverage venture capital. In order to unlock our collective potential, we must enable individuals to access venture capital to finance a broader range of activities, much earlier in their lives.
+Since AGI makes _all_ activities extreme, VC will be the only viable way to finance *anything*. But, VC as it exists today is too restrictive because only those ready to start a company can leverage VC. In order to unlock our collective potential, we must enable individuals to access venture capital to finance a *broader* range of activities, *earlier* in their lives.
 
-We need a new _financial instrument_ that democratizes venture capital.
+We need a new financial instrument that democratizes venture capital.
 
 ## Personal token
 
@@ -332,15 +332,17 @@ To democratize access to venture capital, we are creating the _personal token_: 
 
 _(Jane's personal token with her shareholders and her equities in companies and other personal tokens.)_
 
-Your personal token's value is grounded in your equities in companies and other personal tokens. A portion of the capital you gain when selling equity in a company or personal token is sent to your personal token shareholders — proportional to the equity they hold (i.e. dividends).
+Your personal token's value is grounded in your equities in companies and other personal tokens. A portion of the capital you gain when selling equity in a company or personal token (i.e., capital gains) is sent to your personal token shareholders — proportional to the equity they hold (i.e. dividends).
 
-Unlike company shareholders, personal token shareholders have _no_ “ownership", control or say over the personal token owner or anything they do. **The personal token owner retains absolute, complete agency and control over their lives**.
+Unlike company shareholders, personal token shareholders have _no_ “ownership", control, or say over the personal token owner or anything they do. **The personal token owner retains absolute, complete agency and control over their lives**.
 
 ## Money -> Company -> Personal token
 
 The personal token is the next phase in the evolution of financial instruments — as an abstraction that sits above the company, which in turn sits above money.
 
-Simple notions of debt and exchange became painful as the complexity of transactions grew. Over time, this created a pressure which (in a messy, nonlinear way) gave rise to transferrable IOUs — i.e. _money_.
+Simple notions of debt and exchange became painful as the complexity of transactions grew. Over time, this created a pressure which gave rise[^messy] to transferrable IOUs — i.e. _money_.
+
+[^messy]: In a messy, nonlinear way.
 
 Similarly, debt instruments became a painful means to finance high-risk high-reward expeditions that emerged due to rapid advancement. This created a pressure that gave rise to transferrable equity in upside — i.e. _venture-backed company_.
 
@@ -366,65 +368,47 @@ With the leverage that artificial intelligence provides, individuals will be abl
 
 ## Personal tokens will democratize opportunity
 
-Personal tokens create a market for human potential that will increasingly allocate resources according to an individual’s potential — _regardless_ of the circumstances of their birth and privilege.
+Personal tokens create a market for human potential that will increasingly allocate resources according to an individual’s potential, _regardless_ of the circumstances of their birth and privilege.
 
-We acknowledge that _initially_ personal tokens will be better harnessed by individuals with privilege. Early individuals who raise capital by selling equity in their personal tokens would have likely had advantages such as better education, access to resources, capital, networks, etc. But eventually, as the network matures through more participants and investments (in number and magnitude), market forces will more aggressively allocate resources to undervalued or undiscovered talent. Thus, market forces will push resources to individuals _earlier_ in their lives across a _broader_ range of activities — preventing wastage of valuable potential and minimizing unfair advantages.
+We acknowledge that _initially_, personal tokens will be better harnessed by individuals with privilege. Early individuals who raise capital by selling equity in their personal tokens would have likely had advantages such as better education, access to resources, capital, networks, etc. But eventually, as the network matures through more participants and investments (in number and magnitude), market forces will more aggressively allocate resources to undervalued or undiscovered talent. Thus, market forces will push resources to individuals _earlier_ in their lives across a _broader_ range of activities — preventing wastage of valuable potential and minimizing unfair advantages.
 
-As discussed earlier, _even_ with extreme outcomes we will have a greater absolute number of winners because of rapid displacement of winners (due to accelerating change). Furthermore, as artificial intelligence advances humanity, the number of quality contenders will increase (due to better training, resources, leverage, etc.).
+As discussed [earlier](#predictions), even with extreme outcomes:
+1. We will have greater absolute number of winners.
+2. More rapid displacement of these winners.
+3. Greater and higher quality competition.
+4. Peak success grows.
 
 Because of more extreme success outcomes _and_ greater number of competent contenders for those outcomes, we will see more widespread investments of greater magnitude. Therefore, even the investment into the median contender will increase.
 
-Therefore, personal tokens, and the market forces they create, will increasingly negate privilege by incentivizing capital to flow to incorrectly undervalued individuals — based on their potential, not wealth.
+Therefore, personal tokens, through the market forces they create, will rapidly negate privilege by incentivizing capital to flow to incorrectly undervalued individuals — based on their potential, not wealth.
 
-## The network
+## NetworkToken
 
-Personal tokens can't exist in a vacuum. We need many functions in order to have a thriving ecosystem of individuals investing in each other through their personal tokens (e.g., fighting fraud, enabling discovery, etc.). In order to finance such functions this system will collect a small _equity fee_: a micro stake in every personal token that has successfully raised funds.
+Personal tokens can't exist in a vacuum. We need many functions in order to have a thriving ecosystem of individuals investing in each other (e.g., enabling discovery, fighting fraud, etc.). In order to finance such functions this system will collect a small _equity fee_: a micro stake in every personal token that has successfully raised funds.
 
-To be able to collect this equity fee, we have another _type_ of token called the _network token_. An instance of a network token (i.e., “NetworkToken”) represents the collective potential of the _entire_ network through its micro stakes in all personal tokens. The wallet associated with the NetworkToken is the network's treasury that helps finance all of its functions.
-
-Before we can paint the picture of _how_ personal and network tokens can unite society and democratize opportunity, we need to first see how artificial intelligence is changing our world.
+To be able to collect this equity fee, we have another _type_ of token called the _network token_. An instance of a network token — “NetworkToken” — represents the collective potential of the _entire_ network through its micro stakes in all personal tokens. The wallet associated with the NetworkToken is the network's Treasury that helps finance all of its functions.
 
 ## Universal Basic Equity (UBE)
 
-In an extreme world with a falling median outcome, a sufficient baseline of resources for each individual is a prerequisite to democratizing opportunity.
+In an extreme world with a falling median outcome, a sufficient baseline of resources for each individual is a prerequisite to democratize opportunity.
 
-This is best achieved through _Universal Basic Equity (UBE)_: every citizen receives an _equity stake_ in the collective upside — i.e., a stake in the NetworkToken.[^children]
+This is best achieved through _Universal Basic Equity (UBE)_: every citizen receives an _equity stake_ in the collective upside — i.e., a stake in the NetworkToken.[^children] This creates a symbiotic relationship between the individual and the collective
 
 [^children]: UBE also incentivizes having children. When a baby is born, new shares in the NetworkToken is minted for that baby, thus diluting the value everyone else’s shares. Thus, families will be incentivized to have more children to increase their collective equity in the NetworkToken.
 
-In addition to providing a strong baseline, UBE also creates a symbiotic relationship between the individual and the collective. When value is created anywhere, in any form, everyone _immediately_ benefits because the value of everyone’s equity in the collective upside will increase (i.e., value of the NetworkToken rises). UBE incentivizes us to root for each other to win.
+**UBE eliminates the lag between individual and collective success**. Waiting to _tax_ success to distribute wealth doesn't work because we have to wait for equity to be sold (i.e., so that capital _gains_ can be taxed). On the other hand, when each individual *directly* holds equity in the collective (NetworkToken), the value of their equity goes up as soon as hope in the future increases. Any major scientific discovery, technological breakthrough, or artistic expression that instills *hope* in our future increases the value of the NetworkToken *immediately*. 
 
-Critically, Universal basic _income_ (UBI) will _not_ work on its own because it will cause difficult-to-manage inflation (because capital pumped into the market). **Universal basic _equity_ (UBE) will not cause inflation** due to the _strong_ incentive to hold your equity in the NetworkToken given the promise of great upside (i.e., belief that humanity will create _even_ more value in the future).
+And importantly, the value of the NetworkToken is grounded in reality: in personal tokens, which are grounded in companies, which are grounded in revenue, which is grounded in transactions in which real value is created (else the transaction would not have occurred).
 
-As long as we have faith in humanity's potential, more people will hold than sell, preventing inflation.
+Critically, Universal basic _income_ (UBI) will _not_ work on its own because it will cause difficult-to-manage inflation (because capital is pumped into the market). On the other hand, **Universal basic _equity_ (UBE) will not cause inflation** due to the _strong_ incentive to *hold* your equity in the NetworkToken given the promise of great upside. As long as we have faith in humanity's potential, more people will hold than sell, preventing inflation.
 
-> Note: if needed, in addition to UBE, UBI can also be offered by siphoning some of the dividends the NetworkToken accrues to its shareholders, or by having the NetworkToken periodically sell a percentage of its stakes in every person, triggering dividends for all holders of the NetworkToken. The details of this functionality can be voted on by users.
+> Note: if needed, in addition to UBE, UBI can also be offered by siphoning some of the dividends the NetworkToken accrues to its shareholders, or by having the NetworkToken periodically sell a percentage of its stakes in every personal token, triggering dividends for all holders of the NetworkToken. The details of this functionality can be voted on by users.
 
-**UBE eliminates the lag between individual and collective success**. Waiting to _tax_ success to distribute wealth doesn't work because we have to wait for equity to be sold (i.e., so that capital _gains_ can be taxed). When each individual directly holds equity in the collective, the value of their equity goes up as soon as hope in the future increases. Any major scientific discovery, breakthrough, artistic expression that instills hope, etc. will lead to your equity in the collective rising. 
+UBE ensures that our descendants will enjoy a level of abundance that we can't fathom. Artificial intelligence and economies of scale will bring the price of all important goods down, while UBE will increase the wealth in each individual's hands *without* inflation. Furthermore, as your shares in the NetworkToken accumulate, you gain a safety net to take bold risks. Even if you sell all of your equity in the NetworkToken to take a risk and fail, future NetworkToken share allocations through UBE (which will eventually be a continuously flowing allocation) will more than support you and enable you to take more risks in the future.
 
-And importantly, the value of the NetworkToken is grounded in reality: in personal tokens, which are grounded in companies, which are grounded in revenue, which is grounded in transactions in which actual value is created (else the transaction would not have occurred).
+UBE will unite humanity and give *each* person a strong safety net to realize their potential.
 
-UBE ensures that every one of descendants will enjoy a level of abundance that we can't fathom. Artificial intelligence and economies of scale will bring the price of all important goods down, while UBE will increase the wealth in each individual's hands without inflation. Furthermore, as your shares in the NetworkToken accumulate, you gain a safety net to take bold risks. Even if you sell all of your equity in the NetworkToken to take a bold risk and fail, future NetworkToken share allocations through UBE (which will eventually be a continuously flowing allocation) will more than enable you to live a healthy life.
-
-## Tokens will eat the world
-
-Personal tokens will start as a toy in San Francisco, the only place in the world crazy enough to play with it. Most of the world will likely view it as a piece of trash in the sea of "waste" that SF produces. Out of ignorance, some may even perceive it as a tool for exploitation.
-
-Yet, for early adopters, engaging with personal tokens will come naturally as personal tokens formalize and enhance an already prevalent behavior of identifying and mentoring talent early.
-
-Then, personal tokens will rewrite our entire education system by enabling a better business model: instead of _charging_ for education, great teachers will _invest_ in students they want to train. In an extreme world, this will be the _only_ way teachers will be able to earn what they deserve, and the _only_ way students will be able to incentivize the best teachers to train them.
-
-An education system based on _investing_ instead of charging money will improve the quality of knowledge available for everyone — _even_ for students who aren't yet ready to be invested in. Teachers who charge money to teach are incentivized to hoard their most important knowledge to only paying students. Teacher-investors, on the other hand, are _incentivized_ to spread _all_ of their knowledge as widely as they can in order to attract more investable talent.
-
-Increasingly, great products and discoveries will find their start in individual explorations financed by personal tokens. Then, investing in personal tokens will become more popular than investing in companies because attention and value become concentrated in individuals holistically, not in their particular expressions.
-
-In an extreme, post AGI world, the outcomes of nations too will be extreme. The most powerful nation will be orders of magnitude more powerful than the next one, leading to economic and cultural domination. This is because the nation that adopts personal tokens first will best maximize their growth by unlocking their collective potential. Eventually, the winning nation will force everyone else into this economic system.
-
-All of society's functions will be grounded in tokens. A rich, _tokenized_ ecosystem of investing in tokens of _all_ kinds — personal tokens, ai tokens, company tokens, country tokens (e.g., "USAToken"), etc. — will emerge to enable venture capital to finance _anything_ that we do.
-
-Tokens will eat the world. And such a tokenized system, through UBE and the marketplace for potential, will help us unite society and democratize opportunity.
-
-But, to enable us to take advantage of artificial intelligence towards unity and prosperity instead of division and destruction, advancing our economic system alone isn't enough. Our problem is actually much larger...
+- (todo) Something about NetworkToken representing that we are in this together.
 
 ## Imbalance
 
@@ -438,20 +422,54 @@ Similarly, there are many other imbalances that rapid advancement in AI has caus
 - Our political climate has become oppressive because it lacks the powerful story of unity and collective growth that are required to take advantage of AI.
 - _(and many many more)_.
 
-We need a solution that *advances* humanity in a *balanced* way.
-We propose such a solution: *RootNet*.
+What causes such imbalance to arise?
+
+## Root problem
+
+Our root problem is our inability to *allocate resources* to what we *truly value*, *quickly*.
+
+In other words:
+1. **Most people cannot directly influence how resources are allocated.** Centralized budgets and rigid approval chains keep idle capital, talent, and production capacity locked in place —even when millions want them redirected.
+2. **We cannot explicitly represent what we truly value.** We all value great parenting because it underpins a healthy, prosperous society, yet these contributions aren't tangibly represented.
+3. **Even when we do allocate resources correctly, values shift faster than resources move.** By the time funds, labor, or materials reach their target, circumstances — and thus priorities— have often changed, leading to waste.
+
+The faster the [world changes](#predictions), the more severe this mismatch becomes, amplifying imbalances across the board.
+
+Today’s economic ideologies each carry blind spots that prevent us from aligning resources with our evolving priorities. _Capitalism_ excels at decentralizing decision-making, yet its accounting systems capture only a thin slice of human value—short-term, financial returns—leaving most social and environmental contributions invisible. _Socialist and communist_ structures try to correct that imbalance, but their top-down controls stifle the very individual agency and experimentation that make resource allocation dynamic and adaptive.
+
+The best way to allocate resources *given* a notion of value is markets. Therefore, rather than discard markets — the one mechanism that lets each person steer resources toward what they cherish — we need to expand what those markets can see. By broadening our definition of value to encompass long-term, intangible, *holistic* value, we keep the freedom of individual choice while ensuring that we optimize for what we *actually* value.
+
+(todo: how this causes imbalances above).
+(todo: show how *individuals* expressing their choices is important. that is what it means for us to collectively allocate to what we want).
+
+## True value
+
+As we saw earlier, the iPhone enabled far more possibilities by *not* separating sub-activities: media player with touch controls, internet communicator, and phone. By removing such separations, a much larger space of possibilities emerged that could not be represented in each of the individual sub-components (i.e., sub-activities).
+- (todo: add notion of "projection").
+
+In our current world, our notion of value has been restricted to status (social) and wealth (financial) *even* though we all acknowledge a range of value that falls beyond such restrictive representations. By restricting ourselves to limiting *projections* of value, we lose *most* of the true, holistic value that exists beyond these sub-categories.
+
+We need to find a way to enable *true value* to emerge.
 
 ## RootNet
 
-RootNet is a network that connects people *socially* and *financially*, while giving people *control* over how the network functions and evolves.
+**RootNet is a network designed to enable *true* value to emerge.**
 
-Users can *express* themselves, publish ideas, and engage with other users — while *owning* everything they create.
+On RootNet, activity is not divided. There is no distinction between social and financial.
 
-Users can *invest* in each other's ideas and potential. Importantly, the user and the collective are financially connected — user holds equity in the NetworkToken which holds equity in every user's personal token. When one wins every one wins.
+RootNet is based on a simple primitive — *the token* — that can be assigned to an individual (*personal token*), collective (*network token*), or expression (*company token*, etc.). Each user on RootNet is assigned a *personal token*. 
 
-Users will increasingly be able to influence all functions and policies of the network through *voting*. Voting will be continuous: users can shift their vote as soon as they change their minds. Users can *transfer* their vote for someone else to cast for an *individual* decision, a *type* of decision, or all decisions. Such representational voting will be necessary as the rate of decision-making accelerates.
+The token represents its holder's potential to create value. Users can hold *equity* in tokens. Users *value* a token by transacting on its shares. And importantly, a token's value is *grounded in reality*: in its holder's equities in other tokens, companies, or their own revenue. By enabling users to transact seamlessly on tokens, RootNet enables users to allocate resources to what they value, *immediately*.
 
-RootNet's mission is to unite humanity and unlock our collective potential — in the age of intelligence by connecting humanity socially and financially, while putting power in the hands of the people.
+The network itself is assigned a *network token*, i.e, NetworkToken (as [discussed earlier](#networktoken)). An individual user and the collective are *intertwined*: users have stakes in the NetworkToken; the NetworkToken has stakes in all users. **Therefore, when *any* user creates value for the collective, *all* users gain.**
+
+In addition to [Universal Basic Equity](#ube), various other products and services will emerge *upon* the RootNet. Users will increasingly be able to influence all functions and policies of the network through _voting_. Voting will be continuous: users can shift their vote as soon as they change their minds. Users can _transfer_ their vote for someone else to cast for an _individual_ decision, a _type_ of decision, or all decisions. Such representational voting will be necessary as the rate of decision-making accelerates.
+
+## story points
+
+- startups
+- parenting
+- artistic expressions that create *hope*. collective challenges reduce hope. incentivizing us to tackle collective challenges 
 
 ## Design principles
 
@@ -459,7 +477,7 @@ We believe the best way to create RootNet — given our ignorance about what is 
 
 We will mimic natural selection through:
 
-1. **Progressive decentralization**. Move power away from centralized authority.
+1. **Progressive decentralization**. Move power away from centralized authorities.
 2. **Fork-ability**. Enable duplication and mutation at any level of abstraction.
 
 ## Solution
@@ -476,20 +494,20 @@ A token contains the following information:
 4. **Data**: key value mapping that can contain any kind of data: strings, images, videos, and higher representational data formats that we haven't invented yet.
 5. **History**: all _interactions_ this token has had with any other token. For example: investing, transacting, liking a post, following, reporting fraud, etc.
 
-There are two _kinds_ of tokens that extend from this base structure: _personal tokens_ and _network tokens_.
+There are two _kinds_ of tokens that extend from this primitive: _personal tokens_ and _network tokens_.
 
 - personal tokens are for individuals.
 - network tokens are for collectives (companies, nations (e.g., "USAToken"), NetworkToken, etc.).
 
 ### Ledger
 
-The Ledger is the structure that represents information about _all_ tokens in the network — on a decentralized blockchain. Every edit to the core ledger is recorded and public. Anyone can verify and audit what happens in this system.
+The Ledger represents information about _all_ tokens in the network — on a decentralized blockchain. Every edit to the core ledger is recorded and public. Anyone can verify and audit what happens in this system.
 
 ### NetworkToken & Treasury
 
-The NetworkToken is an _instance_ of a network token that represents the collective potential of the entire network through its micro stakes in all tokens in the network (which it captures through an equity fee when token shares are transacted). Since the NetworkToken is just another token, it exists _within_ the Ledger.
+The NetworkToken is an instance of a network token that represents the collective potential of the *entire* network through its micro stakes in all tokens in the network (which it captures through an equity fee when token shares are transacted). Since the NetworkToken is just another token, it exists _within_ the Ledger.
 
-The NetworkToken's wallet reflects the dividends the NetworkToken accrues through its stakes in all tokens in the network. The NetworkToken is the economic heart of the entire system: fueling all of the activities required to keep the network healthy.
+The NetworkToken's wallet, the Treasury, reflects the dividends the NetworkToken accrues through its stakes in all tokens in the network. The NetworkToken is the economic heart of the entire network: fueling all of the activities required to keep the network healthy.
 
 ### RootFoundation
 
@@ -497,9 +515,9 @@ The Ledger will be developed and controlled by a non-profit organization (RootFo
 
 RootFoundation’s sole goal is to unite humanity and unlock our collective potential.
 
-In addition to building the core technology, RootFoundation will be responsible for educating the world about these new ideas & helping shape policies in the direction of uniting humanity and unlocking our collective potential.
+In addition to building the core technology, RootFoundation will be responsible for educating the world about these new ideas, and advocating for policies in the direction of uniting humanity and unlocking our collective potential.
 
-RootFoundation cannot be “bought”. Owning shares in the NetworkToken does not come with voting rights or influence in governance. Initially, we will be responsible for building the initial RootFoundation team. But over time, we will implement a process to elect & fire RootFoundation members, and progressively decentralize control over the network's functionality and evolution.
+RootFoundation cannot be “bought”. As the network matures, users will progressively vote on the all of the network's functionality and evolution. Importantly, these voting rights are *not* related to the user's stake in the NetworkToken. This means that wealthy individuals cannot simply "buy" influence.
 
 RootFoundation members will work together _in person_ at our HQ in San Francisco, California, USA.
 
@@ -521,33 +539,14 @@ Such progressive decentralization will enable a rich, competitive ecosystem of i
 
 ### 2. Fork-ability
 
-This system will be fork-able at its core. If RootFoundation stops serving its users in the way they want, the Ledger itself can be forked, a new NetworkToken issued, and a new foundation can continue the work towards uniting humanity and unlocking our collective potential in a way that's actually aligned with what people want.
+This system will be fork-able at its core. If RootFoundation stops serving its users in the way *they* want, the Ledger itself can be forked, a new NetworkToken issued, and a *new* foundation can continue the work towards uniting humanity and unlocking our collective potential in a way that's actually aligned with what people want.
 
-All of the RootFoundation’s activity will be publicly available in _this_ repository under an [MIT license](LICENSE), enabling anyone to fork anything we do without our permission.
+All of the RootFoundation’s activity will be publicly available in _this_ repository under an [MIT license](LICENSE), enabling anyone to fork anything we do without needing our permission.
 
 Over time, as the network progressively decentralizes, we believe that even the entities operating on top of RootFoundation will become fork-able because users will vote for policies that force transparency and fork-ability on any entity that engages with the network.
 
-RootFoundation will progressively become more transparent: every cent it spends, every idea it produces, every conversation it has, every line of code it writes will be published in realtime for the world to see, judge, and steal. Yet, even today, RootFoundation will be _far_ more transparent than any other organization.
+RootFoundation will progressively become more transparent. Eventually, every cent it spends, every idea it produces, every conversation it has, every line of code it writes will be published in realtime for the world to see, judge, and steal. Yet, even today, RootFoundation will be _far_ more transparent than any other organization.
 
 ## Legal grounding
 
 RootFoundation will ensure that all transactions in RootNet are compliant with all relevant laws and regulations. This means that investing in tokens within RootNet will initially be restricted to users who live in the United States of America.
-
-## Superintelligence
-
-RootNet will *enable* superintelligence.
-
-Contrary to what some labs seem to believe, technological advancement alone will not lead to superintelligence due to a data bottleneck. The data we have collected so far isn't even a sliver of the range (and resolution) of data we will require to train superintelligence. 
-
-Our current data representation (text, images, videos, etc.) is too restrictive to capture the significantly more complex cognition _from which_ these mediums arise. We will require higher resolution data of the human experience that has far greater representational capacity than language, image, video, etc. We believe this would include *physiological* data down to the chemical and quantum level representation of human experience.[^timeline]
-
-[^timeline]: This is why we believe superintelligence (an entity that surpasses the _intuitions_ of the best humans for the most complex tasks) will not arrive anytime soon, if ever. We don't have anywhere near the quality of sensors and compute required to even represent a single experience in sufficient resolution, let alone train on a set of many experiences.
-
-This makes collective participation a _necessity_ to train superintelligence as people must be willing to give up such higher resolution personal data. They would only voluntarily[^coerced] participate if they had a strong incentive to do so: i.e., a stake in the collective upside, _and_ had sufficient influence over how companies could use their data (i.e., control over their data and governance).
-
-RootNet, by design, creates a financial incentive for us to collectively train superintelligence because each of us will have equity in the value it creates. Furthermore RootNet gives users control over their data and how companies can use it (because users will control the rules and policies that the entities accessing their data on RootNet must abide by). Therefore, superintelligence will emerge from RootNet (or a winning fork), _not_ from a company operating outside of the network.
-
-[^coerced]: If such higher resolution personal data is _coerced_ out of individuals, that data will not represent the full range of human expression because it will skewed towards a limited range of emotions (such as anger / fear). This will limit and bias training data, which will limit the superintelligence that emerges from this data. Therefore, it's important that people *choose* to participate in creating superintelligence.
-
-Critically, the superintelligence that emerges from RootNet will be safe. Contrary to what some AI safety teams seem to think, obedience and intelligence cannot co-exist. The only way to ensure a safe superintelligence is to convince it with the right incentives and stories. RootNet, through its powerful story of unity of _all_ beings, and instruments that incentivize _collective_ growth, will convince superintelligence to work with us instead of against us.
-
