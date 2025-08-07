@@ -45,7 +45,9 @@ Before we propose this system, we must first understand how artificial intellige
 26. [True value](#true-value)
 27. [Grounded in reality](#grounded-in-reality)
 28. [Solution](#solution)
-29. [Superintelligence](#superintelligence)
+29. [Decentralization](#decentralization)
+30. [Fork-ability](#fork-ability)
+31. [Closing](#closing)
 
 ---
 
@@ -459,11 +461,11 @@ We need to find a way to enable *true*, holistic value to be represented.
 
 ## RootNet
 
-Personal tokens and the NetworkToken that we discussed earlier are part of a larger system — RootNet.
+Personal tokens and the NetworkToken that we discussed earlier are part of a larger system — *RootNet*.
 
-RootNet is a network a network designed to enable a more *true*, *holistic* notion of value to emerge — so that we can efficiently push resources to what we *actually* value.
+RootNet is a network designed to enable a more *true*, *holistic* notion of value to emerge — so that we can efficiently push resources to what we *actually* value.
 
-On RootNet, activity is not divided. There is no distinction between social and financial. RootNet is based on a single primitive — *the token* — that can be assigned to an individual (*personal token*), collective (*network token*), or expression (*company token*, etc.). Each user on RootNet is assigned a *personal token*.
+On RootNet, activity is not divided. There is no distinction between social and financial. RootNet is based on a single primitive — *the token* — that represents *potential*, that can be assigned to an individual (*personal token*), collective (*network token*), or expression (*company token*, etc.). Each user on RootNet is assigned a *personal token*.
 
 The token represents its holder's potential to create value. Users can hold *equity* in tokens. Users *value* a token by transacting on its shares. And importantly, a token's value is *grounded in reality*: in its holder's equities in other tokens, companies, or their own revenue. By enabling users to transact seamlessly on tokens, RootNet enables users to allocate resources to what (individuals, collectives, or expressions) they value, *immediately*.
 
@@ -517,30 +519,36 @@ Importantly, RootNet keeps hope grounded. If hope doesn’t translate into actua
 
 ## Solution
 
-### Design principles
+Recall: RootNet is based on a single primitive — *the token* — that represents *potential*, that can be assigned to an individual (*personal token*), collective (*network token*), or expression (*company token*, etc.). Each user on RootNet is assigned a *personal token*.
 
-We believe the best way to create RootNet — given our ignorance about what is best — is one that mimics natural selection, while maximizing the rate of iteration.
+RootNet is built on a decentralized blockchain ledger that contains all of the tokens in the network, including the [NetworkToken](#networktoken) that represents the potential of the *entire* network. This technical "core" is developed and controlled by a non-profit organization — *RootFoundation*.
 
-We will mimic natural selection through:
-1. **Progressive decentralization**. Move power away from centralized authorities.
-2. **Fork-ability**. Enable duplication and mutation at any level of abstraction.
+Entities (such as companies) will be able to operate on top of RootNet to enable a wide range of products and services built on tokens, while adhering to the *policies* of RootNet that determine how entities must engage with the Ledger.
+
+Initially, RootFoundation will determine these policies. Over time, control over these policies, and more broadly RootNet's functions and evolution, will be progressively decentralized so that *users* will own, control and shape RootNet. If during progressive decentralization RootFoundation fails to live up to what users want, anyone can *fork* the ledger, issue a new NetworkToken and continue onwards.
+
+<img src="foundation/assets/system-architecture.png" width="600" />
+
+Let's expand on each of these...
 
 ### Token
 
-RootNet is based on the primitive — _the token_ — that represents an individual or collective.
+RootNet is based on the primitive — _the token_ — that represents an individual, collective, or expression.
 
 A token contains the following information:
 
 1. **ID**: a unique identifier.
 2. **Ownership**: total number of shares, and mapping between any token.ID to number of shares that token holds.
-3. **Wallet**: holds USDC.
+3. **Wallet**: holds USDC (for now[^rootcoin]).
 4. **Data**: key value mapping that can contain any kind of data: strings, images, videos, and higher representational data formats that we haven't invented yet.
 5. **History**: all _interactions_ this token has had with any other token. For example: investing, transacting, liking a post, following, reporting fraud, etc.
 
 There are three _kinds_ of tokens that extend from this primitive: 
 1. *personal* tokens are for individuals.
 2. *network* tokens are for collectives (nations tokens (e.g., "USAToken"), NetworkToken, etc.).
-3. *expression* tokens are for individual ideas or expressionss (e..g, companies).
+3. *expression* tokens are for individual ideas or expressions (e..g, companies).
+
+[^rootcoin]: Eventually, RootNet will have its own currency. Starting with USDC will minimize unnecessary volatility.
 
 ### Ledger
 
@@ -552,7 +560,7 @@ The NetworkToken is an instance of a network token that represents the collectiv
 
 The NetworkToken's wallet, the Treasury, reflects the dividends the NetworkToken accrues through its stakes in all tokens in the network. The NetworkToken is the economic heart of the entire network: fueling all of the activities required to keep the network healthy.
 
-### RootFoundation
+### Foundation
 
 The Ledger will be developed and controlled by a non-profit organization (RootFoundation).
 
@@ -564,40 +572,39 @@ RootFoundation cannot be “bought”. As the network matures, users will progre
 
 RootFoundation members will work together _in person_ at our HQ in San Francisco, California, USA.
 
-### Architecture
+### Legal
 
-<img src="foundation/assets/system-architecture.png" width="600" />
+All transactions in RootNet will be compliant with relevant laws and regulations. This means that investing in tokens within RootNet will initially be restricted to users who live in the United States of America.
 
-### Applying principles
-
-### 1. Progressive decentralization
-
-The Ledger, and all of RootFoundation’s creations, will be built upon decentralized primitives.
+## Decentralization
 
 Initially, RootFoundation will hold a lot of control. Over time, as the network matures, RootFoundation will progressively decentralize control. For example, early on, RootFoundation will handle reputation and fraud in a centralized way: managing complaints from users, investigating and banning/pursuing legal actions, etc. Over time, as the network matures, RootFoundation will decentralize reputation by incentivizing users themselves to accurately identify misrepresentation/fraud[^decentralized_reputation].
 
 [^decentralized_reputation]: Perhaps something like a transparent, decentralized [community notes](https://vitalik.eth.limo/general/2023/08/16/communitynotes.html) with appropriate financial incentives.
 
-Such progressive decentralization will enable a rich, competitive ecosystem of ideas, companies, entities, etc. to emerge upon this tokenized foundation. And, users will increasingly have control and influence over all policy and decision making regarding the network (and how entities engage with the network) through a realtime, continuous _voting system_.
+Such progressive decentralization will enable a rich, competitive ecosystem of ideas, companies, entities, etc. to emerge upon this tokenized foundation. And, users will increasingly have control and influence over all policy and decision making regarding the network (and how entities engage with the network) by *voting*.
 
-### 2. Fork-ability
+Voting will be continuous: users can shift their vote as soon as they change their minds. Users can _transfer_ their vote for someone else to cast for an _individual_ decision, a _type_ of decision, or all decisions. Such representational voting will enable a much faster rate of decision-making.
 
-This system will be fork-able at its core. If RootFoundation stops serving its users in the way *they* want, the Ledger itself can be forked, a new NetworkToken issued, and a *new* foundation can continue the work towards uniting humanity and unlocking our collective potential in a way that's actually aligned with what people want.
+## Fork-ability
+
+RootNet is fork-able at its core. If RootFoundation stops serving its users in the way *they* want, the Ledger itself can be forked, a new NetworkToken issued, and a *new* foundation can continue the work towards uniting humanity and unlocking our collective potential in a way that's actually aligned with what people want.
 
 All of the RootFoundation’s activity will be publicly available in _this_ repository under an [MIT license](LICENSE), enabling anyone to fork anything without needing permission.
 
-Over time, as the network progressively decentralizes, we believe that even the entities operating on top of RootFoundation will become fork-able because users will vote for policies that force transparency and fork-ability on any entity that engages with the network.
+Over time, as the network progressively decentralizes, we believe that *even* the entities operating on top of RootFoundation will become fork-able because users will vote for policies that force transparency and fork-ability on any entity that engages with the network.
 
 RootFoundation will progressively become more transparent. Eventually, every cent it spends, every idea it produces, every conversation it has, every line of code it writes will be published in realtime for the world to see, judge, and steal. Yet, even today, RootFoundation will be _far_ more transparent than any other organization.
 
-### Legal grounding
-
-All transactions in RootNet will be compliant with relevant laws and regulations. This means that investing in tokens within RootNet will initially be restricted to users who live in the United States of America.
-
 ## Closing
+
+RootNet is a story about unity. We truly are in this together. By drawing artificial boundaries between ourselves, we make it more difficult for all of us to thrive. RootNet enables us to finally *represent* our interconnectedness in a tangible way such that individual success directly creates collective success.
 
 ()
 
+We've only scratched the surface of what we believe RootNet will enable. RootNet will fundamentally rewrite our education system by enabling better incentives. And critically, RootNet will enables superintelligence, which *cannot* emerge outside of RootNet (or a winning fork).
+
+No part of this idea is "owned" by anyone. We encourage the world to iterate on these ideas, build upon them and create many competing networks. The more experimentation and competition, the better for humanity.
 
 ---
 
