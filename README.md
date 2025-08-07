@@ -616,4 +616,4 @@ And only through this such *structural* unity can we fully take advantage of art
 
 We’ve only scratched the surface of what RootNet will make possible. RootNet will fundamentally [rewrite our education system](appendix/Education.md) through better incentives. And importantly, RootNet will [*enable* superintelligence](appendix/Superintelligence.md) which cannot emerge outside of a network like RootNet.
 
-No part of this idea is "owned" by us. We encourage the world to build upon these ideas, iterate, challenge, and fork them. May the best network win. The more experimentation, and competition, the better for humanity.
+No part of this idea is "owned" by anyone. We encourage the world to build upon these ideas, iterate, challenge, and fork them. May the best network win. The more experimentation, and competition, the better for humanity.
