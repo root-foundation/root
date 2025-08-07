@@ -1,3 +1,5 @@
+## RootNet will eat education
+
 Personal tokens will rewrite our entire education system by enabling a better business model: instead of _charging_ for education, great teachers will _invest_ in students they want to train. In an extreme world, this will be the _only_ way teachers will be able to earn what they deserve, and the _only_ way students will be able to incentivize the best teachers to train them.
 
 An education system based on _investing_ instead of charging money will improve the quality of knowledge available for everyone — _even_ for students who aren't yet ready to be invested in. Teachers who charge money to teach are incentivized to hoard their most important knowledge to only paying students. Teacher-investors, on the other hand, are _incentivized_ to spread _all_ of their knowledge as widely as they can in order to attract more investable talent.

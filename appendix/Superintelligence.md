@@ -1,4 +1,4 @@
-RootNet will *enable* superintelligence.
+## RootNet will *enable* superintelligence.
 
 Contrary to what some labs seem to believe, technological advancement alone will not lead to superintelligence. We will need *collective* participation to enable superintelligence.
 
