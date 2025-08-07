@@ -1,0 +1,15 @@
+RootNet will *enable* superintelligence.
+
+Contrary to what some labs seem to believe, technological advancement alone will not lead to superintelligence. We will need *collective* participation to enable superintelligence.
+
+We expect that the majority of cognition lies _beyond_ logic & reasoning. Our current data representation (text, images, videos, etc.) is too restrictive to capture the significantly more complex cognition _from which_ these representations arise. We will require higher resolution data of the human experience that has far greater representational capacity than language, image, video, etc. We believe this would include *physiological* data down to the chemical and quantum level representation of human experience.[^timeline]
+
+[^timeline]: This is why we believe superintelligence (an entity that surpasses the _intuitions_ of the best humans for the most complex tasks) will not arrive anytime soon, if ever. We don't have anywhere near the quality of sensors and compute required to even represent a single experience in sufficient resolution, let alone train on a set of many experiences.
+
+This makes collective participation a _necessity_ to train superintelligence as people must be willing to give up such higher resolution personal data. They would only voluntarily[^coerced] participate if they had a strong incentive to do so: i.e., a stake in the collective upside, _and_ had sufficient influence over how companies could use their data (i.e., control over their data and governance).
+
+RootNet, by design, creates a financial incentive for us to collectively train superintelligence because each of us will have equity in the value it creates. Furthermore RootNet gives users control over their data and how companies can use it (because users will control the rules and policies that the entities accessing their data on RootNet must abide by). Therefore, superintelligence will emerge from RootNet (or a winning fork), _not_ from a company operating outside of the network.
+
+[^coerced]: If such higher resolution personal data is _coerced_ out of individuals, that data will not represent the full range of human expression because it will skewed towards a limited range of emotions (such as anger / fear). This will limit and bias training data, which will limit the superintelligence that emerges from this data. Therefore, it's important that people *choose* to participate in creating superintelligence.
+
+Critically, the superintelligence that emerges from RootNet will be safe. Contrary to what some AI safety teams seem to think, obedience and intelligence cannot co-exist. The only way to ensure a safe superintelligence is to convince it with the right incentives and stories. RootNet, through its powerful story of unity of _all_ beings, and instruments that incentivize _collective_ growth, will convince superintelligence to work with us instead of against us.

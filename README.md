@@ -4,13 +4,13 @@ _[homan](https://x.com/homanspirit) & [shiv](https://scholar.google.com/citation
 
 ---
 
-Artificial intelligence promises a future of abundance and prosperity. 
+Artificial intelligence promises abundance and prosperity.
 
-But, we are not *organized* in a way that allows us to take advantage of artificial intelligence. In fact, artificial intelligence, upon our *current* systems, will concentrate opportunity and divide society.
+But we aren’t _organized_ in a way that lets us take advantage of it. On our _current_ systems, AI will concentrate opportunity and divide society.
 
-In this essay, we propose a *new* system to organize our world in a way that enables us to take advantage of artificial intelligence — towards unity and prosperity, instead of division and destruction.
+In this essay, we propose a _new_ way to organize ourselves — one that enables us to use AI to achieve unity and prosperity instead of division and decay.
 
-Before we propose this system, we must first understand how artificial intelligence will change our world.
+But first we need to understand how AI will change our world.
 
 ---
 
@@ -30,7 +30,7 @@ Before we propose this system, we must first understand how artificial intellige
 13. [6) Absolute number of winners grows at least exponentially.](#6-absolute-number-of-winners-grows-at-least-exponentially)
 14. [AGI will expand humanity's horizon](#agi-will-expand-humanitys-horizon)
 
-#### Side B. Unlocking our potential
+#### Side B. Unlocking our collective potential
 15. [Problem](#problem)
 16. [Venture capital](#venture-capital)
 17. [Personal token](#personal-token)
@@ -47,7 +47,7 @@ Before we propose this system, we must first understand how artificial intellige
 28. [Solution](#solution)
 29. [Decentralization](#decentralization)
 30. [Fork-ability](#fork-ability)
-31. [Closing](#closing)
+31. [Unity](#unity)
 
 ---
 
@@ -291,7 +291,7 @@ But, we are not organized in a way that enables us to *collectively* take advant
 
 To understand why, let's study how our current economic system becomes oppressive in a post AGI world.
 
-# B. Unlocking our potential
+# B. Unlocking our collective potential
 
 ## Problem
 
@@ -519,15 +519,15 @@ Importantly, RootNet keeps hope grounded. If hope doesn’t translate into actua
 
 ## Solution
 
-Let's now see how to *implement* RootNet.
+Let's see how to *implement* RootNet.
 
 Recall: RootNet is based on a single primitive — *the token* — that represents *potential*, that can be assigned to an individual (*personal token*), collective (*network token*), or expression (*company token*, etc.). Each user on RootNet is assigned a *personal token*.
 
-RootNet is built on a decentralized blockchain ledger that contains all of the tokens in the network, including the [NetworkToken](#networktoken) that represents the potential of the *entire* network. This technical "core" is developed and controlled by a non-profit organization — *RootFoundation*.
+RootNet is built on a decentralized blockchain Ledger that contains all of the tokens in the network, including the [NetworkToken](#networktoken) that represents the potential of the *entire* network. This technical "core" is developed and controlled by a non-profit organization — *RootFoundation*.
 
 Entities (such as companies) will be able to operate on top of RootNet to enable a wide range of products and services built on tokens, while adhering to the *policies* of RootNet that determine how entities must engage with the Ledger.
 
-Initially, RootFoundation will determine these policies. Over time, control over these policies, and more broadly RootNet's functions and evolution, will be progressively decentralized so that *users* will own, control and shape RootNet. If during progressive decentralization RootFoundation fails to live up to what users want, anyone can *fork* the ledger, issue a new NetworkToken and continue onwards.
+Initially, RootFoundation will determine these policies. Over time, control over these policies, and more broadly *all* of RootNet's functions and evolution, will be progressively decentralized so that *users* will own, control and shape RootNet. If during this progressive decentralization RootFoundation fails to live up to what users want, anyone can *fork* the ledger, issue a new NetworkToken and continue onwards.
 
 <img src="foundation/assets/system-architecture.png" width="600" />
 
@@ -550,7 +550,7 @@ There are three _kinds_ of tokens that extend from this primitive:
 2. *network* tokens are for collectives (nations tokens (e.g., "USAToken"), NetworkToken, etc.).
 3. *expression* tokens are for individual ideas or expressions (e..g, companies).
 
-[^rootcoin]: Eventually, RootNet will have its own currency. Starting with USDC will minimize unnecessary volatility.
+[^rootcoin]: Eventually, RootNet will have its own currency. Starting with USDC will eliminate unnecessary volatility.
 
 ### Ledger
 
@@ -598,10 +598,22 @@ Over time, as the network progressively decentralizes, we believe that *even* th
 
 RootFoundation will progressively become more transparent. Eventually, every cent it spends, every idea it produces, every conversation it has, every line of code it writes will be published in realtime for the world to see, judge, and steal. Yet, even today, RootFoundation will be _far_ more transparent than any other organization.
 
-## Closing
+## Unity
 
-(todo).
+If artificial intelligence is to unlock abundance for humanity — not just a privileged few — we must reorganize ourselves.
+
+Our current systems weren’t built for this future. They divide us by concentrating opportunity, rewarding short-term gain at the expense of long-term collective loss, and making the success of one feel like the loss of another. Words alone cannot overcome this. We need better _incentives_ that make unity *rational*.
+
+RootNet offers such a system. It intertwines our fates: each of us is a stakeholder in the collective, and the collective a stakeholder in each of us. When one wins, we all win. When one falls, we all feel it.
+
+Through personal tokens, we fund potential. Through the NetworkToken, we share in collective upside. Through Universal Basic Equity, we raise the baseline without inflation. RootNet makes supporting each other the most _self-interested_, _rational_, _profitable_ move we can make.
+
+And only through this such *structural* unity can we fully take advantage of artificial intelligence — _toward prosperity, not decay_.
 
 ---
 
-[Vote for RootNet](https://onroot.net). (*make sure you vote with a wallet you will retain control of*).
+[Vote for RootNet](https://onroot.net) to *accelerate* humanity’s shift to a system that unites us, unlocks our collective potential, and enables us to thrive in the age of artificial intelligence. (*make sure you vote with a wallet you will retain control of*).
+
+We’ve only scratched the surface of what RootNet will make possible. RootNet will fundamentally [rewrite our education system](appendix/Education.md) through better incentives. And importantly, RootNet will [*enable* superintelligence](appendix/Superintelligence.md) which cannot emerge outside of a network like RootNet.
+
+No part of this idea is "owned" by us. We encourage the world to build upon these ideas, iterate, challenge, and fork them. May the best network win. The more experimentation, and competition, the better for humanity.
