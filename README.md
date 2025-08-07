@@ -457,13 +457,13 @@ All popular ideologies for how to organize ourselves have blind spots. _Capitali
 
 Markets are the best mechanism we've found to allocate resources *given* a certain notion of value. Instead of throwing away markets, we should try and *improve* our notion of value so that we optimize for what we actually value, instead of optimizing for a restrictive, limited *projection* of what we actually value.
 
-We need to find a way to enable *true*, holistic value to be represented.
+We need to find a way to tangibly represent *true*, *holistic* value.
 
 ## RootNet
 
 Personal tokens and the NetworkToken that we discussed earlier are part of a larger system — *RootNet*.
 
-RootNet is a network designed to enable a more *true*, *holistic* notion of value to emerge — so that we can efficiently push resources to what we *actually* value.
+RootNet is a network designed to enable a more *true*, *holistic* notion of value to emerge — so that we can efficiently allocate resources to what we *actually* value.
 
 On RootNet, activity is not divided. There is no distinction between social and financial. RootNet is based on a single primitive — *the token* — that represents *potential*, that can be assigned to an individual (*personal token*), collective (*network token*), or expression (*company token*, etc.). Each user on RootNet is assigned a *personal token*.
 
@@ -518,6 +518,8 @@ Hope is often a self-fulfilling prophecy. An artist who instills genuine hope th
 Importantly, RootNet keeps hope grounded. If hope doesn’t translate into actual value creation, the NetworkToken won’t respond, and the market will correct. As long as we continue to translate hope into actual value, actions that instill hope will be tangibly valued because they increase our collective (and therefore individual) wealth. And so, users will allocate resources to such efforts by investing in the tokens of the individuals, collectives, and expressions that generate hope.
 
 ## Solution
+
+Let's now see how to *implement* RootNet.
 
 Recall: RootNet is based on a single primitive — *the token* — that represents *potential*, that can be assigned to an individual (*personal token*), collective (*network token*), or expression (*company token*, etc.). Each user on RootNet is assigned a *personal token*.
 
@@ -598,13 +600,7 @@ RootFoundation will progressively become more transparent. Eventually, every cen
 
 ## Closing
 
-RootNet is a story about unity. We truly are in this together. By drawing artificial boundaries between ourselves, we make it more difficult for all of us to thrive. RootNet enables us to finally *represent* our interconnectedness in a tangible way such that individual success directly creates collective success.
-
-()
-
-We've only scratched the surface of what we believe RootNet will enable. RootNet will fundamentally rewrite our education system by enabling better incentives. And critically, RootNet will enables superintelligence, which *cannot* emerge outside of RootNet (or a winning fork).
-
-No part of this idea is "owned" by anyone. We encourage the world to iterate on these ideas, build upon them and create many competing networks. The more experimentation and competition, the better for humanity.
+(todo).
 
 ---
 
