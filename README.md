@@ -677,8 +677,7 @@ And only through this such *structural* unity can we fully take advantage of art
 ![Vote QR Code](foundation/assets/vote-address.png)
 
 **Address:**  
-`0x78541fa014f132059f60f8b53df7e0406c6741d0`  
-[Etherscan](https://etherscan.io/address/0x78541fa014f132059f60f8b53df7e0406c6741d0) | [BaseScan](https://basescan.org/address/0x78541fa014f132059f60f8b53df7e0406c6741d0)
+`0x78541fa014f132059f60f8b53df7e0406c6741d0`
 
 Your vote is recorded on-chain.<br/>
 Make sure to vote with a wallet you will retain control of.<br/>
