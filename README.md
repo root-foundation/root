@@ -103,7 +103,7 @@ Let’s take a more relevant example: **creating a company** to automate agricul
 ```mermaid
 flowchart TD
     %% Main nodes with curved (stadium) edges
-    Startup("Create Startup")
+    Startup("Create Agri Robotics Startup")
     Build("Build")
     Distribute("Distribute")
     Design("Design")
