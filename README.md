@@ -672,9 +672,19 @@ RootNet enables this. It intertwines our fates: each of us is a stakeholder in t
 
 And only through this such *structural* unity can we fully take advantage of artificial intelligence — *toward prosperity and abundance*.
 
----
+## Vote for unity
 
-[Vote for RootNet](https://onroot.net) to *accelerate* humanity’s shift to a system that unites us, unlocks our collective potential, and enables us to thrive in the age of artificial intelligence. (*Make sure you vote with a wallet you will retain control of*).
+![Vote QR Code](foundation/assets/vote-address.png)
+
+**Address:**  
+`0x78541fa014f132059f60f8b53df7e0406c6741d0`  
+[Etherscan](https://etherscan.io/address/0x78541fa014f132059f60f8b53df7e0406c6741d0) | [BaseScan](https://basescan.org/address/0x78541fa014f132059f60f8b53df7e0406c6741d0)
+
+Your vote is recorded on-chain.<br/>
+Make sure to vote with a wallet you will retain control of.<br/>
+*Only **USDC** on Ethereum or Base will be acknowledged.*
+
+---
 
 We’ve only scratched the surface of what RootNet will make possible. RootNet will [rewrite our education system](appendix/Education.md) through better incentives. And critically, RootNet will [*enable* superintelligence](appendix/Superintelligence.md) which *cannot* emerge outside of a network like RootNet.
 
