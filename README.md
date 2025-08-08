@@ -525,15 +525,13 @@ Therefore, we need a system that can represent _true_, _holistic_ value so that 
 
 RootNet is a network designed to represent a more _true_, _holistic_ notion of value so that we can allocate resources to what we _actually_ value, *efficiently*.
 
-On RootNet, there’s no separation between social and financial. All activity is represented by a single primitive: the *token*. A token represents _potential_, and can be assigned to an individual (_personal token_), a collective (_network token_), or an expression (_company token_, etc.). Every user on RootNet has a personal token.
+On RootNet, there’s no separation between social and financial. All activity is represented by a single primitive: the *token*. A token represents _potential_, and can be assigned to an individual (_personal token_), a collective (_network token_), or an expression (_company token_, etc.). Every user on RootNet has a personal token, whose scope extends beyond finance to _all_ forms of activity.
 
 The token represents its holder's potential to create value. Users express belief in that potential by transacting on its shares. And importantly, a token's value is always grounded in reality: in its holder's equities in other tokens, companies, or revenue.
 
 By enabling users to transact on tokens seamlessly, RootNet lets people allocate resources to the individuals, collectives, and expressions they value.
 
 As [discussed earlier](#networktoken), the network itself holds a token: the *NetworkToken*. The individual and the collective are structurally _intertwined_: users hold stakes in the NetworkToken, and the NetworkToken holds stakes in all users. **When _anyone_ creates value for the network, _everyone_ benefits.**
-
-[Personal tokens](#personal-token) and the [NetworkToken](#networktoken) were introduced earlier as financial instruments, but their true power lies in representing potential across _all_ activities: financial, social, and beyond.
 
 ## True value
 
