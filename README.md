@@ -583,7 +583,7 @@ Importantly, RootNet keeps hope grounded. If hope doesn’t translate into actua
 
 Let's see how to *implement* RootNet.
 
-Recall: RootNet is based on a single primitive — *the token* — that represents *potential*, that can be assigned to an individual (*personal token*), collective (*network token*), or expression (*company token*, etc.). Each user on RootNet is assigned a *personal token*.
+Recall: RootNet is based on a single primitive — *the token* — that represents *potential*, that can be assigned to an individual ([*personal token*](#personal-token)), collective ([*network token*](#networktoken)), or expression (*company token*, etc.). Each user on RootNet is assigned a *personal token*.
 
 RootNet is built on a decentralized blockchain Ledger that contains all of the tokens in the network, including the [NetworkToken](#networktoken) that represents the potential of the *entire* network. This technical "core" is developed and controlled by a non-profit organization — *RootFoundation*.
 
