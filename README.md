@@ -533,6 +533,8 @@ By enabling users to transact on tokens seamlessly, RootNet lets people allocate
 
 As [discussed earlier](#networktoken), the network itself holds a token: the *NetworkToken*. The individual and the collective are structurally _intertwined_: users hold stakes in the NetworkToken, and the NetworkToken holds stakes in all users. **When _anyone_ creates value for the network, _everyone_ benefits.**
 
+[Personal tokens](#personal-token) and the [NetworkToken](#networktoken) were introduced earlier as financial instruments, but their true power lies in representing potential across _all_ activities: financial, social, and beyond.
+
 ## True value
 
 RootNet enables us to represent what we *truly* value.
