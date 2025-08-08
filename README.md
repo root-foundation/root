@@ -455,7 +455,7 @@ As AI and scale reduce the cost of goods, UBE grows each person’s wealth _with
 
 UBE ensures that our *baseline* grows, giving *each* individual a strong safety net to realize their potential.
 
-#### UBE incentivizes having children
+#### UBE incentivizes having children.
 
 When a child is born, new shares in the NetworkToken are minted for them, slightly diluting everyone else. This creates a natural incentive to have children, as families grow their collective equity. And through that dilution, we _collectively invest_ in the next generation.
 > 
