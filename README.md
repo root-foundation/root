@@ -670,7 +670,7 @@ Our current systems weren’t built for this future. They divide us by concentra
 
 RootNet enables this. It intertwines our fates: each of us is a stakeholder in the collective, and the collective a stakeholder in each of us. When one wins, we all win. When one falls, we all feel it. Through personal tokens, we fund potential. Through the NetworkToken, we share in collective upside. Through Universal Basic Equity, we raise the baseline without inflation.
 
-And only through this such *structural* unity can we fully take advantage of artificial intelligence — *toward prosperity and abundance*.
+And only through such *structural* unity can we fully take advantage of artificial intelligence — *toward prosperity and abundance*.
 
 ## Vote for unity
 
