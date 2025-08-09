@@ -98,7 +98,7 @@ Therefore, as we move *up* the tree, from sub-activities to their parents, the c
 
 ## Example activity: creating a company
 
-Let’s take a more relevant example: **creating a company** to automate agriculture using robots.
+Let’s take a more relevant example: **creating a company** (to, say, automate agriculture using robots).
 
 ```mermaid
 flowchart TD
