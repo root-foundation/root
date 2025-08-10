@@ -685,7 +685,7 @@ And only through such *structural* unity can we fully take advantage of artifici
 
 ## Vote for humanity
 
-![Vote QR Code](vote-address.png)
+![Vote QR Code](appendix/assets/vote-address.png)
 
 **Address:**  
 `0x78541fa014f132059f60f8b53df7e0406c6741d0`
