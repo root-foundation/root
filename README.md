@@ -105,7 +105,7 @@ Therefore, as we move *up* the tree, from sub-activities to their parents, the c
 
 [^complexity-growth]: Why does complexity grow superexponentially? Because the number of **leaves** (simplest sub-activities) already grows **exponentially** with depth in a tree. And the complexity of a parent activity is a **superlinear function** of the combined complexity of its leaves. So when you recurse upward, you get **superexponential growth**.
 
-> In case you're unfamiliar with growth rates like "superlinear", "exponential", "superexponential", read our [growth rate primer](GrowthRatePrimer.md).
+> In case you're unfamiliar with growth rates like "superlinear", "exponential", "superexponential", read our [growth rate primer](appendix/GrowthRatePrimer.md).
 
 ## Example activity: creating a company
 
@@ -217,7 +217,7 @@ As artificial intelligence advances, we will see that:
 5. Rate of displacement of winners grows at least exponentially.
 6. Absolute number of winners grows at least exponentially.
 
-The _specificity_ of these growth rates matters. For example, misjudging the difference between _exponential_ and _superexponential_ growth can lead to very different, sometimes even opposite, predictions. In case you're unfamiliar with growth rates we recommend reading [our primer](GrowthRatePrimer.md).
+The _specificity_ of these growth rates matters. For example, misjudging the difference between _exponential_ and _superexponential_ growth can lead to very different, sometimes even opposite, predictions. In case you're unfamiliar with growth rates we recommend reading [our primer](appendix/GrowthRatePrimer.md).
 
 ## 1) Peak outcome grows superexponentially
 
@@ -378,7 +378,7 @@ We need a new financial instrument that democratizes venture capital.
 
 To democratize access to venture capital, we're introducing the _personal token_: a financial instrument that represents an individual's potential, with transact-able shares. People can raise venture capital by selling equity in their personal token.
 
-<img src="foundation/assets/personal-token-preview.png" width="500" />
+<img src="appendix/assets/personal-token-preview.png" width="500" />
 
 _(Jane's personal token with her shareholders and her equities in companies and other personal tokens.)_
 
@@ -404,7 +404,7 @@ Today, we're at another inflection point. AGI makes _all_ outcomes extreme, not 
 
 Just as companies let us invest in the potential of a *single* idea, personal tokens let us invest in the the potential of an individual across *all* of their ideas. 
 
-<img src="foundation/assets/instrument-tree.png" />
+<img src="appendix/assets/instrument-tree.png" />
 
 ## Value will be concentrated in personal tokens
 
@@ -604,7 +604,7 @@ Entities (such as companies) will be able to operate on top of RootNet to enable
 
 Initially, RootFoundation will determine these policies. Over time, control over these policies, and more broadly *all* of RootNet's functions and evolution, will be progressively decentralized so that *users* will own, control and shape RootNet. If during this progressive decentralization RootFoundation fails to live up to what users want, anyone can *fork* the ledger, issue a new NetworkToken and continue onwards.
 
-<img src="foundation/assets/system-architecture.png" width="600" />
+<img src="appendix/assets/system-architecture.png" width="600" />
 
 Let's expand on each of these...
 
@@ -685,7 +685,7 @@ And only through such *structural* unity can we fully take advantage of artifici
 
 ## Vote for humanity
 
-![Vote QR Code](foundation/assets/vote-address.png)
+![Vote QR Code](vote-address.png)
 
 **Address:**  
 `0x78541fa014f132059f60f8b53df7e0406c6741d0`

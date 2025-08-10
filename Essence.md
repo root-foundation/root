@@ -40,7 +40,7 @@ This is the only way humanity wins in the age of AI.
 
 ### Emotion
 
-![](foundation/assets/emotion.png)
+![](appendix/assets/emotion.png)
 
 RootNet represents:
 - Warmth. Individuals becoming one by intertwining their success and failure.
