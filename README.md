@@ -55,6 +55,7 @@ To understand the need for RootNet, we must first see how AI will change our wor
 30. [Decentralization](#decentralization)
 31. [Fork-ability](#fork-ability)
 32. [Unity](#unity)
+33. [Vote for humanity](#vote-for-humanity)
 
 ---
 
@@ -682,7 +683,7 @@ RootNet enables this. It intertwines our fates: each of us is a stakeholder in t
 
 And only through such *structural* unity can we fully take advantage of artificial intelligence — *toward prosperity and abundance*.
 
-## Vote for unity
+## Vote for humanity
 
 ![Vote QR Code](foundation/assets/vote-address.png)
 
