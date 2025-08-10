@@ -34,7 +34,7 @@ I’d value your feedback:
 
 ### Blurb
 
-[Essay opening](https://github.com/root](https://github.com/root-foundation/root) (minus the transition line at the end).
+[Essay opening](https://github.com/root-foundation/root) (minus the transition line at the end).
 
 ### Core emotion
 
