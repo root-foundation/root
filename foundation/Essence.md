@@ -22,8 +22,6 @@ At its heart is the _NetworkToken_, which holds stakes in all users, and each us
 
 Only through such unity can AI lead to collective prosperity.
 
----
-
 I’d value your feedback: [https://github.com/root-foundation/root](https://github.com/root-foundation/root).
 
 ### Direct message
