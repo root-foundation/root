@@ -36,24 +36,8 @@ I’d value your feedback:
 
 ### Blurb
 
-*(website + essay opening).*
+[Essay opening](https://github.com/root](https://github.com/root-foundation/root) (minus the transition line at the end).
 
-Artificial intelligence promises prosperity and abundance for all. 
-
-But on our current path, AI will deepen division and drive our collapse. RootNet is our attempt to solve this. 
-
-RootNet is a new kind of network that unites humanity and unlocks our collective potential in the age of AI.
-
-On RootNet, you can invest in the potential of collectives, people, or ideas (e.g., companies) by trading shares of their tokens which are grounded in reality (revenue). 
-
-At its heart is the _NetworkToken_, which holds stakes in all users, and each user holds a stake in it — *structurally* uniting us so that when one wins, we all win.
-
-Only through such unity can AI lead to collective prosperity.
-
-### Tweet introducing RootNet
-
-*(posted on @homanspirit, that @rootnet will repost).*
-(todo)
 ### Core emotion
 
 ![](assets/emotion.png)
