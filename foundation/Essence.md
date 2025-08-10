@@ -3,12 +3,11 @@
 ### Phrase
 
 Collective prosperity through unity.
+
 ### One line
 
 RootNet is a network that enables collective prosperity in the age of AI — through unity.
-### Bio
 
-RootNet is a new kind of network that enables collective prosperity in the age of AI, through unity built on incentives.
 ### Email
 
 **Subject**: RootNet — collective prosperity in the age of AI
