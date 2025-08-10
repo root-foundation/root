@@ -6,7 +6,7 @@ Collective prosperity through unity.
 
 ### Sentence
 
-RootNet enables collective prosperity in the age of AI, *through structural unity*.
+RootNet is a network that enables collective prosperity in the age of AI, through structural unity.
 
 ### Blurb
 
