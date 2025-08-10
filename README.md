@@ -1,16 +1,26 @@
-# Rootnet
+# RootNet
 
 _[homan](https://x.com/homanspirit) & [shiv](https://scholar.google.com/citations?user=WNUGEccAAAAJ&hl=en)_
 
 ---
 
-Artificial intelligence promises abundance and prosperity.
+Artificial intelligence promises prosperity and abundance for all.
 
-But we aren’t _organized_ in a way that lets us take advantage of AI. On our _current_ systems, AI will concentrate opportunity and divide society.
+But on our _current_ systems, AI will concentrate opportunity in the hands of the few, divide society, and drive our collapse.
 
-In this essay, we propose a _new_ way to organize ourselves that enables us to use AI to achieve unity and prosperity instead of division and decay.
+This is why we’re creating RootNet: a new kind of network that unites humanity and unlocks our collective potential in the age of AI. 
 
-But first we need to understand how AI will change our world.
+On RootNet, you can invest in any kind of potential — in collectives, individuals, and ideas — by trading shares of their tokens: network tokens, personal tokens, or idea tokens (e.g., companies).
+
+Importantly, a token’s value is grounded in reality — in revenue from real-world creation.
+
+At the heart of RootNet is the NetworkToken, which represents our collective potential. The NetworkToken holds stakes in all users, and each user holds a stake in the NetworkToken, creating a symbiotic bond that structurally unites us.
+
+When one of us wins, we all win. When one falls, we all feel it. 
+
+Only through such unity can we harness AI toward shared prosperity and abundance.
+
+To understand the need for RootNet, we must first see how AI will change our world.
 
 ---
 
@@ -42,7 +52,7 @@ But first we need to understand how AI will change our world.
 23. [Tokens will eat the world](#tokens-will-eat-the-world)
 24. [Imbalance](#imbalance)
 25. [Root problem](#root-problem)
-26. [Rootnet](#rootnet)
+26. [RootNet](#rootnet)
 27. [True value](#true-value)
 28. [Grounded in reality](#grounded-in-reality)
 29. [Solution](#solution)
@@ -519,59 +529,59 @@ Markets remain our best tool for allocating resources _given_ a particular notio
 
 Therefore, we need a system that can represent _true_, _holistic_ value so that we can move resources to where they *truly* belong, at the speed we need.
 
-## Rootnet
+## RootNet
 
-[Personal tokens](#personal-token) and the [NetworkToken](#networktoken) are part of a more *general* system: *rootnet*. 
+[Personal tokens](#personal-token) and the [NetworkToken](#networktoken) are part of a more *general* system: *RootNet*. 
 
-Rootnet is a network designed to represent a more _true_, _holistic_ notion of value so that we can allocate resources to what we _actually_ value, *efficiently*.
+RootNet is a network designed to represent a more _true_, _holistic_ notion of value so that we can allocate resources to what we _actually_ value, *efficiently*.
 
-On rootnet, there’s no separation between social and financial. All activity is represented by a single primitive: the *token*. A token represents _potential_, and can be assigned to an individual (_personal token_), a collective (_network token_), or an expression (_company token_, etc.). 
+On RootNet, there’s no separation between social and financial. All activity is represented by a single primitive: the *token*. A token represents _potential_, and can be assigned to an individual (_personal token_), a collective (_network token_), or an expression (_company token_, etc.). 
 
-Every user on rootnet has a personal token, which now generalizes beyond finance to _all_ forms of activity.
+Every user on RootNet has a personal token, which now generalizes beyond finance to _all_ forms of activity.
 
 The token represents its holder's potential to create value. Users express belief in that potential by transacting on its shares. And importantly, a token's value is always grounded in reality: in its holder's equities in other tokens, companies, or revenue.
 
-By enabling users to transact on tokens seamlessly, rootnet lets people allocate resources to the individuals, collectives, and expressions they value.
+By enabling users to transact on tokens seamlessly, RootNet lets people allocate resources to the individuals, collectives, and expressions they value.
 
 As [discussed earlier](#networktoken), the network itself holds a token: the *NetworkToken*. The individual and the collective are structurally _intertwined_: users hold stakes in the NetworkToken, and the NetworkToken holds stakes in all users. **When _anyone_ creates value for the network, _everyone_ benefits.**
 
 ## True value
 
-Rootnet enables us to represent what we *truly* value.
+RootNet enables us to represent what we *truly* value.
 
-#### Rootnet *expands* existing notion of value. 
+#### RootNet *expands* existing notion of value. 
 
-The personal token of an individual who has the potential to create economic value by starting, or joining, or investing in companies (or investing in other tokens) will be valued greatly. Rootnet enables us to value such potential *earlier* and more *broadly* than ever before.
+The personal token of an individual who has the potential to create economic value by starting, or joining, or investing in companies (or investing in other tokens) will be valued greatly. RootNet enables us to value such potential *earlier* and more *broadly* than ever before.
 
-#### Rootnet represents *intangible* value.
+#### RootNet represents *intangible* value.
 
-Rootnet lets us value forms of contribution that have always mattered but were never reflected in economic systems.
+RootNet lets us value forms of contribution that have always mattered but were never reflected in economic systems.
 
 Take parenting. Most would agree that parenting is one of the most (if not *the* most) vital contributors to collective prosperity. Children raised with love, care, and resources are more likely to become kind, capable, and hopeful adults — benefiting everyone through both who they *are* and what they *do*.
 
-On rootnet, this value can be represented directly. Parents will hold equity in their children's personal tokens and can raise capital by selling shares in their own tokens to support their children. As their children succeed, the value of the parents' tokens will rise. Exceptional parents will even be encouraged to share their wisdom, train others, and *invest* in new parents.
+On RootNet, this value can be represented directly. Parents will hold equity in their children's personal tokens and can raise capital by selling shares in their own tokens to support their children. As their children succeed, the value of the parents' tokens will rise. Exceptional parents will even be encouraged to share their wisdom, train others, and *invest* in new parents.
 
-By tangibly representing the value of parenting, rootnet creates a strong incentive for _better_ parenting. Great parents gain access to resources they previously lacked. Absent or harmful parenting becomes economically costly, as it puts at risk future wealth tied to their children’s potential.
+By tangibly representing the value of parenting, RootNet creates a strong incentive for _better_ parenting. Great parents gain access to resources they previously lacked. Absent or harmful parenting becomes economically costly, as it puts at risk future wealth tied to their children’s potential.
 
 > And independent of personal tokens, **Universal Basic Equity (UBE)** will raise the baseline—ensuring all parents have the minimum resources needed to care for their children.
 
-Rootnet allows us to allocate resources toward what we deeply value, but previously couldn't represent.
+RootNet allows us to allocate resources toward what we deeply value, but previously couldn't represent.
 
-#### Rootnet represents *collective* value.
+#### RootNet represents *collective* value.
 
-The NetworkToken captures our _collective potential_ by holding stakes in all personal tokens on Rootnet. The stronger our belief that the future will be more prosperous than today, the more we’ll value the NetworkToken.
+The NetworkToken captures our _collective potential_ by holding stakes in all personal tokens on RootNet. The stronger our belief that the future will be more prosperous than today, the more we’ll value the NetworkToken.
 
 Our current economic system fails to account for long-term collective consequences, like climate change, because it narrowly defines value. As a result, we’re often rewarded for short-term gains even when they cause long-term harm.
 
-On the other hand, on rootnet, actions that harm our shared future — even if profitable in the short term — will be strongly disincentivized. For example, burning more fossil fuels might yield quick profits, but it undermines our hope in a better future, dragging down the NetworkToken’s value. Since we each hold equity in the NetworkToken, we’re directly harmed. The collective loss will far outweigh the short-term profit, making such behavior economically *irrational*.
+On the other hand, on RootNet, actions that harm our shared future — even if profitable in the short term — will be strongly disincentivized. For example, burning more fossil fuels might yield quick profits, but it undermines our hope in a better future, dragging down the NetworkToken’s value. Since we each hold equity in the NetworkToken, we’re directly harmed. The collective loss will far outweigh the short-term profit, making such behavior economically *irrational*.
 
 Conversely, actions that _strengthen_ our shared belief in the future will be rewarded. An artist who uplifts our collective hope can increase the value of the NetworkToken itself. As it becomes clear their work creates this kind of value, the artist’s personal token valuation will surge (i.e., we will give them more resources to keep creating such value) — as long as such hope continues to translate into actual value created.
 
 ## Grounded in reality
 
-The value represented on rootnet is grounded in _reality_.
+The value represented on RootNet is grounded in _reality_.
 
-The NetworkToken holds stakes in personal tokens, which in turn hold stakes in companies (and other tokens), which are backed by revenue — i.e., actual transactions that reflect real-world value creation. If no value is created, no transaction occurs, no revenue is generated, and the valuations of companies (and the tokens that hold shares of these companies) will fall. Rootnet is anchored in the real value creation.
+The NetworkToken holds stakes in personal tokens, which in turn hold stakes in companies (and other tokens), which are backed by revenue — i.e., actual transactions that reflect real-world value creation. If no value is created, no transaction occurs, no revenue is generated, and the valuations of companies (and the tokens that hold shares of these companies) will fall. RootNet is anchored in the real value creation.
 
 But what about those who create _hope_, like artists, especially when no one directly “buys” their work? Why would their personal tokens hold value?
 
@@ -579,19 +589,19 @@ Because hope _is_ real. It shapes behavior, inspires action, and unlocks possibi
 
 Hope is often a self-fulfilling prophecy. An artist who instills genuine hope that we _can_ solve our problems *materially* improves our trajectory.
 
-Importantly, rootnet keeps hope grounded. If hope doesn’t translate into actual value creation, the NetworkToken won’t respond, and the market will correct. As long as we continue to translate hope into actual value, actions that instill hope will be tangibly valued because they increase our collective (and therefore individual) wealth. And so, users will allocate resources to such efforts by investing in the tokens of the individuals, collectives, and expressions that generate hope.
+Importantly, RootNet keeps hope grounded. If hope doesn’t translate into actual value creation, the NetworkToken won’t respond, and the market will correct. As long as we continue to translate hope into actual value, actions that instill hope will be tangibly valued because they increase our collective (and therefore individual) wealth. And so, users will allocate resources to such efforts by investing in the tokens of the individuals, collectives, and expressions that generate hope.
 
 ## Solution
 
-Let's see how to *implement* rootnet.
+Let's see how to *implement* RootNet.
 
-Recall: rootnet is based on a single primitive — *the token* — that represents *potential*, that can be assigned to an individual ([*personal token*](#personal-token)), collective ([*network token*](#networktoken)), or expression (*company token*, etc.). Each user on rootnet is assigned a *personal token*. 
+Recall: RootNet is based on a single primitive — *the token* — that represents *potential*, that can be assigned to an individual ([*personal token*](#personal-token)), collective ([*network token*](#networktoken)), or expression (*company token*, etc.). Each user on RootNet is assigned a *personal token*. 
 
-Rootnet is built on a decentralized blockchain Ledger that contains all of the tokens in the network, including the [NetworkToken](#networktoken) that represents the potential of the *entire* network. This technical "core" is developed and controlled by a non-profit organization — *RootFoundation*.
+RootNet is built on a decentralized blockchain Ledger that contains all of the tokens in the network, including the [NetworkToken](#networktoken) that represents the potential of the *entire* network. This technical "core" is developed and controlled by a non-profit organization — *RootFoundation*.
 
-Entities (such as companies) will be able to operate on top of Rootnet to enable a wide range of products and services built on tokens, while adhering to the *policies* of rootnet that determine how entities must engage with the Ledger.
+Entities (such as companies) will be able to operate on top of RootNet to enable a wide range of products and services built on tokens, while adhering to the *policies* of RootNet that determine how entities must engage with the Ledger.
 
-Initially, RootFoundation will determine these policies. Over time, control over these policies, and more broadly *all* of rootnet's functions and evolution, will be progressively decentralized so that *users* will own, control and shape rootnet. If during this progressive decentralization RootFoundation fails to live up to what users want, anyone can *fork* the ledger, issue a new NetworkToken and continue onwards.
+Initially, RootFoundation will determine these policies. Over time, control over these policies, and more broadly *all* of RootNet's functions and evolution, will be progressively decentralized so that *users* will own, control and shape RootNet. If during this progressive decentralization RootFoundation fails to live up to what users want, anyone can *fork* the ledger, issue a new NetworkToken and continue onwards.
 
 <img src="foundation/assets/system-architecture.png" width="600" />
 
@@ -599,7 +609,7 @@ Let's expand on each of these...
 
 ### Token
 
-Rootnet is based on the primitive — _the token_ — that represents an individual, collective, or expression.
+RootNet is based on the primitive — _the token_ — that represents an individual, collective, or expression.
 
 A token contains the following information:
 
@@ -614,7 +624,7 @@ There are three _kinds_ of tokens that extend from this primitive:
 2. *network* tokens are for collectives (nations tokens (e.g., "USAToken"), NetworkToken, etc.).
 3. *expression* tokens are for individual ideas or expressions (e..g, companies).
 
-[^rootcoin]: Eventually, rootnet will have its own currency. Starting with USDC will eliminate unnecessary volatility.
+[^rootcoin]: Eventually, RootNet will have its own currency. Starting with USDC will eliminate unnecessary volatility.
 
 ### Ledger
 
@@ -640,7 +650,7 @@ RootFoundation members will work together _in person_ at our HQ in San Francisco
 
 ### Legal
 
-All transactions in rootnet will be compliant with relevant laws and regulations. This means that investing in tokens within rootnet will initially be restricted to users who live in the United States of America.
+All transactions in RootNet will be compliant with relevant laws and regulations. This means that investing in tokens within RootNet will initially be restricted to users who live in the United States of America.
 
 ## Decentralization
 
@@ -654,7 +664,7 @@ Voting will be continuous: users can shift their vote as soon as they change the
 
 ## Fork-ability
 
-Rootnet is fork-able at its core. If RootFoundation stops serving its users in the way *they* want, the Ledger itself can be forked, a new NetworkToken issued, and a *new* foundation can continue the work towards uniting humanity and unlocking our collective potential in a way that's actually aligned with what people want.
+RootNet is fork-able at its core. If RootFoundation stops serving its users in the way *they* want, the Ledger itself can be forked, a new NetworkToken issued, and a *new* foundation can continue the work towards uniting humanity and unlocking our collective potential in a way that's actually aligned with what people want.
 
 All of the RootFoundation’s activity will be publicly available in _this_ repository under an [MIT license](LICENSE), enabling anyone to fork anything without needing permission.
 
@@ -668,7 +678,7 @@ If artificial intelligence is to unlock abundance for *all* of us — not just a
 
 Our current systems weren’t built for this future. They divide us by concentrating opportunity, rewarding short-term gain at the expense of long-term collective loss, and making the success of one feel like the loss of another. Words alone cannot overcome this. We need better _incentives_ that push for unity.
 
-Rootnet enables this. It intertwines our fates: each of us is a stakeholder in the collective, and the collective a stakeholder in each of us. When one wins, we all win. When one falls, we all feel it. Through personal tokens, we fund potential. Through the NetworkToken, we share in collective upside. Through Universal Basic Equity, we raise the baseline without inflation.
+RootNet enables this. It intertwines our fates: each of us is a stakeholder in the collective, and the collective a stakeholder in each of us. When one wins, we all win. When one falls, we all feel it. Through personal tokens, we fund potential. Through the NetworkToken, we share in collective upside. Through Universal Basic Equity, we raise the baseline without inflation.
 
 And only through such *structural* unity can we fully take advantage of artificial intelligence — *toward prosperity and abundance*.
 
@@ -685,7 +695,7 @@ Make sure to vote with a wallet you will retain control of.<br/>
 
 ---
 
-We’ve only scratched the surface of what rootnet will make possible. Rootnet will [rewrite our education system](appendix/Education.md) through better incentives. And critically, rootnet will [*enable* superintelligence](appendix/Superintelligence.md) which *cannot* emerge outside of a network like rootnet.
+We’ve only scratched the surface of what RootNet will make possible. RootNet will [rewrite our education system](appendix/Education.md) through better incentives. And critically, RootNet will [*enable* superintelligence](appendix/Superintelligence.md) which *cannot* emerge outside of a network like RootNet.
 
 No part of this idea is “owned” by anyone. We encourage the world to challenge it, fork it, build on it, and take it further than any of us ever could alone.
 
