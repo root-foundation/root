@@ -4,21 +4,17 @@ _[homan](https://x.com/homanspirit) & [shiv](https://scholar.google.com/citation
 
 ---
 
-Artificial intelligence promises prosperity and abundance for all.
+Artificial intelligence promises prosperity and abundance for all. 
 
-But on our _current_ systems, AI will concentrate opportunity in the hands of the few, divide society, and drive our collapse.
+But on our current path, AI will deepen division and drive our collapse. RootNet is our attempt to solve this. 
 
-This is why we’re creating RootNet: a new kind of network that unites humanity and unlocks our collective potential in the age of AI. 
+RootNet is a new kind of network that unites humanity and unlocks our collective potential in the age of AI.
 
-On RootNet, you can invest in any kind of potential — in collectives, individuals, and ideas — by trading shares of their tokens: network tokens, personal tokens, or idea tokens (e.g., companies).
+On RootNet, you can invest in the potential of collectives, people, or ideas (e.g., companies) by trading shares of their tokens which are grounded in reality (revenue). 
 
-Importantly, a token’s value is grounded in reality — in revenue from real-world creation.
+At its heart is the _NetworkToken_, which holds stakes in all users, and each user holds a stake in it — *structurally* uniting us so that when one wins, we all win.
 
-At the heart of RootNet is the NetworkToken, which represents our collective potential. The NetworkToken holds stakes in all users, and each user holds a stake in the NetworkToken, creating a symbiotic bond that structurally unites us.
-
-When one of us wins, we all win. When one falls, we all feel it. 
-
-Only through such unity can we harness AI toward shared prosperity and abundance.
+Only through such unity can AI lead to collective prosperity.
 
 To understand the need for RootNet, we must first see how AI will change our world.
 
