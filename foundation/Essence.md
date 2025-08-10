@@ -4,39 +4,41 @@
 
 Collective prosperity through unity.
 
-### One line
+### One liner
 
-RootNet is a network that enables collective prosperity in the age of AI — through unity.
-
-### Email
-
-**Subject**: RootNet — collective prosperity in the age of AI
-
-**Body**:
-
-The way we’re headed, AI will concentrate opportunity and divide us. RootNet is our attempt to solve this.
-
-RootNet is a network where anyone can invest in the potential of collectives, people, or ideas (e.g., companies) by trading shares of their tokens which are grounded in reality (revenue). 
-
-At its heart is the _NetworkToken_, which holds stakes in all users, and each user holds a stake in it — *structurally* uniting us so that when one wins, we all win.
-
-Only through such unity can AI lead to collective prosperity.
-
-I’d value your feedback: [https://github.com/root-foundation/root](https://github.com/root-foundation/root).
-
-### Direct message
-
-I’d value your feedback:
-
-(same body as email)
-
-[https://github.com/root-foundation/root](https://github.com/root-foundation/root).
+RootNet enables collective prosperity in the age of AI, *through structural unity*.
 
 ### Blurb
 
-[Essay opening](https://github.com/root-foundation/root) (minus the transition line at the end).
+#### (< 50)
 
-### Core emotion
+The way we’re headed, AI will concentrate opportunity and divide us.
+
+RootNet democratizes opportunity through a market for _potential_, and unites us by *structurally* tying individual success to collective prosperity, so that when one wins, we all win.
+
+This is the only way humanity wins in the age of AI.
+
+#### (< 65)
+
+The way we’re headed, AI will concentrate opportunity and divide us.
+
+RootNet democratizes opportunity through a market for _potential_, and unites us by *structurally* tying individual success to collective prosperity: each person holds a stake in the collective, and the collective holds a stake in each person. When one wins, we all win.
+
+This is the only way humanity wins in the age of AI.
+
+#### (< 85)
+
+The way we’re headed, AI will concentrate opportunity and divide us. 
+
+RootNet solves this by: 
+
+1 - Democratizing opportunity by creating a market for potential, channeling resources to people *before* they can create value.
+
+2 - Uniting us by *structurally* tying individual success and collective prosperity: each person holds a stake in the collective, and the collective holds a stake in each person. When one wins, we all win.
+
+This is the only way humanity wins in the age of AI.
+
+### Emotion
 
 ![](assets/emotion.png)
 
