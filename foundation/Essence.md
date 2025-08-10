@@ -57,7 +57,7 @@ Only through such unity can AI lead to collective prosperity.
 (todo)
 ### Core emotion
 
-![](foundation/assets/emotion.png)
+![](assets/emotion.png)
 
 RootNet represents:
 - Warmth. Individuals becoming one by intertwining their success and failure.
