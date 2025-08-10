@@ -4,7 +4,7 @@
 
 Collective prosperity through unity.
 
-### One liner
+### Sentence
 
 RootNet enables collective prosperity in the age of AI, *through structural unity*.
 
