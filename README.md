@@ -64,7 +64,11 @@ To understand the need for RootNet, we must first see how AI will change our wor
 
 # A. How AI will change our world
 
-When we ask how AI will change our world, what we're really asking is how AI changes the nature of our _activities_ — i.e., what we find valuable to work on and how we work on them.
+The age of AI will be dynamic. The biggest successes will be far larger than anything we’ve seen before, while the rewards will be concentrated in fewer hands at any moment (i.e., extreme outcomes), _across all fields_. More people will be able to compete for them, but the gap between the best and the rest will grow sharply. The number of valuable opportunities will explode, winners will be replaced more quickly, and more people than ever will experience success — even if only briefly before being overtaken.
+
+AI will also keep expanding our horizons by pushing us towards ever more complex problems. Each time we solve something, we’ll see even bigger challenges ahead. What feels difficult today will seem trivial to our descendants. And importantly, AGI will never make humans unnecessary. We will always be able to imagine more than we can do, continuously pushing our horizon further.
+
+To understand why AI will change our world this way, we need to first see how it transforms a _single_ activity.
 
 ## Activity
 
