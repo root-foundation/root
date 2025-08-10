@@ -6,7 +6,7 @@ Collective prosperity through unity.
 
 ### Sentence
 
-RootNet is a network that enables collective prosperity in the age of AI, through structural unity.
+RootNet enables humanity to win in the age of AI by *structurally* uniting us.
 
 ### Blurb
 
@@ -40,7 +40,7 @@ This is the only way humanity wins in the age of AI.
 
 ### Emotion
 
-![](assets/emotion.png)
+![](foundation/assets/emotion.png)
 
 RootNet represents:
 - Warmth. Individuals becoming one by intertwining their success and failure.
