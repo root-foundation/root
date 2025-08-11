@@ -86,7 +86,7 @@ Below, we explore *why* we need RootNet, *what* it enables, and *how* we can bui
 7. [Predictions:](#predictions)
 8. [1) Peak outcome grows superexponentially](#1-peak-outcome-grows-superexponentially)
 9. [2) Competition grows at least exponentially](#2-competition-grows-at-least-exponentially)
-10. [3) Outcomes superexponentially become more extreme across the board](#3-outcomes-superexponentially-become-more-extreme-across-the-board)
+10. [3) Outcomes become more extreme superexponentially, across the board](#3-outcomes-become-more-extreme-superexponentially-across-the-board)
 11. [4) Number of economically viable activities grows superexponentially.](#4-number-of-economically-viable-activities-grows-superexponentially)
 12. [5) Rate of displacement of winners accelerates.](#5-rate-of-displacement-of-winners-accelerates)
 13. [6) Absolute number of winners grows at least exponentially.](#6-absolute-number-of-winners-grows-at-least-exponentially)
