@@ -26,9 +26,11 @@ In governance, laws and regulations can’t keep up with AI.<br/>
 In media, AI creates content faster than we can verify truth.<br/>
 And many many more.
 
-When one system races ahead (AI) while others lag, imbalance grows. Accelerating AI means accelerating imbalance, which means accelerating suffering. 
+When one system races ahead (AI) while others lag, imbalance grows.<br/>
+Accelerating AI means accelerating imbalance, which means accelerating suffering. 
 
-Slowing down AI is *not* the solution. AI enables progress. Instead, we must *reorganize* ourselves to advance *without imbalance* so that we take advantage of AI to *prosper together*.
+Slowing down AI is *not* the solution. AI enables progress.<br/>
+Instead, we must *reorganize* ourselves to advance *without imbalance* so that we take advantage of AI to *prosper together*.
 
 Otherwise, opportunity will be concentrated in few hands, dividing us and driving collapse.
 
@@ -46,12 +48,13 @@ Only through such *structural* unity based on incentives can humanity thrive in 
 
 RootNet is based on a single primitive — *the token* — which represents potential to create value, that has transact-able shares. 
 
-There are three types of tokens: network, personal, and idea.  
-Network token = collective potential.
-Personal token = individual potential.
+There are three types of tokens: network, personal, and idea.<br/>  
+Network token = collective potential.<br/>
+Personal token = individual potential.<br/>
 Idea token (a company) = expression potential.
 
-The value of tokens is grounded in reality: network tokens hold personal tokens, which hold idea tokens (companies), which are tied to revenue. Tokens aren’t memes, they are instruments that sit *above* companies and money.
+The value of tokens is grounded in reality: network tokens hold personal tokens, which hold idea tokens (companies), which are tied to revenue.<br/>
+Tokens aren’t memes, they are instruments that sit *above* companies and money.
 
 RootNet will change our world. It will grow collective wealth *without inflation* through Universal Basic *Equity*. It will rewrite education with better incentives. And it will prevent short-term profit that causes long-term collective harm by better representing what we value. And it will even *enable* superintelligence.
 
@@ -59,10 +62,10 @@ RootNet is a new foundation for civilization.
 
 RootNet will be progressively decentralized so that the people will eventually control everything.
 
-Fork-able.
-Open source.
-Transparent.
-Nonprofit.
+Fork-able.<br/>
+Open source.<br/>
+Transparent.<br/>
+Nonprofit.<br/>
 
 Join us to build the future of humanity.  
 Or steal this idea and compete.
