@@ -2,43 +2,23 @@
 
 ### Phrase
 
-Collective prosperity through unity.
+Prosperity through unity.
 
 ### Sentence
 
-RootNet enables humanity to win in the age of AI by *structurally* uniting us.
+RootNet enables collective prosperity in the age of AI, through unity.
 
 ### Blurb
 
 #### (< 50)
 
-The way we’re headed, AI will concentrate opportunity and divide us.
-
 RootNet democratizes opportunity through a market for _potential_, and unites us by *structurally* tying individual success to collective prosperity, so that when one wins, we all win.
-
-This is the only way humanity wins in the age of AI.
 
 #### (< 65)
 
-The way we’re headed, AI will concentrate opportunity and divide us.
-
 RootNet democratizes opportunity by creating a market for potential, and unites us by *structurally* tying individual success to collective prosperity: each of us holds a stake in the collective that holds a stake in each of us. 
 
-When one wins, we all win.
-
-This is the only way humanity wins in the age of AI.
-
-#### (< 85)
-
-The way we’re headed, AI will concentrate opportunity and divide us. 
-
-RootNet solves this by: 
-
-1 - Democratizing opportunity by creating a market for potential, channeling resources to people *before* they can create value.
-
-2 - Uniting us by *structurally* tying individual success and collective prosperity: each of us holds a stake in the collective that holds a stake in each of us. When one wins, we all win.
-
-This is the only way humanity wins in the age of AI.
+When one wins, all win.
 
 ### Emotion
 
@@ -54,3 +34,7 @@ Every child that joins RootNet must feel the warmth and care of the many generat
 Your shareholders in your personal token are the people who helped you get to where you are. All the hands that enabled your success. The village that raised and enabled you.
 
 RootNet is a story about unity, collective prosperity, togetherness, warmth, care, wellbeing.
+
+### Short essay (500 words)
+
+Read [introduction]().

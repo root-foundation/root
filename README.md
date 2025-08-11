@@ -1,21 +1,72 @@
-# RootNet
+# RootNet: Prosperity through Unity
 
 _[homan](https://x.com/homanspirit) & [shiv](https://scholar.google.com/citations?user=WNUGEccAAAAJ&hl=en)_
 
+## Essence
+
+If we continue on our current path, AI will concentrate opportunity, leave billions behind, and cause unimaginable suffering.
+
+RootNet is how humanity can win in the age of AI.
+
+AI will make our world *dynamic* and *extreme*.
+
+The biggest wins will grow far larger, but winners will fall faster. Opportunities will skyrocket, competition will intensify, and more people will touch success. Yet at any moment, outcomes will be concentrated in fewer hands across every field: **an extreme power law distribution of outcomes.**
+
+But due to extreme outcomes, **debt no longer works**. 
+And yet, our world still runs on debt. 
+What happens when only a few can repay loans? 
+Will the government help? 
+What will happen to those in poorer nations? 
+Unimaginable suffering.
+
+This collapse is only one of many. In education, most are learning skills that will make them utterly unemployable. In governance, laws and regulations can’t keep up with AI. In media, AI creates content faster than we can verify truth. And many many more.
+
+When one system races ahead (AI) while others lag, imbalance grows. Accelerating AI means accelerating imbalance, which means accelerating suffering. 
+
+Slowing down AI is *not* the solution. AI enables progress. Instead, we must *reorganize* ourselves to advance *without imbalance* so that we take advantage of AI to *prosper together*.
+
+Otherwise, opportunity will be concentrated in few hands, dividing us and driving collapse.
+
+We need RootNet.
+
+**RootNet democratizes opportunity** by creating a market for *potential*. 
+
+This allows people to raise venture capital (instead of debt) to finance education, housing, and more broadly life itself, *well before they are ready to create value*. 
+
+**RootNet also raises our baseline** by structurally tying individual success and collective prosperity: each of us holds a *stake* in the collective that holds a *stake* in each of us. 
+
+On RootNet, when one wins, all win.
+
+Only through such *structural* unity based on incentives can humanity thrive in the age of AI.
+
+RootNet is based on a single primitive — *the token* — which represents potential to create value, that has transact-able shares. 
+
+There are three types of tokens: network, personal, and idea.  
+Network token = collective potential.
+Personal token = individual potential.
+Idea token (a company) = expression potential.
+
+The value of tokens is grounded in reality: network tokens hold personal tokens, which hold idea tokens (companies), which are tied to revenue. Tokens aren’t memes, they are instruments that sit *above* companies and money.
+
+RootNet will change our world. It will grow collective wealth *without inflation* through Universal Basic *Equity*. It will rewrite education with better incentives. And it will prevent short-term profit that causes long-term collective harm by better representing what we value. And it will even *enable* superintelligence.
+
+RootNet is a new foundation for civilization.
+
+RootNet will be progressively decentralized so that the people will eventually control everything.
+
+Fork-able.
+Open source.
+Transparent.
+Nonprofit.
+
+Join us to build the future of humanity.  
+Or steal this idea and compete.
+
+May the best network win, and lift humanity with it.
+
 ---
 
-The way we’re headed, AI will concentrate opportunity and divide us. 
-
-RootNet solves this by: 
-
-1. **Democratizing opportunity** by creating a market for *potential*, channeling resources to people *before* they can create value.
-2. **Uniting us** by *structurally* tying individual success and collective prosperity: each person holds a stake in the collective, and the collective holds a stake in each person. *When one wins, we all win.*
-
-This is the only way humanity wins in the age of AI.
-
-To understand the need for RootNet, we must first see how AI will change our world.
-
----
+Below, we explore *why* we need RootNet, *what* it enables, and *how* we can build it together.
 
 #### Side A. How AI will change our world
 1. [Activity](#activity)
@@ -33,7 +84,7 @@ To understand the need for RootNet, we must first see how AI will change our wor
 13. [6) Absolute number of winners grows at least exponentially.](#6-absolute-number-of-winners-grows-at-least-exponentially)
 14. [AGI will expand humanity's horizon](#agi-will-expand-humanitys-horizon)
 
-#### Side B. Unlocking our collective potential
+#### Side B. New foundation for civilization
 15. [Problem](#problem)
 16. [Venture capital](#venture-capital)
 17. [Personal token](#personal-token)
@@ -59,7 +110,7 @@ To understand the need for RootNet, we must first see how AI will change our wor
 
 The age of AI will be dynamic. The biggest successes will be far larger than anything we’ve seen before, while the rewards will be concentrated in fewer hands at any moment (i.e., extreme outcomes), _across all fields_. More people will be able to compete for them, but the gap between the best and the rest will grow sharply. The number of valuable opportunities will explode, winners will be replaced more quickly, and more people than ever will experience success — even if only briefly before being overtaken.
 
-AI will also keep expanding our horizons by pushing us towards ever more complex problems. Each time we solve something, we’ll see even bigger challenges ahead. What feels difficult today will seem trivial to our descendants. And importantly, AGI will never make humans unnecessary. We will always be able to imagine more than we can do, continuously pushing our horizon further.
+AI will also keep expanding our horizons by pushing us towards ever more complex problems. Each time we solve something, we’ll see even bigger challenges ahead. What feels difficult today will seem trivial to our descendants. And importantly, AI will never make us unnecessary. We will always be able to *see* more than we can *do*, continuously pushing our horizon further.
 
 To understand why AI will change our world this way, we need to first see how it transforms a _single_ activity.
 
@@ -328,13 +379,13 @@ A post AGI world will be dynamic and extreme. Winners will rise and fall more qu
 
 Artificial intelligence will never make humans obsolete because we will always _see_ more than we can _do_. Solving cancer will lead us to confront death itself. Reaching Mars will push us to aim for Pluto.
 
-Our imagination, *not* ability, defines our frontier. And we believe in humanity's ability to imagine far more than anything artificial intelligence will be able to *do*.
+Our imagination, *not* ability, defines our frontier. Humanity’s ability to imagine will always exceed anything artificial intelligence will be able to do.
 
 But, we aren't *organized* in a way that enables us to *collectively* take advantage of artificial intelligence. In fact, on our _current_ systems, AGI will concentrate opportunity and divide society.
 
 To understand why, let's first study how our current economic system becomes oppressive in a post AGI world.
 
-# B. Unlocking our collective potential
+# B. New foundation for civilization
 
 ## Problem
 
