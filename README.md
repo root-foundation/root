@@ -12,11 +12,11 @@ AI will make our world *dynamic* and *extreme*.
 
 The biggest wins will grow far larger, but winners will fall faster. Opportunities will skyrocket, competition will intensify, and more people will touch success. Yet at any moment, outcomes will be concentrated in fewer hands across every field: **an extreme power law distribution of outcomes.**
 
-But due to extreme outcomes, **debt no longer works**. 
-And yet, our world still runs on debt. 
-What happens when only a few can repay loans? 
-Will the government help? 
-What will happen to those in poorer nations? 
+But due to extreme outcomes, **debt no longer works**.<br/>
+And yet, our world still runs on debt.<br/>
+What happens when only a few can repay loans?<br/>
+Will the government help?<br/>
+What will happen to those in poorer nations?<br/>
 Unimaginable suffering.
 
 This collapse is only one of many. In education, most are learning skills that will make them utterly unemployable. In governance, laws and regulations can’t keep up with AI. In media, AI creates content faster than we can verify truth. And many many more.
@@ -63,6 +63,8 @@ Join us to build the future of humanity.
 Or steal this idea and compete.
 
 May the best network win, and lift humanity with it.
+
+[Vote for humanity](#vote-for-humanity).
 
 ---
 
