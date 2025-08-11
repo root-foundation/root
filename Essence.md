@@ -22,7 +22,9 @@ This is the only way humanity wins in the age of AI.
 
 The way we’re headed, AI will concentrate opportunity and divide us.
 
-RootNet democratizes opportunity through a market for _potential_, and unites us by *structurally* tying individual success to collective prosperity: each person holds a stake in the collective, and the collective holds a stake in each person. When one wins, we all win.
+RootNet democratizes opportunity by creating a market for potential, and unites us by *structurally* tying individual success to collective prosperity: each of us holds a stake in the collective that holds a stake in each of us. 
+
+When one wins, we all win.
 
 This is the only way humanity wins in the age of AI.
 
@@ -34,7 +36,7 @@ RootNet solves this by:
 
 1 - Democratizing opportunity by creating a market for potential, channeling resources to people *before* they can create value.
 
-2 - Uniting us by *structurally* tying individual success and collective prosperity: each person holds a stake in the collective, and the collective holds a stake in each person. When one wins, we all win.
+2 - Uniting us by *structurally* tying individual success and collective prosperity: each of us holds a stake in the collective that holds a stake in each of us. When one wins, we all win.
 
 This is the only way humanity wins in the age of AI.
 
