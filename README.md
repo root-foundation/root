@@ -53,8 +53,7 @@ Network token = collective potential.<br/>
 Personal token = individual potential.<br/>
 Idea token (a company) = expression potential.
 
-The value of tokens is grounded in reality: network tokens hold personal tokens, which hold idea tokens (companies), which are tied to revenue.<br/>
-Tokens aren’t memes, they are instruments that sit *above* companies and money.
+The value of tokens is grounded in reality: network tokens hold personal tokens, which hold idea tokens (companies), which are tied to revenue. Tokens aren’t memes, they are instruments that sit *above* companies and money.
 
 RootNet will change our world. It will grow collective wealth *without inflation* through Universal Basic *Equity*. It will rewrite education with better incentives. And it will prevent short-term profit that causes long-term collective harm by better representing what we value. And it will even *enable* superintelligence.
 
