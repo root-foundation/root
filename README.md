@@ -49,13 +49,13 @@ Only through such *structural* unity based on incentives can humanity thrive in 
 RootNet is based on a single primitive — *the token* — which represents potential to create value, that has transact-able shares. 
 
 There are three types of tokens: network, personal, and idea.<br/>  
-Network token = collective potential.<br/>
-Personal token = individual potential.<br/>
-Idea token (a company) = expression potential.
+Network token represents collective potential.<br/>
+Personal token represents individual potential.<br/>
+Idea token (a company) represents idea potential.
 
 The value of tokens is grounded in reality: network tokens hold personal tokens, which hold idea tokens (companies), which are tied to revenue. Tokens aren’t memes, they are instruments that sit *above* companies and money.
 
-RootNet will change our world. It will grow collective wealth *without inflation* through Universal Basic *Equity*. It will rewrite education with better incentives. And it will prevent short-term profit that causes long-term collective harm by better representing what we value. And it will even *enable* superintelligence.
+RootNet will change our world. It will grow collective wealth _without inflation_ through Universal Basic _Equity_, rewrite education with better incentives, and stop short-term gains that damage our future by aligning incentives with what we _truly_ value. It will even _enable_ superintelligence.
 
 RootNet is a new foundation for civilization.
 
@@ -66,10 +66,9 @@ Open source.<br/>
 Transparent.<br/>
 Nonprofit.<br/>
 
-Join us to build the future of humanity.  
-Or steal this idea and compete.
-
-May the best network win, and lift humanity with it.
+Join us to build the future of humanity.<br/>
+Or steal this idea and compete.<br/>
+May the best network win and lift us all with it.
 
 [Vote for humanity](#vote-for-humanity).
 
@@ -740,6 +739,8 @@ RootNet enables this. It intertwines our fates: each of us is a stakeholder in t
 And only through such *structural* unity can we fully take advantage of artificial intelligence — *toward prosperity and abundance*.
 
 ## Vote for humanity
+
+*Accelerate prosperity through unity.*
 
 ![Vote QR Code](appendix/assets/vote-address.png)
 
