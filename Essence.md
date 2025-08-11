@@ -49,5 +49,6 @@ RootNet represents:
 
 Every child that joins RootNet must feel the warmth and care of the many generations who toiled to give them a world of freedom, prosperity, abundance. And through that warmth, they must also feel the responsibility to continue the tradition of building an even better future for their descendants. A *culture* and *tradition* that must define humanity.
 
-RootNet is a story about unity, collective prosperity, togetherness, warmth, care, wellbeing.
+Your shareholders in your personal token are the people who helped you get to where you are. All the hands that enabled your success. The village that raised and enabled you.
 
+RootNet is a story about unity, collective prosperity, togetherness, warmth, care, wellbeing.
