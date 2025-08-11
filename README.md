@@ -12,7 +12,8 @@ AI will make our world *dynamic* and *extreme*.
 
 The biggest wins will grow far larger, but winners will fall faster. Opportunities will skyrocket, competition will intensify, and more people will touch success. Yet at any moment, outcomes will be concentrated in fewer hands across every field: **an extreme power law distribution of outcomes.**
 
-But due to extreme outcomes, **debt no longer works**.<br/>
+But due to extreme outcomes, **debt no longer works**.
+
 And yet, our world still runs on debt.<br/>
 What happens when only a few can repay loans?<br/>
 Will the government help?<br/>
