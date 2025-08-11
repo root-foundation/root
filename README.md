@@ -20,7 +20,11 @@ Will the government help?<br/>
 What will happen to those in poorer nations?<br/>
 Unimaginable suffering.
 
-This collapse is only one of many. In education, most are learning skills that will make them utterly unemployable. In governance, laws and regulations can’t keep up with AI. In media, AI creates content faster than we can verify truth. And many many more.
+This collapse is only one of many. 
+In education, most are learning skills that will make them utterly unemployable. 
+In governance, laws and regulations can’t keep up with AI. 
+In media, AI creates content faster than we can verify truth. 
+And many many more.
 
 When one system races ahead (AI) while others lag, imbalance grows. Accelerating AI means accelerating imbalance, which means accelerating suffering. 
 
