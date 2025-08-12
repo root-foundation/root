@@ -24,7 +24,7 @@ This collapse is only one of many.<br/>
 In education, most are learning skills that will make them utterly unemployable.<br/>
 In governance, laws and regulations can’t keep up with AI.<br/>
 In media, AI creates content faster than we can verify truth.<br/>
-And many many more.
+And many others.
 
 When one system races ahead (AI) while others lag, imbalance grows.<br/>
 Accelerating AI means accelerating imbalance, which means accelerating suffering. 
@@ -32,7 +32,7 @@ Accelerating AI means accelerating imbalance, which means accelerating suffering
 Slowing down AI is *not* the solution. AI enables progress.<br/>
 Instead, we must *reorganize* ourselves to advance *without imbalance* so that we take advantage of AI to *prosper together*.
 
-Otherwise, opportunity will be concentrated in few hands, dividing us and driving collapse.
+Otherwise, opportunity will be concentrated in a few hands, dividing us and driving collapse.
 
 We need RootNet.
 
@@ -46,7 +46,7 @@ On RootNet, when one wins, all win.
 
 Only through such *structural* unity based on incentives can humanity thrive in the age of AI.
 
-RootNet is based on a single primitive — *the token* — which represents potential to create value, that has transact-able shares. 
+RootNet is based on a single primitive — *the token* — an instrument that represents potential to create value, with transactable shares. 
 
 There are three types of tokens: network, personal, and idea.<br/>  
 Network token represents collective potential.<br/>
