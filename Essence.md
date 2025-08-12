@@ -16,7 +16,7 @@ RootNet democratizes opportunity through a market for _potential_, and unites us
 
 #### (< 65)
 
-RootNet democratizes opportunity by creating a market for potential, and unites us by *structurally* tying individual success to collective prosperity: each of us holds a stake in the collective that holds a stake in each of us. 
+RootNet democratizes opportunity by creating a market for potential, and unites us by *structurally* tying individual success to collective prosperity: each of us holds a stake in the collective that holds a stake in each of us.
 
 When one wins, all win.
 

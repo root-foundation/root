@@ -4,6 +4,8 @@ _[homan](https://x.com/homanspirit) & [shiv](https://scholar.google.com/citation
 
 ## Essence
 
+### I) Problem
+
 If we continue on our current path, AI will concentrate opportunity, leave billions behind, and cause unimaginable suffering.
 
 RootNet is how humanity will win in the age of AI.
@@ -34,17 +36,23 @@ Instead, we must *reorganize* ourselves to advance *without imbalance* so that w
 
 Otherwise, opportunity will be concentrated in a few hands, dividing us and accelerating collapse.
 
+### II) RootNet
+
 We need RootNet.
 
-**RootNet democratizes opportunity** by creating a market for *potential*. 
+**RootNet democratizes opportunity** by creating a market for *potential*.
 
-This allows people to raise venture capital (instead of debt) to finance education, housing, and more broadly life itself, *well before they are ready to create value*. 
+This enables people to raise venture capital (VC), *rather than debt*, to finance education, housing, and more broadly life, *well before they are ready to create value*.
+
+Unlike debt, VC aligns people by sharing both upside and downside. By valuing _future_ potential over current ability, it channels resources toward those with promise, eventually favoring talent over privilege.
 
 **RootNet also raises our baseline** by structurally tying individual success and collective prosperity: each of us holds a *stake* in the collective that holds a *stake* in each of us. 
 
 On RootNet, when one wins, all win.
 
 Only through such *structural* unity based on incentives can humanity thrive in the age of AI.
+
+### III) The Token
 
 RootNet is based on a single primitive — *the token* — an instrument that represents potential to create value, with transactable shares. 
 
@@ -53,9 +61,19 @@ Network token represents collective potential.<br/>
 Personal token represents individual potential.<br/>
 Idea token represents idea potential (e.g., a company).
 
-The value of tokens is grounded in reality: network tokens hold personal tokens, which hold idea tokens (companies), which are tied to revenue. Tokens aren’t memes, they are instruments that sit *above* companies and money.
+The value of tokens is grounded in reality: network tokens hold personal tokens, which hold idea tokens (companies), which are tied to revenue. Tokens aren’t memes, they are instruments that sit *on top of* companies (which sit on top of money, i.e., revenue).
 
-RootNet will change our world. It will grow collective wealth _without inflation_ through Universal Basic _Equity_, rewrite education with better incentives, and stop short-term gains that cause long-term collective harm by aligning incentives with what we _truly_ value. RootNet will even _enable_ superintelligence.
+### IV) The NetworkToken
+
+At the heart of RootNet is the **NetworkToken**, a network token that holds stakes in all users (via their personal tokens), while each user holds a stake in it. 
+
+The NetworkToken represents _humanity’s collective potential_.
+
+Because we each hold a *stake* in our collective potential, an action that harms our shared future, even if profitable in the short term, will be strongly disincentivized because it will tank the NetworkToken's value (and reduce the wealth in *all* of our hands).
+
+RootNet will change our world. It will grow collective wealth _without inflation_ through Universal Basic _Equity_, rewrite education with better incentives, and align incentives with what we _truly_ value. RootNet will even _enable_ superintelligence.
+
+### V) New Foundation for Civilization
 
 RootNet is a new foundation for civilization that achieves prosperity through unity.
 
