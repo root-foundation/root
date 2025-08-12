@@ -32,7 +32,7 @@ Accelerating AI means accelerating imbalance, which means accelerating suffering
 Slowing down AI is *not* the solution. AI enables progress.<br/>
 Instead, we must *reorganize* ourselves to advance *without imbalance* so that we take advantage of AI to *prosper together*.
 
-Otherwise, opportunity will be concentrated in a few hands, dividing us and driving collapse.
+Otherwise, opportunity will be concentrated in a few hands, dividing us and accelerating collapse.
 
 We need RootNet.
 
@@ -51,7 +51,7 @@ RootNet is based on a single primitive — *the token* — an instrument that re
 There are three types of tokens: network, personal, and idea.<br/>  
 Network token represents collective potential.<br/>
 Personal token represents individual potential.<br/>
-Idea token (a company) represents idea potential.
+Idea token represents idea potential (e.g., a company).
 
 The value of tokens is grounded in reality: network tokens hold personal tokens, which hold idea tokens (companies), which are tied to revenue. Tokens aren’t memes, they are instruments that sit *above* companies and money.
 
