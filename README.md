@@ -6,7 +6,7 @@ _[homan](https://x.com/homanspirit) & [shiv](https://scholar.google.com/citation
 
 If we continue on our current path, AI will concentrate opportunity, leave billions behind, and cause unimaginable suffering.
 
-RootNet is how humanity can win in the age of AI.
+RootNet is how humanity will win in the age of AI.
 
 AI will make our world *dynamic* and *extreme*.
 
@@ -55,7 +55,7 @@ Idea token (a company) represents idea potential.
 
 The value of tokens is grounded in reality: network tokens hold personal tokens, which hold idea tokens (companies), which are tied to revenue. Tokens aren’t memes, they are instruments that sit *above* companies and money.
 
-RootNet will change our world. It will grow collective wealth _without inflation_ through Universal Basic _Equity_, rewrite education with better incentives, and stop short-term gains that damage our future by aligning incentives with what we _truly_ value. It will even _enable_ superintelligence.
+RootNet will change our world. It will grow collective wealth _without inflation_ through Universal Basic _Equity_, rewrite education with better incentives, and stop short-term gains that cause long-term collective harm by aligning incentives with what we _truly_ value. RootNet will even _enable_ superintelligence.
 
 RootNet is a new foundation for civilization that achieves prosperity through unity.
 
