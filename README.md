@@ -57,7 +57,7 @@ The value of tokens is grounded in reality: network tokens hold personal tokens,
 
 RootNet will change our world. It will grow collective wealth _without inflation_ through Universal Basic _Equity_, rewrite education with better incentives, and stop short-term gains that damage our future by aligning incentives with what we _truly_ value. It will even _enable_ superintelligence.
 
-RootNet is a new foundation for civilization.
+RootNet is a new foundation for civilization that achieves prosperity through unity.
 
 RootNet will be progressively decentralized so that the people will eventually control everything.
 
