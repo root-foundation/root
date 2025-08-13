@@ -22,7 +22,7 @@ When one wins, all win.
 
 ### Emotion
 
-![](appendix/assets/emotion.png)
+![](emotion.png)
 
 RootNet represents:
 - Warmth. Individuals becoming one by intertwining their success and failure.
@@ -34,7 +34,3 @@ Every child that joins RootNet must feel the warmth and care of the many generat
 Your shareholders in your personal token are the people who helped you get to where you are. All the hands that enabled your success. The village that raised and enabled you.
 
 RootNet is a story about unity, collective prosperity, togetherness, warmth, care, wellbeing.
-
-### Short essay (500 words)
-
-Read [introduction]().
