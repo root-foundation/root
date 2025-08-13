@@ -18,17 +18,17 @@ Will the government help?<br/>
 What will happen to people in poorer nations?<br/>
 Unimaginable suffering.
 
-This collapse is only one of many.<br/>
-In education, most are learning skills that will make them utterly unemployable.<br/>
-In governance, laws and regulations can’t keep up with AI.<br/>
-In media, AI creates content faster than we can verify truth.<br/>
+This collapse is only one of many:
+- In education, most are learning skills that will make them utterly unemployable.
+- In governance, laws and regulations can’t keep up with AI.
+- In media, AI creates content faster than we can verify truth.
 And many others.
 
-When one system races ahead (AI) while others lag, imbalance grows.<br/>
+When one system races ahead (AI) while others lag, imbalance grows.
+
 Accelerating AI means accelerating imbalance, which means accelerating suffering. 
 
-Slowing down AI is *not* the solution. AI enables progress.<br/>
-Instead, we must *reorganize* ourselves to advance *without imbalance* so that we take advantage of AI to *prosper together*.
+Slowing down AI is *not* the solution. AI enables progress. Instead, we must *reorganize* ourselves to advance *without imbalance* so that we take advantage of AI to *prosper together*.
 
 Otherwise, opportunity will be concentrated in a few hands, dividing us and accelerating collapse.
 
@@ -52,10 +52,11 @@ Only through such *incentive-driven structural unity* can humanity thrive in the
 
 RootNet is based on a single primitive — *the token* — an instrument that represents potential to create value, with transactable shares. 
 
-There are three types of tokens: network, personal, and idea.<br/>  
-Network token represents collective potential.<br/>
-Personal token represents individual potential.<br/>
-Idea token represents idea potential (e.g., a company).
+There are three types of tokens: network, personal, and idea.
+
+- Network token represents collective potential.<br/>
+- Personal token represents individual potential.<br/>
+- Idea token represents idea potential (e.g., a company).
 
 The value of tokens is grounded in reality: network tokens hold personal tokens, which hold idea tokens (companies), which are tied to revenue. 
 
@@ -96,7 +97,8 @@ Open source.<br/>
 Transparent.<br/>
 Nonprofit.<br/>
 
-Join us to build the future of humanity.<br/>
+Join us to build the future of humanity.
+
 Or steal this idea and compete.
 
 May the best network win and lift us all with it.
