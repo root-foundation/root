@@ -93,6 +93,7 @@ May the best network win and lift us all with it.
 ## Vote for humanity
 
 *Accelerate prosperity through unity.*
+
 ![Vote QR Code](RootNet/appendix/assets/vote-address.png)
 
 **Address:**  
