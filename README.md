@@ -63,13 +63,13 @@ Tokens aren’t memes. Tokens are instruments *built on top of* companies, which
 
 ## IV) NetworkToken
 
-At the heart of RootNet is the **NetworkToken** (an instance of a network token), which holds stakes in all users (through their personal tokens).
+At the heart of RootNet is the **NetworkToken** (an instance of a network token), which holds stakes in all users (i.e., in their personal tokens).
 
 The NetworkToken represents _humanity’s collective potential_.
 
 The NetworkToken enables us to increase our baseline through Universal Basic *Equity* (UBE): each person can be periodically issued *shares* in the NetworkToken.
 
-UBE eliminates lag between individual and collective success. Instead of waiting to *tax* capital gains (i.e., realized value), any breakthrough, discovery, or creation that strengthens belief in a more prosperous future *immediately raises the wealth in everyone's hands* (by increasing the value of the NetworkToken).
+UBE closes the gap between individual and collective success. Instead of waiting to _tax_ capital gains (i.e., **past, realized value**), any breakthrough, discovery, or creation that strengthens belief in a **future, expected value** _immediately raises the wealth in everyone's hands_ (by increasing the value of the NetworkToken).
 
 Unlike [Universal Basic *Income*](https://en.wikipedia.org/wiki/Universal_basic_income), UBE is *non‑inflationary* because people are incentivized to *hold* rather than spend (proportional to our hope in the future).
 
