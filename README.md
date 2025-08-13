@@ -48,7 +48,7 @@ On RootNet, when one wins, all win.
 
 Only through such *incentive-driven structural unity* can humanity thrive in the age of AI.
 
-## III) The Token
+## III) Token
 
 RootNet is based on a single primitive — *the token* — an instrument that represents potential to create value, with transactable shares. 
 
@@ -61,7 +61,7 @@ The value of tokens is grounded in reality: network tokens hold personal tokens,
 
 Tokens aren’t memes. Tokens are instruments *built on top of* companies, which in turn sit on top of money (i.e., real revenue).
 
-## IV) The NetworkToken
+## IV) NetworkToken
 
 At the heart of RootNet is the **NetworkToken** (an instance of a network token), which holds stakes in all users (through their personal tokens).
 
@@ -77,9 +77,9 @@ Unlike [Universal Basic *Income*](https://en.wikipedia.org/wiki/Universal_basic_
 
 RootNet enables us to represent what we _truly_ value.
 
-Because we each hold a *stake* in our collective potential (the NetworkToken), any action that harms our shared future, even if profitable in the short term, will be strongly disincentivized because it will tank the NetworkToken's value (and thus reduce the wealth in *each* of our hands).
+Because we each hold a *stake* in our collective potential (NetworkToken), any action that harms our shared future, even if profitable in the short term, will be strongly disincentivized because it will tank the NetworkToken's value (and thus reduce the wealth in *each* of our hands).
 
-This aligns self-interest with global cooperation. We will solve challenges like climate change only when everyone has a strong _incentive_ to act together.
+This aligns self-interest with global cooperation. We will solve collective problems like climate change only when everyone has a strong _incentive_ to act together.
 
 RootNet also represents intangible value. A great artist who increases our collective hope in the future will directly increase the value of the NetworkToken because *hope is real*: it shapes behavior, inspires action, is often a self-fulfilling prophecy, and materially changes our trajectory.
 
