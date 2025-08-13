@@ -85,7 +85,7 @@ RootNet also represents intangible value. A great artist who increases our colle
 
 The value of the artist's personal token will soar as people recognize their impact on the NetworkToken. But even such intangible value is grounded: if hope fails to lead to tangible value creation, the NetworkToken will stop responding, and the artist’s personal token value will fall.
 
-## VI) New Foundation for Civilization
+## VI) Foundation for Civilization
 
 RootNet is a new foundation for civilization that achieves prosperity through unity.
 
@@ -109,7 +109,7 @@ May the best network win and lift us all with it.
 
 ## Vote for humanity
 
-*Accelerate prosperity through unity.*
+*Accelerate progress.*
 
 ![Vote QR Code](RootNet/appendix/assets/vote-address.png)
 
