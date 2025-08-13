@@ -4,7 +4,7 @@ _[homan](https://x.com/homanspirit) & [shiv](https://scholar.google.com/citation
 
 ---
 
-> Read [shorter essay](README.md) first if you haven't.
+> Read [shorter essay](https://github.com/root-foundation/root) first if you haven't.
 
 ---
 
