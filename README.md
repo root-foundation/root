@@ -67,9 +67,9 @@ The NetworkToken represents _humanity’s collective potential_.
 
 Because we each hold a *stake* in our collective potential, an action that harms our shared future, even if profitable in the short term, will be strongly disincentivized because it will tank the NetworkToken's value (and reduce the wealth in *all* of our hands).
 
-RootNet will change our world. It will grow collective wealth _without inflation_ through Universal Basic _Equity_, rewrite education with better incentives, and align incentives with what we _truly_ value. RootNet will even _enable_ superintelligence.
-
 ## V) New Foundation for Civilization
+
+RootNet will change our world. It will grow collective wealth _without inflation_ through Universal Basic _Equity_, rewrite education with better incentives, and align incentives with what we _truly_ value. RootNet will even _enable_ superintelligence.
 
 RootNet is a new foundation for civilization that achieves prosperity through unity.
 
