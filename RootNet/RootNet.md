@@ -2,6 +2,8 @@
 
 _[homan](https://x.com/homanspirit) & [shiv](https://scholar.google.com/citations?user=WNUGEccAAAAJ&hl=en)_
 
+---
+
 > Read [shorter essay](README.md) first if you haven't.
 
 ---
