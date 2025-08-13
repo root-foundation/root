@@ -2,6 +2,8 @@
 
 _[homan](https://x.com/homanspirit) & [shiv](https://scholar.google.com/citations?user=WNUGEccAAAAJ&hl=en)_
 
+---
+
 > Read [shorter essay](README.md) first if you haven't.
 
 RootNet is a network that enables collective prosperity in the age of AI, through unity.
@@ -9,6 +11,8 @@ RootNet is a network that enables collective prosperity in the age of AI, throug
 In this essay we dive into *why* we need RootNet, *what* it is, and *how* to create it. 
 
 To understand why we need RootNet, we need to first understand how AI will change our world.
+
+---
 
 #### Side A. How AI will change our world
 1. [Activity](#activity)
