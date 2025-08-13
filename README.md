@@ -1,10 +1,9 @@
 # RootNet: Prosperity through Unity
 
-## I) Problem
-
 If we continue on our current path, AI will concentrate opportunity, leave billions behind, and cause unimaginable suffering.
 
-RootNet is how humanity will win in the age of AI.
+**RootNet is how humanity will win in the age of AI.**
+## I) Problem
 
 AI will make our world *dynamic* and *extreme*.
 
