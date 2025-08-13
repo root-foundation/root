@@ -1,4 +1,4 @@
-# RootNet: Prosperity through Unity.
+# RootNet: Prosperity through Unity
 
 ## I) Problem
 
@@ -8,14 +8,14 @@ RootNet is how humanity will win in the age of AI.
 
 AI will make our world *dynamic* and *extreme*.
 
-The biggest wins will grow far larger, but winners will fall faster. Opportunities will skyrocket, competition will intensify, and more people will touch success. Yet at any moment, outcomes will be concentrated in fewer hands across every field: **an extreme power law distribution of outcomes.**
+The biggest wins will grow far larger, but winners will fall faster. Opportunities will skyrocket, competition will intensify, and more people will touch success. Yet at any moment, outcomes will be concentrated in fewer hands across every field: **an extreme “winner-takes-most” pattern** ([power law distribution](https://en.wikipedia.org/wiki/Power_law)).
 
 But due to extreme outcomes, **debt no longer works**.
 
 And yet, our world still runs on debt.<br/>
 What happens when only a few can repay loans?<br/>
 Will the government help?<br/>
-What will happen to those in poorer nations?<br/>
+What will happen to people in poorer nations?<br/>
 Unimaginable suffering.
 
 This collapse is only one of many.<br/>
@@ -32,21 +32,21 @@ Instead, we must *reorganize* ourselves to advance *without imbalance* so that w
 
 Otherwise, opportunity will be concentrated in a few hands, dividing us and accelerating collapse.
 
-## II) RootNet
-
 We need RootNet.
+
+## II) RootNet
 
 **RootNet democratizes opportunity** by creating a market for *potential*.
 
 This enables people to raise venture capital (VC), *rather than debt*, to finance education, housing, and more broadly life, *well before they are ready to create value*.
 
-Unlike debt, VC aligns people by sharing both upside and downside. By valuing _future_ potential over current ability, it channels resources toward those with promise, eventually favoring talent over privilege.
+Unlike debt, VC aligns people by intertwining both upside *and* downside. By valuing _future_ potential over current ability, it channels resources toward those with promise, ultimately favoring talent over privilege.
 
 **RootNet also raises our baseline** by structurally tying individual success and collective prosperity: each of us holds a *stake* in the collective that holds a *stake* in each of us. 
 
 On RootNet, when one wins, all win.
 
-Only through such *structural* unity based on incentives can humanity thrive in the age of AI.
+Only through such *incentive-driven structural unity* can humanity thrive in the age of AI.
 
 ## III) The Token
 
@@ -57,23 +57,39 @@ Network token represents collective potential.<br/>
 Personal token represents individual potential.<br/>
 Idea token represents idea potential (e.g., a company).
 
-The value of tokens is grounded in reality: network tokens hold personal tokens, which hold idea tokens (companies), which are tied to revenue. Tokens aren’t memes, they are instruments that sit *on top of* companies (which sit on top of money, i.e., revenue).
+The value of tokens is grounded in reality: network tokens hold personal tokens, which hold idea tokens (companies), which are tied to revenue. 
+
+Tokens aren’t memes. Tokens are instruments *built on top of* companies, which in turn sit on top of money (i.e., real revenue).
 
 ## IV) The NetworkToken
 
-At the heart of RootNet is the **NetworkToken**, a network token that holds stakes in all users (via their personal tokens), while each user holds a stake in it. 
+At the heart of RootNet is the **NetworkToken** (an instance of a network token), which holds stakes in all users (through their personal tokens).
 
 The NetworkToken represents _humanity’s collective potential_.
 
-Because we each hold a *stake* in our collective potential, an action that harms our shared future, even if profitable in the short term, will be strongly disincentivized because it will tank the NetworkToken's value (and reduce the wealth in *all* of our hands).
+The NetworkToken enables us to increase our baseline through Universal Basic *Equity* (UBE): each person can be periodically issued *shares* in the NetworkToken.
 
-## V) New Foundation for Civilization
+UBE eliminates lag between individual and collective success. Instead of waiting to *tax* capital gains (i.e., realized value), any breakthrough, discovery, or creation that strengthens belief in a more prosperous future *immediately raises the wealth in everyone's hands* (by increasing the value of the NetworkToken).
 
-RootNet will change our world. It will grow collective wealth _without inflation_ through Universal Basic _Equity_, rewrite education with better incentives, and align incentives with what we _truly_ value. RootNet will even _enable_ superintelligence.
+Unlike [Universal Basic *Income*](https://en.wikipedia.org/wiki/Universal_basic_income), UBE is *non‑inflationary* because people are incentivized to *hold* rather than spend (proportional to our hope in the future).
+
+## V) True value
+
+RootNet enables us to represent what we _truly_ value.
+
+Because we each hold a *stake* in our collective potential (the NetworkToken), any action that harms our shared future, even if profitable in the short term, will be strongly disincentivized because it will tank the NetworkToken's value (and thus reduce the wealth in *each* of our hands).
+
+This aligns self-interest with global cooperation. We will solve challenges like climate change only when everyone has a strong _incentive_ to act together.
+
+RootNet also represents intangible value. A great artist who increases our collective hope in the future will directly increase the value of the NetworkToken because *hope is real*: it shapes behavior, inspires action, is often a self-fulfilling prophecy, and materially changes our trajectory.
+
+The value of the artist's personal token will soar as people recognize their impact on the NetworkToken. But even such intangible value is grounded: if hope fails to lead to tangible value creation, the NetworkToken will stop responding, and the artist’s personal token value will fall.
+
+## VI) New Foundation for Civilization
 
 RootNet is a new foundation for civilization that achieves prosperity through unity.
 
-RootNet will be progressively decentralized so that the people will eventually control everything.
+RootNet will progressively decentralize power so that the people will eventually control everything.
 
 Fork-able.<br/>
 Open source.<br/>
@@ -81,12 +97,13 @@ Transparent.<br/>
 Nonprofit.<br/>
 
 Join us to build the future of humanity.<br/>
-Or steal this idea and compete.<br/>
+Or steal this idea and compete.
+
 May the best network win and lift us all with it.
 
 ---
 
-> Read [longer essay](RootNet/RootNet.md) for a deeper dive into *why* we need RootNet, *what* it is, and *how* to create it. 
+> Read the [longer essay](RootNet/RootNet.md) for a much deeper dive.
 
 ---
 
