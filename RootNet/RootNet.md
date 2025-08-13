@@ -50,7 +50,7 @@ To understand why we need RootNet, we need to first understand how AI will chang
 29. [Decentralization](#decentralization)
 30. [Fork-ability](#fork-ability)
 31. [Unity](#unity)
-32. [Vote for humanity](#vote-for-humanity)
+32. [Vote for humanity](https://github.com/root-foundation/root#vote-for-humanity)
 
 ---
 
@@ -687,3 +687,5 @@ No part of this idea is “owned” by anyone. We encourage the world to challen
 The more experiments, the more competition, the better for humanity.  So long as we are structurally united, _any victory is a shared one_.
 
 May the best network win and lift us all with it.
+
+[Vote for humanity](https://github.com/root-foundation/root#vote-for-humanity)
