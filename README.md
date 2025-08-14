@@ -1,4 +1,4 @@
-#### RootNet
+#### RootNet: prosperity through unity
 
 If we continue on our current path, AI will concentrate opportunity, leave billions behind, and cause unimaginable suffering.
 
@@ -6,7 +6,7 @@ RootNet is how humanity will win in the age of AI.
 
 #### I) Problem
 
-**In a post AGI world, debt will no longer work.**
+In a post AGI world, debt will no longer work.
 
 Though we will have more winners, AGI will make outcomes in all activities extreme ("winner-takes-most" power law distribution). The median outcome will trend toward failure like in startups / content creation, meaning most people who take on loans will not able to repay them. 
 
