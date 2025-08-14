@@ -10,7 +10,7 @@ In a post AGI world, debt will no longer work.
 
 Though we will have more winners, AGI will make outcomes in all activities extreme ("winner-takes-most" power law distribution). The median outcome will trend toward failure like in startups / content creation, meaning most people who take on loans will not able to repay them. 
 
-When debt fails, opportunity will concentrate in the hands of those already wealthy enough to tinker and take bold risks without fear of ruin.
+When debt fails, opportunity will concentrate in the hands of those already wealthy enough to tinker and take bold risks without fear of ruin, dividing society and driving decay.
 
 Slowing down AI is *not* the solution. AI enables progress. Instead, we must organize ourselves in a way that democratizes opportunity and unites humanity so that we *rise together*.
 
