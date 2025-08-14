@@ -62,7 +62,7 @@ RootNet also represents value that we cannot tangibly represent today. For examp
 
 #### VI) Foundation for Civilization
 
-RootNet is a new foundation for civilization that achieves prosperity through unity.
+RootNet will change our world. It will democratize opportunity, structurally unite humanity so we rise *together*, grow wealth without inflation, [rewrite education](RootNet/appendix/Education.md) through better incentives, and represent what we truly value. RootNet is a new foundation for civilization that achieves prosperity through unity.
 
 RootNet will progressively decentralize power so that the people will eventually control everything.
 
