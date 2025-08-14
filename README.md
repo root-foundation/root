@@ -52,15 +52,13 @@ Unlike [Universal Basic *Income*](https://en.wikipedia.org/wiki/Universal_basic_
 
 #### V) True value
 
-RootNet enables us to represent what we truly value.
+RootNet enables us to represent what we truly value, including contributions we can't capture in today's economy.
 
 Because we each hold a stake in our collective potential (NetworkToken), any action that harms our shared future, even if profitable in the short term, will be strongly disincentivized because it will tank the NetworkToken's value (and thus reduce the wealth in each of our hands).
 
 This aligns self-interest with global cooperation. We will solve collective problems like climate change only when everyone has a strong incentive to act together.
 
-RootNet also represents intangible value. A great artist who raises our collective hope in the future will directly increase the value of the NetworkToken. Valuing hope is important because hope is real: it shapes behavior, inspires action, and materially changes our trajectory.
-
-The value of the artist's personal token will soar as people recognize their impact on the NetworkToken. Importantly, even such value is grounded: if hope fails to lead to tangible value creation, the NetworkToken will stop responding, and the artist’s personal token value will fall.
+RootNet also represents value that we cannot tangibly represent today. For example, great parents and even artists that raise our collective hope will be valued on RootNet and will be able to raise capital. 
 
 #### VI) Foundation for Civilization
 
