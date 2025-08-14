@@ -16,7 +16,7 @@ Slowing down AI is *not* the solution. AI enables progress. Instead, we must org
 
 ####  II) RootNet
 
-RootNet democratizes opportunity by creating a market for *potential* to create value.
+RootNet democratizes opportunity by creating a market for *potential*.
 
 This enables people to raise venture capital (VC), rather than debt, to finance education, housing, and more broadly life, well before they are ready to create value.
 
