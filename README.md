@@ -16,17 +16,15 @@ Slowing down AI is *not* the solution. AI enables progress. Instead, we must org
 
 ####  II) RootNet
 
-RootNet democratizes opportunity by creating a market for *potential*.
+RootNet democratizes opportunity by creating a market for *potential* to create value.
 
 This enables people to raise venture capital (VC), rather than debt, to finance education, housing, and more broadly life, well before they are ready to create value.
 
 Unlike debt, VC aligns people by intertwining both upside and downside. By valuing future potential over current ability, it channels resources toward those with promise, ultimately favoring talent over privilege.
 
-RootNet also raises our baseline by structurally tying individual success and collective prosperity: each of us holds a *stake* in the collective that holds a *stake* in each of us. 
+RootNet also raises our baseline by structurally tying individual success and collective prosperity: each of us holds a stake in the collective that holds a stake in each of us. 
 
-On RootNet, when one wins, all win.
-
-Only through such incentive-driven structural unity can humanity thrive in the age of AI.
+On RootNet, when one wins, all win. Only through such incentive-driven structural unity can humanity thrive in the age of AI.
 
 #### III) Token
 
@@ -38,9 +36,7 @@ There are three types of tokens: network, personal, and idea.
 - Personal token represents individual potential.
 - Idea token represents idea potential (e.g., a company).
 
-The value of tokens is grounded in reality: network tokens hold personal tokens, which hold idea tokens (companies), which are tied to revenue. 
-
-Tokens aren’t memes. Tokens are instruments built on top of companies, which in turn sit on top of money (i.e., real revenue).
+The value of tokens is grounded in reality: network tokens hold personal tokens, which hold idea tokens (companies), which are tied to revenue. Tokens aren’t memes, but rather instruments built on top of companies, which in turn sit on top of money (i.e., real revenue).
 
 #### IV) NetworkToken
 
@@ -48,9 +44,9 @@ At the heart of RootNet is the NetworkToken (an instance of a network token), wh
 
 The NetworkToken represents humanity’s collective potential.
 
-The NetworkToken enables us to increase our baseline through Universal Basic *Equity* (UBE): each person can be periodically issued *shares* in the NetworkToken.
+The NetworkToken enables us to increase our baseline through Universal Basic *Equity* (UBE): each person can be periodically issued shares in the NetworkToken.
 
-UBE closes the gap between individual and collective success. Instead of waiting to tax capital gains, any breakthrough, discovery, or creation that strengthens belief that will create more value in the future will immediately raise the value of the NetworkToken (and thus the wealth in everyone's hands).
+UBE will close the gap between individual and collective success. Instead of waiting to tax capital gains, any breakthrough, discovery, or creation that strengthens belief that we will create more value in the future will immediately raise the value of the NetworkToken (and thus the wealth in everyone's hands).
 
 Unlike [Universal Basic *Income*](https://en.wikipedia.org/wiki/Universal_basic_income), UBE won't lead to inflation because people are incentivized to hold rather than spend (proportional to our hope in the future).
 
@@ -62,9 +58,9 @@ Because we each hold a stake in our collective potential (NetworkToken), any act
 
 This aligns self-interest with global cooperation. We will solve collective problems like climate change only when everyone has a strong incentive to act together.
 
-RootNet also represents intangible value. A great artist who increases our collective hope in the future will directly increase the value of the NetworkToken because hope is real: it shapes behavior, inspires action, and materially changes our trajectory.
+RootNet also represents intangible value. A great artist who raises our collective hope in the future will directly increase the value of the NetworkToken. Valuing hope is important because hope is real: it shapes behavior, inspires action, and materially changes our trajectory.
 
-The value of the artist's personal token will soar as people recognize their impact on the NetworkToken. But even such value is grounded: if hope fails to lead to tangible value creation, the NetworkToken will stop responding, and the artist’s personal token value will fall.
+The value of the artist's personal token will soar as people recognize their impact on the NetworkToken. Importantly, even such value is grounded: if hope fails to lead to tangible value creation, the NetworkToken will stop responding, and the artist’s personal token value will fall.
 
 #### VI) Foundation for Civilization
 
