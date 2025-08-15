@@ -58,7 +58,7 @@ Because we each hold a stake in our collective potential (NetworkToken), any act
 
 This aligns self-interest with global cooperation. We will solve collective problems like climate change only when everyone has a strong incentive to act together.
 
-RootNet also represents value that we cannot tangibly represent today. For example, great parents and even artists that raise our collective hope will be valued on RootNet and will be able to raise capital. 
+RootNet also represents value that we cannot tangibly represent today. For example, great parents and even artists that raise our collective hope will be valued on RootNet and will be able to raise capital. More broadly, *any* contribution towards our collective prosperity will be tangibly valued.
 
 #### VI) Foundation for Civilization
 
