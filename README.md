@@ -12,8 +12,7 @@ RootNet creates a market for potential, through a new primitive — *the token*
 
 [Primer](https://docs.google.com/document/d/1Jz4A1bjR3jBjT2t3_QTzB1YuLMdXWNqfcXh3D3IuM-8)<br />
 [How AI will change our world](ai.md)<br />
-[RootNet whitepaper](whitepaper.md)<br/>
-[Follow](https://x.com/onrootnet)
+[RootNet whitepaper](whitepaper.md)
 
 ### Vote for humanity
 
