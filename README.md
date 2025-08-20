@@ -1,14 +1,5 @@
-### About
-
-AGI will make all outcomes extreme (power law distribution). The median outcome will trend toward failure (like in startups / content creation), meaning most people who take on loans will not able to repay them. **Debt will no longer work**.  
-
-When debt fails, _opportunity concentrates in the hands of those already wealthy_ enough to tinker and take bold risks without fear of ruin.
-
-We're solving this with RootNet. 
-
-RootNet creates a market for potential, through a new primitive — *the token* — that represents potential of a collective, individual, or idea, with transactable shares. RootNet enables us to finance our lives through *venture capital* instead of debt.
-
-### Further reading
+RootNet is a new way to organize ourselves to achieve collective prosperity in the age of intelligence. 
+### Reading
 
 [Primer](https://docs.google.com/document/d/1Jz4A1bjR3jBjT2t3_QTzB1YuLMdXWNqfcXh3D3IuM-8)<br />
 [How AI will change our world](ai.md)<br />
