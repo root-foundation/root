@@ -1,5 +1,4 @@
 RootNet is a new way to organize ourselves to achieve collective prosperity in the age of intelligence. 
-### Reading
 
 [Primer](https://docs.google.com/document/d/1Jz4A1bjR3jBjT2t3_QTzB1YuLMdXWNqfcXh3D3IuM-8)<br />
 [How AI will change our world](ai.md)<br />
