@@ -1,3 +1,5 @@
+### About
+
 AGI will make all outcomes extreme (power law distribution). The median outcome will trend toward failure (like in startups / content creation), meaning most people who take on loans will not able to repay them. **Debt will no longer work**.  
 
 When debt fails, _opportunity concentrates in the hands of those already wealthy_ enough to tinker and take bold risks without fear of ruin.
