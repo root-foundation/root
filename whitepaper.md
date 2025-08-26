@@ -2,13 +2,9 @@
 
 _[homan](https://x.com/homanspirit) & [shiv](https://scholar.google.com/citations?user=WNUGEccAAAAJ&hl=en)_
 
----
-
 RootNet is a network that enables collective prosperity in the age of AI, through unity.
 
 In this essay we dive into *why* we need RootNet, *what* it is, and *how* to create it. 
-
----
 
 ## AI will make our world extreme
 
