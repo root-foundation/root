@@ -363,7 +363,7 @@ And only through such *structural* unity can we fully take advantage of artifici
 
 ---
 
-We’ve only scratched the surface of what RootNet will make possible. RootNet will [rewrite our education system](Education.md) through better incentives. And critically, RootNet will [*enable* superintelligence](Superintelligence.md) which *cannot* emerge outside of a network like RootNet.
+We’ve only scratched the surface of what RootNet will make possible. RootNet will [rewrite our education system](appendix/Education.md) through better incentives. And critically, RootNet will [*enable* superintelligence](appendix/Superintelligence.md) which *cannot* emerge outside of a network like RootNet.
 
 No part of this idea is “owned” by anyone. We encourage the world to challenge it, fork it, build on it, and take it further than any of us ever could alone.
 
