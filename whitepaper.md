@@ -64,7 +64,7 @@ The value of your personal token is grounded in your equities in companies and o
 
 But unlike company shareholders, personal token shareholders have no control, ownership, or say in your life. **You retain full agency and complete control over everything you do.** 
 
-## Money -> Company -> Personal token
+## Money -> Company -> Token
 
 The personal token is the next step in the evolution of financial instruments — an abstraction that sits above the company, which itself sits above money.
 
@@ -84,7 +84,7 @@ Just as companies let us invest in the potential of a *single* idea, personal to
 
 <img src="appendix/assets/instrument-tree.png" />
 
-## Value will be concentrated in personal tokens
+## Value concentrates in personal tokens
 
 As we advance, value concentrates *upward*.
 
@@ -94,7 +94,7 @@ In a post-AGI world, this trend will continue. Value will increasingly become co
 
 With AI, individuals will be able to manifest many more ideas. So instead of investing in *individual* ideas (companies), people will increasingly want to invest in the *source* of many valuable ideas (personal tokens).
 
-## Personal tokens will democratize opportunity
+## Democratize opportunity
 
 Personal tokens create a market for human potential that will increasingly direct resources based on *potential*, not privilege.
 
