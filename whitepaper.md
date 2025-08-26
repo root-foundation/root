@@ -208,7 +208,7 @@ Markets remain our best tool for allocating resources _given_ a particular notio
 
 Therefore, we need a system that can represent _true_, _holistic_ value so that we can move resources to where they *truly* belong, at the speed we need.
 
-## RootNet
+## The RootNet
 
 [Personal tokens](#personal-token) and the [NetworkToken](#networktoken) are part of a more *general* system: *RootNet*. 
 
