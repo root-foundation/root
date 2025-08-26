@@ -94,7 +94,7 @@ In a post-AGI world, this trend will continue. Value will increasingly become co
 
 With AI, individuals will be able to manifest many more ideas. So instead of investing in *individual* ideas (companies), people will increasingly want to invest in the *source* of many valuable ideas (personal tokens).
 
-## Democratize opportunity
+## Democratizes opportunity
 
 Personal tokens create a market for human potential that will increasingly direct resources based on *potential*, not privilege.
 
