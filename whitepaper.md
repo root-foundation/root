@@ -147,7 +147,7 @@ UBE ensures that our *baseline* grows, giving *each* individual a strong safety 
 #### UBE incentivizes having children.
 
 When a child is born, new shares in the NetworkToken are minted for them, slightly diluting everyone else. This creates a natural incentive to have children, as families grow their collective equity. And through that dilution, we _collectively invest_ in the next generation.
-> 
+
 ---
 
 By pairing personal tokens with UBE, we democratize opportunity *and* raise the baseline. And critically, we achieve this *without relying on debt*, which no longer works in a post AGI world.
