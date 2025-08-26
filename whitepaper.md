@@ -121,7 +121,7 @@ Personal tokens create a market for human potential that will increasingly direc
 
 We acknowledge that _initially_, personal tokens will better used by the privileged: those with access to capital, education, and networks. But, as the network matures through more participants and investments (in number and magnitude), market forces will more aggressively push resources to undervalued or undiscovered talent with potential.
 
-As we’ve seen [earlier](#predictions), a post AGI world will bring:
+As we’ve seen [earlier](ai.md#predictions), a post AGI world will bring:
 1. More winners.
 2. Faster turnover of these winners.
 3. Higher quality competition.
