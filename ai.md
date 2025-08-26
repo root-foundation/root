@@ -2,25 +2,6 @@
 
 _[homan](https://x.com/homanspirit) & [shiv](https://scholar.google.com/citations?user=WNUGEccAAAAJ&hl=en)_
 
----
-
-1. [Activity](#activity)
-2. [Complexity of an activity](#complexity-of-an-activity)
-3. [Example activity: creating a company](#example-activity-creating-a-company)
-4. [Similarity between activities](#similarity-between-activities)
-5. [AGI eats activities and enables new ones.](#agi-eats-activities-and-enables-new-ones)
-6. [Local vs. global convergence](#local-vs-global-convergence)
-7. [Predictions:](#predictions)
-8. [1) Peak outcome grows superexponentially](#1-peak-outcome-grows-superexponentially)
-9. [2) Competition grows at least exponentially](#2-competition-grows-at-least-exponentially)
-10. [3) Outcomes become more extreme superexponentially, across the board](#3-outcomes-become-more-extreme-superexponentially-across-the-board)
-11. [4) Number of economically viable activities grows superexponentially.](#4-number-of-economically-viable-activities-grows-superexponentially)
-12. [5) Rate of displacement of winners accelerates.](#5-rate-of-displacement-of-winners-accelerates)
-13. [6) Absolute number of winners grows at least exponentially.](#6-absolute-number-of-winners-grows-at-least-exponentially)
-14. [AGI will expand humanity's horizon](#agi-will-expand-humanitys-horizon)
-
----
-
 ## Introduction
 
 The age of AI will be dynamic. The biggest successes will be far larger than anything we’ve seen before, while the rewards will be concentrated in fewer hands at any moment (i.e., extreme outcomes), _across all fields_. More people will be able to compete for them, but the gap between the best and the rest will grow sharply. The number of valuable opportunities will explode, winners will be replaced more quickly, and more people than ever will experience success — even if only briefly before being overtaken.
@@ -181,7 +162,9 @@ As artificial intelligence advances, we will see that:
 
 The _specificity_ of these growth rates matters. For example, misjudging the difference between _exponential_ and _superexponential_ growth can lead to very different, sometimes even opposite, predictions. In case you're unfamiliar with growth rates we recommend reading [our primer](GrowthRatePrimer.md).
 
-## 1) Peak outcome grows superexponentially
+## 1) Peak outcome grows
+
+**Peak outcome grows superexponentially.**
 
 We tend to value an activity based on the number of possibilities it enables — in other words, its _complexity_.
 
@@ -189,7 +172,9 @@ For example, building _YouTube_ is far more valuable than building a niche video
 
 And since we’ve already seen that activity complexity grows _superexponentially_ as we move up the tree, the _maximum possible value_ — the peak outcome — will also grow _superexponentially_.
 
-## 2) Competition grows at least exponentially
+## 2) Competition grows
+
+**Competition grows at least exponentially.**
 
 As we move higher up the activity tree, activities become _more similar_, which means that _ability transfers more easily_ between them.
 
@@ -199,7 +184,9 @@ On top of that, better training tools and resources will allow _more people_ to 
 
 So both the growing *similarity* between activities and the growing number of capable individuals drive competition to grow _at least exponentially_.
 
-## 3) Outcomes become more extreme superexponentially, across the board
+## 3) Outcomes become extreme
+
+**Outcomes become more extreme superexponentially, across the board.**
 
 Within _any_ activity, at any moment, a _smaller_ percentage of individuals will be responsible for a _greater_ share of economic value created — i.e., a _[power law distribution of outcomes](https://en.wikipedia.org/wiki/Power_law)_ — while the *median share* falls.
 
@@ -225,7 +212,9 @@ Thus, outcomes will become more extreme superexponentially.
 
 And, for the first time in history, _every_ activity will face extreme outcomes because AGI doesn’t just target specific industries. It eats low-complexity work _across the board_.
 
-## 4) Number of economically viable activities grows superexponentially.
+## 4) Opportunities grow
+
+**Number of economically viable activities grows superexponentially.**
 
 What we’ve done so far is only a drop in the vast ocean of future activity.
 
@@ -239,7 +228,9 @@ Recall: this *gap* is what causes the *tree* of sub-activities to be constructed
 
 Since the complexity of activities grows _superexponentially_ with each level, this gap will always increase, and likely *at least* exponentially.
 
-## 5) Rate of displacement of winners grows at least exponentially
+## 5) Churn accelerates
+
+**Rate of displacement of winners grows at least exponentially.**
 
 At higher levels of complexity, it becomes _much harder_ to stay on top. Winning once no longer guarantees continued success. *Churn* accelerates.
 #### Why winners get displaced faster:
@@ -284,11 +275,13 @@ They’ll worry about breakthroughs in completely unrelated activities that may 
 
 They’ll look *paranoid*, *slow*, *distracted*. And they’ll win. Most of our current winners will be blindsided.
 
-## 6) Absolute number of winners grows at least exponentially.
+## 6) Number of winners grows
+
+**Absolute number of winners grows at least exponentially.**
 
 Even though the distribution of outcomes will be far more extreme, since the peak outcomes grow superexponentially, even _tiny_ wins (relative to the peak wins) will still be _massive_. And since the rate of displacement grows at least exponentially, in a given period of time, there will be *many more* who would have touched extreme successes as well.
 
-## AGI will expand humanity's horizon
+## AGI will expand our horizon
 
 A post AGI world will be dynamic and extreme. Winners will rise and fall more quickly than ever. We’ll see rapid breakthroughs across every field. AGI will push us to dream bigger and tackle problems we once thought were impossible. What feels complex today will feel trivial to our descendants.
 
