@@ -1,4 +1,4 @@
-# How AI will change our world
+# AI changes the shape of our economy
 
 _[homan](https://x.com/homanspirit) & [shiv](https://scholar.google.com/citations?user=WNUGEccAAAAJ&hl=en)_
 
@@ -50,7 +50,7 @@ Therefore, as we move *up* the tree, from sub-activities to their parents, the c
 
 > In case you're unfamiliar with growth rates like "superlinear", "exponential", "superexponential", read our [growth rate primer](GrowthRatePrimer.md).
 
-## Example activity: creating a company
+## Creating a company
 
 Let’s take a more relevant example: **creating a company** (to, say, automate agriculture using robots).
 
@@ -125,7 +125,7 @@ Conversely, the *closer* two activities are to a shared ancestor, the *more* sim
 
 For example, in our earlier tree, “Build product” and “Distribute” are higher-level activities that rely on general reasoning and prioritization, so *ability transfers more easily* between them. In contrast, their sub-activities — like “Design in Figma” or “Set up a sales pipeline in Salesforce” — require domain-specific skills that *don’t transfer as easily*, making them less similar.
 
-## AGI eats activities and enables new ones.
+## AGI eats and creates activities
 
 Artificial _general_ intelligence (AGI) is a technology that _eats_ activities below a certain complexity threshold — _across all domains_.
 
