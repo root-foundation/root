@@ -48,7 +48,7 @@ Therefore, as we move *up* the tree, from sub-activities to their parents, the c
 
 [^complexity-growth]: Why does complexity grow superexponentially? Because the number of **leaves** (simplest sub-activities) already grows **exponentially** with depth in a tree. And the complexity of a parent activity is a **superlinear function** of the combined complexity of its leaves. So when you recurse upward, you get **superexponential growth**.
 
-> In case you're unfamiliar with growth rates like "superlinear", "exponential", "superexponential", read our [growth rate primer](GrowthRatePrimer.md).
+> In case you're unfamiliar with growth rates like "superlinear", "exponential", "superexponential", read our [growth rate primer](appendix/GrowthRatePrimer.md).
 
 ## Creating a company
 
@@ -160,7 +160,7 @@ As artificial intelligence advances, we will see that:
 5. Rate of displacement of winners grows at least exponentially.
 6. Absolute number of winners grows at least exponentially.
 
-The _specificity_ of these growth rates matters. For example, misjudging the difference between _exponential_ and _superexponential_ growth can lead to very different, sometimes even opposite, predictions. In case you're unfamiliar with growth rates we recommend reading [our primer](GrowthRatePrimer.md).
+The _specificity_ of these growth rates matters. For example, misjudging the difference between _exponential_ and _superexponential_ growth can lead to very different, sometimes even opposite, predictions. In case you're unfamiliar with growth rates we recommend reading [our primer](appendix/GrowthRatePrimer.md).
 
 ## 1) Peak outcome grows
 
