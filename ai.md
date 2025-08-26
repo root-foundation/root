@@ -162,7 +162,7 @@ As artificial intelligence advances, we will see that:
 
 The _specificity_ of these growth rates matters. For example, misjudging the difference between _exponential_ and _superexponential_ growth can lead to very different, sometimes even opposite, predictions. In case you're unfamiliar with growth rates we recommend reading [our primer](appendix/GrowthRatePrimer.md).
 
-## 1) Peak outcome grows
+## 1) Higher peak
 
 **Peak outcome grows superexponentially.**
 
@@ -172,7 +172,7 @@ For example, building _YouTube_ is far more valuable than building a niche video
 
 And since we’ve already seen that activity complexity grows _superexponentially_ as we move up the tree, the _maximum possible value_ — the peak outcome — will also grow _superexponentially_.
 
-## 2) Competition grows
+## 2) More competition
 
 **Competition grows at least exponentially.**
 
@@ -184,7 +184,7 @@ On top of that, better training tools and resources will allow _more people_ to 
 
 So both the growing *similarity* between activities and the growing number of capable individuals drive competition to grow _at least exponentially_.
 
-## 3) Outcomes become extreme
+## 3) Extreme outcomes
 
 **Outcomes become more extreme superexponentially, across the board.**
 
@@ -212,7 +212,7 @@ Thus, outcomes will become more extreme superexponentially.
 
 And, for the first time in history, _every_ activity will face extreme outcomes because AGI doesn’t just target specific industries. It eats low-complexity work _across the board_.
 
-## 4) Opportunities grow
+## 4) More opportunities
 
 **Number of economically viable activities grows superexponentially.**
 
@@ -228,7 +228,7 @@ Recall: this *gap* is what causes the *tree* of sub-activities to be constructed
 
 Since the complexity of activities grows _superexponentially_ with each level, this gap will always increase, and likely *at least* exponentially.
 
-## 5) Churn accelerates
+## 5) Faster churn
 
 **Rate of displacement of winners grows at least exponentially.**
 
@@ -275,7 +275,7 @@ They’ll worry about breakthroughs in completely unrelated activities that may 
 
 They’ll look *paranoid*, *slow*, *distracted*. And they’ll win. Most of our current winners will be blindsided.
 
-## 6) Number of winners grows
+## 6) More winners
 
 **Absolute number of winners grows at least exponentially.**
 
