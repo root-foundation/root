@@ -64,7 +64,7 @@ The value of your personal token is grounded in your equities in companies and o
 
 But unlike company shareholders, personal token shareholders have no control, ownership, or say in your life. **You retain full agency and complete control over everything you do.** 
 
-## Money -> Company -> Personal token
+## Money, Company, Personal token
 
 The personal token is the next step in the evolution of financial instruments — an abstraction that sits above the company, which itself sits above money.
 
@@ -84,7 +84,7 @@ Just as companies let us invest in the potential of a *single* idea, personal to
 
 <img src="appendix/assets/instrument-tree.png" />
 
-## Value concentrates in personal tokens
+## Value concentrates upward
 
 As we advance, value concentrates *upward*.
 
