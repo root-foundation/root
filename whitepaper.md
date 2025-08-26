@@ -1,4 +1,4 @@
-# RootNet: Prosperity through Unity
+# RootNet
 
 _[homan](https://x.com/homanspirit) & [shiv](https://scholar.google.com/citations?user=WNUGEccAAAAJ&hl=en)_
 
@@ -7,27 +7,6 @@ _[homan](https://x.com/homanspirit) & [shiv](https://scholar.google.com/citation
 RootNet is a network that enables collective prosperity in the age of AI, through unity.
 
 In this essay we dive into *why* we need RootNet, *what* it is, and *how* to create it. 
-
----
-
-1. [Problem](#problem)
-2. [Venture capital](#venture-capital)
-3. [Personal token](#personal-token)
-4. [Money → Company → Personal Token](#money---company---personal-token)
-5. [Value will be concentrated in personal tokens](#value-will-be-concentrated-in-personal-tokens)
-6. [Personal tokens will democratize opportunity](#personal-tokens-will-democratize-opportunity)
-7. [NetworkToken](#networktoken)
-8. [Universal Basic Equity (UBE)](#universal-basic-equity-ube)
-9. [Imbalance](#imbalance)
-10. [Root problem](#root-problem)
-11. [RootNet](#rootnet)
-12. [True value](#true-value)
-13. [Grounded in reality](#grounded-in-reality)
-14. [Solution](#solution)
-15. [Decentralization](#decentralization)
-16. [Fork-ability](#fork-ability)
-17. [Unity](#unity)
-18. [Vote for humanity](https://github.com/root-foundation/root#vote-for-humanity)
 
 ---
 
