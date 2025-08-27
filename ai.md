@@ -4,7 +4,7 @@
 
 ## Introduction
 
-The age of AI will be dynamic. The biggest successes will be far larger than anything we’ve seen before, while the rewards will be concentrated in fewer hands at any moment (i.e., extreme outcomes), _across all fields_. More people will be able to compete for them, but the gap between the best and the rest will grow sharply. The number of valuable opportunities will explode, winners will be replaced more quickly, and more people than ever will experience success — even if only briefly before being overtaken.
+The age of AI will be dynamic. The biggest successes will be far larger than anything we’ve seen before, while the rewards will be concentrated in fewer hands at any moment (i.e., extreme outcomes), *across all fields*. More people will be able to compete for them, but the gap between the best and the rest will grow sharply. The number of valuable opportunities will explode, winners will be replaced more quickly, and more people than ever will experience success — even if only briefly before being overtaken.
 
 AI will also keep expanding our horizons by pushing us towards ever more complex problems. Each time we solve something, we’ll see even bigger challenges ahead. What feels difficult today will seem trivial to our descendants. And importantly, AI will never make us unnecessary. We will always be able to see more than we can do, continuously pushing our horizon further.
 
@@ -36,13 +36,11 @@ And importantly, the difference between the complexity of the activity you **wan
 
 It’s tempting to think that the complexity of a parent activity is just the sum of the complexities of its sub-activities. That sounds reasonable because if the sub-activities make up the parent, shouldn’t their combined complexity equal the whole?
 
-But in reality, the parent activity contains many moves that don’t belong to any of the sub-activities. I.e., there are moves in the parent activity that cannot be understood as a collection of sub-moves that are each restricted to a sub-activity. These are holistic moves that can only be fully understood in the context of the parent activity.
+But in reality, the parent activity always contains far more possibilities than the sum of the possibilities of its sub-activities. Many possibilities live in the _spaces between_ sub-activities, that aren’t captured if you only look at each one in isolation.
 
-Take Steve Jobs envisioning the iPhone. This single move affected many sub-activities at once: engineering, design, marketing, sales, etc. Each team projected this move into their own domains to understand and execute it. But, the real move lived *above* these sub-activities. The real move emerged from a holistic, unified intuition about all the possibilities of the parent activity without fracturing the parent activity into sub-activities. 
+Take YouTube. If you try to break it into categories: comedy, vlogs, education, music, etc., you miss the _majority_ of content that exists fluidly across or outside of neat categories: mashups, commentary, unexpected formats, entirely new genres. The real richness of YouTube lies *above* categories.
 
-And importantly, you couldn't reconstruct that move just by interviewing each team (sub-activity) and stitching their answers together. The essence of the move would be lost.
-
-This means that the parent activity is always more complex than the sum of its parts (i.e., sum of complexities of its sub-activities). Specifically, the relationship between the parent's complexity and the sum of childs' complexities is at least superlinear (and possibly exponential).
+A parent activity is more complex than the sum of its parts (i.e., sum of complexities of its sub-activities). Specifically, the relationship between the parent's complexity and the sum of childs' complexities is at least superlinear (and possibly exponential).
 
 Therefore, as we move up the tree, from sub-activities to their parents, the complexity of an activity grows superexponentially[^complexity-growth].
 

@@ -88,9 +88,9 @@ Just as companies let us invest in the potential of a single idea, personal toke
 
 As we advance, value concentrates upward.
 
-Historically, value moved from transactions to companies. Today, top companies are worth far more than the sum of their revenues.
+Historically, value moved from transactions to companies. Today, top companies are worth far more than their revenue.
 
-In a post-AGI world, this trend will continue. Value will increasingly become concentrated in personal tokens. A personal token will be valued far more than the combined value of its equities in companies 
+In a post-AGI world, this trend will continue. Value will increasingly become concentrated in personal tokens. A personal token will be valued far more than the combined value of its equities in companies. Similarly, the value of a network token will be worth far more than the sum of its equities in personal tokens.
 
 > (recall: a personal token’s value is grounded in its equities in companies and other personal tokens).
 
