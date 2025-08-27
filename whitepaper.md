@@ -20,7 +20,7 @@ Extreme outcomes aren’t new: we’ve seen extreme outcomes in startups, conten
 
 ## Problem
 
-In a post AGI world, due to [extreme outcomes](#3-outcomes-superexponentially-become-more-extreme-across-the-board) in all activities, debt will no longer be a viable means to finance anything.
+In a post AGI world, due to [extreme outcomes](ai.md#3-extreme-outcomes) in all activities, debt will no longer be a viable means to finance anything.
 
 This is not due to fewer opportunities (AGI will enable far more opportunities than it takes), but rather due to the extreme, winner-takes-all nature of outcomes within any opportunity. In extreme outcomes, the median outcome falls to nothing and thus financing with debt is no longer viable.
 
