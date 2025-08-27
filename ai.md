@@ -1,4 +1,4 @@
-# AI changes the shape of our economy
+# AI will change the shape of our economy
 
 [homan](https://x.com/homanspirit) & [shiv](https://scholar.google.com/citations?user=WNUGEccAAAAJ&hl=en)
 
