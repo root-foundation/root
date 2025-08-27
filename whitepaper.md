@@ -34,11 +34,11 @@ Therefore, we need to:
 1. Finance human activity in a way that ensures that anyone with potential has access to the resources they need to fully realize their potential, regardless of the circumstances of their birth.
 2. Give each individual a stake in the collective upside to elevate our baseline (when any one succeeds everyone should benefit).
 
-Otherwise opportunity will become concentrated in those who aren't be burdened by debt (those with extreme wealth).
+Otherwise opportunity will become concentrated in those who aren't be burdened by debt (those with wealth).
 
 ## Venture capital
 
-In an extreme world, venture capital (VC) is the only viable way to finance our lives.
+In an extreme world, venture capital (VC) is the best way to finance our lives.
 
 At its core, venture capital aligns people by intertwining their success and failure — through equity in outcomes.
 
@@ -163,7 +163,7 @@ When one system races ahead of the others, it creates imbalance. And imbalance l
 For example, AI advanced rapidly while our economic system stood still. The result? Outcomes become extreme, debt breaks down, and opportunity concentrates in the hands of the already privileged. This is an imbalance between technological progress and economic organization.
 
 AI is accelerating many such imbalances:
-- **Education** is becoming obsolete. People are learning skills that will soon leave them *unemployable*.
+- **Education** is becoming obsolete. People are learning skills that will soon leave them unemployable.
 - **Governance** can’t keep up. Laws and institutions are falling behind the pace of change.
 - **Politics** has no shared vision. We lack a unifying story that can rally us around collective growth — the kind we need to leverage AI for prosperity, not decay.
 - **Healthcare** is falling behind. New, more affordable treatments are emerging faster than we can approve them, delaying access for those in need.
