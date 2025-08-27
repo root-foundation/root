@@ -2,11 +2,20 @@
 
 [homan](https://x.com/homanspirit) & [shiv](https://scholar.google.com/citations?user=WNUGEccAAAAJ&hl=en)
 
-## Introduction
+## Predictions
 
-The age of AI will be dynamic. The biggest successes will be far larger than anything we’ve seen before, while the rewards will be concentrated in fewer hands at any moment (i.e., extreme outcomes), *across all fields*. More people will be able to compete for them, but the gap between the best and the rest will grow sharply. The number of valuable opportunities will explode, winners will be replaced more quickly, and more people than ever will experience success — even if only briefly before being overtaken.
+A post AI world will be dynamic and extreme.
 
-AI will also keep expanding our horizons by pushing us towards ever more complex problems. Each time we solve something, we’ll see even bigger challenges ahead. What feels difficult today will seem trivial to our descendants. And importantly, AI will never make us unnecessary. We will always be able to see more than we can do, continuously pushing our horizon further.
+1) **Peak outcomes will grow (superexponentially).** The very best results in any field (a startup, a scientific breakthrough, a piece of art, etc.) will become far bigger than anything we’ve seen before.
+2) **Competition will grow (exponentially).**
+3) **Outcomes will become more extreme (superexponentially).** The gap between success and failure will widen: most projects will earn little, while a few capture extraordinary rewards, like how one song on TikTok goes viral while millions are unheard. For the first time, _all_ activities, not just startups or entertainment, will follow this pattern of extreme outcomes.
+4) **New opportunities will multiply (superexponentially).**
+5) **Winners will be replaced faster (exponentially).**
+6) **More winners (exponentially).**
+
+> The specificity of these growth rates matters. Misjudging the difference between "exponential" and "superexponential" growth can lead to very different, sometimes even opposite, predictions. In case you're unfamiliar with growth rates we recommend reading [our primer](appendix/GrowthRatePrimer.md).
+
+AI will keep expanding our horizons by pushing us towards ever more complex problems. Each time we solve something, we’ll see even bigger challenges ahead. What feels difficult today will seem trivial to our descendants. And importantly, AI will never make us unnecessary. We will always be able to see more than we can do, continuously pushing our horizon further.
 
 To understand why AI will change our world this way, we need to first see how it transforms a single activity.
 
@@ -146,19 +155,6 @@ So while AGI pushes us upward in our local activity tree, the same convergence h
 ---
 
 From this understanding of how AGI impacts our activities, we can predict what a post AGI world will look like.
-
-## Predictions
-
-As artificial intelligence advances, we will see that:
-
-1. Peak outcome grows superexponentially.
-2. Competition grows at least exponentially.
-3. Outcomes become more extreme superexponentially, across **all** activities.
-4. Number of economically viable activities grows superexponentially.
-5. Rate of displacement of winners grows at least exponentially.
-6. Absolute number of winners grows at least exponentially.
-
-The specificity of these growth rates matters. For example, misjudging the difference between "exponential" and "superexponential" growth can lead to very different, sometimes even opposite, predictions. In case you're unfamiliar with growth rates we recommend reading [our primer](appendix/GrowthRatePrimer.md).
 
 ## 1) Higher peak
 
