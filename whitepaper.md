@@ -278,7 +278,7 @@ Let's see how to implement RootNet.
 
 Recall: RootNet is based on a single primitive — the token — that represents potential, that can be assigned to an individual ([personal token](#personal-token)), collective ([network token](#rootnettoken)), or idea (idea token, etc.). Each user on RootNet is assigned a personal token. 
 
-RootNet is built on a decentralized blockchain Ledger that contains all of the tokens in the network, including the [RootNetToken](#RootNetToken) that represents the potential of the entire network. This technical "core" is developed and controlled by a non-profit organization — RootFoundation.
+RootNet is built on a decentralized blockchain Ledger that contains all of the tokens in the network, including the [RootNetToken](#rootnettoken) that represents the potential of the entire network. This technical "core" is developed and controlled by a non-profit organization — RootFoundation.
 
 Entities (such as companies) will be able to operate on top of RootNet to enable a wide range of products and services built on tokens, while adhering to the policies of RootNet that determine how entities must engage with the Ledger.
 
