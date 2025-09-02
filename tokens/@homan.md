@@ -7,27 +7,27 @@ This page represents my personal token (@homan). After RootNet launches, my toke
 A personal token is an instrument that represents its owner’s potential. Its value is grounded in the owner’s equities in companies and other tokens (personal or network). Holders can transact shares and share in upside, but unlike company shareholders, they have **no control, voting rights, or say** over the life of the token owner. (Read the [whitepaper](https://onroot.net/whitepaper).)
 
 ```
-+=============================================================+
-|                        @homan cap table                     |
-+=============================================================+
++=================================================+
+|                 @homan cap table                |
++=================================================+
 
-+======================= Current Holders =====================+
-| Holder                | %                                   |
-|-----------------------|-------------------------------------|
-| Self                  | 100%                                |
-+=============================================================+
++================= Current Holders ===============+
+| Holder             | %                          |
+|--------------------|----------------------------|
+| Self               | 100%                       |
++=================================================+
 
-+==================== Outstanding Warrants ===================+
-| Holder                | Round        | Amount               |
-|-----------------------|--------------|----------------------|
-| Gautam Tata           | Pre-seed I   | $20,000              |
-+=============================================================+
++============== Outstanding Warrants =============+
+| Holder             | Round       | Amount       |
+|--------------------|-------------|--------------|
+| Gautam Tata        | Pre-seed I  | $25,000      |
++=================================================+
 
-+========================= Holdings ==========================+
-| Asset                 | Value                               |
-|-----------------------|-------------------------------------|
-| nil                   | —                                   |
-+=============================================================+
++=================== Holdings ===================+
+| Asset              | Value                     |
+|--------------------|---------------------------|
+| nil                | —                         |
++=================================================+
 ```
 
 _(I do not currently hold equity in any company, nor do I hold any personal or network tokens on RootNet)_
