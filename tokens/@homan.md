@@ -36,7 +36,7 @@ I certify that this information is accurate, and will be updated within 24 hours
 
 ---
 
-## Philosophy
+## Investing in @homan
 
 Investing in @homan is not investing in one company or idea, but across **all** of my ideas, creations, and investments. You are expressing belief in me holistically.
 
@@ -46,21 +46,19 @@ My personal token shareholders are those in my corner as I play the game of life
 
 ---
 
-## The Shareholder Relationship
+## Being a Shareholder
 
 Owning @homan is not a passive investment. It is an **active and intentional relationship**.
 
-I want my shareholders to be people who actively contribute to my success, whether by opening doors, amplifying my work, offering guidance, or strengthening RootNet itself. My cap table is not just a list of investors; it is a reflection of who is in my corner.
+By “active,” I don’t mean daily or weekly collaboration. It means being a **meaningful, positively impactful presence when it matters**: contributing in ways that materially advance my success at key moments, and showing commitment to the long-term journey. My cap table is not just a list of investors; it is a reflection of who is in my corner.
 
-Because a personal token is more **personal and long-term** than a typical investment instrument, this level of curation is required. Shareholding in @homan isn't about quick liquidity or short-term speculation; it's about building enduring alignment over a long term.
+Because a personal token is more **personal and long-term** than a typical investment instrument, this level of curation is required. Shareholding in @homan isn’t about quick liquidity or speculation; it’s about growing _together_ over a long term.
 
 Accordingly, shareholding in @homan is **curated**:
-- **Entry:** I will only accept *new* shareholders if I believe their involvement will significantly and positively impact my success.
-- **Exit:** If a shareholder no longer contributes to my success (or actively _harms_ it) **I retain the option to repurchase their shares at its valuation at the time of this buyback**.
+- **Entry:** I will only accept _new_ shareholders if I believe their involvement will significantly and positively impact my success.
+- **Exit:** If a shareholder no longer contributes to my success (or actively _harms_ it) **I retain the option to repurchase their shares at its valuation at the time of this buyback**. Such an _ejection_ would be recorded publicly on-chain, strongly disincentivizing my misuse.
 
-My goal is for @homan’s cap table to reflect those *actively* in my corner. Over time, I may introduce a distinction between **active** shareholders (who significantly and positively contribute to my success and may retain rights such as pro rata participation) and **passive** shareholders, who can continue to hold and benefit from their shares but may lose certain rights (e.g., pro rata or ownership caps). This ensures ownership reflects real impact, without requiring ejection of every non-active holder.
-
-This principle is built directly into the mechanics below.
+Over time, I may also introduce a distinction between **active** shareholders (those who significantly and positively contribute, and may retain rights such as pro rata participation) and **passive** shareholders, who can continue to hold and benefit but may lose certain rights (e.g., pro rata or ownership caps). This ensures ownership reflects real impact, without requiring every non-active holder to be ejected.
 
 ---
 
@@ -90,7 +88,7 @@ Holders have no control, voting rights, or say in my life or decisions.
 
 #### Liquidity
 
-Secondary sales will be possible after RootNet launches, after a **one-year lock**. Approval of a new shareholder is not automatic: I will only approve buyers who I believe will significantly and positively impact my success. This is a deliberately high bar, consistent with the curated shareholder relationship described above.
+Secondary sales will be possible after RootNet launches, after a **one-year lock**. Approval of a new shareholder is not automatic: I will only approve buyers who I believe will significantly and positively impact my success. This is a deliberately high bar, consistent with the curated shareholder relationship [described above](#being-a-shareholder).
 
 All approvals and rejections are recorded publicly on-chain, ensuring transparency and accountability, while strongly disincentivizing misuse.
 
@@ -112,7 +110,7 @@ Each issuance incurs a small equity fee to RootNetToken (shares in my personal t
 
 #### Ejection
 
-Shareholding is an active relationship. If a shareholder no longer contributes to my success, or worse, actively harms it, I retain the option to repurchase their shares **at its valuation at the time of this buyback**. 
+Shareholding is an [active relationship](#being-a-shareholder). If a shareholder no longer contributes to my success, or worse, actively harms it, I retain the option to repurchase their shares **at its valuation at the time of this buyback**. 
 
 Any ejection would be recorded publicly on-chain, together with supporting evidence, to ensure transparency, fairness, and to strongly disincentivize misuse.
 
