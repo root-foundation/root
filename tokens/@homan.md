@@ -80,6 +80,8 @@ I am raising the first rounds on my personal token **@homan** ahead of RootNetâ€
 
 **As a holder, you share in my upside but have no control over my life or decisions.** Owning @homan is both a direct bet on my potential and a leveraged bet on **RootNet**. As I build RootNet and direct my resources into it, early @homan holders share in that compounded upside.
 
+---
+
 ## Mechanics
 
 #### No rights
