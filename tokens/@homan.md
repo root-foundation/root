@@ -6,6 +6,28 @@ This page represents my personal token (@homan). After RootNet launches, my toke
 
 A personal token is an instrument that represents its owner’s potential. Its value is grounded in the owner’s equities in companies and other tokens (personal or network). Holders can transact shares and share in upside, but unlike company shareholders, they have **no control, voting rights, or say** over the life of the token owner. (Read the [whitepaper](https://onroot.net/whitepaper).)
 
+#### current holders
+
+| Holder | %    |
+| ------ | ---- |
+| self   | 100% |
+
+#### outstanding warrants
+
+| Holder      | Round      | Amount  | Terms                   |
+| ----------- | ---------- | ------- | ----------------------- |
+| Gautam Tata | Pre-seed I | $20,000 | 50% discount / $10M cap |
+
+#### holdings
+
+|Asset|Value|
+|---|---|
+|None|—|
+
+_(I do not currently hold equity in any company, nor do I hold any personal or network tokens — RootNet has not yet launched.)_
+
+I certify that this information is accurate, and will be updated within 24 hours of any change.
+
 ---
 
 ## Philosophy
@@ -24,7 +46,7 @@ Owning @homan is not a passive investment. It is an **active and intentional rel
 
 I want my shareholders to be people who actively contribute to my success, whether by opening doors, amplifying my work, offering guidance, or strengthening RootNet itself. My cap table is not just a list of investors; it is a reflection of who is in my corner.
 
-Because a personal token is more **personal and long-term** than a typical investment instrument, this level of curation is required. Shareholding in @homan isn't about quick liquidity or short-term speculation; it's about building enduring alignment over a lifetime.
+Because a personal token is more **personal and long-term** than a typical investment instrument, this level of curation is required. Shareholding in @homan isn't about quick liquidity or short-term speculation; it's about building enduring alignment over a long term.
 
 Accordingly, shareholding in @homan is **curated**:
 - **Entry:** I will only accept *new* shareholders if I believe their involvement will significantly and positively impact my success.
@@ -46,34 +68,11 @@ I am raising the first rounds on my personal token **@homan** ahead of RootNet�
 
 **Use of proceeds:** to accelerate launching RootNet.
 
-**Investor return:** Warrants convert into @homan shares at the better of the discount or cap. Thereafter, **I will distribute a defined percentage of my realized capital gains** (from equities in companies and tokens on RootNet: personal tokens, network tokens, etc.) back to @homan holders as dividends, proportional to their ownership.
+**Investor return:** Warrants convert into @homan shares at the better of the discount or cap. Thereafter, **I will distribute my realized capital gains** (from equities in companies and tokens on RootNet: personal tokens, network tokens, etc.) back to @homan holders as dividends, proportional to their ownership.
 
 **Liquidity:** Shares are transferable only after RootNet launches and after a one-year lock. (See [Mechanics → Liquidity](#liquidity).)
 
 **As a holder, you share in my upside but have no control over my life or decisions.** Owning @homan is both a direct bet on my potential and a leveraged bet on **RootNet**. As I build RootNet and direct my resources into it, early @homan holders share in that compounded upside.
-
-#### @homan (current token table)
-
-**Holders**
-
-|Holder|%|
-|---|---|
-|Self|100%|
-
-> Note: these shareholder equity percentages are calculated *before* any equity fees are applied (which will be nominal: low single-digit basis points).
-
-
-**Holdings**
-
-|Asset|Value|
-|---|---|
-|None|—|
-
-(I hold no equity in any company or tokens on RootNet yet.)
-
-I certify that this information is accurate, and will be updated within 24 hours of any change.
-
----
 
 ## Mechanics
 
@@ -119,7 +118,7 @@ Built on SAFE-style agreements, adapted for personal tokens. Personal tokens wil
 
 ## Closing
 
-This page is the source of truth for my personal token, and this agreement, until we officially launch this token on RootNet. This page is version controlled and you can inspect any changes (with timestamps) via public version history. Every edit is traceable.
+This page is the source of truth for my personal token, and this agreement, until we officially launch this token on RootNet. This page is version controlled and you can [inspect](https://github.com/root-foundation/root/blob/main/tokens/%40homan.md) any changes (with timestamps) via public version history. Every edit is traceable.
 
 ---
 
