@@ -30,7 +30,7 @@ A personal token is an instrument that represents its owner’s potential. Its v
 +=============================================================+
 ```
 
-_(I do not currently hold equity in any company, nor do I hold any personal or network tokens — RootNet has not yet launched.)_
+_(I do not currently hold equity in any company, nor do I hold any personal or network tokens on RootNet)_
 
 I certify that this information is accurate, and will be updated within 24 hours of any change.
 
