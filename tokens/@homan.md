@@ -6,23 +6,23 @@ This page represents my personal token (@homan). After RootNet launches, my toke
 
 A personal token is an instrument that represents its owner’s potential. Its value is grounded in the owner’s equities in companies and other tokens (personal or network). Holders can transact shares and share in upside, but unlike company shareholders, they have **no control, voting rights, or say** over the life of the token owner. (Read the [whitepaper](https://onroot.net/whitepaper).)
 
-#### current holders
-
-| Holder | %    |
-| ------ | ---- |
-| self   | 100% |
-
-#### outstanding warrants
-
-| Holder      | Round      | Amount  | Terms                   |
-| ----------- | ---------- | ------- | ----------------------- |
-| Gautam Tata | Pre-seed I | $20,000 | 50% discount / $10M cap |
-
-#### holdings
-
-|Asset|Value|
-|---|---|
-|None|—|
+```
++-------------------------------------------------------------+
+|                        @homan cap table                     |
++-------------------------------------------------------------+
+|                        Current Holders                      |
++-------------------------------------------------------------+
+| Holder                | %                                   |
+|-----------------------|-------------------------------------|
+| self                  | 100%                                |
++-------------------------------------------------------------+
+|                    Outstanding Warrants                     |
++-------------------------------------------------------------+
+| Holder                | Round        | Amount   | Terms     |
+|-----------------------|--------------|----------|-----------|
+| Gautam Tata           | Pre-seed I   | $20,000  | 50% / $10M|
++-------------------------------------------------------------+
+```
 
 _(I do not currently hold equity in any company, nor do I hold any personal or network tokens — RootNet has not yet launched.)_
 
