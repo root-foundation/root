@@ -62,7 +62,7 @@ Over time, I may also introduce a distinction between **active** shareholders (t
 
 ---
 
-## Overview
+## Fundraise Overview
 
 I am raising the first rounds on my personal token **@homan** ahead of RootNet’s launch. These are structured as **token warrants**. Early investors receive a discount and valuation cap, rather than a fixed price, to account for the fact that the market does not yet know how to value personal tokens.
 
