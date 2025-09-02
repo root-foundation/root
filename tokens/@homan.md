@@ -8,7 +8,7 @@ A personal token is an instrument that represents its owner’s potential. Its v
 
 ```
 +=================================================+
-|                 @homan cap table                |
+|                      @homan                     |
 +=================================================+
 
 +================= Current Holders ===============+
