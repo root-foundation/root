@@ -21,6 +21,7 @@ A personal token is an instrument that represents its owner’s potential. Its v
 | Holder             | Round       | Amount       |
 |--------------------|-------------|--------------|
 | Gautam Tata        | Pre-seed I  | $20,000      |
+| Shiv A. Yadavall   | Pre-seed I  | $20,000      |
 +=================================================+
 
 +=================== Holdings ===================+
