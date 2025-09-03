@@ -127,6 +127,10 @@ Built on SAFE-style agreements, adapted for personal tokens. Personal tokens wil
 
 This page is the source of truth for my personal token, and this agreement, until we officially launch this token on RootNet. This page is version controlled and you can [inspect](https://github.com/root-foundation/root/blob/main/tokens/%40homan.md) any changes (with timestamps) via public version history. Every edit is traceable.
 
+I want to be clear: I am **deeply incentivized to act reasonably and honorably**. I plan to be in the arena until I die. Shortchanging shareholders would damage my reputation and cost me far more than doing right by you. I intend to build a brand where anyone who places belief in me,  **especially those who believed in me early: you**, comes out *significantly* better for it. And because every transaction and edit is recorded on-chain, the world can transparently inspect my actions. This system itself forces me to remain accountable.
+
+Onward and upward.
+
 ---
 
 ## Questions
