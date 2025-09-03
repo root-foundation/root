@@ -64,6 +64,8 @@ The value of your personal token is grounded in your equities in companies and o
 
 But unlike company shareholders, personal token shareholders have no control, ownership, or say in your life. **You retain full agency and complete control over everything you do.** 
 
+> Check out a real personal token: [onroot.net/homan](https://onroot.net/homan).
+
 ## Money, Company, Personal token
 
 The personal token is the next step in the evolution of financial instruments — an abstraction that sits above the company, which itself sits above money.
